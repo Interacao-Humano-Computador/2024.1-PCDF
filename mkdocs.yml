@@ -1,1 +1,13 @@
-site_name: My Docs
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo01
+repo_name: 2024.1-Grupo01
+
+site_name: Grupo 04
+
+nav:
+  - Home: index.md
+  - Reuniões:
+      - Reunião 1: reunioes/reuniao01.md
+  - Planejamento:
+    - Cronograma: planejamento/cronograma.md
+    - Heatmap: planejamento/heatmap.md
+

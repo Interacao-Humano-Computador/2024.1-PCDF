@@ -1,12 +1,11 @@
-# Welcome to MkDocs
+# Grupo 4
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For full documentation visit [IHC-Grupo4](htthttps://github.com/Interacao-Humano-Computador/2024.1-Grupo01).
 
 ## Commands
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs build` - Build the documentation site.
+* `mkdocs serve` - Start the live-reloading docs server.
 * `mkdocs -h` - Print help message and exit.
 
 ## Project layout
