@@ -10,6 +10,9 @@ nav:
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md
+    - Sites Avaliados: planejamento/sitesAvaliados.md
+    - Ferramentas: planejamento/ferramentas.md
+    - Processos Design: planejamento/processoDesign.md
 
 theme:
   name: material

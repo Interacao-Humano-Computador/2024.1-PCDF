@@ -1,40 +1,38 @@
-### Oque fizemos
+# Ata da reunião - 03/04/2024
 
-Nesta sprint, a equipe foi se apresentando e se conhecendo, e começou a entender o Scrum e como os pápeis do time de desenvolvimento funcionavam.
+## Introdução
+Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com o objetivo de nos organizar para a entrega da primeira atividade em grupo 
 
 #
 
-## Histórico de Versões
+## Quem esteve presente
 
-| Data       | Versão | Descrição                                 | Autor             |
+| Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
 | :--------: | :----: | :--------------------:                    | :---------------: |
-| 29/08/2023 |  0.1   | Abertura do documento                     | [Giovana Barbosa ](https://github.com/gio221) |
+| João Pedro,Lara Giuliana, Giovana Barbosa, Raissa Andrade, Renata Quadros |  03/04/2024   | 20:00 ás 21:25                     | Teams  | 
 
-## Tamanho da Sprint
+## Objetivos da Reunião
 
-**Início**: 29/08/23
+- Ver os sites avaliados por cada integrante
+- Definir horário das reuniões
+- Definir ferramentas para o projeto
+- Definir Cronograma das atividades
 
-**Fim**: 05/09/2023
+## Sites que cada um avaliou individualmente
 
-**Duração**: 7 dias
+|                            Integrante                             |              Site avaliado              |        
+| :----------------------------------------------------------: | :-------------------------------: | 
+| [Giovana Barbosa ](https://github.com/gio221) |   IFB | 
+| [João Pedro](https://github.com/JoaoODragonborn) | CodeForces  |
+| [Lara Giuliana](https://github.com/gravelylara) | MPF |
+| [Raissa Andrade ](https://github.com/RaissaAndradeS) |   FioCruz | 
+| [Rayene Almeida](https://github.com/rayenealmeida) |   |
+| [Renata Quadros](https://github.com/Renatinha28) | BRBmobilidade |
+   
+## Horário das reuniões
+Ficou definido que vamos fazer três reuniões semanais uma na segunda as 21:00, uma na quarta as 21:00 e uma na sexta as 10:00
 
-## Objetivos
-
-|                            Issue                             |              Título               |                    Responsáveis                     |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: |
-| [#2](https://github.com/unb-mds/2023-2-Squad07/issues/2) |  Sprint 0 - Entender pápeis do time  | [todos] |
-| [#1](https://github.com/unb-mds/2023-2-Squad07/issues/1) | Sprint 0 - Apresentação | [todos] |
-| [#22](https://github.com/unb-mds/2023-2-Squad07/issues/22) | Sprint 0 - Documentação da Ata das Reuniões da Sprint 0  |  [Giovana Barbosa ](https://github.com/gio221) |
-
-## Papeis
-
-| Função        |                                                                           Nome                                                                            |
-| ------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Scrum Master  |                                                    [Giovana Barbosa ](https://github.com/gio221)                                                    |
-| PO            |                                                    [José André](https://github.com/joseandre25)                                                     |
-| Arquiteto     |                                                    [Rafael Bonach](https://github.com/RafaBonach)                                                    |
-| Dev Team      |                                                    [Julia Takaki](https://github.com/juliatakaki)                                                    |
-| Dev Team      |                                                    [Samara Leticia](https://github.com/samarawwleticia)                                                    |
-
-
-Começamos a reunião monstrando para cada um o site que cada um escolheu, a integrante Lara escolheu o MPF que é um site governamental que é as informações são bem escondidas, o João escolheu o CodeForces que não achou muitas dificuldades,Raissa escolheu um site da FioCruz que não está mais no ar,que saia uma ordem aleatória de publicações, Renata escolheu o BRB Mbilidade que não é muito ultilizado , tem poucos erros ,a localização de um arquivo, a Giov, ai voltamos o do IFB
+## Histórico de versão
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
+| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|
