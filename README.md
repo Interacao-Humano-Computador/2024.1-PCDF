@@ -2,7 +2,7 @@
 ## Sobre o projeto
 Este repositório contém a documentação de todos os artefatos que vão ser feitos pelo grupo 4 na disciplina Interação Humano Computador ao longo do semestre 2024.1
 
-O objetivo do projeto é aplicar s conhecimentos da matéria em uma avaliação real de um site
+O objetivo do projeto é aplicar os conhecimentos da matéria em uma avaliação real de um site
 
 ## Equipe
 
