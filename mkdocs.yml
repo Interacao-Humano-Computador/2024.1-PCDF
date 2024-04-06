@@ -1,10 +1,12 @@
-repo_url: https://github.com/Interacao-Humano-Computador/2024.1-Grupo01
-repo_name: 2024.1-Grupo01
+repo_url: https://interacao-humano-computador.github.io/2024.1-INSS/
+repo_name: 2024.1-Grupo04
 
-site_name: Grupo 04
+site_name: INSS
 
 nav:
   - Home: index.md
+  - Apresentações:
+    - Apresentação 1: apresentacao/apresentacao01.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
   - Planejamento:
@@ -13,6 +15,7 @@ nav:
     - Sites Avaliados: planejamento/sitesAvaliados.md
     - Ferramentas: planejamento/ferramentas.md
     - Processos Design: planejamento/processoDesign.md
+    - Site Escolhido: planejamento/siteescolhido.md
 
 theme:
   name: material

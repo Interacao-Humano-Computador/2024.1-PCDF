@@ -1,10 +1,6 @@
-<div class ="body">
-
 # Ferramentas
 
 ## Introdução
-<p align="justify">
-
 Escolhemos essas ferramentas para serem utilizadas durante o processo de desenvolvimento do nosso projeto de Interação Humano Computador.
 
 </p>
@@ -16,14 +12,16 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | Logo | Ferramenta | Finalidade |
 | :-----: | :-------: | :---------: |
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Whatsapp.svg" alt="whatsapp" width=50px>  | Whatsapp | Usamos o Whatsapp para facilitar a comunicação entre os membros do grupo. |
-| <img scr="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Teams.svg"> | Teams | Utilizamos o Teams para realizar nossas reuniões durante a semana e fazer as gravações. |
+| <img scr="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Teams.svg" alt="Teams" width=50px> | Teams | Utilizamos o Teams para realizar nossas reuniões durante a semana e fazer as gravações. |
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Youtube.svg" alt="YouTube" width=50px> | Youtube | Usamos o Youtube para colocar as gravações do projeto.|
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/VSCode.svg" alt="VsCode" width=50px> | VsCode | IDE utilizada para o desenvolvimento do projeto.|
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="GitHub" width=50px> | GitHub | Utilizada para hospedar o repositório e a git page.  |
 | <img src="" alt="Google Planilhas" width=50px> | Google | Utilizado para fazer o Heatmap.  |
 
-<div align="center">
-<p><b> Primeira Tabela </b> : Detalhamento das ferramentas utilizadas durante o projeto (Fonte: SILVEIRA, Raissa. 2024).
+
+# Primeira Tabela 
+  Detalhamento das ferramentas utilizadas durante o projeto 
+  (Fonte: SILVEIRA, Raissa. 2024).
 
 
 ### Bibliografia 
@@ -43,11 +41,6 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 
 # Histórico de Versão 
 
-
-<br/>
-
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
 |:--: | :--: | :--: | :--: | :--: | :--:
-|05/04/2023 | '1.0' | Ferramentas utilizadas | [Raissa Andrade] (https://github.com/RaissaAndradeS) | | Giovana Barbosa
-
-</div>
+|05/04/2023 | '1.0' | Ferramentas utilizadas | [Raissa Andrade ](https://github.com/RaissaAndradeS) | 06/04|[Giovana Barbosa ](https://github.com/gio221)

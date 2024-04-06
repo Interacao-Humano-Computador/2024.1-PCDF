@@ -17,8 +17,3 @@ O objetivo do projeto é aplicar os conhecimentos da matéria em uma avaliação
     
   </tr>
 </table>
-
-## Histórico de versão
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  03/04  | Criação da Home |[Giovana Barbosa ](https://github.com/gio221)|
