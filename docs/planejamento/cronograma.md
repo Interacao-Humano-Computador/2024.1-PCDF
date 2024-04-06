@@ -59,15 +59,34 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 
 ## Etapa 5: Planejamento do Projeto
 
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |:---------------: |
-| Prototipo |  
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Relato dos resultados do Storyboard    | Início: 08/05 Fim: 10/05 | Lara          | Início: 10/05 Fim: 12/05 |  Giovana            |
+| Relato dos resultados da Análise de tarefas                             | Início: 10/05 Fim: 12/05 | João Pedro e Raissa | Início: 12/05 Fim: 14/05 | Rayene|
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 12/05 Fim: 14/05 | Renata          | Início: 14/05 Fim: 16/05 | Lara            |
+| Planejamento da avaliação do protótipo de papel                         | Início: 14/05 Fim: 16/05 | Rayene   | Início: 16/05 Fim: 18/05 | João Pedro |
+| Responder Perguntas Finais   | Início: 15/05 Fim: 16/05 | Giovana              | Início: 16/05 Fim: 16/05 | Todos              |
+| Gravação da apresentação                                                | Início: 17/05 Fim: 18/05 | Todos              | Início: 18/05 Fim: 18/05 | Todos              |
+| Correção pós apresentação                                               | Início: 18/05 Fim: 20/05 | Todos              | Início: 20/05 Fim: 20/05 | Todos              | 
 
 ## Etapa 6.1: Planejamento do Projeto
 
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |:---------------: |
-| Artefatos |  
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Verificação e Relato artefatos etapa 1 | Início: 20/05 Fim: 22/05 | Raissa              | Início: 23/05 Fim: 25/05| todos          |
+| Verificação e Relato artefatos etapa 2 | Início: 20/05 Fim: 22/05 | Giovana   | Início: 23/05 Fim: 25/05| todos          |
+| Verificação e Relato artefatos etapa 3 | Início: 20/05 Fim: 22/05 | Renata              | Início: 23/05 Fim: 25/05| todos          |
+| Verificação e Relato artefatos etapa 4 | Início: 23/05 Fim: 25/05 | Rayene             | Início: 23/05 Fim: 25/05| todos          |
+| Verificação e Relato artefatos etapa 5 | Início: 23/05 Fim: 25/05 | João e Lara           | Início: 23/05 Fim: 25/05| todos          |
+| Ajustes artefatos etapa 1              |Início: 23/05 Fim: 25/05 |   Raissa              | Início: 23/05 Fim: 25/05| todos          |
+| Ajustes artefatos etapa 2              | Início: 23/05 Fim: 25/05 | Giovana  | Início: 23/05 Fim: 25/05| todos          |
+| Ajustes artefatos etapa 3              | Início: 23/05 Fim: 25/05 |  Renata              | Início: 23/05 Fim: 25/05| todos          |
+| Ajustes artefatos etapa 4              | Início: 23/05 Fim: 25/05| Rayene             | Início: 23/05 Fim: 25/05| todos          |
+| Ajustes artefatos etapa 5              | Início: 23/05 Fim: 25/05 | João e Lara            | Início: 23/05 Fim: 25/05| todos          |
+| Resposder Perguntas finais             | Início: 23/05 Fim: 25/05 | todos           | Início: 23/05 Fim: 25/05| todos          |
+| Gravação da apresentação               | Início: 25/05 Fim: 25/05 | Todos              | Início: 25/05 Fim: 25/05  | Todos              |
+| Correção pós entrega                   | Início: 25/05 Fim: 26/05 | Todos              | Início: 25/05 Fim: 26/05 | Todos              |
+ 
 
 ## Etapa 6.2: Planejamento do Projeto
 
@@ -85,6 +104,9 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |:---------------: |
 | Alta Fidelidade| 
+
+## Bibliografia 
+Fonte : [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
 
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
