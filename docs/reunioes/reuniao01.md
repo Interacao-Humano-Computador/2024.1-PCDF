@@ -11,6 +11,11 @@ Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com 
 | :--------: | :----: | :--------------------:                    | :---------------: |
 | João Pedro,Lara Giuliana, Giovana Barbosa, Raissa Andrade, Renata Quadros |  03/04/2024   | 20:00 ás 21:25                     | Teams  | 
 
+
+## Link da gravação
+
+[Link da primeira reunião](https://unbbr.sharepoint.com/:v:/s/IHC609/ETMW7hxa78FFuIjM09y_5HsBB2UoSKy4T6X_b-jAC6mmsw?e=yJavQb)
+
 ## Objetivos da Reunião
 
 - Ver os sites avaliados por cada integrante
@@ -26,7 +31,7 @@ Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com 
 | [João Pedro](https://github.com/JoaoODragonborn) | CodeForces  |
 | [Lara Giuliana](https://github.com/gravelylara) | MPF |
 | [Raissa Andrade ](https://github.com/RaissaAndradeS) |   FioCruz | 
-| [Rayene Almeida](https://github.com/rayenealmeida) |   |
+| [Rayene Almeida](https://github.com/rayenealmeida) | INSS  |
 | [Renata Quadros](https://github.com/Renatinha28) | BRBmobilidade |
    
 ## Horário das reuniões
@@ -35,4 +40,4 @@ Ficou definido que vamos fazer três reuniões semanais uma na segunda as 21:00,
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|
+| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara)|

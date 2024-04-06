@@ -27,6 +27,9 @@ O método escolhido para gerenciar nosso projeto é o Scrum. O Scrum é uma estr
 - **Reuniões de Revisão (Review)**: Quartas-feiras, das 20:00 às 21:00.
 - **Dailys Assíncronas**: Atualizações diárias de forma assíncrona, permitindo flexibilidade aos membros da equipe.
 
+## Bibliografia
+[Google planilhas ](https://docs.google.com/spreadsheets/d/1-f5IZgH8TP62LMIYTtS3V4iItvkGhwRnNfNDbIRDzP8/edit#gid=96807035)  Acesso em: 06 de Abril de 2024.
+
 ## **Histórico de Versões**
 
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
