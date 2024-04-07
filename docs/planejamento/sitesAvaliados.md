@@ -3,14 +3,15 @@
 
 Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 abaixo, estão apresentados os sites selecionados por cada integrante:
 
-<h4>Tabela 1: Sites Escolhidos</h4>
-| Integrante       | Site Avaliado| Link |
-| :---------------:| :-------------:| :---: |
-| [Giovana Silva](https://github.com/gio221)    | [IFB](#ifb)         | [IFB](https://www.ifb.edu.br/) |
-| [João Pedro](https://github.com/JoaoODragonborn)       | [Codeforces](#codeforces)         | [Codeforces](https://codeforces.com/) |
-| [Lara Juliana](https://github.com/gravelylara)     | [MPF](#mpf)         | [MPF](https://www.mpf.mp.br/) |
-| [Raissa Andrade](https://github.com/RaissaAndradeS)   | [FioCruz](#fiocruz)         | [FioCruz](https://portal.fiocruz.br/) |
-| [Rayene Almeida](https://github.com/rayenealmeida)  | [INSS](#inss)         | [INSS](https://www.gov.br/inss/pt-br) |
+## Tabela 1: Sites Escolhidos
+
+| Integrante                                         | Site Avaliado      | Link                                           |
+| --------------------------------------------------- | ------------------ | ---------------------------------------------- |
+| [Giovana Silva](https://github.com/gio221)         | [IFB](#ifb)        | [IFB](https://www.ifb.edu.br/)                |
+| [João Pedro](https://github.com/JoaoODragonborn)    | [Codeforces](#codeforces) | [Codeforces](https://codeforces.com/)    |
+| [Lara Juliana](https://github.com/gravelylara)     | [MPF](#mpf)        | [MPF](https://www.mpf.mp.br/)                  |
+| [Raissa Andrade](https://github.com/RaissaAndradeS)| [FioCruz](#fiocruz)| [FioCruz](https://portal.fiocruz.br/)         |
+| [Rayene Almeida](https://github.com/rayenealmeida) | [INSS](#inss)       | [INSS](https://www.gov.br/inss/pt-br)         |
 | [Renata Quadros](https://github.com/Renatinha28)   | [BRB mobilidade](#brb-mobilidade) | [BRB mobilidade](https://mobilidade.brb.com.br/passelivre/pages/index.xhtml)|
 
 <a id="ifb"></a>
