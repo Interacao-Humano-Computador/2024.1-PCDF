@@ -30,20 +30,20 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Definir aspectos éticos |Inicio: 14/04 Fim: 16/04| João Pedro | Inicio: 16/04 Fim: 18/04|Giovana|
 | Análise de Tarefas | Inicio: 16/04 Fim: 18/04| Rayene | Inicio: 18/04 Fim: 20/04|Lara|
 | Responder perguntas | Inicio: 17/04 Fim: 19/04|Raissa| Inicio: 19/04 Fim: 21/04|Renata|
-| Gravação da apresentação | Inicio: 20/04 Fim: 21/04| todos|| Inicio: 21/04 Fim: 21/04| todos|
-| Correção após o feedback| Inicio: 22/04 Fim: 23/04|todos|| Inicio: 23/04 Fim: 23/04| todos|
+| Gravação da apresentação | Inicio: 20/04 Fim: 21/04| todos| Inicio: 21/04 Fim: 21/04| todos|
+| Correção após o feedback| Inicio: 22/04 Fim: 23/04|todos|Inicio: 23/04 Fim: 23/04| todos|
 
 ## Etapa 3: Planejamento do Projeto
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
  Princípios gerais do projeto | Início: 22/04 Fim: 24/04 | Lara e Renata   | Início: 24/04 Fim: 26/04 | Rayene |
-| Metas de usabilidade| Início: 23/04 Fim: 25/04 | Giovana e Raissa   | Início: 25/04 Fim: 26/04 | Lara   |
+| Metas de usabilidade          | Início: 23/04 Fim: 25/04 | Giovana e Raissa   | Início: 25/04 Fim: 26/04 | Lara   |
 | Guia de estilo  | Início: 24/04 Fim: 26/04 | João Pedro e Rayene | Início: 26/04 Fim: 28/04 | Renata   |
 | Cracteristicas do site | Início: 26/04 Fim: 27/04 | Giovana e Renata | Início: 27/04 Fim: 28/04 | Raissa   |
 | Perguntas do site | Início: 26/04 Fim: 27/04 | Rayene | Início: 27/04 Fim: 28/04 | todos   |
-| Gravar Apresentação| Início: 30/04<br>Fim: 31/04 | Todos              | Início: 31/04 Fim: 31/04 | Todos              |
-| Correção pós apresentação    | Início: 30/04 Fim: 01/05 | Todos              | Início: 01/05 Fim: 01/05 | Todos              |
+| Gravar Apresentação| Início: 30/04 Fim: 31/04 | Todos              | Início: 31/04 Fim: 31/04 | Todos   |
+| Correção pós apresentação    | Início: 30/04 Fim: 01/05 | Todos              | Início: 01/05 Fim: 01/05 | Todos    |
 
 
 ## Etapa 4: Planejamento do Projeto
@@ -54,6 +54,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Planejamento do relato dos resultados da avaliação do Storyboard | Início: 1/05 Fim: 03/05 | Lara João Pedro  | Início: 03/05 Fim: 05/05   | Raissa |
 | Planejamento da Avaliação da Análise de tarefas                  | Início: 03/05 Fim: 05/05 | Rayene e Raissa | Início: 05/05 Fim: 07/05   | Lara    |
 | Planejamento do relato da avaliação da análise de tareas         | Início: 05/05 Fim: 06/05 | Giovana e Renata         | Início: 06/05 Fim: 06/05 | João Pedro          |
+| Responder perguntas finais   | Início: 07/05 Fim: 07/05 | Renata              | Início: 07/05 Fim: 07/05   | Todos              |
 | Gravação da apresentação   | Início: 07/05 Fim: 07/05 | Todos              | Início: 07/05 Fim: 07/05   | Todos              |
 | Correção pós apresentação        | Início: 07/05 Fim: 09/05 | Todos              | Início: 09/05 Fim: 09/05   | Todos              |
 
@@ -83,22 +84,32 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Ajustes artefatos etapa 3              | Início: 23/05 Fim: 25/05 |  Renata              | Início: 23/05 Fim: 25/05| todos          |
 | Ajustes artefatos etapa 4              | Início: 23/05 Fim: 25/05| Rayene             | Início: 23/05 Fim: 25/05| todos          |
 | Ajustes artefatos etapa 5              | Início: 23/05 Fim: 25/05 | João e Lara            | Início: 23/05 Fim: 25/05| todos          |
-| Resposder Perguntas finais             | Início: 23/05 Fim: 25/05 | todos           | Início: 23/05 Fim: 25/05| todos          |
+| Responder Perguntas finais             | Início: 23/05 Fim: 25/05 | todos           | Início: 23/05 Fim: 25/05| todos          |
 | Gravação da apresentação               | Início: 25/05 Fim: 25/05 | Todos              | Início: 25/05 Fim: 25/05  | Todos              |
 | Correção pós entrega                   | Início: 25/05 Fim: 26/05 | Todos              | Início: 25/05 Fim: 26/05 | Todos              |
  
 
 ## Etapa 6.2: Planejamento do Projeto
 
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |:---------------: |
-| Artefatos |  
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Verificação e Relato artefatos etapa 1, 2 e 3 | Início: 04/06 Fim: 06/06 |Giovana e renata  | Início: 06/06 Fim: 08/06 | todos    |
+| Verificação e Relato artefatos etapa 4, 5 e 6 |Início: 06/06 Fim: 08/06  | Raissa e João Pedro    | Início: 08/06 Fim: 09/06 |todos  |
+| Responder perguntas finais    | Início: 06/06 Fim: 08/06  | Lara |Início: 06/06 Fim: 08/06  | todos  |
+| Gravação    | Início: 09/06 Fim: 09/06 | todos | Início: 09/06 Fim: 09/06 | todos  |
+| Correção pós entrega                   | Início: 09/06 Fim: 11/06 | Todos              |  Início: 09/06 Fim: 11/06 | Todos              |
 
 ## Etapa 7: Planejamento do Projeto
 
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |:---------------: |
-| Prototipo |  
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Protótipo de papel                                                                 | Início: 27/05 Fim: 29/05 | Renata       | Início: 29/05 Fim: 30/05 | João Pedro   |
+| Relato dos resultados do Protótipo de Papel                                        | Início: 29/05 Fim: 01/06 | Giovana          | Início: 01/06 Fim: 02/06 | todos  |
+| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 01/06 Fim: 02/06 |Lara e Rayene  | Início: 02/06 Fim: 02/06 | todos    |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 02/06 Fim: 04/06 | Raissa | Início: 04/06 Fim: 04/06 |todos  |
+| Perguntas finais                                                           | Início: 02/06 Fim: 04/06| João Pedro           | Início: 02/06 Fim: 04/06| Todos     |
+| Gravação da apresentação                                                           | Início: 04/06 Fim: 04/06 | Todos             | Início: 04/06 Fim: 04/06 | Todos     |
+| Correção pós entrega                                                               | Início: 04/06 Fim: 07/06 | Todos             | Início: 04/06 Fim: 07/06 | Todos     |
 ## Etapa 8: Planejamento do Projeto
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
