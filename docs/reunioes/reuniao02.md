@@ -9,7 +9,7 @@ Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com 
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
 | :--------: | :----: | :--------------------:                    | :---------------: |
-| João Pedro,Lara Giuliana, Giovana Barbosa, Raissa Andrade, Renata Quadros, Rayene almeida |  06/04/2024   | 13:00 ás 14:00                    | Teams  | 
+| João Pedro,Lara Giuliana, Giovana Barbosa, Raissa Andrade, Renata Quadros, Rayene Almeida |  06/04/2024   | 13:00 ás 14:00                    | Teams  | 
 
 ## Link da gravação
 
@@ -23,7 +23,7 @@ Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com 
 - Definir cronograma completo
 
 ## Site que escolhemos
- O site que escolhemos foi o avaliado pela integrante Rayene ALmeida o site do INSS
+ O site que escolhemos foi o avaliado pela integrante Rayene Almeida o site do INSS
    
 ## Horário das reuniões
 Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma de review e uma daily
@@ -32,4 +32,4 @@ Também separamos o que falta para cada um fazer e definimos o cronograma
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|         |
+| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida)|
