@@ -5,7 +5,7 @@ Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planeja
 
 <h4>Tabela 1: Sites Escolhidos</h4>
 | Integrante       | Site Avaliado| Link |
-| :---------------:| :-------------:| :--- |
+| :---------------:| :-------------:| :---: |
 | [Giovana Silva](https://github.com/gio221)    | [IFB](#ifb)         | [IFB](https://www.ifb.edu.br/) |
 | [João Pedro](https://github.com/JoaoODragonborn)       | [Codeforces](#codeforces)         | [Codeforces](https://codeforces.com/) |
 | [Lara Juliana](https://github.com/gravelylara)     | [MPF](#mpf)         | [MPF](https://www.mpf.mp.br/) |
