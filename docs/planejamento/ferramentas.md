@@ -18,8 +18,7 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="GitHub" width=50px> | GitHub | Utilizada para hospedar o repositório e a git page.  |
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Excel.svg" alt="Google Planilhas" width=50px> | Google | Utilizado para fazer o Heatmap.  |
 
-
-# Primeira Tabela 
+ 
   Detalhamento das ferramentas utilizadas durante o projeto 
   (Fonte: SILVEIRA, Raissa. 2024).
 
