@@ -9,16 +9,17 @@ O Heatmap de Disponibilidade do Time é uma ferramenta visual que nos permite en
 
 ## Resultados da Análise de Disponibilidade
 Considerando as diversas agendas e compromissos dos membros da equipe, optamos por realizar nossas reuniões principais de planejamento e revisão de forma virtual, proporcionando flexibilidade e acessibilidade a todos os envolvidos. Essas reuniões serão realizadas às:
-- **Segundas-feiras**: 20:00 às 21:00,
-- **Sextas-feiras**: 10:00 às 12:00.
+- **Quartas-feiras**: 20:00 às 21:00,
+- **Sextas-feiras**: 10:00 às 12:00,
+- **Sábados**: 14:00 às 15:00.
 
 ## Organização das Reuniões e método
 
 
 O método escolhido para gerenciar nosso projeto é o Scrum. O Scrum é uma estrutura de desenvolvimento ágil amplamente utilizada na gestão de projetos de software e em outras áreas onde a agilidade e a colaboração são fundamentais. Será baseado nela as reuniões de planejamento e revisão e os dailys.
 
-- **Reuniões de Planejamento (Planning)**: Segundas-feiras, das 20:00 às 21:00.
-- **Reuniões de Revisão (Review)**: Quartas-feiras, das 20:00 às 21:00.
+- **Reuniões de Planejamento (Planning)**: Quartas-feiras, das 20:00 às 21:00.
+- **Reuniões de Revisão (Review)**: Sábados, das 14:00 às 15:00.
 - **Dailys Assíncronas**: Atualizações diárias de forma assíncrona, permitindo flexibilidade aos membros da equipe.
 
 ## Bibliografia
@@ -29,4 +30,4 @@ O método escolhido para gerenciar nosso projeto é o Scrum. O Scrum é uma estr
 | Versão |          Descrição              |     Autor      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   06/04/2024   |       [Giovana Barbosa ](https://github.com/gio221)        |     06/04                 |
-|  2.0   | Mudança das datas das reuniões                   |   [Giovana Barbosa ](https://github.com/gio221)      |   06/04/2024   |               |                      |
+|  2.0   | Mudança das datas das reuniões                   |   [Giovana Barbosa ](https://github.com/gio221)      |   06/04/2024   |  [Raissa Andrade ](https://github.com/RaissaAndradeS)            |       07/04               |
