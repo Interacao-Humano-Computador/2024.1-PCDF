@@ -43,4 +43,4 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
 |:--: | :--: | :--: | :--: | :--: | :--:
-|05/04/2023 | '1.0' | Ferramentas utilizadas | [Raissa Andrade ](https://github.com/RaissaAndradeS) | 06/04|[Giovana Barbosa ](https://github.com/gio221)
+|05/04/2024 | '1.0' | Ferramentas utilizadas | [Raissa Andrade ](https://github.com/RaissaAndradeS) | 06/04|[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)
