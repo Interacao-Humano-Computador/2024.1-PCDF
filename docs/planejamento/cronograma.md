@@ -140,4 +140,4 @@ Fonte : [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  03/04  | Criação do cronograma no documento |[Giovana Barbosa ](https://github.com/gio221)|
+| 1.0 |  03/04  | Criação do cronograma no documento |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28) | 07 abr 2024
