@@ -51,11 +51,10 @@ Pelo detalhamento do processo de design de Mayhew, a equipe optou por utilizá-l
 
 ## Referências bibliográficas
 BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
-Lawson B. How Designers Think: The Design Process Demystified 4a edição. Oxford, UK:
-Architectural Press; 2006.
-Löwgren J, Stolterman E. Thoughtful Interaction Design: A Design Perspective on
-Information Technology. Cambridge, MA: The MIT Press; 2004;.
-Lawson, B. How Designers Think: The Design Process Demystified (4th ed.). Oxford; Burlington, MA: Elsevier/ Architectural Press, 2006.
+
+Lawson B. How Designers Think: The Design Process Demystified 4a edição. Oxford, UK: Architectural Press; 2006.
+
+Löwgren J, Stolterman E. Thoughtful Interaction Design: A Design Perspective on Information Technology. Cambridge, MA: The MIT Press; 2004;.
 
 ## Histórico de Versões
 
