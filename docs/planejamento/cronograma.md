@@ -4,7 +4,11 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 
 #
 
+
 ## Etapa 1: Planejamento do Projeto
+
+### planejado
+    Esta tabela descreve as atividades planejadas da etapa 1
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -18,9 +22,27 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Montar cronograma |  Inicio: 03/04 Fim: 06/04  |Giovana |inicio 06/04 Fim: 07/04 |todos|
 | Responder perguntas |  Inicio: 03/04 Fim: 06/04  |João |inicio 06/04 Fim: 07/04 |Rayene|
 | Grava Video da Apresentação |  Inicio: 06/04 Fim: 07/04  | todos                    |inicio 07/04 Fim: 07/04 |todos|
-| Verificação do feedback |  Inicio: 07/04 Fim: 09/04  | todos                    |inicio 09/04 Fim: 09/04 |todos|
+| Correção pós entrega   |  Inicio: 07/04 Fim: 09/04  | todos                    |inicio 09/04 Fim: 09/04 |todos|
+
+### executado
+    Esta tabela descreve o  planejamento executado da etapa 1
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Montar git pages |  Inicio:27/03 Fim:31/03   | Lara     |inicio 27/03 Fim: 29/03 | Giovana |
+| Documentar Equipe |  Inicio: 01/04 Fim:03/04   |Giovana  | inicio 04/04 Fim: 07/04 |Lara |
+| Ferramentas do Projeto |  Inicio: 04/04 Fim: 06/04   |Raissa  |inicio 04/04 Fim: 07/04 |Giovana e Rayene|
+| Heatmap do projeto |  Inicio: 04/04 Fim: 06/04   | Rayene|inicio 04/04 Fim: 07/04 |Giovana e Raissa|
+| Documentar site escolhido|  Inicio: 06/04 Fim: 07/04   | Rayene |inicio 06/04 Fim: 07/04 | Giovana|
+| Seleção de sites individuais |  Inicio: 25/03 Fim:07/04   | Renata  | inicio 04/04 Fim: 07/04 |Giovana|
+| Processo de design |  Inicio: 01/04 Fim:07/04  | Lara     | inicio 07/04 Fim: 07/04 |João Pedro|
+| Montar cronograma |  Inicio: 03/04 Fim: 06/04  |Giovana |inicio 06/04 Fim: 07/04 |todos|
+| Responder perguntas |  Inicio: 03/04 Fim: 06/04  |João |inicio 06/04 Fim: 07/04 |Giovana|
+| Grava Video da Apresentação |  Inicio: 06/04 Fim: 07/04  | todos                    |inicio 07/04 Fim: 07/04 |todos|
+| Correção pós entrega   |  Inicio: 07/04 Fim: 09/04  | todos                    |inicio 09/04 Fim: 09/04 |todos|
 
 ## Etapa 2: Perfil do usuário
+    Esta tabela descreve as atividades planejadas da etapa 2
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -31,9 +53,10 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Análise de Tarefas | Inicio: 16/04 Fim: 18/04| Rayene | Inicio: 18/04 Fim: 20/04|Lara|
 | Responder perguntas | Inicio: 17/04 Fim: 19/04|Raissa| Inicio: 19/04 Fim: 21/04|Renata|
 | Gravação da apresentação | Inicio: 20/04 Fim: 21/04| todos| Inicio: 21/04 Fim: 21/04| todos|
-| Correção após o feedback| Inicio: 22/04 Fim: 23/04|todos|Inicio: 23/04 Fim: 23/04| todos|
+| Correção pós entrega  | Inicio: 22/04 Fim: 23/04|todos|Inicio: 23/04 Fim: 23/04| todos|
 
 ## Etapa 3: Princípios gerais do projeto
+    Esta tabela descreve as atividades planejadas da etapa 3
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -43,10 +66,11 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Cracteristicas do site | Início: 26/04 Fim: 27/04 | Giovana e Renata | Início: 27/04 Fim: 28/04 | Raissa   |
 | Perguntas do site | Início: 26/04 Fim: 27/04 | Rayene | Início: 27/04 Fim: 28/04 | todos   |
 | Gravar Apresentação| Início: 30/04 Fim: 31/04 | Todos              | Início: 31/04 Fim: 31/04 | Todos   |
-| Correção pós apresentação    | Início: 30/04 Fim: 01/05 | Todos              | Início: 01/05 Fim: 01/05 | Todos    |
+| Correção pós entrega   | Início: 30/04 Fim: 01/05 | Todos              | Início: 01/05 Fim: 01/05 | Todos    |
 
 
 ## Etapa 4: Planejamento da Avaliação do Storyboard
+    Esta tabela descreve as atividades planejadas da etapa 4
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -56,9 +80,10 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Planejamento do relato da avaliação da análise de tareas         | Início: 05/05 Fim: 06/05 | Giovana e Renata         | Início: 06/05 Fim: 06/05 | João Pedro          |
 | Responder perguntas finais   | Início: 07/05 Fim: 07/05 | Renata              | Início: 07/05 Fim: 07/05   | Todos              |
 | Gravação da apresentação   | Início: 07/05 Fim: 07/05 | Todos              | Início: 07/05 Fim: 07/05   | Todos              |
-| Correção pós apresentação        | Início: 07/05 Fim: 09/05 | Todos              | Início: 09/05 Fim: 09/05   | Todos              |
+| Correção pós entrega         | Início: 07/05 Fim: 09/05 | Todos              | Início: 09/05 Fim: 09/05   | Todos              |
 
 ## Etapa 5: Relato dos resultados do Story Board
+    Esta tabela descreve as atividades planejadas da etapa 5
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -68,9 +93,10 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Planejamento da avaliação do protótipo de papel                         | Início: 14/05 Fim: 16/05 | Rayene   | Início: 16/05 Fim: 18/05 | João Pedro |
 | Responder Perguntas Finais   | Início: 15/05 Fim: 16/05 | Giovana              | Início: 16/05 Fim: 16/05 | Todos              |
 | Gravação da apresentação                                                | Início: 17/05 Fim: 18/05 | Todos              | Início: 18/05 Fim: 18/05 | Todos              |
-| Correção pós apresentação                                               | Início: 18/05 Fim: 20/05 | Todos              | Início: 20/05 Fim: 20/05 | Todos              | 
+|Correção pós entrega                                                 | Início: 18/05 Fim: 20/05 | Todos              | Início: 20/05 Fim: 20/05 | Todos              | 
 
 ## Etapa 6.1:  Verificação dos artefatos
+    Esta tabela descreve as atividades planejadas da etapa 6.1
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -90,6 +116,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
  
 
 ## Etapa 6.2:  Verificação dos artefatos
+    Esta tabela descreve as atividades planejadas da etapa 6.2
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -100,6 +127,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Correção pós entrega                   | Início: 09/06 Fim: 11/06 | Todos              |  Início: 09/06 Fim: 11/06 | Todos              |
 
 ## Etapa 7: Relato dos resultados do Protótipo de Papel
+    Esta tabela descreve as atividades planejadas da etapa 7
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -113,6 +141,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 
 
 ## Etapa 8: Relato dos resultados do Protótipo de alta fidelidade.
+    Esta tabela descreve as atividades planejadas da etapa 8
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -124,6 +153,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Correção pós entrega                                               | Início: 19/06 Fim: 21/06 | Todos             | Início: 19/06 Fim: 21/06 | Todos     |
 
 ## Etapa Final :Entrega Final 
+    Esta tabela descreve as atividades planejadas da etapa final
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -140,4 +170,5 @@ Fonte : [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  03/04  | Criação do cronograma no documento |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28) | 07 abr 2024
+| 1.0 |  03/04  | Criação do cronograma no documento |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28) | 07/04 2024|
+| 2.0 |  07/04  | Alterações de nomes |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28) | 07/04 2024|
