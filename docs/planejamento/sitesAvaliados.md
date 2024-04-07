@@ -157,4 +157,4 @@ BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Jane
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  07/04  | Criação do documento |[Renata Quadros ](https://github.com/Renatinha28)|[Giovana Barbosa ](https://github.com/gio221)| 07/04|
+| 1.0 |  07/04  | Criação do documento |[Renata Quadros ](https://github.com/Renatinha28)|[Giovana Barbosa ](https://github.com/gio221),[Rayene Almeida ](https://github.com/rayenealmeida)| 07/04|
