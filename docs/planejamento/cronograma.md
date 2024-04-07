@@ -110,16 +110,34 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Perguntas finais                                                           | Início: 02/06 Fim: 04/06| João Pedro           | Início: 02/06 Fim: 04/06| Todos     |
 | Gravação da apresentação                                                           | Início: 04/06 Fim: 04/06 | Todos             | Início: 04/06 Fim: 04/06 | Todos     |
 | Correção pós entrega                                                               | Início: 04/06 Fim: 07/06 | Todos             | Início: 04/06 Fim: 07/06 | Todos     |
+
+
 ## Etapa 8: Planejamento do Projeto
 
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | Data Final |
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |:---------------: |
-| Alta Fidelidade| 
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 10/06 Fim: 12/06 | Raissa e Rayene| Início: 12/06 Fim: 14/06 | todos   |
+| Planejamento de verificação dos artefatos da entrega 7             | Início: 12/06 Fim: 14/06 | João    | Início: 14/06 Fim: 14/06 | todos   |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 14/06 Fim: 16/06 | Lara | Início: 16/06 Fim: 16/06 | todos   |
+| Responder perguntas finais                                           | Início: 14/06 Fim: 16/06 | Giovana | Início: 16/06 Fim: 16/06 | todos   |
+| Gravação da apresentação                                           | Início: 17/06 Fim: 17/06 | Todos             | Início: 17/06 Fim: 17/06 | Todos     |
+| Correção pós entrega                                               | Início: 19/06 Fim: 21/06 | Todos             | Início: 19/06 Fim: 21/06 | Todos     |
+
+## Etapa Final :Entrega Final 
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Planejamento de verificação dos artefatos da Etapa 8     | Início: 17/06 Fim: 19/06 | Raissa e Lara   | Início: 17/06 Fim: 19/06|todos |
+| Relato da verificação da Etapa 8 e ajustes nos artefatos | Início: 19/06 Fim: 20/06 | Renata e Giovana | Início: 19/06 Fim: 20/06 | todos   |
+|Responder perguntas finais                             | Início: 20/06 Fim: 21/06 | Todos                      | Início: 20/06 Fim: 21/06 | Todos                      |
+| Gravação da apresentação                                 | Início: 20/06 Fim: 21/06  | Todos                      | Início: 20/06 Fim: 21/06  | Todos                      |
+
 
 ## Bibliografia 
 Fonte : [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
 
+
 ## Histórico de versão
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  03/04  | Criação do cronograma no documento |[Giovana Barbosa ](https://github.com/gio221)|
