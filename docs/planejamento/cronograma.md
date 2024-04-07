@@ -33,7 +33,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Gravação da apresentação | Inicio: 20/04 Fim: 21/04| todos| Inicio: 21/04 Fim: 21/04| todos|
 | Correção após o feedback| Inicio: 22/04 Fim: 23/04|todos|Inicio: 23/04 Fim: 23/04| todos|
 
-## Etapa 3: Planejamento do Projeto
+## Etapa 3: Princípios gerais do projeto
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -46,7 +46,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Correção pós apresentação    | Início: 30/04 Fim: 01/05 | Todos              | Início: 01/05 Fim: 01/05 | Todos    |
 
 
-## Etapa 4: Planejamento do Projeto
+## Etapa 4: Planejamento da Avaliação do Storyboard
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -58,7 +58,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Gravação da apresentação   | Início: 07/05 Fim: 07/05 | Todos              | Início: 07/05 Fim: 07/05   | Todos              |
 | Correção pós apresentação        | Início: 07/05 Fim: 09/05 | Todos              | Início: 09/05 Fim: 09/05   | Todos              |
 
-## Etapa 5: Planejamento do Projeto
+## Etapa 5: Relato dos resultados do Story Board
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -70,7 +70,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Gravação da apresentação                                                | Início: 17/05 Fim: 18/05 | Todos              | Início: 18/05 Fim: 18/05 | Todos              |
 | Correção pós apresentação                                               | Início: 18/05 Fim: 20/05 | Todos              | Início: 20/05 Fim: 20/05 | Todos              | 
 
-## Etapa 6.1: Planejamento do Projeto
+## Etapa 6.1:  Verificação dos artefatos
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -89,7 +89,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Correção pós entrega                   | Início: 25/05 Fim: 26/05 | Todos              | Início: 25/05 Fim: 26/05 | Todos              |
  
 
-## Etapa 6.2: Planejamento do Projeto
+## Etapa 6.2:  Verificação dos artefatos
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -99,7 +99,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Gravação    | Início: 09/06 Fim: 09/06 | todos | Início: 09/06 Fim: 09/06 | todos  |
 | Correção pós entrega                   | Início: 09/06 Fim: 11/06 | Todos              |  Início: 09/06 Fim: 11/06 | Todos              |
 
-## Etapa 7: Planejamento do Projeto
+## Etapa 7: Relato dos resultados do Protótipo de Papel
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
@@ -112,7 +112,7 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Correção pós entrega                                                               | Início: 04/06 Fim: 07/06 | Todos             | Início: 04/06 Fim: 07/06 | Todos     |
 
 
-## Etapa 8: Planejamento do Projeto
+## Etapa 8: Relato dos resultados do Protótipo de alta fidelidade.
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
