@@ -8,8 +8,7 @@ Este documento tem objetivo de armanezar conteúdos da primeira apresentação
 
 
 <p style="text-align: center"><a href="https://youtu.be/frSFkkrWemk?si=O-rETQ07iw109nR6" target="blanket">Vídeo de apresentação</a></p>
-<p style="text-align: center"><iframe width="560" height="315" src="https://youtu.be/frSFkkrWemk?si=O-rETQ07iw109nR6" title="Apresentação 07/04/2024" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></p>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/frSFkkrWemk?si=9O2qTVjJyppAevW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 1
