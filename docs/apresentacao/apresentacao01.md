@@ -8,7 +8,7 @@ Este documento tem objetivo de armanezar conteúdos da primeira apresentação
 
 
 <p style="text-align: center"><a href="https://youtu.be/frSFkkrWemk?si=O-rETQ07iw109nR6" target="blanket">Vídeo de apresentação</a></p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/frSFkkrWemk?si=9O2qTVjJyppAevW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/frSFkkrWemk?si=9O2qTVjJyppAevW_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 Esta apresentação descreve o que foi realizado na primeira etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, disponibilizado pelo professor André. Abaixo estão listados os critérios de avaliação:
 ## Critérios para entrega
@@ -48,5 +48,5 @@ Tabela 2: Histórico de versões da página de apresentação
 | 1.0 |  06/04  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[João Pedro Ferreira](https://github.com/JoaoODragonborn)
 | 2.0 |  07/04  | Adicionando as perguntas  |[Giovana Barbosa ](https://github.com/gio221)|[João Pedro Ferreira](https://git    hub.com/JoaoODragonborn)
 | 2.1 |  08/04  | Respostas das perguntas  |[João Pedro Ferreira](https://github.com/JoaoODragonborn)|[Giovana Barbosa ](https://github.com/gio221)
-| 2.2 |  08/04  | Adicionando descrição  |[Renata Quadros](https://github.com/Renatinha28)|
+| 2.2 |  08/04  | Adicionando descrição  |[Renata Quadros](https://github.com/Renatinha28)| [João Pedro Ferreira](https://github.com/JoaoODragonborn)
 
