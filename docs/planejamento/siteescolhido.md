@@ -48,6 +48,8 @@ Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
 
 # Histórico de Versão 
 
+Tabela 1: Histórico de versões da página do site escolhido
+
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
 |:--: | :--: | :--: | :--: | :--: | :--:
 |06/04/2024 | '1.0' | Site escolhido | [Rayene](https://github.com/rayenealmeida)| 07/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)

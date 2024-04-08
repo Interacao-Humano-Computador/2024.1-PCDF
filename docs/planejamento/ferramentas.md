@@ -7,7 +7,7 @@ Escolhemos essas ferramentas para serem utilizadas durante o processo de desenvo
 
 ## Ferramentas Utilizadas
 
-Primeira Tabela, informações de todas ferramentas e suas utilidades para o projeto 
+Tabela 1: Informações de todas ferramentas e suas utilidades para o projeto 
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :-------: | :---------: |
@@ -39,6 +39,8 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 
 
 # Histórico de Versão 
+
+Tabela 2: Histórico de versões da página de feramentas
 
 | <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
 |:--: | :--: | :--: | :--: | :--: | :--:

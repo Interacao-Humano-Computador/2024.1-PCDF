@@ -1,5 +1,5 @@
-repo_url: https://interacao-humano-computador.github.io/2024.1-INSS/
-repo_name: 2024.1-Grupo04
+repo_url: https://github.com/Interacao-Humano-Computador/2024.1-INSS/tree/main
+repo_name: 2024.1-INSS
 
 site_name: INSS
 
@@ -39,3 +39,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Mudar para o modo claro
+  
+  language: pt-BR
+  favicon: planejamento/assets/icon.png
+  logo: planejamento/assets/icon.png
+

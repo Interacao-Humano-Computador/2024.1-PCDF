@@ -2,7 +2,7 @@ Este repositório contém a documentação de todos os artefatos que serão entr
 
 ## Sobre o projeto
 
-![INSS-Logo](planejamento/assets/inss-logo-white.png)
+![INSS-Logo](planejamento/assets/logoINSS.png)
 
 O objetivo do projeto é aplicar os conhecimentos vistos em aula na avaliação de IHC do site do INSS. O INSS (Instituto Nacional do Seguro Social) é um orgão público responsável pelo pagamento da aposentadoria e outros benefícios aos trabalhadores brasileiros e demais segurados – como microempreendedores individuais e contribuintes individuais.
 

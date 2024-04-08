@@ -1,9 +1,11 @@
 
 ## Introdução
 
-Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 abaixo, estão apresentados os sites selecionados por cada integrante:
+Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 estão apresentados os sites selecionados por cada integrante:
 
-## Tabela 1: Sites Escolhidos
+## Sites Avaliados
+
+Tabela 1: Sites avaliados individualmente por cada membro da equipe
 
 | Integrante                                         | Site Avaliado      | Link                                           |
 | --------------------------------------------------- | ------------------ | ---------------------------------------------- |
@@ -155,6 +157,9 @@ BRB. Passelivre - Mobilidade BRB. Disponível em: [https://mobilidade.brb.com.br
 BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de versão
+
+Tabela 2: Histórico de versões da página de sites avaliados
+
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  07/04  | Criação do documento |[Renata Quadros ](https://github.com/Renatinha28)|[Giovana Barbosa ](https://github.com/gio221),[Rayene Almeida ](https://github.com/rayenealmeida)| 07/04|
+| 1.0 |  07/04  | Criação do documento |[Renata Quadros ](https://github.com/Renatinha28)|[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)| 07/04|
