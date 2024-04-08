@@ -5,8 +5,15 @@
 O Heatmap de Disponibilidade do Time é uma ferramenta visual que nos permite entender a disponibilidade dos membros da equipe para participar de reuniões ou outras atividades em grupo. Ele é preenchido com informações de disponibilidade fornecidas por cada membro da equipe, mostrando claramente os horários em que cada pessoa está disponível. Ao analisar o heatmap, podemos identificar padrões de disponibilidade ao longo do tempo. Isso nos ajuda a agendar reuniões em horários que sejam convenientes para a maioria dos membros da equipe, minimizando conflitos e garantindo a participação de todos.
 
 ## Heatmap da Equipe
-![Heatmap do grupo4](assets/heatmap.png)
+
+<center>
+
 Imagem 1: O heatmap de disponibilidade da equipe
+
+![Heatmap do grupo4](assets/heatmap.png)
+Fonte: Elaboração própria
+
+</center>
 
 ## Resultados da Análise de Disponibilidade
 Considerando as diversas agendas e compromissos dos membros da equipe, optamos por realizar nossas reuniões principais de planejamento e revisão de forma virtual, proporcionando flexibilidade e acessibilidade a todos os envolvidos. Essas reuniões serão realizadas às:
