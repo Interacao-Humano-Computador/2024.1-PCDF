@@ -27,3 +27,14 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
+  - media: "(prefers-color-scheme: light)"
+      scheme: claro
+      toggle:
+        icon: material/brightness-7
+        name: Mudar para o modo escuro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Mudar para o modo claro
