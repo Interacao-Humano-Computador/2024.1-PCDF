@@ -27,7 +27,8 @@ theme:
     - navigation.tabs.sticky
     - navigation.top
     - navigation.footer
-  - media: "(prefers-color-scheme: light)"
+  palette:
+    - media: "(prefers-color-scheme: light)"
       scheme: claro
       toggle:
         icon: material/brightness-7
