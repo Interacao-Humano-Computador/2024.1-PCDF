@@ -1,8 +1,10 @@
-# 2024.1-Grupo04
-## Sobre o projeto
-Este repositório contém a documentação de todos os artefatos que vão ser feitos pelo grupo 4 na disciplina Interação Humano Computador ao longo do semestre 2024.1
+Este repositório contém a documentação de todos os artefatos que serão entregues pelo grupo 04 na disciplina Interação Humano-Computador (IHC) ao longo do semestre 2024.1.
 
-O objetivo do projeto é aplicar s conhecimentos da matéria em uma avaliação real de um site
+## Sobre o projeto
+
+![INSS-Logo](planejamento/assets/logoINSS.png)
+
+O objetivo do projeto é aplicar os conhecimentos vistos em aula na avaliação de IHC do site do INSS. O INSS (Instituto Nacional do Seguro Social) é um orgão público responsável pelo pagamento da aposentadoria e outros benefícios aos trabalhadores brasileiros e demais segurados – como microempreendedores individuais e contribuintes individuais.
 
 ## Equipe
 
@@ -19,6 +21,9 @@ O objetivo do projeto é aplicar s conhecimentos da matéria em uma avaliação 
 </table>
 
 ## Histórico de versão
+
+Tabela 1: Histórico de versões da página Home
+
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  03/04  | Criação da Home |[Giovana Barbosa ](https://github.com/gio221)|
+| 1.0 |  03/04  | Criação da Home |[Giovana Barbosa ](https://github.com/gio221)|[João Pedro Ferreira](https://github.com/JoaoODragonborn)| 
