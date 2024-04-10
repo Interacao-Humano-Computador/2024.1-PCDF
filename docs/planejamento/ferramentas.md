@@ -7,7 +7,7 @@ Escolhemos essas ferramentas para serem utilizadas durante o processo de desenvo
 
 ## Ferramentas Utilizadas
 
-Tabela 1: Informações de todas ferramentas e suas utilidades para o projeto 
+Primeira Tabela, informações de todas ferramentas e suas utilidades para o projeto 
 
 | Logo | Ferramenta | Finalidade |
 | :-----: | :-------: | :---------: |
@@ -23,7 +23,7 @@ Tabela 1: Informações de todas ferramentas e suas utilidades para o projeto
   (Fonte: SILVEIRA, Raissa. 2024).
 
 
-### Bibliografia 
+### Referências bibliograficas
 
 [1] WHATSAPP. Disponível em:[Repositório ](https://github.com/gui-bus/TechIcons?tab=readme-ov-file.)  Acesso em: 05 de Abril de 2024.
 
@@ -40,8 +40,7 @@ Tabela 1: Informações de todas ferramentas e suas utilidades para o projeto
 
 # Histórico de Versão 
 
-Tabela 2: Histórico de versões da página de feramentas
-
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
-|:--: | :--: | :--: | :--: | :--: | :--:
-|05/04/2024 | '1.0' | Ferramentas utilizadas | [Raissa Andrade ](https://github.com/RaissaAndradeS) | 06/04|[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)
+| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Ferramentas utilizadas                 |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   05/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     06/04                 |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |

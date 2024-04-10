@@ -42,14 +42,14 @@ Após análise dos possíveis sites avaliados foi possível escolher o INSS por 
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
 Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
+
 > Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS). Disponível em: https://www.gov.br/inss/pt-br. Acesso em: 01 de abril. de 2024.
 <br/>
 
 
 # Histórico de Versão 
 
-Tabela 1: Histórico de versões da página do site escolhido
-
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
-|:--: | :--: | :--: | :--: | :--: | :--:
-|06/04/2024 | '1.0' | Site escolhido | [Rayene](https://github.com/rayenealmeida)| 07/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)
+| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |  Site escolhido                  |  [Rayene](https://github.com/rayenealmeida)    |   06/04   |       [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)     |     07/04                 |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
