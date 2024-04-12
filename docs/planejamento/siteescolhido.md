@@ -19,7 +19,7 @@ Após a apresentação decidimos escolher um site que não tinha sido avaliado p
 
 ## Principais usuários do site
 
-1. **Aposentados:** são indivíduos que já cumpriram os requisitos legais para se aposentar e estão recebendo benefícios de aposentadoria do INSS. Eles utilizam o site para acessar informações sobre seu benefício, como valores, datas de pagamento, extratos de pagamento, e também para atualizar informações cadastrais, realizar solicitações de revisão de benefícios e obter orientações sobre questões relacionadas à sua aposentadoria.
+1. **Cidadãoes:** são indivíduos que já cumpriram os requisitos legais para se aposentar e estão recebendo benefícios de aposentadoria do INSS. Eles utilizam o site para acessar informações sobre seu benefício, como valores, datas de pagamento, extratos de pagamento, e também para atualizar informações cadastrais, realizar solicitações de revisão de benefícios e obter orientações sobre questões relacionadas à sua aposentadoria.
 
 2. **Pensionistas:** São pessoas que recebem pensões por terem sido dependentes de segurados falecidos que contribuíam para a Previdência Social. Eles utilizam o site para acessar informações sobre sua pensão, consultar extratos de pagamento, solicitar atualizações cadastrais, comunicar óbitos e obter orientações sobre questões relacionadas à pensão que recebem.
 
