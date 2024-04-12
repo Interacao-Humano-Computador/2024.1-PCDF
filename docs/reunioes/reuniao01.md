@@ -14,11 +14,10 @@ Tabela 1: Informações sobre a reunião
 | João Pedro, Lara Giuliana, Giovana Barbosa, Raissa Andrade, Renata Quadros |  03/04/2024   | 20:00 ás 21:25                     | Teams  | 
 
 
-## Gravação da reunião
+## Gravação da reunião 1
 
-[Link da gravação](https://unbbr.sharepoint.com/:v:/s/IHC609/ETMW7hxa78FFuIjM09y_5HsBB2UoSKy4T6X_b-jAC6mmsw?e=yJavQb)
-
-<div style="max-width: 640px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://unbbr.sharepoint.com/sites/IHC609/_layouts/15/embed.aspx?UniqueId=1cee1633-ef5a-45c1-b888-ccd3dcbfe47b&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="reunião 1.mp4" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<p style="text-align: center"><a href="https://youtu.be/gm5MF8YzOBI" target="blanket">Vídeo de apresentação</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/gm5MF8YzOBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Objetivos da Reunião
 

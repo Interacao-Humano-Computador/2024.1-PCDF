@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Após a segunda reunião e conversas assíncronas, o grupo se interessou pelo site do INSS por seus diversos desafios encontrados na avaliação e por seguir os critérios de seleção.
+Após a apresentação decidimos escolher um site que não tinha sido avaliado por nenhum integrante do grupo o PCDF
 
-## INSS - Instituto Nacional do Seguro Social
-![INSS](assets/logoINSS.png)
+## PCDF- Policia Civil do Distrito Federal
+![PCDF](assets/PCDF.png)
 <br>
 <p align="center">
-  Figura 1 - Logo Oficial do INSS
+  Figura 1 - Logo Oficial da PCDF
 </p>
 
 ## Critérios para escolha
@@ -52,4 +52,4 @@ Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |  Site escolhido                  |  [Rayene](https://github.com/rayenealmeida)    |   06/04   |       [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)     |     07/04                 |
-|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Giovana Barbosa ](https://github.com/gio221)          |      12/04                |

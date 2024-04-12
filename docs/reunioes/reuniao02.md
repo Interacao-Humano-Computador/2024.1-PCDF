@@ -15,9 +15,8 @@ Tabela 1: Informações sobre a reunião
 
 ## Link da gravação
 
-[Link da gravação](https://unbbr.sharepoint.com/:v:/s/IHC609/ESPjo9yMzbpBrcT6cT_7o1YB_r6yIPyZJCsAr97lQmw6zQ?e=bnuLld)
-
-<div style="max-width: 1280px"><div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"><iframe src="https://unbbr.sharepoint.com/sites/IHC609/_layouts/15/embed.aspx?UniqueId=dca3e323-cd8c-41ba-adc4-fa713ffba356&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="1280" height="720" frameborder="0" scrolling="no" allowfullscreen title="reunião 2.mp4" style="border:none; position: absolute; top: 0; left: 0; right: 0; bottom: 0; height: 100%; max-width: 100%;"></iframe></div></div>
+<p style="text-align: center"><a href="https://youtu.be/nnG9pj5iA1I" target="blanket">Vídeo de apresentação</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/nnG9pj5iA1I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 ## Objetivos da Reunião
 
@@ -30,8 +29,7 @@ Tabela 1: Informações sobre a reunião
  O site que escolhemos foi o avaliado pela integrante Rayene Almeida o site do INSS
    
 ## Horário das reuniões
-Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma de review e uma daily
-Também separamos o que falta para cada um fazer e definimos o cronograma 
+Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma de review e uma daily, também separamos o que falta para cada um fazer e definimos o cronograma 
 
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
