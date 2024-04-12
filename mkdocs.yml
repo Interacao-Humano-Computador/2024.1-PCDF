@@ -17,6 +17,8 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
+  - Análise de Requisitos I:
+    - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md  
 
 theme:
   name: material
