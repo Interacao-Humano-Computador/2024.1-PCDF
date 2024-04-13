@@ -6,9 +6,10 @@ Este repositório contém a documentação de todos os artefatos que serão entr
 <div align="center">
 <p> Figura 1 - Logo do site  </p> 
 </div>
+Fonte : [Site do PCDF](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcdf.df.gov.br/&ved=2ahUKEwjknvj1h8CFAxU0qpUCHf67AaoQFnoECAcQAQ&usg=AOvVaw3zwQE4exNGIBXhLxbD3GIz)
 
 
-O objetivo do projeto é aplicar os conhecimentos vistos em aula na avaliação de IHC do site do INSS. O PCDF é um site da Polícia Civil do Distrito Federal, que tem como objetivo proporcionar comodidade ao registrar e obter ocorrências policiais que podem ser feitas pela Internet. No site é possível encontrar informações relevantes, atendimentos aos cidadãos, notícias da imprensa atualizadas entre outros.  
+O objetivo do projeto é aplicar os conhecimentos vistos em aula na avaliação de IHC do site do PCDF, logo em cima temos a fgiura 1 monstrando a logo da PCDF. O PCDF é um site da Polícia Civil do Distrito Federal, que tem como objetivo proporcionar comodidade ao registrar e obter ocorrências policiais que podem ser feitas pela Internet. No site é possível encontrar informações relevantes, atendimentos aos cidadãos, notícias da imprensa atualizadas entre outros.  
 ## Equipe
 
 <table>
