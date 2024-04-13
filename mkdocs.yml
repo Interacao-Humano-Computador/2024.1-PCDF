@@ -7,6 +7,7 @@ nav:
   - Home: index.md
   - Apresentações:
     - Apresentação 1: apresentacao/apresentacao01.md
+    - Apresentação 2: apresentacao/apresentacao02.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
@@ -19,6 +20,7 @@ nav:
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
   - Análise de Requisitos I:
+    - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
     - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md  
 
 theme:

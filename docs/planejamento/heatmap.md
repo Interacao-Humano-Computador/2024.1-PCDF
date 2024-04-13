@@ -9,7 +9,7 @@ O Heatmap de Disponibilidade do Time é uma ferramenta visual que nos permite en
 <div align="center">
 <p> Figura 1 - Heatmap do Grupo 4. Fonte: Autores </p> 
 </div>
->>>>>>> Stashed changes
+
 
 ## Resultados da Análise de Disponibilidade
 Considerando as diversas agendas e compromissos dos membros da equipe, optamos por realizar nossas reuniões principais de planejamento e revisão de forma virtual, proporcionando flexibilidade e acessibilidade a todos os envolvidos. Essas reuniões serão realizadas às:
@@ -35,4 +35,4 @@ O método escolhido para gerenciar nosso projeto é o Scrum. O Scrum é uma estr
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   06/04   |       [Giovana Barbosa ](https://github.com/gio221)        |     06/04                 |
 |  1.1   | Mudança das datas das reuniões                   |   [Giovana Barbosa ](https://github.com/gio221)      |   06/04   |  [Raissa Andrade ](https://github.com/RaissaAndradeS)            |       07/04               |
-|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
+|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Giovana Barbosa ](https://github.com/gio221)            |      13/04/2024                |
