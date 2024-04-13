@@ -20,6 +20,7 @@ nav:
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
   - Análise de Requisitos I:
+    - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
     - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md  
 
 theme:
