@@ -97,6 +97,15 @@ Usuário 22 - "Agendar carteira de identidade, solicitar antecedentes e fazer oc
 Nosso questionário foi composto por 12 perguntas de sim ou não e questões abertas. O foco do nosso questionário foi em saber se as pessoas já usaram o site da PCDF e se sabiam de algumas funcionalidades. 
 A maioria dos participantes são do sexo masculino, residentes do Distrito Federal, e de acordo com os resultados das perguntas a maioria não utiliza ou não sabia das funcionalidades presentes no site do PCDF. 
 
+**Tabela 1** - Perfis com as características priorizadas.
+
+| Papel                                    |                  Usuário                  |               |
+| ---------------------------------------- | :---------------------------------------: | :-----------: |
+| Perfil                                   |                     A                     |       B       |
+| Percentual de pessoas que já ultilizaram o site    |                 59,1%                   |    31,8%    |
+| Número de usuários no perfil (total: 54) |                    13                     |       7       |
+
+
 ## Bibliografia 
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
@@ -105,4 +114,5 @@ A maioria dos participantes são do sexo masculino, residentes do Distrito Feder
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Planejamento do perfil de usuários                   |   [Renata Quadros](https://github.com/Renatinha28),[Giovana Barbosa ](https://github.com/gio221)      |   12/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)        |           13/04           |
-|1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 | | |
+|1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
+|1.2| Tabela do perfil dos usuários|[Giovana Barbosa ](https://github.com/gio221) | 13/04 |     | |
