@@ -7,9 +7,11 @@ nav:
   - Home: index.md
   - Apresentações:
     - Apresentação 1: apresentacao/apresentacao01.md
+    - Apresentação 2: apresentacao/apresentacao02.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
+      - Reunião 3: reunioes/reuniao03.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
     - Heatmap: planejamento/heatmap.md

@@ -16,7 +16,8 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Youtube.svg" alt="YouTube" width=50px> | Youtube | Usamos o Youtube para colocar as gravações do projeto.|
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/VSCode.svg" alt="VsCode" width=50px> | VsCode | IDE utilizada para o desenvolvimento do projeto.|
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="GitHub" width=50px> | GitHub | Utilizada para hospedar o repositório e a git page.  |
-| <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Excel.svg" alt="Google Planilhas" width=50px> | Google | Utilizado para fazer o Heatmap.  |
+| <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Excel.svg" alt="Google Planilhas" width=50px> | Exel | Utilizado para fazer o Heatmap.  |
+| <img src="https://cdn-icons-png.flaticon.com/128/2991/2991110.png" alt="Google Forms" width=50px> | Forms | Utilizado para fazer o Questionário.  |
 
  
   Detalhamento das ferramentas utilizadas durante o projeto 
@@ -43,4 +44,5 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Ferramentas utilizadas                 |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   05/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     06/04                 |
-|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221)        |        13/04              |
+|  1.2   | Atualizando Ferramentas                 |  [Giovana Barbosa ](https://github.com/gio221)    |   13/04   |         |                 |
