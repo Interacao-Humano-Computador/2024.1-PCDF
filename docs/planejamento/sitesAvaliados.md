@@ -1,11 +1,8 @@
-
 ## Introdução
 
-Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 estão apresentados os sites selecionados por cada integrante:
+Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 abaixo, estão apresentados os sites selecionados por cada integrante:
 
-## Sites Avaliados
-
-Tabela 1: Sites avaliados individualmente por cada membro da equipe
+## Tabela 1: Sites Escolhidos
 
 | Integrante                                         | Site Avaliado      | Link                                           |
 | --------------------------------------------------- | ------------------ | ---------------------------------------------- |
@@ -30,9 +27,23 @@ Navegação inconsistente:
 
 * Justificativa: O cadastro de estágio está na parte de extensão sendo que existe a parte de estágio
 
+![Site IFB](assets/ifb.png)
+<div align="center">
+    <p> Figura 1: Imagem do site do IFB . Fonte: 
+        <a href="https://www.ifb.edu.br/">Instituto Federal de Brasília</a>
+    </p> 
+</div>
+
 <a id="codeforces"></a>
 ## Codeforces 
 O responsável por avaliar o site foi o João Pedro Ferreira Alves. O Coderforces é uma plataforma de competições de programação. Competições são hospedadas na plataforma regularmente e as habilidades dos participantes são medidas pela sua classificação. Foram avaliados o cadastro de usuário e o processo de identificar e enviar soluções de exercícios. O site demonstrou bastante facilidade de interação com o usuário, levando em conta que o perfil de usuário padrão da plataforma é uma pessoa que utiliza diariamente diversos sites e por consequência tem alto nível de experiência em navegação web. Não foram encontradas violações de diretrizes.
+
+![Site Codeforces](assets/codeforces.png)
+<div align="center">
+    <p> Figura 2: Imagem do site do Codeforces . Fonte: 
+        <a href="https://codeforces.com/">Codeforces</a>
+    </p> 
+</div>
 
 <a id="mpf"></a>
 ## MPF
@@ -53,6 +64,14 @@ A responsável por avaliar o site do MPF foi a Lara. A avaliação teve a finali
 De acordo com a escala de severidade de Nielsen, ambos os problemas serão avaliados como grandes, pois “prejudica fatores de usabilidade tidos como importantes
 para o projeto”.
 
+![Site MPF](assets/mpf.png)
+<div align="center">
+    <p> Figura 3: Imagem do site do MPF . Fonte: 
+        <a href="https://www.mpf.mp.br/">MPF</a>
+    </p> 
+</div>
+
+
 <a id="fiocruz"></a>
 ## FioCruz
 Integrante responsável por avaliar o site da FioCruz foi a Raissa Andrade.  A avaliação consiste em indentificar possiveis erros dos usuários motivados pelo uso da plataforma. Pelo método de avaliação heurística foram encontrados algumas inconsistências. Falta de instruções para uso da plataforma,  interação prejudicada e falta de organização nas informações presentes no site. Na avaliação foi identificado:
@@ -70,6 +89,13 @@ Integrante responsável por avaliar o site da FioCruz foi a Raissa Andrade.  A a
 * Justificativa: A má disposição das informações podem causar perdas de prazos das inscrições dos participantes do programa.
 
 * [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221035077_aluno_unb_br/EeCza7jpg0REhleUbRb_JyQBfUHfac3MwTlBtm_ZKW216g?e=rweccl)     
+
+![Site Fiocruz](assets/fiocruz.png)
+<div align="center">
+    <p> Figura 4: Imagem do site Fiocruz . Fonte: 
+        <a href="https://portal.fiocruz.br/">Fiocruz</a>
+    </p> 
+</div>
 
 <a id="inss"></a>
 ## INSS 
@@ -117,6 +143,19 @@ Problemas Técnicos ao Preencher Formulários Online:
   
 * [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
 
+![Site INSS](assets/inss.png)
+<div align="center">
+    <p> Figura 5: Imagem do site INSS . Fonte: 
+        <a href="https://www.gov.br/inss/pt-br">INSS</a>
+    </p> 
+</div>
+![Site Meu INSS](assets/meuinss.png)
+<div align="center">
+    <p> Figura 6: Imagem do site Meu INSS . Fonte: 
+        <a href="https://meu.inss.gov.br">Meu INSS</a>
+    </p> 
+</div>
+
 <a id="brb-mobilidade"></a>
 ## BRB mobilidade
 A integrante responsável por avaliar o BRB mobilidade visando nos passes livres de Brasília - DF foi a Renata Quadros. A avaliação tinha como objetivo identificar e corrigir problemas na interação e na interface do sistema, sendo assim, o metodo escolhido foi a avaliação heurística. Foram avaliados 4 meios de interação: cadastro no passe livre estudantil, solicitação de segunda via, consulta do histórico e cadastro de cartão sênior. Na avaliação foram encontradas as seguintes violações com seus respectivos graus de severidade:
@@ -143,23 +182,29 @@ Problema de acessibilidade para idosos:
 
 * [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/211063013_aluno_unb_br/EQOdnl0h7UFAn5nB8uInoLIBsb5lDhGhtDy3TIE-AELiGw?e=3KB1D5)
 
+![Site BRB Mobilidade](assets/brbMobilidade.png)
+<div align="center">
+    <p> Figura 7: Imagem do site BRB Mobilidade . Fonte: 
+        <a href="https://novo.brb.com.br/solucoes-de-governo/mobilidade">BRB Mobilidade</a>
+    </p> 
+</div>
+
 ## Bibliografia
-Instituto Federal de Brasília (IFB). IFB - Instituto Federal de Brasília. Disponível em: [https://www.ifb.edu.br/](https://www.ifb.edu.br/). Acesso em: 07 abr 2024.
+> Instituto Federal de Brasília (IFB). IFB - Instituto Federal de Brasília. Disponível em: [https://www.ifb.edu.br/](https://www.ifb.edu.br/). Acesso em: 07 abr 2024.
 
-Codeforces. Codeforces - Competitive Programming Community. Disponível em: [https://codeforces.com/](https://codeforces.com/). Acesso em: 07 abr 2024
+> Codeforces. Codeforces - Competitive Programming Community. Disponível em: [https://codeforces.com/](https://codeforces.com/). Acesso em: 07 abr 2024
 
-Fundação Oswaldo Cruz (Fiocruz). Portal Fiocruz. Disponível em: [https://portal.fiocruz.br/](https://portal.fiocruz.br/). Acesso em: 07 abr 2024.
+> Fundação Oswaldo Cruz (Fiocruz). Portal Fiocruz. Disponível em: [https://portal.fiocruz.br/](https://portal.fiocruz.br/). Acesso em: 07 abr 2024.
 
-Brasil. Instituto Nacional do Seguro Social (INSS). Disponível em: [https://www.gov.br/inss](https://www.gov.br/inss/pt-br). Acesso em: 07 abr 2024.
+> Brasil. Instituto Nacional do Seguro Social (INSS). Disponível em: [https://www.gov.br/inss](https://www.gov.br/inss/pt-br). Acesso em: 07 abr 2024.
 
-BRB. Passelivre - Mobilidade BRB. Disponível em: [https://mobilidade.brb.com.br/](https://mobilidade.brb.com.br/passelivre/pages/index.xhtml). Acesso em: 07 abr 2024.
+> BRB. Passelivre - Mobilidade BRB. Disponível em: [https://mobilidade.brb.com.br/](https://mobilidade.brb.com.br/passelivre/pages/index.xhtml). Acesso em: 07 abr 2024.
 
-BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
+> BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de versão
 
-Tabela 2: Histórico de versões da página de sites avaliados
-
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da revisão|
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  07/04  | Criação do documento |[Renata Quadros ](https://github.com/Renatinha28)|[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)| 07/04|
+| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |  Criação do documento                  |   [Renata Quadros ](https://github.com/Renatinha28)    |   07/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     07/04                 |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |

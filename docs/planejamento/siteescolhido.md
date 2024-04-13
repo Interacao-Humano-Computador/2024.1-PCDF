@@ -2,13 +2,13 @@
 
 ## Introdução
 
-Após a segunda reunião e conversas assíncronas, o grupo se interessou pelo site do INSS por seus diversos desafios encontrados na avaliação e por seguir os critérios de seleção.
+Após a apresentação decidimos escolher um site que não tinha sido avaliado por nenhum integrante do grupo o PCDF
 
-## INSS - Instituto Nacional do Seguro Social
-![INSS](assets/logoINSS.png)
+## PCDF- Policia Civil do Distrito Federal
+![PCDF](assets/PCDF.png)
 <br>
 <p align="center">
-  Figura 1 - Logo Oficial do INSS
+  Figura 1 - Logo Oficial da PCDF
 </p>
 
 ## Critérios para escolha
@@ -19,7 +19,7 @@ Após a segunda reunião e conversas assíncronas, o grupo se interessou pelo si
 
 ## Principais usuários do site
 
-1. **Aposentados:** são indivíduos que já cumpriram os requisitos legais para se aposentar e estão recebendo benefícios de aposentadoria do INSS. Eles utilizam o site para acessar informações sobre seu benefício, como valores, datas de pagamento, extratos de pagamento, e também para atualizar informações cadastrais, realizar solicitações de revisão de benefícios e obter orientações sobre questões relacionadas à sua aposentadoria.
+1. **Cidadãoes:** são indivíduos que já cumpriram os requisitos legais para se aposentar e estão recebendo benefícios de aposentadoria do INSS. Eles utilizam o site para acessar informações sobre seu benefício, como valores, datas de pagamento, extratos de pagamento, e também para atualizar informações cadastrais, realizar solicitações de revisão de benefícios e obter orientações sobre questões relacionadas à sua aposentadoria.
 
 2. **Pensionistas:** São pessoas que recebem pensões por terem sido dependentes de segurados falecidos que contribuíam para a Previdência Social. Eles utilizam o site para acessar informações sobre sua pensão, consultar extratos de pagamento, solicitar atualizações cadastrais, comunicar óbitos e obter orientações sobre questões relacionadas à pensão que recebem.
 
@@ -42,14 +42,14 @@ Após análise dos possíveis sites avaliados foi possível escolher o INSS por 
 
 > BARBOSA, Simone; DINIZ, Bruno. Interação Humano - Computador, Editora Elsevier, Rio de Janeiro, 2010.
 Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
+
 > Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS). Disponível em: https://www.gov.br/inss/pt-br. Acesso em: 01 de abril. de 2024.
 <br/>
 
 
 # Histórico de Versão 
 
-Tabela 1: Histórico de versões da página do site escolhido
-
-| <p align="center">Data</p> | <p align="center">Versão</p> | <p align="center">Descrição</p> | <p align="center">Autor(es)</p> |<p align="center">Data de revisão</p> | <p align="center"> Revisor(es)</p> |
-|:--: | :--: | :--: | :--: | :--: | :--:
-|06/04/2024 | '1.0' | Site escolhido | [Rayene](https://github.com/rayenealmeida)| 07/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)
+| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   |  Site escolhido                  |  [Rayene](https://github.com/rayenealmeida)    |   06/04   |       [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)     |     07/04                 |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Giovana Barbosa ](https://github.com/gio221)          |      12/04                |

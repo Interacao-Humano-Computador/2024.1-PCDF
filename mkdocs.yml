@@ -1,7 +1,7 @@
 repo_url: https://github.com/Interacao-Humano-Computador/2024.1-INSS/tree/main
-repo_name: 2024.1-INSS
+repo_name: 2024.1-PCDF
 
-site_name: INSS
+site_name: PCDF
 
 nav:
   - Home: index.md
@@ -17,6 +17,8 @@ nav:
     - Ferramentas: planejamento/ferramentas.md
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
+  - Análise de Requisitos I:
+    - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md  
 
 theme:
   name: material
@@ -41,6 +43,5 @@ theme:
         name: Mudar para o modo claro
   
   language: pt-BR
-  favicon: planejamento/assets/icon.png
-  logo: planejamento/assets/icon.png
-
+  favicon: planejamento/assets/PCDF.png
+  logo: planejamento/assets/PCDF.png
