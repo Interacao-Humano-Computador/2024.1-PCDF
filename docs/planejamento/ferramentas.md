@@ -17,6 +17,7 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/VSCode.svg" alt="VsCode" width=50px> | VsCode | IDE utilizada para o desenvolvimento do projeto.|
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="GitHub" width=50px> | GitHub | Utilizada para hospedar o repositório e a git page.  |
 | <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Excel.svg" alt="Google Planilhas" width=50px> | Google | Utilizado para fazer o Heatmap.  |
+| < img src= " " alt"Google Forms" width=50px | Google Forms|Utilizamos para fazer nossa pesquisa de usuários. 
 
  
   Detalhamento das ferramentas utilizadas durante o projeto 
@@ -25,15 +26,22 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 
 ### Referências bibliograficas
 
-[1] WHATSAPP. Disponível em:[Repositório ](https://github.com/gui-bus/TechIcons?tab=readme-ov-file.)  Acesso em: 05 de Abril de 2024.
+[1] WHATSAPP. Disponível em: [https://www.whatsapp.com/?lang=pt_br]().  Acesso em: 05 de Abril de 2024.
 
-[2] TEAMS. Disponível em:[Repositório ](https://github.com/gui-bus/TechIcons?tab=readme-ov-file.)  Acesso em: 05 de Abril de 2024.
+[2] TEAMS. Disponível em: [https://www.microsoft.com/pt-br/microsoft-teams/group-chat-software]().  Acesso em: 05 de Abril de 2024.
 
-[3] YOUTUBE. Disponível em: [Repositório ](https://github.com/gui-bus/TechIcons?tab=readme-ov-file.)  Acesso em: 05 de Abril de 2024.
+[3] YOUTUBE. Disponível em: [https://about.youtube/]().  Acesso em: 05 de Abril de 2024.
 
-[4] VSCODE. Disponível em: [Repositório ](https://github.com/gui-bus/TechIcons?tab=readme-ov-file.)  Acesso em: 05 de Abril de 2024.
+[4] VSCODE. Disponível em: [https://code.visualstudio.com/]().   Acesso em: 05 de Abril de 2024.
 
-[5] GITHUB. Disponível em: [Repositório ](https://github.com/gui-bus/TechIcons?tab=readme-ov-file.)  Acesso em: 05 de Abril de 2024.
+[5] GITHUB. Disponível em: [https://docs.github.com/pt]().   Acesso em: 05 de Abril de 2024.
+
+[6] PLANILHAS. Disponível em: [https://www.google.com/intl/pt-BR/sheets/about/](). Acesso em: 05 de Abril de 2024.
+
+[7] ICONS. Disponível em: [https://github.com/gui-bus/TechIcons?tab=readme-ov-file.]. Acesso em: 05 de Abril de 2024.
+
+[8] GOOGLE FORMS. Disponível em: [https://workspace.google.com/intl/pt-BR/lp/forms]. Acesso em: 12 de Abril de 2024.
+
 
 <br/>
 
@@ -43,4 +51,5 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Ferramentas utilizadas                 |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   05/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     06/04                 |
-|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)         |   12/04                   |
+|1.2| Adicionar Ferramentas | [Raissa Andrade](https://github.com/RaissaAndradeS)  | 12/04 | |
