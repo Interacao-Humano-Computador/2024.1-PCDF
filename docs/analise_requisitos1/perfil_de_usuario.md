@@ -7,10 +7,6 @@ Este documento visa documentar os perfis de usuários identificados durante o pr
 ## Metodologia
 A metodologia selecionada para definir o perfil do usuário foi a aplicação de um questionário, mostrado na [Tabela 1](#questionario), por meio da plataforma Google Forms, os quais foram compartilhados com grupos da sociedade do Distrito Federal. Considerando que os usuários do PCDF são residentes do DF, essa escolha se mostrou adequada. Antes de iniciar o questionário, os usuários são apresentados a um [termo de consentimento](#termo) com as opções "sim" e "não". Caso escolham "não", não é permitido prosseguir com o formulário.
 
-<a id="termo"></a>
-## Termo de consentimento
-Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação em que participarei, realizada pelo grupo de IHC referente ao site do PCDF, e concordo em participar voluntariamente como participante da referida avaliação. Entendo que minha participação envolve realizar atividades de interação com o sistema e responder a questionários. Fui esclarecido(a) de que posso interromper minha participação a qualquer momento, sem qualquer penalidade, e que todas as informações coletadas serão tratadas de forma confidencial, sendo utilizadas apenas para os fins da avaliação. Estou ciente de que poderei receber informações adicionais sobre o estudo após sua conclusão, se assim desejar, e que estou livre para retirar meu consentimento a qualquer momento, sem prejuízo algum. 
-
 <a id="questionario"></a>
 ## Questionário
 

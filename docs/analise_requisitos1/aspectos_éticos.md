@@ -11,6 +11,7 @@ Uma pesquisa baseada na ética precisa respeitar seus usuários, respeitando sua
 
 Um termo de consentimento é um documento legal utilizado quando envolve pesquisas com usuários reais, no qual uma pessoa expressa seu entendimento e concordância com determinadas informações, procedimentos ou ações. Esse documento geralmente contém informações sobre os objetivos do estudo ou procedimento, os possíveis benefícios e riscos envolvidos, os direitos do participante ou paciente, as medidas de segurança adotadas e a liberdade de retirar o consentimento a qualquer momento. Para ultilizar essa pesquisa montamos um termo de consentimento :
 
+
 ## Termo de Consentimento 
 Nosso termo de consentimento foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) 
 
