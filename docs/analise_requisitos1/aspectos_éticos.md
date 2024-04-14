@@ -15,7 +15,20 @@ Um termo de consentimento é um documento legal utilizado quando envolve pesquis
 ## Termo de Consentimento 
 Nosso termo de consentimento foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) 
 
-Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação em que participarei, realizada pelo grupo de IHC referente ao site do PCDF, e concordo em participar voluntariamente como participante da referida avaliação. Entendo que minha participação envolve realizar atividades de interação com o sistema e responder a questionários. Fui esclarecido(a) de que posso interromper minha participação a qualquer momento, sem qualquer penalidade, e que todas as informações coletadas serão tratadas de forma confidencial, sendo utilizadas apenas para os fins da avaliação. Estou ciente de que poderei receber informações adicionais sobre o estudo após sua conclusão, se assim desejar, e que estou livre para retirar meu consentimento a qualquer momento, sem prejuízo algum. 
+Somos estudantes de Engenharia de Software da turma de Interação Humano-Computador do semestre 2024.1, participando da atividade de avaliação IHC do site PCDF. Nesta etapa do projeto, buscamos compreender as opiniões dos usuários ou pessoas afetadas pelo sistema atual do PCDF e suas expectativas/experiências em relação ao sistema.
+Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização desse questionário. Para decidir
+sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
+
+* Os dados coletados durante a entrevista serão estritamente utilizados para análises relacionadas à Interação Humano-Computador do sistema PCDF.
+
+* Comprometemo-nos a divulgar os resultados da pesquisa aos participantes, respeitando a privacidade de cada um. O anonimato será mantido em todos os documentos elaborados.
+
+* O consentimento para participar da entrevista é voluntário e baseado em informações completas sobre a pesquisa.
+
+* Os participantes têm o direito de interromper sua participação a qualquer momento, sem penalidades.
+
+De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
+Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação conduzida pelo grupo de IHC referente ao site do PCDF. Concordo em participar voluntariamente como participante desta avaliação. Entendo que minha participação envolverá responder a questionários relacionados às funcionalidades do site PCDF. Fui esclarecido(a) de que posso interromper minha participação a qualquer momento, sem qualquer penalidade, e que todas as informações coletadas serão tratadas de forma confidencial, sendo utilizadas apenas para os fins da avaliação. Estou ciente de que poderei receber informações adicionais sobre o estudo após sua conclusão, se assim desejar, e que estou livre para retirar meu consentimento a qualquer momento, sem prejuízo algum.
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

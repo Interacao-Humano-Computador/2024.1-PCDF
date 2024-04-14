@@ -46,12 +46,12 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Planejamento de Pesquisa do Perfil dos Usuários |  Inicio: 12/04 Fim: 12/04|Giovana e Renata| Inicio: 12/04 Fim: 12/04|Rayene e Raissa|
-| Perfil dos Usuários |  Inicio: 12/04 Fim: 13/04|Rayene e Raissa| Inicio: 13/04 Fim: 13/04|João e Lara|
-| Definir Personas | Inicio:13/04 Fim: 14/04| João e Lara|   Inicio: 14/04 Fim: 14/04|Giovana e Renata|
+| Planejamento de Pesquisa do Perfil dos Usuários |  Inicio: 12/04 Fim: 14/04|Giovana e Renata| Inicio: 12/04 Fim: 14/04|Rayene e Raissa|
+| Perfil dos Usuários |  Inicio: 14/04 Fim: 15/04|Giovana| Inicio: 15/04 Fim: 15/04|João e Lara|
+| Definir Personas | Inicio:15/04 Fim: 16/04| João e Lara|   Inicio: 16/04 Fim: 16/04|Giovana e Renata|
 | Definir aspectos éticos |Inicio: 13/04 Fim: 15/04| Giovana | Inicio: 15/04 Fim: 15/04|Renata|
 | Termo de Consentimento |Inicio: 11/04 Fim: 12/04| Renata | Inicio: 12/04 Fim: 12/04|Giovana|
-| Análise de Tarefas- HTA | Inicio: 14/04 Fim: 16/04| Giovana e Renata | Inicio: 16/04 Fim: 16/04|Rayene e Raissa|
+| Análise de Tarefas- HTA | Inicio: 16/04 Fim: 18/04| Giovana e Renata | Inicio: 18/04 Fim: 18/04|Rayene e Raissa|
 | Análise de Tarefas- GOMS| Inicio: 16/04 Fim: 18/04| Rayene e Raissa| Inicio: 18/04 Fim: 18/04|João e Lara|
 | Pesquisar Cenários| Inicio: 18/04 Fim: 19/04| João e Lara| Inicio: 19/04 Fim: 19/04|Giovana e Renata |
 | Definir Cenários | Inicio: 19/04 Fim: 20/04| Giovana e Renata | Inicio: 20/04 Fim: 20/04|Rayene e Raissa|
