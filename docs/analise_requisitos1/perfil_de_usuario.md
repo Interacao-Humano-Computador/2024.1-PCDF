@@ -5,7 +5,7 @@ O perfil do usuário é elaborado a partir da coleta de informações por meio d
 Este documento visa documentar os perfis de usuários identificados durante o processo de pesquisa. A partir desses perfis, será possível criar as personas correspondentes.
 
 ## Metodologia
-A metodologia selecionada para definir o perfil do usuário foi a aplicação de um questionário, mostrado na [Tabela 1](#questionario), por meio da plataforma Google Forms, os quais foram compartilhados com grupos da sociedade do Distrito Federal. Considerando que os usuários do PCDF são residentes do DF, essa escolha se mostrou adequada. Antes de iniciar o questionário, os usuários são apresentados a um [termo de consentimento](#termo) com as opções "sim" e "não". Caso escolham "não", não é permitido prosseguir com o formulário.
+A metodologia selecionada para definir o perfil do usuário foi a aplicação de um questionário, mostrado na [Tabela 1](#questionario), por meio da plataforma Google Forms, os quais foram compartilhados com grupos da sociedade do Distrito Federal. Considerando que os usuários do PCDF são residentes do DF, essa escolha se mostrou adequada. Antes de iniciar o questionário, os usuários são apresentados a um termo de consentimento com as opções "sim" e "não". Caso escolham "não", não é permitido prosseguir com o formulário.
 
 <a id="questionario"></a>
 ## Questionário
