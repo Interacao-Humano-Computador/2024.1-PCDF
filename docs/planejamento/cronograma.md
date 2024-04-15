@@ -1,6 +1,6 @@
 ## Informações
 
-Este documento tem objetivo de apresentar o cronograma que o grupo espera ultilizar para entregar os artefatos da disciplina
+Este documento tem objetivo de apresentar o cronograma que planejampos e que o grupo espera ultilizar para entregar os artefatos da disciplina
 
 #
 
@@ -24,22 +24,6 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 | Grava Video da Apresentação |  Inicio: 06/04 Fim: 07/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 07/04 Fim: 07/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega   |  Inicio: 09/04 Fim: 12/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 12/04 Fim: 13/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 
-### executado
-    Esta tabela descreve o  planejamento executado da etapa 1
-
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Montar git pages |  Inicio:27/03 Fim:31/03   | Lara     |inicio 27/03 Fim: 29/03 | Giovana |
-| Documentar Equipe |  Inicio: 01/04 Fim:03/04   |Giovana  | inicio 04/04 Fim: 07/04 |Lara |
-| Ferramentas do Projeto |  Inicio: 04/04 Fim: 06/04   |Raissa  |inicio 04/04 Fim: 07/04 |Giovana e Rayene|
-| Heatmap do projeto |  Inicio: 04/04 Fim: 06/04   | Rayene|inicio 04/04 Fim: 07/04 |Giovana e Raissa|
-| Documentar site escolhido|  Inicio: 06/04 Fim: 07/04   | Rayene |inicio 06/04 Fim: 07/04 | Giovana|
-| Seleção de sites individuais |  Inicio: 25/03 Fim:07/04   | Renata  | inicio 04/04 Fim: 07/04 |Giovana|
-| Processo de design |  Inicio: 01/04 Fim:07/04  | Lara     | inicio 07/04 Fim: 07/04 |João Pedro|
-| Montar cronograma |  Inicio: 03/04 Fim: 06/04  |Giovana |inicio 06/04 Fim: 07/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
-| Responder perguntas |  Inicio: 03/04 Fim: 06/04  |João |inicio 06/04 Fim: 07/04 |Giovana|
-| Grava Video da Apresentação |  Inicio: 06/04 Fim: 07/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 07/04 Fim: 07/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
-| Correção pós entrega   |  Inicio: 09/04 Fim: 12/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 12/04 Fim: 13/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 
 ## Etapa 2: Perfil do usuário
     Esta tabela descreve as atividades planejadas da etapa 2
@@ -66,11 +50,13 @@ Este documento tem objetivo de apresentar o cronograma que o grupo espera ultili
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
- Princípios gerais do projeto | Início: 22/04 Fim: 24/04 | Lara e Renata   | Início: 24/04 Fim: 26/04 | Rayene |
-| Metas de usabilidade          | Início: 23/04 Fim: 25/04 | Giovana e Raissa   | Início: 25/04 Fim: 26/04 | Lara   |
-| Guia de estilo  | Início: 24/04 Fim: 26/04 | João Pedro e Rayene | Início: 26/04 Fim: 28/04 | Renata   |
-| Cracteristicas do site | Início: 26/04 Fim: 27/04 | Giovana e Renata | Início: 27/04 Fim: 28/04 | Raissa   |
-| Perguntas do site | Início: 26/04 Fim: 27/04 | Rayene | Início: 27/04 Fim: 28/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+ Princípios gerais do projeto | Início: 22/04 Fim: 24/04 | Lara e Renata   | Início: 24/04 Fim: 24/04 | Giovana e Rayene |
+| Verificação dos Princípios gerais do projeto   | Início: 23/04 Fim: 25/04 | Giovana e Rayene  | Início: 25/04 Fim: 26/04 | Lara   |
+| Metas de usabilidade          | Início: 22/04 Fim: 24/04 | Giovana e Rayene   | Início: 24/04 Fim: 24/04 | João Pedro e Raissa   |
+| Guia de estilo  | Início: 24/04 Fim: 26/04 | João Pedro e Raissa | Início: 26/04 Fim: 28/04 | Renata   |
+| Verificação da Guia de estilo  | Início: 24/04 Fim: 26/04 |Lara e Renata  | Início: 26/04 Fim: 28/04 | Lara e Renata    |
+| Cracteristicas do site | Início: 26/04 Fim: 27/04 | Lara e Renata  | Início: 27/04 Fim: 27/04 | Giovana   |
+| Perguntas do site | Início: 26/04 Fim: 27/04 | Giovana| Início: 27/04 Fim: 28/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Gravar Apresentação| Início: 30/04 Fim: 31/04 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 31/04 Fim: 31/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 29/04 Fim: 01/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 01/05 Fim: 01/05 | Giovana, João, Lara, Raissa, Rayene e Renata    |
 

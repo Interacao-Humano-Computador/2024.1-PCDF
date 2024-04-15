@@ -18,30 +18,59 @@ O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros]
 
 | Pergunta | Alternativas | Resultados |
 |----------|--------------|-----------|
-| 1- Qual seu sexo? | Feminino, Masculino, Outros, Prefiro não identificar | Feminino = 5 (22,7%), Masculino = 17 (77,3%) |
-| 2- Onde você mora? | DF, Outros | Distrito Federal = 20 (90,9%), Outro = 2 (9,1%) |
-| 3- Qual sua idade? | 18-25, 26-35, 36-45, 46-60, 60+, Prefiro não informar |
-| 4- Qual seu status socioeconômico? | Baixo, Médio, Alto, Prefiro não informar |
-| 5- Qual seu grau de instituição? | Ensino Médio Incompleto, Ensino Médio Completo, Graduando, Graduação Completa, Pós-Graduação Completa, Prefiro não informar |
-| 6- Você costuma utilizar o computador com que frequência? | Alta, Média, Baixa, Nenhuma |
-| 7- Você já utilizou o site da Polícia Civil de outros estados além do DF? | Sim, Não, Não me lembro |
+| 1- Qual seu sexo? | Feminino, Masculino, Outros, Prefiro não identificar | Feminino = 4 (36,4%), Masculino = 7 (63,6%) |
+| 2- Onde você mora? | DF, Outros | Distrito Federal = 10 (90,9%), Outro = 1 (9,1%) |
+| 3- Qual sua idade? | 18-25, 26-35, 36-45, 46-60, 60+, Prefiro não informar |18- 25- 7(63,6%) ,26-35- 2(18,2%) ,36-45 – 1(9,1%) ,46-60 – 1(9,1%) 
+| 4- Qual seu status socioeconômico? | Baixo, Médio, Alto, Prefiro não informar |Médio - 9(81,8%), Prefiro não dizer- 2(18,2%) 
+| 5- Qual seu grau de instituição? | Ensino Médio Incompleto, Ensino Médio Completo, Graduando, Graduação Completa, Pós-Graduação Completa, Prefiro não informar |Graduação Completa- 5(45,5%) , Graduando – 4(96,4%), ensino medio completo –1(9,1%), pós graduação completa –1(9,1%) 
+| 6- Você costuma utilizar o computador com que frequência? | Alta, Média, Baixa, Nenhuma |Alta- 5(45,5 %), média-5(45,4%), nenhuma- 1(9,1%) 
+| 7- Você já utilizou o site da Polícia Civil de outros estados além do DF? | Sim, Não, Não me lembro |Não-9(81,8%) , Sim 2(18,2%) 
 | 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? | Aberta |
-| 9- Você já utilizou o site do PCDF (Polícia Civil)? | Sim, Não, Não lembro | Sim = 13 (59,1%), Não = 7 (31,8%), Não lembro = 2 (9,1%) |
+| 9- Você já utilizou o site do PCDF (Polícia Civil)? | Sim, Não, Não lembro |Não -5(45,5%), sim 5(45,5%), não lembro 1(9,1%)  |
 | 10- Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? | Aberta |
-| 11- Você sabia que no site do PCDF você consegue pesquisar "procurados"? | Sim, Não | Sim = 3 (13,6%), Não = 19 (86,4%) |
-| 12- Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | Sim, Não | Sim = 2 (9,1%), Não = 20 (90,9%) |
-| 13- Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | Sim, Não || Sim = 2 (9,1%), Não = 20 (90,9%) |
-| 14- Você já precisou bloquear algum aparelho celular roubado? | Sim, Não | Sim = 6 (27,3%), Não = 16 (72,7%) |
-| 15- Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta | Sim = 2 (9,1%), Não = 20 (90,9%) |
-| 16- Você já solicitou sua carteira de identidade pelo site do PCDF? | Sim, Não | Sim = 11 (50,0%), Não = 11 (50,0%) |
-| 17- Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência | Aberta | Sim = 7 (31,8%), Não = 15 (68,2%) |
-| 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência. | Aberta | Sim = 5 (22,7%), Não = 17 (77,3%) |
-| 19- Você já teve alguma experiência positiva com o site do PCDF? Conte sua experiência. | Aberta | 
+| 11- Você sabia que no site do PCDF você consegue pesquisar "procurados"? | Sim, Não | Não- 8 (72,7%), Sim 3(27,3%) |
+| 12- Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | Sim, Não | Não 7(63,6%) , sim 4(36,4%) |
+| 13- Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | Sim, Não || Não 9(81,8%), sim2(18,2%) |
+| 14- Você já precisou bloquear algum aparelho celular roubado? | Sim, Não |Não 9(81,8%), sim2(18,2%)  |
+| 15- Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta |Não 10(90,9%), sim 1(9,1%) |
+| 16- Você já solicitou sua carteira de identidade pelo site do PCDF? | Sim, Não | Não 9(81,8%), sim2(18,2%)  |
+| 17- Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência | Aberta |Não- 8 (72,7%), Sim 3(27,3%)  |
+| 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência. | Aberta | Não 9(81,8%), sim2(18,2%) |
+| 19- Você já teve alguma experiência positiva com o site do PCDF? sim ou não.Conte sua experiência. | Sim3(60%), não(40%) | 
 | 20- Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? | Aberta |
-| 21- Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta | Sim = 9 (45%), Não = 11 (55%) |
+| 21- Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta | Não 7(63,6%), sim4(36,4%)  |
 
-* [Link para o questionário](https://docs.google.com/forms/d/e/1FAIpQLSfO7OqbRxhoiEoQk7-0qiQzQZzC24xAqTq4D2tr4YdfbBNRpg/viewform) 
+* [Link para o questionário](https://forms.gle/ygLr47FcAAuM8dum8) 
 
+## Relatos das Questões Abertas 
+
+### 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? 
+ De 11 usuários a maioria disse que espera encontra praticidade e facilidade 
+
+### 10- Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? 
+ De 11 usuários a maioria disse que o que mais ultilizou ou pensa que vá ultilizar algum dia, e a funcionalidade de registra boletim de ocorrência
+
+### 15 -Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta 
+De 11 usuários um 1 usuário contou sua experiência:
+"Na época o site não funcionava, a página expirava e precisava colocar todos os meus dados novamente"
+
+### 17-Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência
+De 11 usuários um 1 usuário contou sua experiência:
+"Igualmente a minha experiência com bloqueio de telefone, site expirava e as informações sumiam, tive que repetir o processo algumas vezes."
+
+### 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência.
+De 11 usuários um 1 usuário contou sua experiência:
+"Achei confuso"
+
+### 19- Você já teve alguma experiência positiva com o site do PCDF? sim ou não.Conte sua experiência.
+De 11 usuários um 1 usuário contou sua experiência:
+"Quando precisei, não tive problemas com o site."
+
+### 20- Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? 
+De 11 usuários um 2 usuários contou sua experiência:
+"Não, o site as vezes utiliza termos que não reconheço facilmente e algumas funções ficam um pouco escondidas "
+
+"Sim, não tive dificuldades para achar o que precisava"
 <a id="analise_competitiva"></a>
 ## Análise Competitiva
 A análise competitiva  foi realizada pela integrante [Renata Quadros](https://github.com/Renatinha28), comparando o [PCDF](#analise_competitiva-pcdf) com os sites da [Polícia Civil do Goiás](#analise_competitiva-pcg) e de [São Paulo](#analise_competitiva-pcsp).
@@ -136,63 +165,6 @@ Com base na análise competitiva dos sites da Polícia Civil do Distrito Federal
 4. **Interatividade:** Considerar a implementação de um chat ao vivo para uma comunicação mais direta e instantânea com os usuários, além de facilitar o fornecimento de feedback e relato de problemas.
 
 Ao incorporar essas melhorias, o site da Polícia Civil do Distrito Federal pode oferecer uma experiência ainda mais completa e satisfatória aos seus usuários, promovendo a acessibilidade e interatividade, além de fornecer informações valiosas e serviços úteis de forma eficaz.
-
-## Relatos das Questões Abertas 
-
-### Questão 8 - Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência.
-De 22 usuários, 2 relataram essa questão, sendo:
-
-Usuário 15 - "Quando fui roubado, registrei um boletim de ocorrência online, efetuei o bloqueio online."
-
-Usuário 22 - " Fiz uma ocorrência de roubo, informei ao IMEI do celular, no mesmo dia foi bloqueado."
-
-## Questão 10 - Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência.
-De 22 usuários, 5 pessoas relataram essa questão, sendo: 
-
-Usuário 8 -  "Tranquila e rápida."
-
-Usuário 15 - "Já registrei uma ocorrência de roubo, o site bugou em alguns inputs mas nada demais, funcionou ok."
-
-Usuário 16 - "Um uber bateu no meu carro quando eu estava saindo do balão, ele admitiu que estava errado e depois eu fiz o boletim para garantir."
-
-Usuário 17 - "Perdi meu passe livre estudantil e fiz um BO."
-
-Usuário 18 - "Foi questão de agressão."
-
-Usuário 22 - "Tranquilo, sem dificuldades."
-
-## Questão 11 - Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência.
-De 22 usuários, 5 pessoas relataram essa questão, sendo:
-
-Usuário 6 - "É muito dificil de conseguir agendar para tirar a identidade no site. Ele da um prazo de uns 10 minutos pra concluir a validação do email mas o codigo nunca chega dentro desses 10 minutos. Passei uma tarde pra conseguir agendar a identidade nova, no final das contas, tive que agendar um lugar que não queria porque o que eu queria se esgotou (mesmo eu tendo entrado na hora correta e tentado agendar). A experiencia foi negativa com o site."
-
-Usuário 11 - "Muita espera na hora de fazer nova identidade."
-
-Usuário 14 - "Dificuldade em agendar para nova via da carteira de identidade."
-
-Usuário 16 - "Pra solicitar revovação de carteira o site é uma porcaria."
-
-Usuário 17 - "Dificuldade de agendar segunda via da identidade."
-
-## Questão 12 - Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? porque utilizou/utiliza o site?
-
-De 22 usuários, 8 pessoas deram seu relato: 
-
-Usuário 4 - "Para fazer ocorrência."
-
-Usuário 6 -"Solicitar identidade."
-
-Usuário 8 - "Registrar BO."
-
-Usuário 9 - "Emitir a segunda via da identidade."
-
-Usuário 12 - "A pessoa foi furtada e utilizou o site para fazer a ocorrência."
-
-Usuário 14 - "Carteira de identidade digital e registro de BO."
-
-Usuário 17 - "Fazer vias de identidade."
-
-Usuário 22 - "Agendar carteira de identidade, solicitar antecedentes e fazer ocorrencia."
 
 
 

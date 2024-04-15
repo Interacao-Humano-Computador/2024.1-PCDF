@@ -15,14 +15,19 @@ nav:
       - Reunião 4: reunioes/reuniao04.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
+    - Cronograma Executado: planejamento/cronograma_executado.md
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/sitesAvaliados.md
     - Ferramentas: planejamento/ferramentas.md
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
   - Análise de Requisitos I:
+    - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md 
+    - Personas: analise_requisitos1/personas.md
     - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
-    - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md  
+    - Cenários : analise_requisitos1/cenarios.md
+    - Análise de Tarefas - HTA: analise_requisitos1/analise_tarefas-HTA
+
 
 theme:
   name: material
