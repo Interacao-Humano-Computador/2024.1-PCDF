@@ -27,7 +27,7 @@ Navegação inconsistente:
 
 * Justificativa: O cadastro de estágio está na parte de extensão sendo que existe a parte de estágio
 
-![Site IFB](assets/ifb.png)
+![Site IFB](../assets/planejamento/ifb.png)
 <div align="center">
     <p> Figura 1: Imagem do site do IFB . Fonte: 
         <a href="https://www.ifb.edu.br/">Instituto Federal de Brasília</a>
@@ -38,7 +38,7 @@ Navegação inconsistente:
 ## Codeforces 
 O responsável por avaliar o site foi o João Pedro Ferreira Alves. O Coderforces é uma plataforma de competições de programação. Competições são hospedadas na plataforma regularmente e as habilidades dos participantes são medidas pela sua classificação. Foram avaliados o cadastro de usuário e o processo de identificar e enviar soluções de exercícios. O site demonstrou bastante facilidade de interação com o usuário, levando em conta que o perfil de usuário padrão da plataforma é uma pessoa que utiliza diariamente diversos sites e por consequência tem alto nível de experiência em navegação web. Não foram encontradas violações de diretrizes.
 
-![Site Codeforces](assets/codeforces.png)
+![Site Codeforces](../assets/planejamento/codeforces.png)
 <div align="center">
     <p> Figura 2: Imagem do site do Codeforces . Fonte: 
         <a href="https://codeforces.com/">Codeforces</a>
@@ -64,7 +64,7 @@ A responsável por avaliar o site do MPF foi a Lara. A avaliação teve a finali
 De acordo com a escala de severidade de Nielsen, ambos os problemas serão avaliados como grandes, pois “prejudica fatores de usabilidade tidos como importantes
 para o projeto”.
 
-![Site MPF](assets/mpf.png)
+![Site MPF](../assets/planejamento/mpf.png)
 <div align="center">
     <p> Figura 3: Imagem do site do MPF . Fonte: 
         <a href="https://www.mpf.mp.br/">MPF</a>
@@ -90,7 +90,7 @@ Integrante responsável por avaliar o site da FioCruz foi a Raissa Andrade.  A a
 
 * [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221035077_aluno_unb_br/EeCza7jpg0REhleUbRb_JyQBfUHfac3MwTlBtm_ZKW216g?e=rweccl)     
 
-![Site Fiocruz](assets/fiocruz.png)
+![Site Fiocruz](../assets/planejamento/fiocruz.png)
 <div align="center">
     <p> Figura 4: Imagem do site Fiocruz . Fonte: 
         <a href="https://portal.fiocruz.br/">Fiocruz</a>
@@ -143,13 +143,13 @@ Problemas Técnicos ao Preencher Formulários Online:
   
 * [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
 
-![Site INSS](assets/inss.png)
+![Site INSS](../assets/planejamento/inss.png)
 <div align="center">
     <p> Figura 5: Imagem do site INSS . Fonte: 
         <a href="https://www.gov.br/inss/pt-br">INSS</a>
     </p> 
 </div>
-![Site Meu INSS](assets/meuinss.png)
+![Site Meu INSS](../assets/planejamento/meuinss.png)
 <div align="center">
     <p> Figura 6: Imagem do site Meu INSS . Fonte: 
         <a href="https://meu.inss.gov.br">Meu INSS</a>
@@ -182,7 +182,7 @@ Problema de acessibilidade para idosos:
 
 * [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/211063013_aluno_unb_br/EQOdnl0h7UFAn5nB8uInoLIBsb5lDhGhtDy3TIE-AELiGw?e=3KB1D5)
 
-![Site BRB Mobilidade](assets/brbMobilidade.png)
+![Site BRB Mobilidade](../assets/planejamento/brbMobilidade.png)
 <div align="center">
     <p> Figura 7: Imagem do site BRB Mobilidade . Fonte: 
         <a href="https://novo.brb.com.br/solucoes-de-governo/mobilidade">BRB Mobilidade</a>

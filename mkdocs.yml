@@ -12,16 +12,27 @@ nav:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
       - Reunião 3: reunioes/reuniao03.md
+      - Reunião 4: reunioes/reuniao04.md
   - Planejamento:
     - Cronograma: planejamento/cronograma.md
+    - Cronograma Executado: planejamento/cronograma_executado.md
     - Heatmap: planejamento/heatmap.md
     - Sites Avaliados: planejamento/sitesAvaliados.md
     - Ferramentas: planejamento/ferramentas.md
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
   - Análise de Requisitos I:
+    - Perfil do Usuário:
+        - Questionário: analise_requisitos1/perfil_do_usuario/questionario.md
+        - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
+        - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
+    - Personas: analise_requisitos1/personas.md
     - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
-    - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md  
+    - Cenários : analise_requisitos1/cenarios.md
+    - Análise de tarefas:
+        - Análise Hierárquica de Tarefas: analise_requisitos1/analise_tarefas/hta.md
+        - GOMS:  analise_requisitos1/analise_tarefas/goms.md
+    - Requisitos: analise_requisitos1/Requisitos.md
 
 theme:
   name: material
@@ -46,5 +57,5 @@ theme:
         name: Mudar para o modo claro
   
   language: pt-BR
-  favicon: planejamento/assets/PCDF.png
-  logo: planejamento/assets/PCDF.png
+  favicon: assets/planejamento/PCDF.png
+  logo:    assets/planejamento/PCDF.png

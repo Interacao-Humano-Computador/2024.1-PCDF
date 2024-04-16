@@ -8,7 +8,7 @@ Alguns dos processos a serem escolhidos pela equipe foram:
 
 O processo de design simples é uma abordagem para criar soluções de design de forma eficiente e direta, concentrando-se nos princípios fundamentais do design e na resolução de problemas de maneira clara e concisa. Por ser um processo simples, qualque pessoas mesmo sem muita experiência pode utilizá-lo. Entretanto, também por ser simples e não muito detalhado, indivíduos não muito experientes poderão encontrar dificuldades nos artefatos a serem produzidos.
 
-![Cilo de Design Simples](assets/ciclo-simples.png)
+![Cilo de Design Simples](../assets/planejamento/ciclo-simples.png)
 <div align="center">
 <p> Figura do Ciclo de Vida Simples </p> 
 </div>
@@ -19,7 +19,7 @@ O processo de design simples é uma abordagem para criar soluções de design de
 O modelo de Ciclo de Vida Estrela foi proposto em 1989 por Hartson e Hix e é composto por seis atividades: análise de tarefas, especificação de requisitos, projeto conceitual e formal, prototipação, implementação e avaliação. Este modelo privilegia a liberdade no começo do processo de design, pois permite que o processo de design tenha início em qualquer uma dessas etapas, o que pode ser ruim para indivíduos pouco experientes, por não serem muito detehadas as tarefas. "A atividade de avaliação aparece no modelo como central, e é de fato desdobrada na
 avaliação dos resultados de cada uma das demais atividades"(Barbosa e Silva, 2010).
 
-![Cilo de Vida em Estrela](assets/ciclo-estrela.png)
+![Cilo de Vida em Estrela](../assets/planejamento/ciclo-estrela.png)
 <div align="center">
 <p> Figura do Ciclo de Vida em Estrela</p> 
 </div>
@@ -43,7 +43,7 @@ Nielsen (1993) propõe um conjunto de atividades (dez, no total) que devem ocorr
 Este modelo, proposto por Deborah Mayhwew, orienta indíviduos com um conjunto de tarefas num fluxo de controle com três fases principais: análise de
 requisitos, design/avaliação/desenvolvimento e instalação. Nesse processo as atividades são bem detalhadas e possuem perguntas (passos de validação) no fluxo de controle geral, importantes para validação de cada um dos artefatos. O que é bom para indivíduos menos experientes.
 
-![Engenharia de Usabilidade de Mayhew](assets/ciclo-eng-mayhew.png)
+![Engenharia de Usabilidade de Mayhew](../assets/planejamento/ciclo-eng-mayhew.png)
 <div align="center">
 <p> Figura do Ciclo de Engenharia de Usabilidade de Mayhew</p> 
 </div>
