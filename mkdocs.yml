@@ -26,8 +26,7 @@ nav:
     - Personas: analise_requisitos1/personas.md
     - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
     - Cenários : analise_requisitos1/cenarios.md
-    - Análise de Tarefas - HTA: analise_requisitos1/analise_tarefas-HTA
-
+    - Análise de Tarefas HTA: analise_requisitos1/analise_tarefas-HTA.md
 
 theme:
   name: material

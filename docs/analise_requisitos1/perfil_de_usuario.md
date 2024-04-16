@@ -41,7 +41,6 @@ O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros]
 | 21- Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta | Não 7(63,6%), sim4(36,4%)  |
 
 * [Link para o questionário](https://forms.gle/ygLr47FcAAuM8dum8) 
-
 ## Relatos das Questões Abertas 
 
 ### 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? 
@@ -71,6 +70,10 @@ De 11 usuários um 2 usuários contou sua experiência:
 "Não, o site as vezes utiliza termos que não reconheço facilmente e algumas funções ficam um pouco escondidas "
 
 "Sim, não tive dificuldades para achar o que precisava"
+
+
+* [Link para as respostas do questionário](https://unbbr-my.sharepoint.com/:w:/g/personal/221031283_aluno_unb_br/EUdx-Sx2PxFOreYTmqcwr3MBC0LFARqifSpUmR2zv9NKew?e=wQjDHI)
+
 <a id="analise_competitiva"></a>
 ## Análise Competitiva
 A análise competitiva  foi realizada pela integrante [Renata Quadros](https://github.com/Renatinha28), comparando o [PCDF](#analise_competitiva-pcdf) com os sites da [Polícia Civil do Goiás](#analise_competitiva-pcg) e de [São Paulo](#analise_competitiva-pcsp).
@@ -167,19 +170,32 @@ Com base na análise competitiva dos sites da Polícia Civil do Distrito Federal
 Ao incorporar essas melhorias, o site da Polícia Civil do Distrito Federal pode oferecer uma experiência ainda mais completa e satisfatória aos seus usuários, promovendo a acessibilidade e interatividade, além de fornecer informações valiosas e serviços úteis de forma eficaz.
 
 
-
 ## Resultado do Grupo 
 
 Nosso questionário foi composto por 12 perguntas de sim ou não e questões abertas. O foco do nosso questionário foi em saber se as pessoas já usaram o site da PCDF e se sabiam de algumas funcionalidades. 
-A maioria dos participantes são do sexo masculino, residentes do Distrito Federal, e de acordo com os resultados das perguntas a maioria não utiliza ou não sabia das funcionalidades presentes no site do PCDF. 
+A maioria dos participantes são do sexo masculino, residentes do Distrito Federal, e de acordo com os resultados das perguntas a maioria nã o utiliza ou não sabia das funcionalidades presentes no site do PCDF. 
+De forma resumida classificamos assim:
+    
+    Gênero: Em sua maioria masculino.
+    Idade: Entre 18 e 25 anos.
+    Experiência: Experiencia alta com tecnologia
+    Atitudes: Tecnófilos.
+    Tarefas primárias: Registro de Boletim de Ocorrência
+
+
 
 **Tabela 1** - Perfis com as características priorizadas.
 
 | Papel                                    |                  Usuário                  |               |
 | ---------------------------------------- | :---------------------------------------: | :-----------: |
 | Perfil                                   |                     A                     |       B       |
-| Percentual de pessoas que já ultilizaram o site    |                 59,1%                   |    31,8%    |
-| Número de usuários no perfil (total: 54) |                    13                     |       7       |
+| Percentual de pessoas que já ultilizaram o site    |                 81,8%                   |    18,2%    |
+| Número de usuários no perfil (total: 11) |                    9                     |       2       |
+|Faixa Etária                              |                18 a 35 anos              |       35 a 60 anos       |
+|Experiência com tecnologia                |                   alta                     |     baixa     |
+| já utilizou o site da Polícia Civil de outros estados além do DF |                   sim                    |       não     |
+
+
 
 
 ## Bibliografia 
@@ -198,4 +214,5 @@ A maioria dos participantes são do sexo masculino, residentes do Distrito Feder
 |  1.0   | Planejamento do perfil de usuários                   |   [Renata Quadros](https://github.com/Renatinha28),[Giovana Barbosa ](https://github.com/gio221)      |   12/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)        |           13/04           |
 |1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
 |1.2| Tabela do perfil dos usuários|[Giovana Barbosa ](https://github.com/gio221) | 13/04 | [Renata Quadros](https://github.com/Renatinha28) | 14/04 |
-| 2.0 | Ajustes e análise competitiva | [Renata Quadros](https://github.com/Renatinha28) | | |
+| 2.0 | Ajustes e análise competitiva | [Renata Quadros](https://github.com/Renatinha28) |14/04|[Giovana Barbosa ](https://github.com/gio221)  |14/04 |
+| 21 | Analise do perfil do usuário | [Giovana Barbosa ](https://github.com/gio221)  |15/04 |||
