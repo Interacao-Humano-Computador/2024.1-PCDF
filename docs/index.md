@@ -2,7 +2,7 @@ Este repositório contém a documentação de todos os artefatos que serão entr
 
 ## Sobre o projeto
 
-![PCDF](planejamento/assets/PCDF.png)
+![PCDF](assets/planejamento/PCDF.png)
 <div align="center">
 <p> Figura 1 - Logo do site  </p> 
 </div>

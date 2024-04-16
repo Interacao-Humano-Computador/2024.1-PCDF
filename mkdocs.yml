@@ -22,11 +22,17 @@ nav:
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
   - Análise de Requisitos I:
-    - Perfil de usuário: analise_requisitos1/perfil_de_usuario.md 
+    - Perfil do Usuário:
+        - Questionário: analise_requisitos1/perfil_do_usuario/questionario.md
+        - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
+        - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
     - Personas: analise_requisitos1/personas.md
     - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
     - Cenários : analise_requisitos1/cenarios.md
-    - Análise de Tarefas HTA: analise_requisitos1/analise_tarefas-HTA.md
+    - Análise de tarefas:
+        - Análise Hierárquica de Tarefas: analise_requisitos1/analise_tarefas/hta.md
+        - GOMS:  analise_requisitos1/analise_tarefas/goms.md
+    - Requisitos: analise_requisitos1/Requisitos.md
 
 theme:
   name: material
