@@ -2,14 +2,15 @@ Este repositório contém a documentação de todos os artefatos que serão entr
 
 ## Sobre o projeto
 
-![PCDF](assets/planejamento/PCDF.png)
-<div align="center">
-<p> Figura 1 - Logo do site  </p> 
-</div>
-Fonte : [Site do PCDF](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.pcdf.df.gov.br/&ved=2ahUKEwjknvj1h8CFAxU0qpUCHf67AaoQFnoECAcQAQ&usg=AOvVaw3zwQE4exNGIBXhLxbD3GIz)
+<p style="text-align: center">Figura 1 - Logo da PCDF  </p> 
 
 
-O objetivo do projeto é aplicar os conhecimentos vistos em aula na avaliação de IHC do site do PCDF, logo em cima temos a fgiura 1 monstrando a logo da PCDF. O PCDF é um site da Polícia Civil do Distrito Federal, que tem como objetivo proporcionar comodidade ao registrar e obter ocorrências policiais que podem ser feitas pela Internet. No site é possível encontrar informações relevantes, atendimentos aos cidadãos, notícias da imprensa atualizadas entre outros.  
+<p style="text-align: center"><img src="assets/planejamento/PCDF.png"></p>
+
+
+<p style="text-align: center"><a href="https://www.pcdf.df.gov.br/">Fonte: Site da PCDF</a></p>
+
+O objetivo do projeto é aplicar os conhecimentos vistos em aula na avaliação de IHC do site do PCDF, logo em cima temos a figura 1 mostrando a logo da PCDF. O PCDF é um site da Polícia Civil do Distrito Federal, que tem como objetivo proporcionar comodidade ao registrar e obter ocorrências policiais que podem ser feitas pela Internet. No site é possível encontrar informações relevantes, atendimentos aos cidadãos, notícias da imprensa atualizadas entre outros.  
 ## Equipe
 
 <table>
@@ -31,4 +32,4 @@ Tabela 1: Histórico de versões da página Home
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          | Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: | 
 | 1.0 |  03/04  | Criação da Home |[Giovana Barbosa ](https://github.com/gio221)|[João Pedro Ferreira](https://github.com/JoaoODragonborn)| 09/04 |
-| 2.0 |  03/04  | Mudança no site |[Giovana Barbosa ](https://github.com/gio221)|| |
+| 2.0 |  03/04  | Mudança no site |[Giovana Barbosa ](https://github.com/gio221)|[João Pedro Ferreira](https://github.com/JoaoODragonborn)|16/04|
