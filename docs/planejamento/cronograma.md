@@ -39,8 +39,6 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Análise de Tarefas- GOMS| Inicio: 16/04 Fim: 18/04| Rayene e Raissa| Inicio: 18/04 Fim: 18/04|João e Lara|
 | Pesquisar Cenários| Inicio: 18/04 Fim: 19/04| João e Lara| Inicio: 19/04 Fim: 19/04|Giovana e Renata |
 | Definir Cenários | Inicio: 19/04 Fim: 20/04| Giovana e Renata | Inicio: 20/04 Fim: 20/04|Rayene e Raissa|
-| Pesquisa sobre o planejamento de requisitos | Inicio: 18/04 Fim: 19/04| Rayene e Raissa | Inicio: 19/04 Fim: 19/04|João e Lara|
-| Levantar os requisitos | Inicio: 19/04 Fim: 21/04| João e Lara | Inicio: 21/04 Fim: 21/04|Giovana e Renata|
 | Responder perguntas | Inicio: 21/04 Fim: 21/04|Giovana| Inicio: 21/04 Fim: 21/04|Renata|
 | Gravação da apresentação | Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata| Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega  | Inicio: 22/04 Fim: 25/04|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
@@ -51,11 +49,10 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
  Princípios gerais do projeto | Início: 22/04 Fim: 24/04 | Lara e Renata   | Início: 24/04 Fim: 24/04 | Giovana e Rayene |
-| Verificação dos Princípios gerais do projeto   | Início: 23/04 Fim: 25/04 | Giovana e Rayene  | Início: 25/04 Fim: 26/04 | Lara   |
 | Metas de usabilidade          | Início: 22/04 Fim: 24/04 | Giovana e Rayene   | Início: 24/04 Fim: 24/04 | João Pedro e Raissa   |
 | Guia de estilo  | Início: 24/04 Fim: 26/04 | João Pedro e Raissa | Início: 26/04 Fim: 28/04 | Renata   |
 | Verificação da Guia de estilo  | Início: 24/04 Fim: 26/04 |Lara e Renata  | Início: 26/04 Fim: 28/04 | Lara e Renata    |
-| Cracteristicas do site | Início: 26/04 Fim: 27/04 | Lara e Renata  | Início: 27/04 Fim: 27/04 | Giovana   |
+| Cracteristicas do site | Início: 22/04 Fim: 24/04 | Lara e Renata  | Início: 24/04 Fim: 24/04 | Giovana   |
 | Perguntas do site | Início: 26/04 Fim: 27/04 | Giovana| Início: 27/04 Fim: 28/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Gravar Apresentação| Início: 30/04 Fim: 31/04 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 31/04 Fim: 31/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 29/04 Fim: 01/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 01/05 Fim: 01/05 | Giovana, João, Lara, Raissa, Rayene e Renata    |
