@@ -57,5 +57,5 @@ theme:
         name: Mudar para o modo claro
   
   language: pt-BR
-  favicon: planejamento/assets/PCDF.png
-  logo: planejamento/assets/PCDF.png
+  favicon: assets/planejamento/PCDF.png
+  logo:    assets/planejamento/PCDF.png
