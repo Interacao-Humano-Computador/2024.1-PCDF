@@ -14,6 +14,7 @@ nav:
       - Reunião 3: reunioes/reuniao03.md
       - Reunião 4: reunioes/reuniao04.md
   - Planejamento:
+    - Metodologia: planejamento/metodologia.md
     - Cronograma: planejamento/cronograma.md
     - Cronograma Executado: planejamento/cronograma_executado.md
     - Heatmap: planejamento/heatmap.md
@@ -22,17 +23,27 @@ nav:
     - Processos Design: planejamento/processoDesign.md
     - Site Escolhido: planejamento/siteescolhido.md
   - Análise de Requisitos I:
+    - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
     - Perfil do Usuário:
         - Questionário: analise_requisitos1/perfil_do_usuario/questionario.md
         - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
         - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
     - Personas: analise_requisitos1/personas.md
-    - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
-    - Cenários : analise_requisitos1/cenarios.md
     - Análise de tarefas:
-        - Análise Hierárquica de Tarefas: analise_requisitos1/analise_tarefas/hta.md
-        - GOMS:  analise_requisitos1/analise_tarefas/goms.md
-    - Requisitos: analise_requisitos1/Requisitos.md
+        - Pesquisar procurados: analise_requisitos1/analise_tarefas/pesquisar_procurados.md
+        - Solicitar antecedentes Criminais: analise_requisitos1/analise_tarefas/solicitar_antecedetes.md
+        - Validar certidão de antecedentes criminais: analise_requisitos1/analise_tarefas/validar_antecendentes.md
+        - Bloqueio de aparelho de celular roubado: analise_requisitos1/analise_tarefas/celular_roubado.md
+        - Solicitar carteira de identidade: analise_requisitos1/analise_tarefas/Carteira.md
+        - Registra Ocorrência: analise_requisitos1/analise_tarefas/ocorrencia.md
+    - Cenários:
+        - Pesquisar procurados: analise_requisitos1/cenarios/pesquisar_procurados.md
+        - Solicitar antecedentes Criminais: analise_requisitos1/cenarios/solicitar_antecedetes.md
+        - Validar certidão de antecedentes criminais: analise_requisitos1/cenarios/validar_antecedentes.md
+        - Bloqueio de aparelho de celular roubado: analise_requisitos1/cenarios/celular_roubado.md
+        - Solicitar carteira de identidade: analise_requisitos1/cenarios/Carteira.md
+        - Registra Ocorrência: analise_requisitos1/cenarios/ocorrencia.md
+   
 
 theme:
   name: material
