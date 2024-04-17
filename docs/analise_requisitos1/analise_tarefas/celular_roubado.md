@@ -20,6 +20,8 @@ Como definido na figura 1
 <p> Figura 1 - Tabela Elementos de um diagrama HTA. </p> 
 </div>
 
+Para isso vamos ultilizar a funcionalidade de celular roubado 
+
 # GOMS (Goals, Operators, Methods, And Selection Rules)
 
 ## Introdução 
