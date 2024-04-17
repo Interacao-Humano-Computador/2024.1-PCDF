@@ -27,6 +27,10 @@ Navegação inconsistente:
 
 * Justificativa: O cadastro de estágio está na parte de extensão sendo que existe a parte de estágio
 
+
+* [Link para a avaliação detalhada](https://docs.google.com/document/d/11ywPIEQH0T2iClUOtNcfPpGdV2-qlVOVdnTiBAK5_yo/edit?usp=sharing)
+
+
 ![Site IFB](../assets/planejamento/ifb.png)
 <div align="center">
     <p> Figura 1: Imagem do site do IFB . Fonte: 
@@ -207,4 +211,4 @@ Problema de acessibilidade para idosos:
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |  Criação do documento                  |   [Renata Quadros ](https://github.com/Renatinha28)    |   07/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     07/04                 |
-|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
+|  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Giovana Silva](https://github.com/gio221)           |            17/04          |

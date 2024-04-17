@@ -43,3 +43,12 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Responder perguntas | Inicio: 21/04 Fim: 21/04|Giovana| Inicio: 21/04 Fim: 21/04|Renata|
 | Gravação da apresentação | Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata| Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega  | Inicio: 22/04 Fim: 25/04|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
+
+## Bibliografia 
+[Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
+
+
+## Histórico de versão
+|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 | |  |

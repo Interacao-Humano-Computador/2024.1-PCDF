@@ -17,6 +17,7 @@ Assim, sendo o público do site da PCDF mais abrangente, foram definidas algumas
 * Ela acessa o site da Polícia Civil em busca de relatórios e dados estatísticos sobre crimes na sua cidade.
 * Maria fica frustrada ao não conseguir encontrar facilmente as informações que procura, pois o site tem uma navegação confusa e os dados estão escondidos em submenus difíceis de localizar.
 
+A figura 1 representa Maria
 ### Persona 2: João, o Empresário
 
 <p style="text-align: center">Figura 2: Persona João</p>
@@ -32,6 +33,7 @@ Assim, sendo o público do site da PCDF mais abrangente, foram definidas algumas
 João fica satisfeito ao encontrar uma seção específica no site dedicada a orientações para empresários e um formulário de boletim de ocorrência online de fácil acesso.
 * João conclui o registro do boletim de ocorrência de forma rápida e eficiente, graças às instruções claras fornecidas no site.
 
+A figura 2 representa João
 ### Persona 3: Carlos, o Advogado
 
 <p style="text-align: center">Figura 3: Persona Carlos</p>
@@ -47,6 +49,7 @@ João fica satisfeito ao encontrar uma seção específica no site dedicada a or
 * Carlos fica frustrado ao encontrar informações desatualizadas e links quebrados em algumas seções do site, o que dificulta sua busca por recursos relevantes.
 * Ele acaba contatando diretamente a Polícia Civil por telefone para obter as informações necessárias, perdendo tempo e eficiência no processo.
 
+A figura 3 representa Carlos
 ### Persona 4: Ana, a Dona de Casa
 
 <p style="text-align: center">Figura 4: Persona Ana</p>
@@ -62,6 +65,8 @@ João fica satisfeito ao encontrar uma seção específica no site dedicada a or
 * Ana fica aliviada ao encontrar uma seção dedicada a dicas de segurança para residências, incluindo medidas preventivas e conselhos sobre como proteger sua família e seus pertences. Além disso, ela descobre um formulário de denúncia online que permite relatar anonimamente atividades suspeitas à polícia.
 * Sentindo-se mais informada e capacitada, Ana implementa algumas das sugestões de segurança em sua casa e usa o formulário de denúncia para relatar uma atividade suspeita que observou recentemente em sua vizinhança.
 
+A figura 4 representa Ana
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -70,3 +75,5 @@ João fica satisfeito ao encontrar uma seção específica no site dedicada a or
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento Personas                   |   [Lara Giuliana](https://github.com/gravelylara)     |   15/04   |[Giovana Barbosa](https://github.com/gio221)   |15/04|
+|  1.1   | Chamando firguras no texto                   |  [Giovana Barbosa](https://github.com/gio221)   |   17/04   |   ||
+
