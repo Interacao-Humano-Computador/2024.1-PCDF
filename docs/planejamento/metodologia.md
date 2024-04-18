@@ -36,6 +36,7 @@ As branchs sempre devem ter nomes significativos paara cada atividade
 
 # Conclusão
 Nossa equipe definiu ultilizar o scrum e o kanban de forma adaptada para que possamos pegar o melhor de cada metodologia e aplicar em nossa dinâmica de grupo.
+Também ultilizamos o teams para gravar as reuniões e um canal no youtube que criamos chamado "IHC", para postarmos os vídeos das gravações
 
 ## Bibliografia 
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
