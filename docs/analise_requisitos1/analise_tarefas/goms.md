@@ -1,21 +1,31 @@
-# Modelo GOMS: Registro de Ocorrência
+# GOMS (Goals, Operators, Methods, And Selection Rules)
 
-## Introdução
-Dentro do escopo do aprimoramento do site da Polícia Civil do Distrito Federal (PCDF), uma das funcionalidades prioritárias abordadas é o registro de ocorrências. Esta função desempenha um papel fundamental na facilitação da comunicação entre os cidadãos e as autoridades policiais, permitindo relatar eventos como roubos, furtos, acidentes e outras ocorrências relevantes.
+## Introdução 
+O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
+como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
+e regras de seleção (selection rules).
 
-Para este projeto, foi atribuída a responsabilidade de analisar o processo de registro de ocorrências à integrante [Rayene Almeida](https://github.com/rayenealmeida). Com o objetivo de compreender as interações dos usuários com essa funcionalidade, optamos por empregar uma das duas abordagens de análise: Análise Hierárquica de Tarefas (AHT) ou o modelo GOMS (Goals, Operators, Methods, and Selection rules).
+ * Os objetivos representam o que o usuário quer realizar utilizando o software
+ * Operadores: são as ações cognitivas ou físicas que o sistema permite que o usuário execute, como inserir dados via teclado
+ * Os métodos são sequências bem conhecidas de subobjetivos e operadores que permitem atingir um objetivo maior.
+ * Regras de exeção: Referem-se a tomada de decisão por parte do usuário diante da possibilidade de possuir mais de um
+ método para utilizar
 
-## Análise Hierárquica de Tarefas (HTA)
-A HTA é uma abordagem utilizada no design de interfaces de usuário e sistemas interativos, visando compreender como os usuários realizam tarefas complexas. No contexto do estudo de Barbosa e Silva (2010), a HTA é apresentada como uma técnica estruturada para analisar e representar hierarquicamente as tarefas executadas pelos usuários.
-Os elementos-chave da HTA incluem:
 
-1. Tarefas: São as atividades que os usuários realizam para alcançar um objetivo específico dentro de um sistema interativo.
+## GOMS-KLM
+ O KLM é a técnica mais simples de GOMS, limitada a um conjunto predefinido de operadores primitivos descrito na tabela 1
 
-2. Subtarefas: São as etapas menores que compõem uma tarefa maior. As subtarefas são organizadas hierarquicamente para representar a estrutura da atividade.
+![KLM-GOMS](../../assets/Analise_Requisitos/klm-goms.png)<div>
+<p>Tabela 1 </p>
+</div>
 
-3. Objetivos: Representam os resultados que os usuários desejam alcançar ao realizar uma tarefa. Os objetivos são fundamentais para orientar a análise e garantir que as subtarefas estejam alinhadas com as necessidades dos usuários.
+## Funcionalidades Avaliadas pela GOMS
 
-4. Planos: São as sequências de subtarefas e ações necessárias para atingir um objetivo específico. Os planos descrevem o fluxo de trabalho ou a sequência de atividades que os usuários devem seguir para realizar uma tarefa com sucesso.
+ Funcionalidade    |    Integrante Responsável             |  
+|:------:|:-------------------------------:|
+| Registro de Ocorrência   | Rayene        
+
+# Registro de Ocorrência
 
 ## Modelo Goals, Operators, Methods, and Selection rules (GOMS)
 O modelo GOMS, também abordado por Barbosa e Silva (2010), oferece uma estrutura sistemática para descrever as interações do usuário com um sistema. Este modelo divide a interação em quatro componentes: objetivos (Goals), operadores (Operators), métodos (Methods) e regras de seleção (Selection rules).
@@ -78,10 +88,11 @@ O modelo GOMS, também abordado por Barbosa e Silva (2010), oferece uma estrutur
 
 ## Referências bibliograficas
 
-Polícia Civil do Distrito Federal. Delegacia Eletrônica. Capturado em 18 de abril de 2024, de https://www.pcdf.df.gov.br/servicos/delegacia-eletronica.
+>Polícia Civil do Distrito Federal. Delegacia Eletrônica. Capturado em 18 de abril de 2024, de https://www.pcdf.df.gov.br/servicos/delegacia-eletronica.
 
- **Histórico de Versões**
- 
+## Histórico de Versões
+
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão Inicial                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
+|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |        |             |
+|  1.0   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
