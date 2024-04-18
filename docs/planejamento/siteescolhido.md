@@ -46,7 +46,7 @@ A avaliação do site foi feita pela integrante Raissa [link](https://unbbr-my.s
 |Pesquisar Procurados |  Lara         | 
 | Solicitar Antecedentes|  Renata         |   
 | Validar certidão de antecentes |  João         | 
-| Bloqueio de Aparelho celular roubado |  Giovana         | 
+| 197- Denúncia Online |  Giovana         | 
 | Solicitar carteira de identidade |  Raissa         | 
 | Registra Ocorrência|  Rayene         |
 

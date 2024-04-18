@@ -25,6 +25,7 @@ Como definido na figura 1.
 
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
+| 197- Denúncia Online   | Giovana          |  
 | Registro de Ocorrência   | Rayene              |  
 
 # Registro de Ocorrência

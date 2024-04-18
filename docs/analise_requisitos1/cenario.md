@@ -19,7 +19,7 @@ A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cená
 
 # Validar certidão de antecedentes criminais 
 
-# Bloqueio de aparelho de celular roubado 
+# 197- Denúncia Online
 
 Esse cenário foi criado por [Giovana Barbosa ](https://github.com/gio221) é baseado em uma persona que definimos como usuária do site PCDF, que deseja bloquear um celular roubado
 
@@ -29,16 +29,23 @@ Esse cenário foi criado por [Giovana Barbosa ](https://github.com/gio221) é ba
 <p style="text-align: center">Figura 1: Persona Ana</p>
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
 
-Ana monstrada na figura 1, tem três filhos menores de idade, quando o filho mais velho de Ana, Vinicius estava voltando para casa de ônibus, um moço entrou no ônibus e roubou o celular dele, muito assustado Vinicius terminou o trajeto e chegou em casa.
-Quando ele chegou em casa e contou para seus pais, Ana o acalmou de disse que eles precisariam fazer o boletim de Ocorrência, então eles entraram no site da PCDF, e fizeram um boletim de ocorrência, então eles entraram em uma parte do site que continha o Bloqueio de Aparelhos de Celulares Roubados.
-Nessa parte do site a PCDF, recomenda que assim que acontecer o roubo, a pessoa solicite o bloqueio do celular, que pode demorar alguns dias, pois depende da ANATEL para ocorrer, eles também recomendam que o usuário ligue na sua operadora para bloquear o chip.
-
-Quando eles foram fazer o Bloqueio do celular roubado Ana e Vinicuis tiveram uma surpresa, não é possível fazer o blouqueio pelo site, a PCDF só aceita que o blouqueio sela feito presencialmente, o que causou uma decepção neles, pois a delegacia próxima era longe e a familia não possui carros, então eles precisaram deixar para fazer essa soicitação em outro dia, e enquanto isso eles não sabiam oque o ladrão poderia fazer com o celular.
+Ana monstrada na figura 1, é dona de casa, ela mora em Ceilândia com três filhos e seu marido, a dois meses atrás ela percebeu uma movimentação no lote ao lado, alguns vizinhos novos estavam se mudando para lá. Ana foi simpática com eles e os conheceu, eram um casal com dois cachorros maiores.
+Depois de mais ou menos um mês e meio que os novos vizinhos mudaram ela começou a escutar barulhos estranhos de cachorros chorando, no começo ela achou que eles estavam brincando ou algo similar.
+Mas os dias foram passando e esses barulhos foram se tornando constantes, depois de um tempo Ana começou a se preocupar e prestar mais atenção nos vizinhos novos. A casa de Ana era um sobrado então ela conseguia ver o quintal dos vizinhos.
+Um dia Ana estava cuidando da casa e quando olhou para o lote vizinho ela viu os dois cachorros dos vizinhos bem desidratados, amarrados e com focinheira, Ana ficou bastante assustada, e como ela já tinha usado o site da PCDF para solicitar sua carteira de identidade, ela abriu o site, e viu que tinha como fazer denúncia online por lá, e quando ela entrou ela achou a aba para Denúncia de Maus Tratos Animais, como montrado na figura 2.
 <div>
 <p style="text-align: center">
-    <img src="../../assets/Analise_Requisitos/bloqueio_celular.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
+    <img src="../../assets/Analise_Requisitos/197_animais.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura : Informações sobre o Bloqueio de Celular</p>
+<p style="text-align: center">Figura 2 : Informações sobre a Denúncia do 197 Online</p>
+<p style="text-align: center">Fonte: site PCDF</p></div>
+
+Então Ana fez a denúncia anônima,com os passos monstrado na figura 3, e depois de mais ou menos um dia, a policia foi até os vizinhos e regataram os animais e levaram para abrigos.
+<div>
+<p style="text-align: center">
+    <img src="../../assets/Analise_Requisitos/197_animais2.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
+</p>
+<p style="text-align: center">Figura 2 : Informações sobre a Denúncia de Maus Tratos Animais</p>
 <p style="text-align: center">Fonte: site PCDF</p></div>
 
 # Solicitar carteira de identidade 
@@ -67,3 +74,4 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação de Cenário  | [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Raissa Andrade](https://github.com/RaissaAndradeS)| 18/08 |
 | 1.1 | Cenário da carteira inserido | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/04 |[Giovana Barbosa ](https://github.com/gio221) | 18/04|
+| 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | | |
