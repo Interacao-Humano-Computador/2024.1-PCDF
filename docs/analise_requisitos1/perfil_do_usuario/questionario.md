@@ -35,17 +35,17 @@ O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros]
 ## Relatos das Questões Abertas 
 
 ### 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? 
- De 11 usuários a maioria disse que espera encontra praticidade e facilidade 
+ De 11 usuários, a maioria disse que espera encontra praticidade e facilidade.
 
 ### 10- Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? 
- De 11 usuários a maioria disse que o que mais ultilizou ou pensa que vá ultilizar algum dia, e a funcionalidade de registra boletim de ocorrência
+ De 11 usuários, a maioria disse que o que mais ultilizou ou pensa que vai utilizar algum dia, e a funcionalidade de registra boletim de ocorrência.
 
-### 15 -Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta 
-De 11 usuários um 1 usuário contou sua experiência:
-"Na época o site não funcionava, a página expirava e precisava colocar todos os meus dados novamente"
+### 15 -Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência.
+De 11 usuários, 1 usuário contou sua experiência:
+"Na época o site não funcionava, a página expirava e precisava colocar todos os meus dados novamente."
 
 ### 17-Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência
-De 11 usuários um 1 usuário contou sua experiência:
+De 11 usuários, 1 usuário contou sua experiência:
 "Igualmente a minha experiência com bloqueio de telefone, site expirava e as informações sumiam, tive que repetir o processo algumas vezes."
 
 ### 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência.
@@ -58,9 +58,9 @@ De 11 usuários um 1 usuário contou sua experiência:
 
 ### 20- Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? 
 De 11 usuários um 2 usuários contou sua experiência:
-"Não, o site as vezes utiliza termos que não reconheço facilmente e algumas funções ficam um pouco escondidas "
+"Não, o site as vezes utiliza termos que não reconheço facilmente e algumas funções ficam um pouco escondidas."
 
-"Sim, não tive dificuldades para achar o que precisava"
+"Sim, não tive dificuldades para achar o que precisava."
 
 
 * [Link para as respostas do questionário](https://unbbr-my.sharepoint.com/:w:/g/personal/221031283_aluno_unb_br/EUdx-Sx2PxFOreYTmqcwr3MBC0LFARqifSpUmR2zv9NKew?e=wQjDHI)
@@ -77,4 +77,4 @@ De 11 usuários um 2 usuários contou sua experiência:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Planejamento do perfil de usuários                   |   [Renata Quadros](https://github.com/Renatinha28),[Giovana Barbosa ](https://github.com/gio221)      |   12/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)        |           13/04           |
 |1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
-|1.1| Arrumar a tabela 1/2|[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04| | |
+|1.1| Arrumar a tabela|[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04| | |
