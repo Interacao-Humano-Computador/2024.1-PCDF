@@ -1,5 +1,5 @@
 ## Teste Piloto
-O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), além de uma participante a mais anonima, garantindo sua privacidade, selecionada pelo aspecto de residir no DF e ter conhecimentos básicos sobre o site. Foi conduzido estes testes com o intuido de garantir a clareza e qualidade do questionário.
+O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), além de uma participante a mais anônima, garantindo sua privacidade, selecionada pelo aspecto de residir no DF e ter conhecimentos básicos sobre o site. Foi conduzido estes testes com o intuido de garantir a clareza e qualidade do questionário.
 
 <a id="questionario"></a>
 ## Questionário
@@ -8,17 +8,17 @@ O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros]
 
 | Pergunta | Alternativas | Resultados |
 |----------|--------------|-----------|
-| 1- Qual seu sexo? | Feminino, Masculino, Outros, Prefiro não identificar | Feminino = 4 (36,4%), Masculino = 7 (63,6%) |
-| 2- Onde você mora? | DF, Outros | Distrito Federal = 10 (90,9%), Outro = 1 (9,1%) |
-| 3- Qual sua idade? | 18-25, 26-35, 36-45, 46-60, 60+, Prefiro não informar |18- 25- 7(63,6%) ,26-35- 2(18,2%) ,36-45 – 1(9,1%) ,46-60 – 1(9,1%) 
-| 4- Qual seu status socioeconômico? | Baixo, Médio, Alto, Prefiro não informar |Médio - 9(81,8%), Prefiro não dizer- 2(18,2%) 
-| 5- Qual seu grau de instituição? | Ensino Médio Incompleto, Ensino Médio Completo, Graduando, Graduação Completa, Pós-Graduação Completa, Prefiro não informar |Graduação Completa- 5(45,5%) , Graduando – 4(96,4%), ensino medio completo –1(9,1%), pós graduação completa –1(9,1%) 
-| 6- Você costuma utilizar o computador com que frequência? | Alta, Média, Baixa, Nenhuma |Alta- 5(45,5 %), média-5(45,4%), nenhuma- 1(9,1%) 
-| 7- Você já utilizou o site da Polícia Civil de outros estados além do DF? | Sim, Não, Não me lembro |Não-9(81,8%) , Sim 2(18,2%) 
+| 1- Qual seu sexo? |  - Feminino; <br> - Masculino; <br>   - Outros; <br> - Prefiro não identificar; | - Feminino = 4 __(36,4%)__, <br> - Masculino = 7 __(63,6%)__ |
+| 2- Onde você mora? | - DF; <br> - Outros; | - DF = 10 __(90,9%)__, <br> - Outro = 1 __(9,1%)__ |
+| 3- Qual sua idade? | - 18 a 25; <br> - 26 a 35; <br> - 36 a 45; <br>  - 46 a 60; <br>  - 60+ ;  <br> - Prefiro não informar; <br> | - 18 a 25: 7 usuários __(63,6%)__;  <br> - 26 a 35: 2 usuários __(18,2%)__ <br>  - 36 a 45: 1 usuário __(9,1%)__ <br> - 46 a 60:  1 usuário __(9,1%)__ 
+| 4- Qual seu status socioeconômico? | - Baixo; <br> - Médio; <br>  - Alto; <br>  - Prefiro não informar; <br> |- Médio: 9 __(81,8%)__; <br> - Prefiro não dizer: 2 __(18,2%)__;
+| 5- Qual seu grau de instituição? |  - E. Médio Incompleto; <br> - E. Médio Comp.; <br> - Graduando; <br> - Graduação Comp.; <br> - Pós-Graduação Comp.; <br> - Prefiro não informar;  | - Graduação Comp. - 5 __(45,5%)__; <br> - Graduando – 4 __(96,4%)__; <br> E. Médio Comp. –1 __(9,1%)__; <br> -Pós graduação comp. – 1 __(9,1%)__; 
+| 6- Você costuma utilizar o computador com que frequência? | - Alta; <br> - Média; <br> - Baixa; <br> - Nenhuma; <br> |- Alta - 5 (45,5 %); <br> - Média - 5 (45,4%); <br> - Nenhuma - 1 (9,1%); 
+| 7- Você já utilizou o site da Polícia Civil de outros estados além do DF? | - Sim; <br> - Não; <br> - Não me lembro; | - Não - 9 (81,8%); <br> - Sim - 2 (18,2%); 
 | 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? | Aberta |
-| 9- Você já utilizou o site do PCDF (Polícia Civil)? | Sim, Não, Não lembro |Não -5(45,5%), sim 5(45,5%), não lembro 1(9,1%)  |
+| 9- Você já utilizou o site do PCDF (Polícia Civil)? | - Sim; <br> - Não; <br> - Não lembro; <br> | - Não - 5 (45,5%); <br> - Sim: 5 (45,5%); <br> - Não lembro: 1 __(9,1%)__;  |
 | 10- Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? | Aberta |
-| 11- Você sabia que no site do PCDF você consegue pesquisar "procurados"? | Sim, Não | Não- 8 (72,7%), Sim 3(27,3%) |
+| 11- Você sabia que no site do PCDF você consegue pesquisar "procurados"? | - Sim; <br> - Não; <b> | - Não: 8 (72,7%); <br> - Sim: 3 (27,3%) |
 | 12- Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | Sim, Não | Não 7(63,6%) , sim 4(36,4%) |
 | 13- Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | Sim, Não || Não 9(81,8%), sim2(18,2%) |
 | 14- Você já precisou bloquear algum aparelho celular roubado? | Sim, Não |Não 9(81,8%), sim2(18,2%)  |
@@ -76,3 +76,4 @@ De 11 usuários um 2 usuários contou sua experiência:
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Planejamento do perfil de usuários                   |   [Renata Quadros](https://github.com/Renatinha28),[Giovana Barbosa ](https://github.com/gio221)      |   12/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)        |           13/04           |
 |1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
+|1.1| Arrumar a tabela 1/2|[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04| | |

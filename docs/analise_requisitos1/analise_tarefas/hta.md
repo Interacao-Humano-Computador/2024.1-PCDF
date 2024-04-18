@@ -4,13 +4,13 @@
 A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. Na HTA, a tarefa é decomposta em subtarefas menores, formando uma hierarquia que representa a estrutura da atividade. Cada subtarefa é detalhada até um nível em que possa ser facilmente compreendida e executada. Além disso, a análise pode incluir informações sobre os objetivos da tarefa, as condições em que é realizada, os recursos necessários e as possíveis interações com o ambiente e outros sistemas.
 
 ## Elementos de uma análise HTA
-Tarefa: é qualquer parte do trabalho que precisa ser realizada. 
+__Tarefa__: É qualquer parte do trabalho que precisa ser realizada. 
 
-Objetivo é um estado específico de coisas, um estado final.
+__Objetivo__: É um estado específico de coisas, um estado final.
 
-Um plano define os subobjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subobjetivos devem ser alcançado
+ __Plano__: Define os subjetivos necessários para alcançar um outro objetivo maior, e a ordem em que esses subjetivos devem ser alcançado.
 
-Como definido na figura 1 
+Como definido na figura 1.
 
 ![tabela](../../assets/Analise_Requisitos/índice.png)
 <div align="center">
@@ -45,5 +45,5 @@ Os elementos-chave da HTA incluem:
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |        |             |
+|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)   |        18/04     |
 |  1.0   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
