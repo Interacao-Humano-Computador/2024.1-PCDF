@@ -8,27 +8,28 @@ O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros]
 
 | Pergunta | Alternativas | Resultados |
 |----------|--------------|-----------|
-| 1. Qual seu sexo? |  - Feminino; <br> - Masculino; <br>   - Outros; <br> - Prefiro não identificar; | - Feminino - 4 __(36,4%)__, <br> - Masculino - 7 __(63,6%)__ |
-| 2. Onde você mora? | - DF; <br> - Outros; | - DF - 10 __(90,9%)__, <br> - Outro - 1 __(9,1%)__ |
-| 3. Qual sua idade? | - 18 a 25; <br> - 26 a 35; <br> - 36 a 45; <br>  - 46 a 60; <br>  - 60+ ;  <br> - Prefiro não informar; <br> | - 18 a 25 - 7 usuários __(63,6%)__;  <br> - 26 a 35-  2 usuários __(18,2%)__ <br>  - 36 a 45 - 1 usuário __(9,1%)__ <br> - 46 a 60 -  1 usuário __(9,1%)__ 
-| 4. Qual seu status socioeconômico? | - Baixo; <br> - Médio; <br>  - Alto; <br>  - Prefiro não informar; <br> |- Médio - 9 __(81,8%)__; <br> - Prefiro não dizer-  2 __(18,2%)__;
-| 5. Qual seu grau de instituição? |  - E. Médio Incompleto; <br> - E. Médio Comp.; <br> - Graduando; <br> - Graduação Comp.; <br> - Pós-Graduação Comp.; <br> - Prefiro não informar;  | - Graduação Comp. - 5 __(45,5%)__; <br> - Graduando – 4 __(96,4%)__; <br> E. Médio Comp. –1 __(9,1%)__; <br> -Pós graduação comp. – 1 __(9,1%)__; 
-| 6. Você costuma utilizar o computador com que frequência? | - Alta; <br> - Média; <br> - Baixa; <br> - Nenhuma; <br> |- Alta - 5 __(45,5 %)__; <br> - Média - 5 __(45,4%)__; <br> - Nenhuma - 1 __(9,1%)__; 
-| 7. Você já utilizou o site da Polícia Civil de outros estados além do DF? | - Sim; <br> - Não; <br> - Não me lembro; | - Não - 9 (81,8%); <br> - Sim - 2 (18,2%); 
+| 1. Qual seu sexo? |  - Feminino; <br> - Masculino; <br>   - Outros; <br> - Prefiro não identificar; | - Feminino - 4 __(36,4%)__; <br> - Masculino - 7 __(63,6%)__ |
+| 2. Onde você mora? | - DF; <br> - Outros; | - DF - 10 __(90,9%)__; <br> - Outro - 1 __(9,1%)__ |
+| 3. Qual sua idade? | - 18 a 25; <br> - 26 a 35; <br> - 36 a 45; <br>  - 46 a 60; <br>  - 60+ ;  <br> - Prefiro não informar; <br> | - 18 a 25 - 7 usuários __(63,6%)__; <br> - 26 a 35 - 2 usuários __(18,2%)__; <br>  - 36 a 45 - 1 usuário __(9,1%)__; <br> - 46 a 60 - 1 usuário __(9,1%)__; |
+| 4. Qual seu status socioeconômico? | - Baixo; <br> - Médio; <br>  - Alto; <br>  - Prefiro não informar; <br> |- Médio - 9 __(81,8%)__; <br> - Prefiro não dizer - 2 __(18,2%)__; |
+| 5. Qual seu grau de instituição? |  - E. Médio Incompleto; <br> - E. Médio Comp.; <br> - Graduando; <br> - Graduação Comp.; <br> - Pós-Graduação Comp.; <br> - Prefiro não informar;  | - Graduação Comp. - 5 __(45,5%)__; <br> - Graduando – 4 __(96,4%)__; <br> - E. Médio Comp. – 1 __(9,1%)__; <br> - Pós graduação comp. – 1 __(9,1%)__; |
+| 6. Você costuma utilizar o computador com que frequência? | - Alta; <br> - Média; <br> - Baixa; <br> - Nenhuma; <br> |- Alta - 5 __(45,5 %)__; <br> - Média - 5 __(45,4%)__; <br> - Nenhuma - 1 __(9,1%)__; |
+| 7. Você já utilizou o site da Polícia Civil de outros estados além do DF? | - Sim; <br> - Não; <br> - Não me lembro; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
 | 8. Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? | Aberta |
-| 9. Você já utilizou o site do PCDF (Polícia Civil)? | - Sim; <br> - Não; <br> - Não lembro; <br> | - Não - 5 (45,5%); <br> - Sim: 5 (45,5%); <br> - Não lembro: 1 __(9,1%)__;  |
+| 9. Você já utilizou o site do PCDF (Polícia Civil)? | - Sim; <br> - Não; <br> - Não lembro; | - Não - 5 __(45,5%)__; <br> - Sim - 5 __(45,5%)__; <br> - Não lembro - 1 __(9,1%)__; |
 | 10. Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? | Aberta |
-| 11- Você sabia que no site do PCDF você consegue pesquisar "procurados"? | - Sim; <br> - Não; <b> | - Não - 8 __(72,7%)__; <br> - Sim - 3 __(27,3%)__ |
-| 12. Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | - Sim; <br> - Não; <br> | - Não - 7 __(63,6%)__; <br> - Sim - 4 __(36,4%)__; |
-| 13- Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | - Sim; <br> - Não;  || Não 9(81,8%), sim2(18,2%) |
-| 14- Você já precisou bloquear algum aparelho celular roubado? | - Sim; <br> - Não; | - Sim - 2 (18,2%); <br>  - Não 9 (81,8%);  |
-| 15- Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta |Não 10(90,9%), sim 1(9,1%) |
-| 16- Você já solicitou sua carteira de identidade pelo site do PCDF? | Sim, Não | Não 9(81,8%), sim2(18,2%)  |
-| 17- Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência | Aberta |Não- 8 (72,7%), Sim 3(27,3%)  |
-| 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência. | Aberta | Não 9(81,8%), sim2(18,2%) |
-| 19- Você já teve alguma experiência positiva com o site do PCDF? sim ou não.Conte sua experiência. | Sim3(60%), não(40%) | 
-| 20- Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? | Aberta |
-| 21- Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta | Não 7(63,6%), sim4(36,4%)  |
+| 11. Você sabia que no site do PCDF você consegue pesquisar "procurados"? | - Sim; <br> - Não; | - Não - 8 __(72,7%)__; <br> - Sim - 3 __(27,3%)__; |
+| 12. Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | - Sim; <br> - Não; | - Não - 7 __(63,6%)__; <br> - Sim - 4 __(36,4%)__; |
+| 13. Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | - Sim; <br> - Não; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 14. Você já precisou bloquear algum aparelho celular roubado? | - Sim; <br> - Não; | - Sim - 2 __(18,2%)__; <br> - Não - 9 __(81,8%)__; |
+| 15. Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta; | - Não - 10 __(90,9%)__; <br> - Sim - 1 __(9,1%)__; |
+| 16. Você já solicitou sua carteira de identidade pelo site do PCDF? | - Sim; <br> - Não; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 17. Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência | Aberta; | - Não - 8 __(72,7%)__; <br> - Sim - 3 __(27,3%)__; |
+| 18. Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência. | Aberta; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 19. Você já teve alguma experiência positiva com o site do PCDF? Sim ou Não.Conte sua experiência.|- Sim; <br> - Não;|  Sim - 3 __(60%)__; <br> Não - 2 __(40%)__; | 
+| 20. Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? | Aberta; |
+| 21. Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta; | - Não - 7 __(63,6%)__; <br> - Sim - 4 __(36,4%)__; |
+
 
 * [Link para o questionário](https://forms.gle/ygLr47FcAAuM8dum8) 
 ## Relatos das Questões Abertas 

@@ -2,10 +2,10 @@
 
 Uma pesquisa baseada na ética precisa respeitar seus usuários, respeitando sua dignidade e sua vulnerabilidade, assegurando ao participante que ele tem total poder de parar a entrevista a qualquer momento.Por isso exite principios que rege as questões ligadas às pesquisas científicas envolvendo pessoas com base nos seguintes príncipios:
 
-- Princípio da autonomia: Destaca o direito das pessoas de tomar decisões sobre suas próprias vidas, saúde e relações sociais, incluindo consentimento ou recusa. Respeitar a autonomia é essencial para proteger os direitos e a dignidade das pessoas.
-- Princípio da beneficência: Busca equilibrar riscos e benefícios em qualquer contexto, visando maximizar vantagens e minimizar danos em todas as áreas da vida humana.
-- Princípio da não maleficência: Visa prevenir danos decorrentes da pesquisa, tanto imediatos quanto futuros.
-- Princípio da justiça e equidade: Envolve tratar todas as pessoas de maneira justa e imparcial, distribuindo recursos e benefícios de forma equitativa, assegurando acesso igualitário aos cuidados de saúde e uma distribuição justa de benefícios e riscos na prática médica e de pesquisa.
+- __Princípio da autonomia__: Destaca o direito das pessoas de tomar decisões sobre suas próprias vidas, saúde e relações sociais, incluindo consentimento ou recusa. Respeitar a autonomia é essencial para proteger os direitos e a dignidade das pessoas.
+- __Princípio da beneficência__: Busca equilibrar riscos e benefícios em qualquer contexto, visando maximizar vantagens e minimizar danos em todas as áreas da vida humana.
+- __Princípio da não maleficência__: Visa prevenir danos decorrentes da pesquisa, tanto imediatos quanto futuros.
+- __Princípio da justiça e equidade__: Envolve tratar todas as pessoas de maneira justa e imparcial, distribuindo recursos e benefícios de forma equitativa, assegurando acesso igualitário aos cuidados de saúde e uma distribuição justa de benefícios e riscos na prática médica e de pesquisa.
 
 ## Sobre o Termo de Consentimento
 
@@ -37,4 +37,4 @@ Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação co
  
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   13/04   |         |             |
+|  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   13/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
