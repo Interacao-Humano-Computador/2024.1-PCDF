@@ -32,13 +32,7 @@ nav:
     - Análise de tarefas:
         - HTA: analise_requisitos1/analise_tarefas/hta.md
         - GOMS: analise_requisitos1/analise_tarefas/goms.md
-    - Cenários:
-        - Pesquisar procurados: analise_requisitos1/cenarios/pesquisar_procurados.md
-        - Solicitar antecedentes Criminais: analise_requisitos1/cenarios/solicitar_antecedetes.md
-        - Validar certidão de antecedentes criminais: analise_requisitos1/cenarios/validar_antecedentes.md
-        - Bloqueio de aparelho de celular roubado: analise_requisitos1/cenarios/celular_roubado.md
-        - Solicitar carteira de identidade: analise_requisitos1/cenarios/Carteira.md
-        - Registra Ocorrência: analise_requisitos1/cenarios/ocorrencia.md
+    - Cenários : analise_requisitos1/cenario.md
    
 
 theme:
