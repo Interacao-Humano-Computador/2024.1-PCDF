@@ -5,12 +5,11 @@ Pela bibliografia consultada, há a possibilidade de serem definidas anti-person
 Assim, sendo o público do site da PCDF mais abrangente, foram definidas algumas personas:
 ### Persona 1: Maria, a Estudante Universitária
 
-<p style="text-align: center">Figura 1: Persona Maria</p>
 
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/maria.jpeg" alt="maria" style="border-radius: 5%; width: 300px;"/>
 </p>
-
+<p style="text-align: center">Figura 1: Persona Maria</p>
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
 
 * Maria, de 24 anos, é estudante de jornalismo na Universidade de Brasília e vive em Brasília desde seu nascimento. Maria consome diversos jornais, sites de dados estatísticos e qualquer outro tipo de mídia que veicula dados relevantes e atuais, sempre checando suas fontes para embasar os dados que podem entrar em suas pesquisas e matérias jornalísticas, visando ter um ótimo portfólio que possa alavancar sua carreira.
@@ -21,11 +20,10 @@ Assim, sendo o público do site da PCDF mais abrangente, foram definidas algumas
 A figura 1 representa Maria
 ### Persona 2: João, o Empresário
 
-<p style="text-align: center">Figura 2: Persona João</p>
-
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/joao.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
 </p>
+<p style="text-align: center">Figura 2: Persona João</p>
 
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
 
@@ -37,12 +35,11 @@ João fica satisfeito ao encontrar uma seção específica no site dedicada a or
 A figura 2 representa João
 ### Persona 3: Carlos, o Advogado
 
-<p style="text-align: center">Figura 3: Persona Carlos</p>
 
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/carlos.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
 </p>
-
+<p style="text-align: center">Figura 3: Persona Carlos</p>
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
 
 * Carlos, 38 anos, é formado em direito e há 13 anos trabalha como advogado penal. Pedro possui sua própria agência de advocacia, atendendo vários clientes acusados de cometer os mais variados crimes. Ao defender seus clientes, Pedro busca o máximo de informações sobre cada uma das partes envolvidas no processo, tais como procedimentos legais e antecedentes criminais para representar um cliente em um caso criminal.
@@ -53,11 +50,11 @@ A figura 2 representa João
 A figura 3 representa Carlos
 ### Persona 4: Ana, a Dona de Casa
 
-<p style="text-align: center">Figura 4: Persona Ana</p>
 
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/ana.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
 </p>
+<p style="text-align: center">Figura 4: Persona Ana</p>
 
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
 
