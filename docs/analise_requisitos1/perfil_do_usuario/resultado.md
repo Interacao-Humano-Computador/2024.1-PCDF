@@ -11,28 +11,29 @@ Também foi aplicada a [analise competitiva](#análise-competitiva)
 
 ## Resultado do Grupo 
 
-Nosso questionário foi composto por 12 perguntas de sim ou não e questões abertas. O foco do nosso questionário foi em saber se as pessoas já usaram o site da PCDF e se sabiam de algumas funcionalidades. 
-A maioria dos participantes são do sexo masculino, residentes do Distrito Federal, e de acordo com os resultados das perguntas a maioria nã o utiliza ou não sabia das funcionalidades presentes no site do PCDF. 
+Nosso questionário consistiu em 12 perguntas de resposta binária (sim ou não), juntamente com questões abertas. O principal objetivo do questionário foi determinar se os participantes já haviam utilizado o site da PCDF e se estavam cientes de algumas de suas funcionalidades.
+
+Observamos que a maioria dos participantes são do sexo masculino e residentes do Distrito Federal. Além disso, os resultados das perguntas indicam que a maioria dos participantes não utiliza ou não está ciente das funcionalidades disponíveis no site da PCDF. 
 De forma resumida classificamos assim:
     
     Gênero: Em sua maioria masculino.
     Idade: Entre 18 e 25 anos.
-    Experiência: Experiencia alta com tecnologia
+    Experiência: Experiencia alta com tecnologia.
     Atitudes: Tecnófilos.
-    Tarefas primárias: Registro de Boletim de Ocorrência
+    Tarefas primárias: Registro de Boletim de Ocorrência.
 
 
 
 **Tabela 1** - Perfis com as características priorizadas.
 
-| Papel                                    |                  Usuário                  |               |
+| Papel                                    |                  Usuário   A               |       Usuário B        |
 | ---------------------------------------- | :---------------------------------------: | :-----------: |
 | Perfil                                   |                     A                     |       B       |
 | Percentual de pessoas que já ultilizaram o site    |                 81,8%                   |    18,2%    |
 | Número de usuários no perfil (total: 11) |                    9                     |       2       |
 |Faixa Etária                              |                18 a 35 anos              |       35 a 60 anos       |
-|Experiência com tecnologia                |                   alta                     |     baixa     |
-| já utilizou o site da Polícia Civil de outros estados além do DF |                   sim                    |       não     |
+|Experiência com tecnologia                |                   Alta                     |     Baixa     |
+| já utilizou o site da Polícia Civil de outros estados além do DF |                   Sim                    |       Não     |
 
 
 
@@ -47,8 +48,8 @@ De forma resumida classificamos assim:
 > Polícia Civil do Distrito Federal. Polícia Civil do Distrito Federal. Disponível em: [https://www.pcdf.df.gov.br/](https://www.pcdf.df.gov.br/). Acesso em: 14 abr 2024.
 
 ## **Histórico de Versões**
- 
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |1.0| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
-| 2.0 | Analise do perfil do usuário | [Giovana Barbosa ](https://github.com/gio221)  |15/04 |||
+| 2.0 | Analise do perfil do usuário | [Giovana Barbosa ](https://github.com/gio221)  |15/04 |[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04|

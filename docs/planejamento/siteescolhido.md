@@ -46,7 +46,7 @@ A avaliação do site foi feita pela integrante Raissa [link](https://unbbr-my.s
 |Pesquisar Procurados |  Lara         | 
 | Solicitar Antecedentes|  Renata         |   
 | Validar certidão de antecentes |  João         | 
-| Bloqueio de Aparelho celular roubado |  Giovana         | 
+| 197- Denúncia Online |  Giovana         | 
 | Solicitar carteira de identidade |  Raissa         | 
 | Registra Ocorrência|  Rayene         |
 
@@ -60,7 +60,7 @@ Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
 
 
 # Histórico de Versão 
-
+    Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |  Site escolhido                  |  [Rayene](https://github.com/rayenealmeida)    |   06/04   |       [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)     |     07/04                 |

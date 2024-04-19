@@ -38,6 +38,7 @@ Navegação inconsistente:
     </p> 
 </div>
 
+
 <a id="codeforces"></a>
 ## Codeforces 
 O responsável por avaliar o site foi o João Pedro Ferreira Alves. O Coderforces é uma plataforma de competições de programação. Competições são hospedadas na plataforma regularmente e as habilidades dos participantes são medidas pela sua classificação. Foram avaliados o cadastro de usuário e o processo de identificar e enviar soluções de exercícios. O site demonstrou bastante facilidade de interação com o usuário, levando em conta que o perfil de usuário padrão da plataforma é uma pessoa que utiliza diariamente diversos sites e por consequência tem alto nível de experiência em navegação web. Não foram encontradas violações de diretrizes.
@@ -103,7 +104,10 @@ Integrante responsável por avaliar o site da FioCruz foi a Raissa Andrade.  A a
 
 <a id="inss"></a>
 ## INSS 
+
 A integrante responsável por avaliar o site do INSS foi a Rayene. A avaliação tinha como objetivo identificar quais áreas possuem dificuldades enfrentadas pelos usuários no site do INSS, com foco em melhorar a experiência do usuário. O método de avaliação utilizado para avaliar o site do INSS foi a análise heurística. Os meios de interação avaliados foram: acesso a informações sobre benefícios previdenciários, consultas sobre benefícios, solicitação de serviços online oferecidos pelo INSS, como aposentadorias e pensões e agendamento de atendimentos presenciais. Na avaliação foram encontradas as seguintes violações com seus respectivos graus de severidade:  
+
+* [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
 
 Lentidão no carregamento das páginas: 
 
@@ -145,20 +149,22 @@ Problemas Técnicos ao Preencher Formulários Online:
 
 *  Justificativa: Problemas técnicos ao preencher formulários online representam uma falha na confiabilidade do sistema, pois podem resultar em perda de dados ou erros durante o processo de preenchimento. Isso pode causar frustração nos usuários e comprometer a credibilidade do site do INSS como uma plataforma confiável para realizar transações e solicitações importantes relacionadas a benefícios previdenciários.
   
-* [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
-
 ![Site INSS](../assets/planejamento/inss.png)
 <div align="center">
     <p> Figura 5: Imagem do site INSS . Fonte: 
         <a href="https://www.gov.br/inss/pt-br">INSS</a>
     </p> 
 </div>
+
 ![Site Meu INSS](../assets/planejamento/meuinss.png)
 <div align="center">
-    <p> Figura 6: Imagem do site Meu INSS . Fonte: 
+    <p> Figura 6: Imagem do site Meu INSS 1. Fonte: 
         <a href="https://meu.inss.gov.br">Meu INSS</a>
     </p> 
 </div>
+
+* [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
+
 
 <a id="brb-mobilidade"></a>
 ## BRB mobilidade
@@ -207,7 +213,7 @@ Problema de acessibilidade para idosos:
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
 
 ## Histórico de versão
-
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   |  Criação do documento                  |   [Renata Quadros ](https://github.com/Renatinha28)    |   07/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     07/04                 |

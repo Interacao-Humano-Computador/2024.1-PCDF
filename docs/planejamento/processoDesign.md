@@ -59,7 +59,7 @@ Pelo detalhamento do processo de design de Mayhew, a equipe optou por utilizá-l
 > Löwgren J, Stolterman E. Thoughtful Interaction Design: A Design Perspective on Information Technology. Cambridge, MA: The MIT Press; 2004;.
 
 ## Histórico de Versões
-
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de processos de design                   |   [Lara Giuliana](https://github.com/gravelylara)     |   07/04   |      [João Pedro](https://github.com/...)    |     08/04                 |

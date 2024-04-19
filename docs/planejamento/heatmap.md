@@ -31,6 +31,7 @@ O método escolhido para gerenciar nosso projeto é o Scrum. O Scrum é uma estr
 
 ## **Histórico de Versões**
  
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Versão Inicial                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   06/04   |       [Giovana Barbosa ](https://github.com/gio221)        |     06/04                 |

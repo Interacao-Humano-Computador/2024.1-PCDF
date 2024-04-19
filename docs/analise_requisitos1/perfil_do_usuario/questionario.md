@@ -1,5 +1,5 @@
 ## Teste Piloto
-O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), além de uma participante a mais anonima, garantindo sua privacidade, selecionada pelo aspecto de residir no DF e ter conhecimentos básicos sobre o site. Foi conduzido estes testes com o intuido de garantir a clareza e qualidade do questionário.
+O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), além de uma participante a mais anônima, garantindo sua privacidade, selecionada pelo aspecto de residir no DF e ter conhecimentos básicos sobre o site. Foi conduzido estes testes com o intuido de garantir a clareza e qualidade do questionário.
 
 <a id="questionario"></a>
 ## Questionário
@@ -8,43 +8,44 @@ O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros]
 
 | Pergunta | Alternativas | Resultados |
 |----------|--------------|-----------|
-| 1- Qual seu sexo? | Feminino, Masculino, Outros, Prefiro não identificar | Feminino = 4 (36,4%), Masculino = 7 (63,6%) |
-| 2- Onde você mora? | DF, Outros | Distrito Federal = 10 (90,9%), Outro = 1 (9,1%) |
-| 3- Qual sua idade? | 18-25, 26-35, 36-45, 46-60, 60+, Prefiro não informar |18- 25- 7(63,6%) ,26-35- 2(18,2%) ,36-45 – 1(9,1%) ,46-60 – 1(9,1%) 
-| 4- Qual seu status socioeconômico? | Baixo, Médio, Alto, Prefiro não informar |Médio - 9(81,8%), Prefiro não dizer- 2(18,2%) 
-| 5- Qual seu grau de instituição? | Ensino Médio Incompleto, Ensino Médio Completo, Graduando, Graduação Completa, Pós-Graduação Completa, Prefiro não informar |Graduação Completa- 5(45,5%) , Graduando – 4(96,4%), ensino medio completo –1(9,1%), pós graduação completa –1(9,1%) 
-| 6- Você costuma utilizar o computador com que frequência? | Alta, Média, Baixa, Nenhuma |Alta- 5(45,5 %), média-5(45,4%), nenhuma- 1(9,1%) 
-| 7- Você já utilizou o site da Polícia Civil de outros estados além do DF? | Sim, Não, Não me lembro |Não-9(81,8%) , Sim 2(18,2%) 
-| 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? | Aberta |
-| 9- Você já utilizou o site do PCDF (Polícia Civil)? | Sim, Não, Não lembro |Não -5(45,5%), sim 5(45,5%), não lembro 1(9,1%)  |
-| 10- Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? | Aberta |
-| 11- Você sabia que no site do PCDF você consegue pesquisar "procurados"? | Sim, Não | Não- 8 (72,7%), Sim 3(27,3%) |
-| 12- Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | Sim, Não | Não 7(63,6%) , sim 4(36,4%) |
-| 13- Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | Sim, Não || Não 9(81,8%), sim2(18,2%) |
-| 14- Você já precisou bloquear algum aparelho celular roubado? | Sim, Não |Não 9(81,8%), sim2(18,2%)  |
-| 15- Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta |Não 10(90,9%), sim 1(9,1%) |
-| 16- Você já solicitou sua carteira de identidade pelo site do PCDF? | Sim, Não | Não 9(81,8%), sim2(18,2%)  |
-| 17- Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência | Aberta |Não- 8 (72,7%), Sim 3(27,3%)  |
-| 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência. | Aberta | Não 9(81,8%), sim2(18,2%) |
-| 19- Você já teve alguma experiência positiva com o site do PCDF? sim ou não.Conte sua experiência. | Sim3(60%), não(40%) | 
-| 20- Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? | Aberta |
-| 21- Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta | Não 7(63,6%), sim4(36,4%)  |
+| 1. Qual seu sexo? |  - Feminino; <br> - Masculino; <br>   - Outros; <br> - Prefiro não identificar; | - Feminino - 4 __(36,4%)__; <br> - Masculino - 7 __(63,6%)__ |
+| 2. Onde você mora? | - DF; <br> - Outros; | - DF - 10 __(90,9%)__; <br> - Outro - 1 __(9,1%)__ |
+| 3. Qual sua idade? | - 18 a 25; <br> - 26 a 35; <br> - 36 a 45; <br>  - 46 a 60; <br>  - 60+ ;  <br> - Prefiro não informar; <br> | - 18 a 25 - 7 usuários __(63,6%)__; <br> - 26 a 35 - 2 usuários __(18,2%)__; <br>  - 36 a 45 - 1 usuário __(9,1%)__; <br> - 46 a 60 - 1 usuário __(9,1%)__; |
+| 4. Qual seu status socioeconômico? | - Baixo; <br> - Médio; <br>  - Alto; <br>  - Prefiro não informar; <br> |- Médio - 9 __(81,8%)__; <br> - Prefiro não dizer - 2 __(18,2%)__; |
+| 5. Qual seu grau de instituição? |  - E. Médio Incompleto; <br> - E. Médio Comp.; <br> - Graduando; <br> - Graduação Comp.; <br> - Pós-Graduação Comp.; <br> - Prefiro não informar;  | - Graduação Comp. - 5 __(45,5%)__; <br> - Graduando – 4 __(96,4%)__; <br> - E. Médio Comp. – 1 __(9,1%)__; <br> - Pós graduação comp. – 1 __(9,1%)__; |
+| 6. Você costuma utilizar o computador com que frequência? | - Alta; <br> - Média; <br> - Baixa; <br> - Nenhuma; <br> |- Alta - 5 __(45,5 %)__; <br> - Média - 5 __(45,4%)__; <br> - Nenhuma - 1 __(9,1%)__; |
+| 7. Você já utilizou o site da Polícia Civil de outros estados além do DF? | - Sim; <br> - Não; <br> - Não me lembro; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 8. Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? | Aberta |
+| 9. Você já utilizou o site do PCDF (Polícia Civil)? | - Sim; <br> - Não; <br> - Não lembro; | - Não - 5 __(45,5%)__; <br> - Sim - 5 __(45,5%)__; <br> - Não lembro - 1 __(9,1%)__; |
+| 10. Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? | Aberta |
+| 11. Você sabia que no site do PCDF você consegue pesquisar "procurados"? | - Sim; <br> - Não; | - Não - 8 __(72,7%)__; <br> - Sim - 3 __(27,3%)__; |
+| 12. Você sabia que no site do PCDF você consegue "Solicitar antecedentes"? | - Sim; <br> - Não; | - Não - 7 __(63,6%)__; <br> - Sim - 4 __(36,4%)__; |
+| 13. Você já utilizou o site do PCDF para solicitar ou validar certidão de antecedentes? | - Sim; <br> - Não; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 14. Você já precisou bloquear algum aparelho celular roubado? | - Sim; <br> - Não; | - Sim - 2 __(18,2%)__; <br> - Não - 9 __(81,8%)__; |
+| 15. Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta; | - Não - 10 __(90,9%)__; <br> - Sim - 1 __(9,1%)__; |
+| 16. Você já solicitou sua carteira de identidade pelo site do PCDF? | - Sim; <br> - Não; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 17. Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência | Aberta; | - Não - 8 __(72,7%)__; <br> - Sim - 3 __(27,3%)__; |
+| 18. Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência. | Aberta; | - Não - 9 __(81,8%)__; <br> - Sim - 2 __(18,2%)__; |
+| 19. Você já teve alguma experiência positiva com o site do PCDF? Sim ou Não.Conte sua experiência.|- Sim; <br> - Não;|  Sim - 3 __(60%)__; <br> Não - 2 __(40%)__; | 
+| 20. Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? | Aberta; |
+| 21. Você conhece alguém que utiliza/utilizou o site do PCDF? Se sim, quem? Por que utilizou/utiliza o site? | Aberta; | - Não - 7 __(63,6%)__; <br> - Sim - 4 __(36,4%)__; |
+
 
 * [Link para o questionário](https://forms.gle/ygLr47FcAAuM8dum8) 
 ## Relatos das Questões Abertas 
 
 ### 8- Quais são suas expectativas com o site do PCDF? O que você espera encontrar no site? 
- De 11 usuários a maioria disse que espera encontra praticidade e facilidade 
+ De 11 usuários, a maioria disse que espera encontra praticidade e facilidade.
 
 ### 10- Quais as principais funcionalidades que você utiliza/já utilizou do PCDF? 
- De 11 usuários a maioria disse que o que mais ultilizou ou pensa que vá ultilizar algum dia, e a funcionalidade de registra boletim de ocorrência
+ De 11 usuários, a maioria disse que o que mais ultilizou ou pensa que vai utilizar algum dia, e a funcionalidade de registra boletim de ocorrência.
 
-### 15 -Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência. | Aberta 
-De 11 usuários um 1 usuário contou sua experiência:
-"Na época o site não funcionava, a página expirava e precisava colocar todos os meus dados novamente"
+### 15 -Você já utilizou o site do PCDF para bloquear algum aparelho celular roubado? Se sim, conte sua experiência.
+De 11 usuários, 1 usuário contou sua experiência:
+"Na época o site não funcionava, a página expirava e precisava colocar todos os meus dados novamente."
 
 ### 17-Você já registrou alguma ocorrência pelo site do PCDF? Se sim, conte sua experiência
-De 11 usuários um 1 usuário contou sua experiência:
+De 11 usuários, 1 usuário contou sua experiência:
 "Igualmente a minha experiência com bloqueio de telefone, site expirava e as informações sumiam, tive que repetir o processo algumas vezes."
 
 ### 18- Você já teve alguma experiência negativa com o site do PCDF? Conte sua experiência.
@@ -57,9 +58,9 @@ De 11 usuários um 1 usuário contou sua experiência:
 
 ### 20- Caso já tenha utilizado o site do PCDF antes, você achou as informações que precisava facilmente? Se não, por quê? O que procurava? 
 De 11 usuários um 2 usuários contou sua experiência:
-"Não, o site as vezes utiliza termos que não reconheço facilmente e algumas funções ficam um pouco escondidas "
+"Não, o site as vezes utiliza termos que não reconheço facilmente e algumas funções ficam um pouco escondidas."
 
-"Sim, não tive dificuldades para achar o que precisava"
+"Sim, não tive dificuldades para achar o que precisava."
 
 
 * [Link para as respostas do questionário](https://unbbr-my.sharepoint.com/:w:/g/personal/221031283_aluno_unb_br/EUdx-Sx2PxFOreYTmqcwr3MBC0LFARqifSpUmR2zv9NKew?e=wQjDHI)
@@ -71,8 +72,9 @@ De 11 usuários um 2 usuários contou sua experiência:
 
 
 ## **Histórico de Versões**
- 
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Planejamento do perfil de usuários                   |   [Renata Quadros](https://github.com/Renatinha28),[Giovana Barbosa ](https://github.com/gio221)      |   12/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)        |           13/04           |
 |1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
+|1.1| Arrumar a tabela|[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04| | |

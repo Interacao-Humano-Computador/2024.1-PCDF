@@ -1,0 +1,97 @@
+# Análise Hierárquica de Tarefas
+
+## Introdução 
+A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. Na HTA, a tarefa é decomposta em subtarefas menores, formando uma hierarquia que representa a estrutura da atividade. Cada subtarefa é detalhada até um nível em que possa ser facilmente compreendida e executada. Além disso, a análise pode incluir informações sobre os objetivos da tarefa, as condições em que é realizada, os recursos necessários e as possíveis interações com o ambiente e outros sistemas.
+
+## Elementos de uma análise HTA
+
+
+1. __Tarefas__: São as atividades que os usuários realizam para alcançar um objetivo específico dentro de um sistema interativo.
+
+2. __Subtarefas__: São as etapas menores que compõem uma tarefa maior. As subtarefas são organizadas hierarquicamente para representar a estrutura da atividade.
+
+3. __Objetivos__: Representam os resultados que os usuários desejam alcançar ao realizar uma tarefa. Os objetivos são fundamentais para orientar a análise e garantir que as subtarefas estejam alinhadas com as necessidades dos usuários.
+
+4. __Planos__: São as sequências de subtarefas e ações necessárias para atingir um objetivo específico. Os planos descrevem o fluxo de trabalho ou a sequência de atividades que os usuários devem seguir para realizar uma tarefa com sucesso.
+
+Como definido na figura 1.
+
+![tabela](../../assets/Analise_Requisitos/índice.png)
+<div align="center">
+<p> Figura 1 - Tabela Elementos de um diagrama HTA. </p> 
+</div>
+Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+## Funcionalidades Avaliadas pela HTA
+
+    Tabela que monstra quais funcionalidades foram avaliadas pela HTA
+ Funcionalidade    |    Integrante Responsável             |  
+|:------:|:-------------------------------:|
+| 197- Denúncia Online   | Giovana          |  
+| Solicitar Antecedentes Criminais | Renata |
+| Registrar Ocorrência | Rayene |
+
+# 197- Denúncia Online
+
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 2.
+
+![tabela](../../assets/Analise_Requisitos/analise_197online.png)
+<div align="center">
+<p> Figura 2- Diagrama de Analise da Denúncia Online. </p> 
+
+</div>
+Fonte :[Giovana Barbosa](https://github.com/gio221)  
+
+    Tabela que descreve Diagrama de Analise da Denúncia Online
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0.Fazer Denúncia  |                                                                                                                                                                                                         |
+|      1.Denúncia Online     | **input**: Ver qual denúncia vai fazer.<br>**feedback**: usuário redirecionado para a página de denúncias<br> **plano**: procurar qual denúncia                                        |
+|     1.1.Escolher tipo de denúncia      | **input**: Ver qual denúncia vai fazer.<br>**feedback**: após ver qual denúncia quer fazer, clicar nela  **plano**: selecionar qual denúncia vai fazer                                             |
+|       1.2.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
+| 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
+|       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
+
+## Solicitar Antecedentes Criminais
+
+|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Solicitar antecedentes criminais 1>2  | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online. |
+| 1. Informar email 1>2                    | **Plano**: informar email pessoal                                                                                                                                                                               |
+| 1.1. Informar código de autorização 1>2  | **Plano**: informar código enviado no email inserido                                                                                                                                                             |
+| 2. Solicitação                           |                                                                                                                                                                                                                |
+| 2.1. Informar dados pessoais 1+2         | **Plano**: informar nome, nome da mãe, nome do pai, email, CPF, estado civil, RG, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte                                                                                           |
+| 2.1.1. Informar detalhes pessoais        |                                                                                                                                                                                                                |
+| 2.2. Informar endereço residencial 1+2   | **Plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo                                                                                                                                                        |
+| 2.2.1. Informar detalhes residenciais    |                                                                                                                                                                                                                |
+| 2.3. Informar endereço comercial 1+2     | **Plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade                                                                                                 |
+| 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
+| 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
+| 3. Enviar respostas                      |                                                                                                                                                                                                                |
+| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação                                                                                                                                   
+
+
+## Registrar Ocorrência
+
+|        Objetivos/operações                     | Problemas e Recomendações                                                                                                                                                                                                                                    |
+|:----------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Acessar a seção "Registro de Ocorrência"   | **Input:** Navegar até a seção "Delegacia Eletrônica" através do menu de serviços.<br> **Feedback:** Localizar o botão "Registrar Ocorrência" após rolar a página.<br> **Plano:** Navegar pelo menu de serviços até encontrar a seção relevante.<br> **Recomendação:** Melhorar a visibilidade do botão "Registrar Ocorrência". |
+| 1. Escolher a natureza da ocorrência          | **Input:** Selecionar uma das opções de natureza de ocorrência listadas.<br> **Feedback:** Navegar para o formulário de registro correspondente à natureza selecionada.<br> **Plano:** Escolher a natureza da ocorrência com base na situação.                                                                             |
+| 1.1. Informar dados pessoais                  | **Input:** Fornecer informações pessoais no formulário de registro.<br> **Feedback:** Conclusão bem-sucedida do formulário de registro.<br> **Plano:** Preencher todas as seções do formulário com informações precisas.                                                                                             |
+| 1.2. Informar detalhes da ocorrência          | **Input:** Fornecer detalhes específicos sobre a ocorrência no formulário.<br> **Feedback:** Conclusão bem-sucedida dos detalhes da ocorrência.<br> **Plano:** Preencher todas as seções relevantes do formulário com informações precisas.                                                                 |
+| 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
+| 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                                                                                                   |
+
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+## Histórico de Versões
+
+    Tabela que descreve o Histórico de Versões
+| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)   |        18/04     |
+|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
+|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
+| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |

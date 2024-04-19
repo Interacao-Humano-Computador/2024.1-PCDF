@@ -36,6 +36,7 @@ As branchs sempre devem ter nomes significativos paara cada atividade
 
 # Conclusão
 Nossa equipe definiu ultilizar o scrum e o kanban de forma adaptada para que possamos pegar o melhor de cada metodologia e aplicar em nossa dinâmica de grupo.
+Também ultilizamos o teams para gravar as reuniões e um canal no youtube que criamos chamado "IHC", para postarmos os vídeos das gravações
 
 ## Bibliografia 
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
@@ -43,6 +44,7 @@ Nossa equipe definiu ultilizar o scrum e o kanban de forma adaptada para que pos
 >  Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
 ## Histórico de versão
+      Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação das metodologias | [Giovana Barbosa ](https://github.com/gio221) | 17/04 | |  |
