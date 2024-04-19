@@ -51,6 +51,16 @@ Dessa forma, Carlos espera obter os antecedentes criminais de Júlia para fortal
 
 # Validar certidão de antecedentes criminais 
 
+Cenário criado por [João Pedro](https://github.com/JoaoODragonborn) baseado em um personagem fictício chamado Pedro.
+
+<p style="text-align: center">Figura 1: Pedro</p>
+<p style="text-align: center">
+    <img src="../../assets/Analise_Requisitos/pedro.jpeg" alt="Pedro" style="border-radius: 5%; width: 300px;"/>
+</p>
+<p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
+
+Pedro é dono de uma uma empresa de segurança privada e eventualmente precisa contratar novos profissionais para cumprir com as demandas dos seus clientes. Pela natureza da sua empresa e os serviços prestados por ela, Pedro precisa que seus empregados sejam confiáveis e não representem perigo aos seus clientes. Assim, ao contratar novos funcionários, Pedro sempre exige que os candidatos apresentem sua certidão de antecedentes criminais. Para averiguar a veracidade das tais certidões, Pedro vai até o site da polícia civil para validar a certidão. Verificada a veracidade da certidão, Pedro tira suas devidas conclusões sobre o candidato e decide se deve contratá-lo ou não.
+
 # 197- Denúncia Online
 
 Esse cenário foi criado por [Giovana Barbosa ](https://github.com/gio221) é baseado em uma persona que definimos como usuária do site PCDF, que deseja bloquear um celular roubado
