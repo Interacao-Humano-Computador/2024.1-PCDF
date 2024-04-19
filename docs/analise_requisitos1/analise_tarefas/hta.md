@@ -28,7 +28,6 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 | 197- Denúncia Online   | Giovana          |  
-| Registro de Ocorrência   | Rayene              |  
 
 # 197- Denúncia Online
 
@@ -52,7 +51,7 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
 |       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
 
-# Registro de Ocorrência
+
 
 
 ## Bibliografia
