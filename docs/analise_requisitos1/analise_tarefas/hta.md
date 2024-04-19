@@ -27,10 +27,38 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
     Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
-| 197- Denúncia Online   | Giovana          |  
+|Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
-| Registrar Ocorrência | Rayene |
+| 197- Denúncia Online   | Giovana          |
 | Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
+
+# Pesquisar Procurados
+A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. 
+
+Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos de uma análise HTA seriam:
+
+- Tarefa: Inserir nome completo de uma pessoa civil com passagem pela polícia
+- Objetivo: Pesquisar procurados pela PCDF
+- Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
+
+# Solicitar Antecedentes Criminais
+
+|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Solicitar antecedentes criminais 1>2  | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online. |
+| 1. Informar email 1>2                    | **Plano**: informar email pessoal                                                                                                                                                                               |
+| 1.1. Informar código de autorização 1>2  | **Plano**: informar código enviado no email inserido                                                                                                                                                             |
+| 2. Solicitação                           |                                                                                                                                                                                                                |
+| 2.1. Informar dados pessoais 1+2         | **Plano**: informar nome, nome da mãe, nome do pai, email, CPF, estado civil, RG, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte                                                                                           |
+| 2.1.1. Informar detalhes pessoais        |                                                                                                                                                                                                                |
+| 2.2. Informar endereço residencial 1+2   | **Plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo                                                                                                                                                        |
+| 2.2.1. Informar detalhes residenciais    |                                                                                                                                                                                                                |
+| 2.3. Informar endereço comercial 1+2     | **Plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade                                                                                                 |
+| 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
+| 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
+| 3. Enviar respostas                      |                                                                                                                                                                                                                |
+| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação                                                                                                                                   
 
 # 197- Denúncia Online
 
@@ -53,36 +81,7 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |       1.2.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
 | 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
 |       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
-
-## Solicitar Antecedentes Criminais
-
-|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
-|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Solicitar antecedentes criminais 1>2  | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online. |
-| 1. Informar email 1>2                    | **Plano**: informar email pessoal                                                                                                                                                                               |
-| 1.1. Informar código de autorização 1>2  | **Plano**: informar código enviado no email inserido                                                                                                                                                             |
-| 2. Solicitação                           |                                                                                                                                                                                                                |
-| 2.1. Informar dados pessoais 1+2         | **Plano**: informar nome, nome da mãe, nome do pai, email, CPF, estado civil, RG, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte                                                                                           |
-| 2.1.1. Informar detalhes pessoais        |                                                                                                                                                                                                                |
-| 2.2. Informar endereço residencial 1+2   | **Plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo                                                                                                                                                        |
-| 2.2.1. Informar detalhes residenciais    |                                                                                                                                                                                                                |
-| 2.3. Informar endereço comercial 1+2     | **Plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade                                                                                                 |
-| 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
-| 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
-| 3. Enviar respostas                      |                                                                                                                                                                                                                |
-| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação                                                                                                                                   
-
-
-## Registrar Ocorrência
-
-|        Objetivos/operações                     | Problemas e Recomendações                                                                                                                                                                                                                                    |
-|:----------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Acessar a seção "Registro de Ocorrência"   | **Input:** Navegar até a seção "Delegacia Eletrônica" através do menu de serviços.<br> **Feedback:** Localizar o botão "Registrar Ocorrência" após rolar a página.<br> **Plano:** Navegar pelo menu de serviços até encontrar a seção relevante.<br> **Recomendação:** Melhorar a visibilidade do botão "Registrar Ocorrência". |
-| 1. Escolher a natureza da ocorrência          | **Input:** Selecionar uma das opções de natureza de ocorrência listadas.<br> **Feedback:** Navegar para o formulário de registro correspondente à natureza selecionada.<br> **Plano:** Escolher a natureza da ocorrência com base na situação.                                                                             |
-| 1.1. Informar dados pessoais                  | **Input:** Fornecer informações pessoais no formulário de registro.<br> **Feedback:** Conclusão bem-sucedida do formulário de registro.<br> **Plano:** Preencher todas as seções do formulário com informações precisas.                                                                                             |
-| 1.2. Informar detalhes da ocorrência          | **Input:** Fornecer detalhes específicos sobre a ocorrência no formulário.<br> **Feedback:** Conclusão bem-sucedida dos detalhes da ocorrência.<br> **Plano:** Preencher todas as seções relevantes do formulário com informações precisas.                                                                 |
-| 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
-| 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                                                                                                   |
+                                                                                  |
 
 # Solicitar Carteira de Identidade 
 
@@ -95,6 +94,16 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
 | 2.2. Acompanhar o Status da Solicitação   |  **Input**: Verificar o status da solicitação online. <br> **Feedback**: Atualizações sobre o andamento da solicitação. <br> **Plano de Ação**: Verificar regularmente o status da solicitação no site da PCDF.|                                                                                
 
+# Registrar Ocorrência
+
+|        Objetivos/operações                     | Problemas e Recomendações                                                                                                                                                                                                                                    |
+|:----------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Acessar a seção "Registro de Ocorrência"   | **Input:** Navegar até a seção "Delegacia Eletrônica" através do menu de serviços.<br> **Feedback:** Localizar o botão "Registrar Ocorrência" após rolar a página.<br> **Plano:** Navegar pelo menu de serviços até encontrar a seção relevante.<br> **Recomendação:** Melhorar a visibilidade do botão "Registrar Ocorrência". |
+| 1. Escolher a natureza da ocorrência          | **Input:** Selecionar uma das opções de natureza de ocorrência listadas.<br> **Feedback:** Navegar para o formulário de registro correspondente à natureza selecionada.<br> **Plano:** Escolher a natureza da ocorrência com base na situação.                                                                             |
+| 1.1. Informar dados pessoais                  | **Input:** Fornecer informações pessoais no formulário de registro.<br> **Feedback:** Conclusão bem-sucedida do formulário de registro.<br> **Plano:** Preencher todas as seções do formulário com informações precisas.                                                                                             |
+| 1.2. Informar detalhes da ocorrência          | **Input:** Fornecer detalhes específicos sobre a ocorrência no formulário.<br> **Feedback:** Conclusão bem-sucedida dos detalhes da ocorrência.<br> **Plano:** Preencher todas as seções relevantes do formulário com informações precisas.                                                                 |
+| 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
+| 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                 
 
 
 ## Bibliografia

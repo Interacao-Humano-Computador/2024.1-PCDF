@@ -23,81 +23,32 @@ e regras de seleção (selection rules).
      Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
-| Registro de Ocorrência   | Rayene        |
-| 197- Denúncia Online   | Giovana          |  
+|Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
-|Agendamento de Carteira de Identidade|Raissa|
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
 
-# Registro de Ocorrência
+# Pesquisar Procurados 
+## Introdução 
+No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. Para isso foi escolhida a GOMS.
+O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
+como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
+e regras de seleção (selection rules).
 
-## Modelo Goals, Operators, Methods, and Selection rules (GOMS)
+Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denúncia rápida de um crime, ainda na mesma página, os elementos seriam:
 
-[Rayene Almeida](https://github.com/rayenealmeida) aplicará o método GOMS no modelo CMN para analisar detalhadamente as ações cognitivas e motoras dos usuários ao realizar o registro de ocorrências no site da PCDF. A integrante identificará os objetivos que os usuários buscam alcançar ao usar essa funcionalidade, os operadores cognitivos e motores necessários para realizar as tarefas, os métodos sequenciais utilizados para atingir esses objetivos e as regras de seleção que orientam o comportamento do usuário diante de diferentes opções disponíveis na interface.
-
-## Meta: Registrar uma ocorrência no site da PCDF
-
-### Passos GOMS:
-
-* GOAL 0: Registrar uma Ocorrência
-    * GOAL 1: Acessar a seção de "Registro de Ocorrência" no site da PCDF
-        * OP 1.1: Guiar o mouse para a seção "Delegacia Eletrônica"
-        * OP 1.2: Pressionar o botão para acessar a seção
-    * GOAL 2: Ler as instruções e requisitos fornecidos
-        * OP 2.1: Ler as instruções na página de registro de ocorrência
-        * OP 2.2: Selecionar a natureza da ocorrência
-    * GOAL 3: Preencher o formulário de registro
-        * OP 3.1: Identificar os campos obrigatórios no formulário de registro
-            * Cognitivos:
-                * Identificar os campos obrigatórios
-        * OP 3.2: Decidir quais informações são relevantes e devem ser fornecidas
-            * Cognitivos:
-                * Decidir quais informações são necessárias para a ocorrência
-        * OP 3.3: Mover o cursor para clicar nos campos de entrada do formulário
-            * Motoras:
-                * Mover o cursor para os campos de entrada
-        * OP 3.4: Digitar as informações necessárias nos campos do formulário
-            * Motoras:
-                * Digitar as informações necessárias
-    * GOAL 4: Revisar e enviar o formulário de registro
-        * OP 4.1: Revisar as informações inseridas para garantir que estejam corretas e completas
-            * Cognitivos:
-                * Revisar as informações inseridas
-        * OP 4.2: Clicar no botão "Enviar" para submeter a ocorrência
-            * Motoras:
-                * Mover o cursor para clicar no botão de envio
-
-![Página inicial para ocorrência](../../assets/Analise_Requisitos/registraocorrencia.png)
-<div align="center">
-<p> Figura 1 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
-</div>
-
-![Página Seleção do Crime](../../assets/Analise_Requisitos/registraocorrencia2.png)
-<div align="center">
-<p> Figura 2 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
-</div>
-
-
-![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/registraocorrencia3.png)
-<div align="center">
-<p> Figura 3 - Formulário da Ocorrência. Fonte: Site PCDF  </p> 
-</div>
-
-
-
-
-# 197- Denúncia Online
-Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
-
-* GOAL 0: Fazer Denúncia
-    * GOAL 1: Denúncia Online
-        * OP 1.1: Guiar o mouse para a aba de denuncia online
-        * 0P 1.2: Pressionar o botão
-    * GOAL 2: Selecionar a opção denuncia por meios de comunicação
-        * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
-        * OP 2.2: Pressionar o botão
-    * GOAL 3: Fazer Denuncia
-        * OP 3.1: Colocar as informações
-        * OP 3.2: Clicar no botão denunciar 
+- Objetivos: denunciar delito
+- Operadores: Inserir, via teclado, os seguintes dados:
+    - Local
+    - UF
+    - Cidade
+    - Bairro
+    - Crimes
+    - Histórico
+    - O Autor é menor de idade? (Sim/Não)
+- Métodos: Inserir dados via teclado, ou copiar essas informações de alguma outro local e colar na página presente.
+- Regras de exeção: Enviar o formulário sem todas as partes preenchidas.
 
 # Solicitar Antecedentes Criminais 
 * GOAL 0: Descobrir se a pessoa possui antecedentes criminais.
@@ -155,6 +106,21 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
+
+# 197- Denúncia Online
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
+
+* GOAL 0: Fazer Denúncia
+    * GOAL 1: Denúncia Online
+        * OP 1.1: Guiar o mouse para a aba de denuncia online
+        * 0P 1.2: Pressionar o botão
+    * GOAL 2: Selecionar a opção denuncia por meios de comunicação
+        * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
+        * OP 2.2: Pressionar o botão
+    * GOAL 3: Fazer Denuncia
+        * OP 3.1: Colocar as informações
+        * OP 3.2: Clicar no botão denunciar 
+
 # Agendamento de Carteira de Identidade 
 
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
@@ -172,6 +138,60 @@ Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de mar
 Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuário esteja com pressa ou necessitar de um agendamento rápido, ele pode optar por procurar por horários disponíveis nos próximos dias.
 
 
+# Registro de Ocorrência
+
+## Modelo Goals, Operators, Methods, and Selection rules (GOMS)
+
+[Rayene Almeida](https://github.com/rayenealmeida) aplicará o método GOMS no modelo CMN para analisar detalhadamente as ações cognitivas e motoras dos usuários ao realizar o registro de ocorrências no site da PCDF. A integrante identificará os objetivos que os usuários buscam alcançar ao usar essa funcionalidade, os operadores cognitivos e motores necessários para realizar as tarefas, os métodos sequenciais utilizados para atingir esses objetivos e as regras de seleção que orientam o comportamento do usuário diante de diferentes opções disponíveis na interface.
+
+## Meta: Registrar uma ocorrência no site da PCDF
+
+### Passos GOMS:
+
+* GOAL 0: Registrar uma Ocorrência
+    * GOAL 1: Acessar a seção de "Registro de Ocorrência" no site da PCDF
+        * OP 1.1: Guiar o mouse para a seção "Delegacia Eletrônica"
+        * OP 1.2: Pressionar o botão para acessar a seção
+    * GOAL 2: Ler as instruções e requisitos fornecidos
+        * OP 2.1: Ler as instruções na página de registro de ocorrência
+        * OP 2.2: Selecionar a natureza da ocorrência
+    * GOAL 3: Preencher o formulário de registro
+        * OP 3.1: Identificar os campos obrigatórios no formulário de registro
+            * Cognitivos:
+                * Identificar os campos obrigatórios
+        * OP 3.2: Decidir quais informações são relevantes e devem ser fornecidas
+            * Cognitivos:
+                * Decidir quais informações são necessárias para a ocorrência
+        * OP 3.3: Mover o cursor para clicar nos campos de entrada do formulário
+            * Motoras:
+                * Mover o cursor para os campos de entrada
+        * OP 3.4: Digitar as informações necessárias nos campos do formulário
+            * Motoras:
+                * Digitar as informações necessárias
+    * GOAL 4: Revisar e enviar o formulário de registro
+        * OP 4.1: Revisar as informações inseridas para garantir que estejam corretas e completas
+            * Cognitivos:
+                * Revisar as informações inseridas
+        * OP 4.2: Clicar no botão "Enviar" para submeter a ocorrência
+            * Motoras:
+                * Mover o cursor para clicar no botão de envio
+
+![Página inicial para ocorrência](../../assets/Analise_Requisitos/registraocorrencia.png)
+<div align="center">
+<p> Figura 1 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
+</div>
+
+![Página Seleção do Crime](../../assets/Analise_Requisitos/registraocorrencia2.png)
+<div align="center">
+<p> Figura 2 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
+</div>
+
+
+![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/registraocorrencia3.png)
+<div align="center">
+<p> Figura 3 - Formulário da Ocorrência. Fonte: Site PCDF  </p> 
+</div>
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -184,8 +204,9 @@ Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuá
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |        |             |
-|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
+|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |   [Renata Quadros](https://github.com/Renatinha28)      |     18/04        |
+|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |           [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |   [Renata Quadros](https://github.com/Renatinha28)    |  19/04              |
-| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
-|1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|||
+| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+|1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+| 1.5 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |

@@ -73,5 +73,5 @@ A figura 4 representa Ana
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento Personas                   |   [Lara Giuliana](https://github.com/gravelylara)     |   15/04   |[Giovana Barbosa](https://github.com/gio221)   |15/04|
-|  1.1   | Chamando firguras no texto                   |  [Giovana Barbosa](https://github.com/gio221)   |   17/04   |   ||
+|  1.1   | Chamando firguras no texto                   |  [Giovana Barbosa](https://github.com/gio221)   |   17/04   |   [Lara Giuliana](https://github.com/gravelylara)     |   18/04  
 

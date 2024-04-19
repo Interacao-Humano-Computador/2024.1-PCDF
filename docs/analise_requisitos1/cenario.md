@@ -108,5 +108,5 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 | 1.0 |  Criação de Cenário  | [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Raissa Andrade](https://github.com/RaissaAndradeS)| 18/08 |
 | 1.1 | Cenário da carteira inserido | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/04 |[Giovana Barbosa ](https://github.com/gio221) | 18/04|
 | 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
-| 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
-| 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | | |
+| 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |[Giovana Barbosa ](https://github.com/gio221) |19/04 |
+| 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
