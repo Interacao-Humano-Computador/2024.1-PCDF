@@ -30,21 +30,39 @@ e regras de seleção (selection rules).
 
 ## Modelo Goals, Operators, Methods, and Selection rules (GOMS)
 
-[Rayene Almeida](https://github.com/rayenealmeida) aplicará o modelo GOMS para analisar detalhadamente as ações cognitivas e motoras dos usuários ao realizar o registro de ocorrências no site da PCDF. A integrante identificará os objetivos que os usuários buscam alcançar ao usar essa funcionalidade, os operadores cognitivos e motores necessários para realizar as tarefas, os métodos sequenciais utilizados para atingir esses objetivos e as regras de seleção que orientam o comportamento do usuário diante de diferentes opções disponíveis na interface.
+[Rayene Almeida](https://github.com/rayenealmeida) aplicará o método GOMS no modelo CMN para analisar detalhadamente as ações cognitivas e motoras dos usuários ao realizar o registro de ocorrências no site da PCDF. A integrante identificará os objetivos que os usuários buscam alcançar ao usar essa funcionalidade, os operadores cognitivos e motores necessários para realizar as tarefas, os métodos sequenciais utilizados para atingir esses objetivos e as regras de seleção que orientam o comportamento do usuário diante de diferentes opções disponíveis na interface.
 
 ## Meta: Registrar uma ocorrência no site da PCDF
 
 ### Passos GOMS:
 
-#### Objetivo (Goal):
-- Identificar a necessidade de registrar uma ocorrência e decidir usar o site da PCDF para fazer isso.
-
-#### Operadores (Operators):
-- **Cognitivos:**
-  - Selecionar a Opção de Registrar Ocorrência.
-  - Ler e compreender as instruções fornecidas na página de registro de ocorrência.
-  - Identificar os campos obrigatórios no formulário de registro.
-  - Decidir quais informações são relevantes e devem ser fornecidas.
+* GOAL 0: Registrar uma Ocorrência
+    * GOAL 1: Acessar a seção de "Registro de Ocorrência" no site da PCDF
+        * OP 1.1: Guiar o mouse para a seção "Delegacia Eletrônica"
+        * OP 1.2: Pressionar o botão para acessar a seção
+    * GOAL 2: Ler as instruções e requisitos fornecidos
+        * OP 2.1: Ler as instruções na página de registro de ocorrência
+        * OP 2.2: Selecionar a natureza da ocorrência
+    * GOAL 3: Preencher o formulário de registro
+        * OP 3.1: Identificar os campos obrigatórios no formulário de registro
+            * Cognitivos:
+                * Identificar os campos obrigatórios
+        * OP 3.2: Decidir quais informações são relevantes e devem ser fornecidas
+            * Cognitivos:
+                * Decidir quais informações são necessárias para a ocorrência
+        * OP 3.3: Mover o cursor para clicar nos campos de entrada do formulário
+            * Motoras:
+                * Mover o cursor para os campos de entrada
+        * OP 3.4: Digitar as informações necessárias nos campos do formulário
+            * Motoras:
+                * Digitar as informações necessárias
+    * GOAL 4: Revisar e enviar o formulário de registro
+        * OP 4.1: Revisar as informações inseridas para garantir que estejam corretas e completas
+            * Cognitivos:
+                * Revisar as informações inseridas
+        * OP 4.2: Clicar no botão "Enviar" para submeter a ocorrência
+            * Motoras:
+                * Mover o cursor para clicar no botão de envio
 
 ![Página inicial para ocorrência](../../assets/Analise_Requisitos/registraocorrencia.png)
 <div align="center">
@@ -57,31 +75,11 @@ e regras de seleção (selection rules).
 </div>
 
 
-- **Motoras:**
-  - Mover o cursor para clicar nos campos de entrada do formulário.
-  - Digitar as informações necessárias nos campos do formulário.
-  - Clicar no botão de envio para submeter o formulário.
-
-
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/registraocorrencia3.png)
 <div align="center">
 <p> Figura 3 - Formulário da Ocorrência. Fonte: Site PCDF  </p> 
 </div>
 
-#### Métodos (Methods):
-- **Passos Sequenciais:**
-  1. Acessar a seção de "Registro de Ocorrência" no site da PCDF.
-  2. Ler as instruções e requisitos fornecidos.
-  3. Preencher os campos obrigatórios do formulário (como dados pessoais, descrição da ocorrência, etc.).
-  4. Revisar as informações inseridas para garantir que estejam corretas e completas.
-  5. Clicar no botão "Enviar" para submeter a ocorrência.
-- **Ações de Correção:**
-  - Corrigir erros de digitação nos campos do formulário.
-  - Revisar e editar as informações inseridas, se necessário, antes de enviar.
-
-#### Regras de Seleção (Selection rules):
-- Decidir quais informações incluir no relato da ocorrência com base nas instruções fornecidas e na relevância para o caso.
-- Escolher entre digitar manualmente as informações ou usar recursos como copiar e colar, se aplicável e disponível.
 
 
 
