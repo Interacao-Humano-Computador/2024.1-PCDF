@@ -26,6 +26,7 @@ e regras de seleção (selection rules).
 | Registro de Ocorrência   | Rayene        |
 | 197- Denúncia Online   | Giovana          |  
 | Solicitar Antecedentes Criminais | Renata |
+|Agendamento de Carteira de Identidade|Raissa|
 
 # Registro de Ocorrência
 
@@ -154,7 +155,7 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
-## Agendamento de Carteira de Identidade 
+# Agendamento de Carteira de Identidade 
 
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
 

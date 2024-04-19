@@ -14,8 +14,40 @@ A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cená
 * __Avaliação__: Atividade mental dirigida para interpretar a situação.
 
 # Pesquisar procurados 
+**Cenário: Visualização da Página de Procurados pela Polícia Civil Regional**
+Criado por  [Lara Giuliana](https://github.com/gravelylara)
 
-# Solicitar antecedentes Criminais 
+Contexto:
+Um cidadão comum está navegando na internet em sua casa, utilizando seu laptop pessoal para pesquisar informações locais. Ele tem interesse em saber mais sobre os procurados pela Polícia Civil em sua região para estar ciente de possíveis ameaças ou situações de segurança.
+
+Objetivo:
+O cidadão deseja acessar a página de procurados pela Polícia Civil em sua região para verificar se reconhece algum dos indivíduos procurados ou para estar ciente de qualquer informação relevante para a comunidade.
+
+Tarefa:
+1. O cidadão abre o navegador da web em seu laptop e digita o endereço da página oficial da Polícia Civil de sua região.
+2. Ele navega pelo site até encontrar a seção específica dedicada aos procurados pela polícia.
+3. Ao acessar a página de procurados, ele visualiza uma lista de fotos e descrições dos indivíduos procurados, juntamente com informações sobre os crimes pelos quais são procurados.
+4. O cidadão examina as fotos e descrições com atenção, buscando qualquer indivíduo que possa parecer familiar ou representar uma ameaça para a comunidade.
+5. Ele verifica se há detalhes adicionais, como recompensas por informações que levem à captura dos procurados ou números de telefone para contato em caso de avistamento.
+6. Após revisar as informações disponíveis, o cidadão decide se deseja relatar qualquer avistamento ou informação relevante à polícia.
+
+Condições:
+- O cidadão tem conhecimento básico de navegação na internet e sabe como acessar sites governamentais.
+- O site da Polícia Civil está funcionando normalmente, sem interrupções no acesso às informações dos procurados.
+- O cidadão está motivado por preocupações com a segurança pública e tem interesse em contribuir para a manutenção da ordem na comunidade.
+
+Este cenário descreve como um cidadão comum pode utilizar a página de procurados pela Polícia Civil em sua região para se manter informado sobre potenciais ameaças ou indivíduos procurados pela lei.
+
+
+# Solicitar Antecedentes Criminais
+O cenário criado por [Renata Quadros](https://github.com/Renatinha28) é baseado na persona Carlos e em uma pessoa fictícia Júlia.  
+
+Autores: Carlos (advogado), Júlia (réu)
+
+Carlos, um advogado, precisa consultar os antecedentes criminais de sua cliente, Júlia, uma moça que mora em Brasília-DF e está sendo processada injustamente. Ele precisa comprovar que Júlia possui uma ficha criminal limpa para fortalecer sua defesa. Para isso, Carlos decide solicitar os antecedentes criminais de Júlia através do site da Polícia Civil do Distrito Federal. Ele prefere fazer essa solicitação junto com Júlia para garantir que os dados fornecidos estejam corretos.
+Após Júlia fornecer seu email pessoal e inserir o código de verificação, ela fornece todos os seus dados pessoais, incluindo nome completo, nome dos pais, CPF, RG, estado civil, data de nascimento, naturalidade, sexo, CNH, passaporte, endereço residencial e endereço comercial com CEP, além do motivo da solicitação.
+Carlos finaliza o preenchimento das informações e envia o pedido. Ele recebe uma mensagem do site informando que os dados serão analisados em até 3 dias úteis. Ele então informa a Júlia que entrará em contato após esse período para fornecer o resultado da solicitação.
+Dessa forma, Carlos espera obter os antecedentes criminais de Júlia para fortalecer sua defesa no processo judicial em que ela está envolvida.
 
 # Validar certidão de antecedentes criminais 
 
@@ -52,7 +84,7 @@ Então Ana fez a denúncia anônima,com os passos monstrado na figura 3, e depoi
 
 O cenário criado por [Raissa Andrade](https://github.com/RaissaAndradeS) é baseado em uma pessoa fictícia tentando marcar para revonar sua carteira de identidade.  
 
-![Engenharia de Usabilidade de Mayhew](../assets/Analise_Requisitos/Adriano.webp)
+![EAdriano](../../assets/Analise_Requisitos/Adriano.webp)
 <div align="center">
 <p> Figura 4 : Adriano</p> 
 <p> Fonte:gerado através do site this-person-does-not-exist.com</p></div>
@@ -60,23 +92,14 @@ O cenário criado por [Raissa Andrade](https://github.com/RaissaAndradeS) é bas
 Adriano Valverde como monstrado na figura 4, tem 17 anos, terminou o ensino médio, encontra - se estudando para concurso. Adriano é menor de idade, ainda não tem a CNH. Ele tirou o Registro Geral (RG) ainda quando era criança e não sabia que seu RG tem validade, de 0 a 12 anos, tem a validade de 5 anos. De 12 a 60 anos incompletos, tem validade de 10 anos e acima de 60 anos tem validade indeterminada. 
 Adriano irá prestar concurso, precisa manter a carteira de identidade atualizada e para conseguir emitir um novo RG, adriano precisa acessar o site da Polícia Civil do Distrito Federal, na aba de "Serviços" acessará carteira de identidade que vai leva - lo para outra página e nessa página, ele conseguira agendar um horário para emitir seu novo documento.  Mas adriano não consegue concluir seu agendamento pelo site da PCDF, ao tentar marcar agendamento, mesmo mostrando um horário disponível, ao final ha uma mensagem mostrando ao contrario. Mas Adriano precisa muito desse documento, então ele deu refresh na pagina e quando foi escolher a opção de lugar, já não havia mais o gama e ele conseguiu mas apenas na unidade de samambaia, como montrado na figura 5.
 
-![Engenharia de Usabilidade de Mayhew](../assets/Analise_Requisitos/pcdf.png)
+![Agendamento](../assets/Analise_Requisitos/pcdf.png)
 <div align="center">
 <p> Figura 5: Print do agendamneto</p>
 <p>Fonte: site da PCDF</p> </div>
 
-## Solicitar Antecedentes Criminais
-O cenário criado por [Renata Quadros](https://github.com/Renatinha28) é baseado na persona Carlos e em uma pessoa fictícia Júlia.  
-
-Autores: Carlos (advogado), Júlia (réu)
-
-Carlos, um advogado, precisa consultar os antecedentes criminais de sua cliente, Júlia, uma moça que mora em Brasília-DF e está sendo processada injustamente. Ele precisa comprovar que Júlia possui uma ficha criminal limpa para fortalecer sua defesa. Para isso, Carlos decide solicitar os antecedentes criminais de Júlia através do site da Polícia Civil do Distrito Federal. Ele prefere fazer essa solicitação junto com Júlia para garantir que os dados fornecidos estejam corretos.
-Após Júlia fornecer seu email pessoal e inserir o código de verificação, ela fornece todos os seus dados pessoais, incluindo nome completo, nome dos pais, CPF, RG, estado civil, data de nascimento, naturalidade, sexo, CNH, passaporte, endereço residencial e endereço comercial com CEP, além do motivo da solicitação.
-Carlos finaliza o preenchimento das informações e envia o pedido. Ele recebe uma mensagem do site informando que os dados serão analisados em até 3 dias úteis. Ele então informa a Júlia que entrará em contato após esse período para fornecer o resultado da solicitação.
-Dessa forma, Carlos espera obter os antecedentes criminais de Júlia para fortalecer sua defesa no processo judicial em que ela está envolvida.
-
-
 # Registra Ocorrência 
+
+
 
 
 ## Histórico de versão
@@ -86,3 +109,4 @@ Dessa forma, Carlos espera obter os antecedentes criminais de Júlia para fortal
 | 1.1 | Cenário da carteira inserido | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/04 |[Giovana Barbosa ](https://github.com/gio221) | 18/04|
 | 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
 | 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
+| 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | | |
