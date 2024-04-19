@@ -37,4 +37,4 @@ Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação co
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   13/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
+|  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
