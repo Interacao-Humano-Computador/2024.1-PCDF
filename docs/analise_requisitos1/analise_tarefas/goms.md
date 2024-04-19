@@ -154,6 +154,24 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
+## Agendamento de Carteira de Identidade 
+
+Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
+
+* GOAL 0: Solicitar Carteira de Identidade.
+* GOAL 1: entrar no site da PCDF.
+    * OP 1.1: Navegar por serviços.
+    * OP 1.1: Clicar em carteira de identidade.
+    * OP 1.1: Solicitar CIN.
+    * OP 1.1: Li e quero agendar a CIN.
+* GOAL 2: Escolher serviço solicitado e unidade de atendimento.
+    * OP 1.1: Preencher formulário online. 
+    * OP 1.1: Aguardar confirmação.
+
+Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuário esteja com pressa ou necessitar de um agendamento rápido, ele pode optar por procurar por horários disponíveis nos próximos dias.
+
+
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -169,3 +187,4 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |   [Renata Quadros](https://github.com/Renatinha28)    |  19/04              |
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
+|1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|||
