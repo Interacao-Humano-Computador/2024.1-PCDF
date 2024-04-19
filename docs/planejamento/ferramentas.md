@@ -54,6 +54,7 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 
 # Histórico de Versão 
 
+    Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Ferramentas utilizadas                 |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   05/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     06/04                 |

@@ -34,7 +34,7 @@ Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação co
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## **Histórico de Versões**
- 
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   13/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |

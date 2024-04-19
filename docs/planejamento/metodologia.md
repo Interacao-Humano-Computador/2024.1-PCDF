@@ -44,6 +44,7 @@ Também ultilizamos o teams para gravar as reuniões e um canal no youtube que c
 >  Bourque and R.E. Fairley, eds., Guide to the Software Engineering Body of Knowledge, Version 3.0, IEEE Computer Society, 2014; www.swebok.org.
 
 ## Histórico de versão
+      Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação das metodologias | [Giovana Barbosa ](https://github.com/gio221) | 17/04 | |  |

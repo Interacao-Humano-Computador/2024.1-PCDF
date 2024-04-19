@@ -20,7 +20,7 @@ e regras de seleção (selection rules).
 </div>
 
 ## Funcionalidades Avaliadas pela GOMS
-
+     Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 | Registro de Ocorrência   | Rayene        |
@@ -86,7 +86,7 @@ e regras de seleção (selection rules).
 
 
 # 197- Denúncia Online
-Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1.
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
 
 * GOAL 0: Fazer Denúncia
     * GOAL 1: Denúncia Online
@@ -111,4 +111,5 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |        |             |
-|  1.0   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
+|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
+|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |       |                |

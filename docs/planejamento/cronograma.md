@@ -155,6 +155,7 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 
 
 ## Histórico de versão
+      Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do cronograma no documento 03/04  | [Giovana Barbosa ](https://github.com/gio221) | 03/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |

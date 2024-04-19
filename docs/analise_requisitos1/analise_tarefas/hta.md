@@ -20,9 +20,11 @@ Como definido na figura 1.
 <div align="center">
 <p> Figura 1 - Tabela Elementos de um diagrama HTA. </p> 
 </div>
+Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## Funcionalidades Avaliadas pela HTA
 
+    Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 | 197- Denúncia Online   | Giovana          |  
@@ -30,12 +32,16 @@ Como definido na figura 1.
 
 # 197- Denúncia Online
 
-Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1.
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 2.
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
 <div align="center">
-<p> Figura 1 - TDiagrama de Analise da Denúncia Online. </p> 
+<p> Figura 2- Diagrama de Analise da Denúncia Online. </p> 
+
 </div>
+Fonte :[Giovana Barbosa](https://github.com/gio221)  
+
+    Tabela que descreve Diagrama de Analise da Denúncia Online
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -54,7 +60,9 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
 ## Histórico de Versões
 
+    Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)   |        18/04     |
-|  1.0   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
+|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
+|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |       |                |

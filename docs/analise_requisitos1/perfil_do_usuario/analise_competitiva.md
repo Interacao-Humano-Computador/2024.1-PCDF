@@ -104,7 +104,7 @@ Ao incorporar essas melhorias, o site da Polícia Civil do Distrito Federal pode
 > Polícia Civil do Distrito Federal. Polícia Civil do Distrito Federal. Disponível em: [https://www.pcdf.df.gov.br/](https://www.pcdf.df.gov.br/). Acesso em: 14 abr 2024.
 
 ## **Histórico de Versões**
- 
+      Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0 | Análise competitiva | [Renata Quadros](https://github.com/Renatinha28) |14/04|[Giovana Barbosa ](https://github.com/gio221)  |14/04 |

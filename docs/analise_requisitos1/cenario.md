@@ -45,7 +45,7 @@ Então Ana fez a denúncia anônima,com os passos monstrado na figura 3, e depoi
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/197_animais2.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura 2 : Informações sobre a Denúncia de Maus Tratos Animais</p>
+<p style="text-align: center">Figura 3 : Informações sobre a Denúncia de Maus Tratos Animais</p>
 <p style="text-align: center">Fonte: site PCDF</p></div>
 
 # Solicitar carteira de identidade 
@@ -54,15 +54,15 @@ O cenário criado por [Raissa Andrade](https://github.com/RaissaAndradeS) é bas
 
 ![Engenharia de Usabilidade de Mayhew](../assets/Analise_Requisitos/Adriano.webp)
 <div align="center">
-<p> Figura 3 : Adriano</p> 
+<p> Figura 4 : Adriano</p> 
 <p> Fonte:gerado através do site this-person-does-not-exist.com</p></div>
 
-Adriano Valverde como monstrado na figura 3, tem 17 anos, terminou o ensino médio, encontra - se estudando para concurso. Adriano é menor de idade, ainda não tem a CNH. Ele tirou o Registro Geral (RG) ainda quando era criança e não sabia que seu RG tem validade, de 0 a 12 anos, tem a validade de 5 anos. De 12 a 60 anos incompletos, tem validade de 10 anos e acima de 60 anos tem validade indeterminada. 
-Adriano irá prestar concurso, precisa manter a carteira de identidade atualizada e para conseguir emitir um novo RG, adriano precisa acessar o site da Polícia Civil do Distrito Federal, na aba de "Serviços" acessará carteira de identidade que vai leva - lo para outra página e nessa página, ele conseguira agendar um horário para emitir seu novo documento.  Mas adriano não consegue concluir seu agendamento pelo site da PCDF, ao tentar marcar agendamento, mesmo mostrando um horário disponível, ao final ha uma mensagem mostrando ao contrario. Mas Adriano precisa muito desse documento, então ele deu refresh na pagina e quando foi escolher a opção de lugar, já não havia mais o gama e ele conseguiu mas apenas na unidade de samambaia, como montrado na figura 4.
+Adriano Valverde como monstrado na figura 4, tem 17 anos, terminou o ensino médio, encontra - se estudando para concurso. Adriano é menor de idade, ainda não tem a CNH. Ele tirou o Registro Geral (RG) ainda quando era criança e não sabia que seu RG tem validade, de 0 a 12 anos, tem a validade de 5 anos. De 12 a 60 anos incompletos, tem validade de 10 anos e acima de 60 anos tem validade indeterminada. 
+Adriano irá prestar concurso, precisa manter a carteira de identidade atualizada e para conseguir emitir um novo RG, adriano precisa acessar o site da Polícia Civil do Distrito Federal, na aba de "Serviços" acessará carteira de identidade que vai leva - lo para outra página e nessa página, ele conseguira agendar um horário para emitir seu novo documento.  Mas adriano não consegue concluir seu agendamento pelo site da PCDF, ao tentar marcar agendamento, mesmo mostrando um horário disponível, ao final ha uma mensagem mostrando ao contrario. Mas Adriano precisa muito desse documento, então ele deu refresh na pagina e quando foi escolher a opção de lugar, já não havia mais o gama e ele conseguiu mas apenas na unidade de samambaia, como montrado na figura 5.
 
 ![Engenharia de Usabilidade de Mayhew](../assets/Analise_Requisitos/pcdf.png)
 <div align="center">
-<p> Figura 4: Print do agendamneto</p>
+<p> Figura 5: Print do agendamneto</p>
 <p>Fonte: site da PCDF</p> </div>
 
 
