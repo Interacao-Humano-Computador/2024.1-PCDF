@@ -14,6 +14,30 @@ A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cená
 * __Avaliação__: Atividade mental dirigida para interpretar a situação.
 
 # Pesquisar procurados 
+**Cenário: Visualização da Página de Procurados pela Polícia Civil Regional**
+Criado por  [Lara Giuliana](https://github.com/gravelylara)
+
+Contexto:
+Um cidadão comum está navegando na internet em sua casa, utilizando seu laptop pessoal para pesquisar informações locais. Ele tem interesse em saber mais sobre os procurados pela Polícia Civil em sua região para estar ciente de possíveis ameaças ou situações de segurança.
+
+Objetivo:
+O cidadão deseja acessar a página de procurados pela Polícia Civil em sua região para verificar se reconhece algum dos indivíduos procurados ou para estar ciente de qualquer informação relevante para a comunidade.
+
+Tarefa:
+1. O cidadão abre o navegador da web em seu laptop e digita o endereço da página oficial da Polícia Civil de sua região.
+2. Ele navega pelo site até encontrar a seção específica dedicada aos procurados pela polícia.
+3. Ao acessar a página de procurados, ele visualiza uma lista de fotos e descrições dos indivíduos procurados, juntamente com informações sobre os crimes pelos quais são procurados.
+4. O cidadão examina as fotos e descrições com atenção, buscando qualquer indivíduo que possa parecer familiar ou representar uma ameaça para a comunidade.
+5. Ele verifica se há detalhes adicionais, como recompensas por informações que levem à captura dos procurados ou números de telefone para contato em caso de avistamento.
+6. Após revisar as informações disponíveis, o cidadão decide se deseja relatar qualquer avistamento ou informação relevante à polícia.
+
+Condições:
+- O cidadão tem conhecimento básico de navegação na internet e sabe como acessar sites governamentais.
+- O site da Polícia Civil está funcionando normalmente, sem interrupções no acesso às informações dos procurados.
+- O cidadão está motivado por preocupações com a segurança pública e tem interesse em contribuir para a manutenção da ordem na comunidade.
+
+Este cenário descreve como um cidadão comum pode utilizar a página de procurados pela Polícia Civil em sua região para se manter informado sobre potenciais ameaças ou indivíduos procurados pela lei.
+
 
 # Solicitar Antecedentes Criminais
 O cenário criado por [Renata Quadros](https://github.com/Renatinha28) é baseado na persona Carlos e em uma pessoa fictícia Júlia.  
@@ -85,3 +109,4 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 | 1.1 | Cenário da carteira inserido | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/04 |[Giovana Barbosa ](https://github.com/gio221) | 18/04|
 | 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
 | 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
+| 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | | |
