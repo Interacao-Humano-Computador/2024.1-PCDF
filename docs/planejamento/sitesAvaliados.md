@@ -103,7 +103,10 @@ Integrante responsável por avaliar o site da FioCruz foi a Raissa Andrade.  A a
 
 <a id="inss"></a>
 ## INSS 
+
 A integrante responsável por avaliar o site do INSS foi a Rayene. A avaliação tinha como objetivo identificar quais áreas possuem dificuldades enfrentadas pelos usuários no site do INSS, com foco em melhorar a experiência do usuário. O método de avaliação utilizado para avaliar o site do INSS foi a análise heurística. Os meios de interação avaliados foram: acesso a informações sobre benefícios previdenciários, consultas sobre benefícios, solicitação de serviços online oferecidos pelo INSS, como aposentadorias e pensões e agendamento de atendimentos presenciais. Na avaliação foram encontradas as seguintes violações com seus respectivos graus de severidade:  
+
+* [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
 
 Lentidão no carregamento das páginas: 
 
@@ -115,6 +118,14 @@ Lentidão no carregamento das páginas:
 
 *  Justificativa: A lentidão no carregamento das páginas pode causar frustração e impaciência nos usuários, especialmente aqueles que buscam informações urgentes ou precisam realizar transações rapidamente. Isso pode resultar em uma experiência negativa do usuário, levando à diminuição da satisfação e possivelmente ao abandono do site em busca de alternativas mais eficientes. 
 
+
+![Reclamação INSS](../assets/planejamento/insscarregamento.jpeg)
+<div align="center">
+    <p> Figura 5: Imagem da reclamação 1. Fonte: 
+        <a href="https://www.reclameaqui.com.br/inss/">Reclame AQUI</a>
+    </p> 
+</div>
+
 Dificuldade em Encontrar Informações Específicas sobre Benefícios e Serviços: 
 
 *  Diretriz Violada: Navegabilidade. 
@@ -124,6 +135,15 @@ Dificuldade em Encontrar Informações Específicas sobre Benefícios e Serviço
 *  Gravidade: 3 (problema médio). 
 
 *  Justificativa: A dificuldade em localizar informações específicas sobre benefícios e serviços pode causar confusão e desorientação nos usuários, dificultando o acesso aos recursos necessários. Isso pode levar a uma experiência frustrante e prolongada no site, além de aumentar a probabilidade de erros nas solicitações de benefícios, prejudicando assim a eficácia do serviço prestado pelo INSS. 
+
+
+![Reclamação INSS](../assets/planejamento/inssinfo.jpeg)
+<div align="center">
+    <p> Figura 6: Imagem da reclamação 2. Fonte: 
+        <a href="https://www.reclameaqui.com.br/inss/">Reclame AQUI</a>
+    </p> 
+</div>
+
 
 Falta de Disponibilidade de Horários para Agendamentos Online: 
 
@@ -135,6 +155,16 @@ Falta de Disponibilidade de Horários para Agendamentos Online:
 
 *  Justificativa: A falta de disponibilidade de horários para agendamentos online limita a conveniência e a acessibilidade do serviço para os usuários. Isso pode resultar em dificuldades para os usuários agendarem atendimentos presenciais, especialmente aqueles com horários restritos devido a compromissos de trabalho ou outras responsabilidades. A falta de opções de agendamento pode gerar insatisfação nos usuários e até mesmo impedir o acesso ao serviço do INSS quando necessário. 
 
+
+![Reclamação INSS](../assets/planejamento/inssagendamento.jpeg)
+<div align="center">
+    <p> Figura 7: Imagem da reclamação 3. Fonte: 
+        <a href="https://www.reclameaqui.com.br/inss/">Reclame AQUI</a>
+    </p> 
+</div>
+
+
+
 Problemas Técnicos ao Preencher Formulários Online: 
 
 *  Diretriz Violada: Confiabilidade 
@@ -145,20 +175,49 @@ Problemas Técnicos ao Preencher Formulários Online:
 
 *  Justificativa: Problemas técnicos ao preencher formulários online representam uma falha na confiabilidade do sistema, pois podem resultar em perda de dados ou erros durante o processo de preenchimento. Isso pode causar frustração nos usuários e comprometer a credibilidade do site do INSS como uma plataforma confiável para realizar transações e solicitações importantes relacionadas a benefícios previdenciários.
   
-* [Link para a avaliação detalhada](https://unbbr-my.sharepoint.com/:w:/g/personal/221022720_aluno_unb_br/EU-NhWTYeJpKge2yfrmly_8Ba2BZ3y_QRqfK5v9K5DeyKg?e=oDcv6a)  
+![Reclamação INSS](../assets/planejamento/inssformulario.jpeg)
+<div align="center">
+    <p> Figura 8: Imagem da reclamação 4. Fonte: 
+        <a href="https://www.reclameaqui.com.br/inss/">Reclame AQUI</a>
+    </p> 
+</div>
 
 ![Site INSS](../assets/planejamento/inss.png)
 <div align="center">
-    <p> Figura 5: Imagem do site INSS . Fonte: 
+    <p> Figura 9: Imagem do site INSS . Fonte: 
         <a href="https://www.gov.br/inss/pt-br">INSS</a>
     </p> 
 </div>
+
 ![Site Meu INSS](../assets/planejamento/meuinss.png)
 <div align="center">
-    <p> Figura 6: Imagem do site Meu INSS . Fonte: 
+    <p> Figura 10: Imagem do site Meu INSS 1. Fonte: 
         <a href="https://meu.inss.gov.br">Meu INSS</a>
     </p> 
 </div>
+
+![Site Meu INSS](../assets/planejamento/inssservicos.jpeg)
+<div align="center">
+    <p> Figura 11: Imagem do site Meu INSS 2. Fonte: 
+        <a href="https://meu.inss.gov.br">Meu INSS</a>
+    </p> 
+</div>
+
+![Site Meu INSS](../assets/planejamento/inssagenda.jpeg)
+<div align="center">
+    <p> Figura 12: Imagem do site Meu INSS 3. Fonte: 
+        <a href="https://meu.inss.gov.br">Meu INSS</a>
+    </p> 
+</div>
+
+![Site Meu INSS](../assets/planejamento/inssmaisacessos.jpeg)
+<div align="center">
+    <p> Figura 13: Imagem do site Meu INSS 4. Fonte: 
+        <a href="https://meu.inss.gov.br">Meu INSS</a>
+    </p> 
+</div>
+
+
 
 <a id="brb-mobilidade"></a>
 ## BRB mobilidade
@@ -188,7 +247,7 @@ Problema de acessibilidade para idosos:
 
 ![Site BRB Mobilidade](../assets/planejamento/brbMobilidade.png)
 <div align="center">
-    <p> Figura 7: Imagem do site BRB Mobilidade . Fonte: 
+    <p> Figura 11: Imagem do site BRB Mobilidade . Fonte: 
         <a href="https://novo.brb.com.br/solucoes-de-governo/mobilidade">BRB Mobilidade</a>
     </p> 
 </div>
