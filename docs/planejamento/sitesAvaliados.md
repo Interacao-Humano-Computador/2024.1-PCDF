@@ -64,7 +64,9 @@ A responsável por avaliar o site do MPF foi a Lara. A avaliação teve a finali
 
 * Diretriz violada: Consistência e padronização e Reconhecimento em vez de recordação
 
-* Justificativa: As duas páginas informam endereços para atendimento em cada estado e no DF. Embora sejam parecidas as funcionalidas não têm uma padronização aparente,  que exige a recordação do usuário do sistema
+* Justificativa: As duas páginas informam endereços para atendimento em cada estado e no DF. Embora sejam parecidas as funcionalidas não têm uma padronização aparente,  que exige a recordação do usuário do sistema   
+
+* [Avaliação](https://docs.google.com/document/d/1qsJH92wkwEBTrX16UKzrhqDvbZn2_u8RHJwyc4yEb1Y/edit)
 
 De acordo com a escala de severidade de Nielsen, ambos os problemas serão avaliados como grandes, pois “prejudica fatores de usabilidade tidos como importantes
 para o projeto”.
