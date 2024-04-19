@@ -28,6 +28,24 @@ Como definido na figura 1.
 | 197- Denúncia Online   | Giovana          |  
 | Registro de Ocorrência   | Rayene              |  
 
+# 197- Denúncia Online
+
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1.
+
+![tabela](../../assets/Analise_Requisitos/analise_197online.png)
+<div align="center">
+<p> Figura 1 - TDiagrama de Analise da Denúncia Online. </p> 
+</div>
+
+|     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
+| :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|  0.Fazer Denúncia  |                                                                                                                                                                                                         |
+|      1.Denúncia Online     | **input**: Ver qual denúncia vai fazer.<br>**feedback**: usuário redirecionado para a página de denúncias<br> **plano**: procurar qual denúncia                                        |
+|     1.1.Escolher tipo de denúncia      | **input**: Ver qual denúncia vai fazer.<br>**feedback**: após ver qual denúncia quer fazer, clicar nela  **plano**: selecionar qual denúncia vai fazer                                             |
+|       1.2.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
+| 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
+|       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
+
 # Registro de Ocorrência
 
 

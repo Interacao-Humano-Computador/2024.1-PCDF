@@ -23,12 +23,12 @@ e regras de seleção (selection rules).
 
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
-| Registro de Ocorrência   | Rayene        
+| Registro de Ocorrência   | Rayene        |
+| 197- Denúncia Online   | Giovana          |  
 
 # Registro de Ocorrência
 
 ## Modelo Goals, Operators, Methods, and Selection rules (GOMS)
-O modelo GOMS, também abordado por Barbosa e Silva (2010), oferece uma estrutura sistemática para descrever as interações do usuário com um sistema. Este modelo divide a interação em quatro componentes: objetivos (Goals), operadores (Operators), métodos (Methods) e regras de seleção (Selection rules).
 
 [Rayene Almeida](https://github.com/rayenealmeida) aplicará o modelo GOMS para analisar detalhadamente as ações cognitivas e motoras dos usuários ao realizar o registro de ocorrências no site da PCDF. A integrante identificará os objetivos que os usuários buscam alcançar ao usar essa funcionalidade, os operadores cognitivos e motores necessários para realizar as tarefas, os métodos sequenciais utilizados para atingir esses objetivos e as regras de seleção que orientam o comportamento do usuário diante de diferentes opções disponíveis na interface.
 
@@ -82,6 +82,22 @@ O modelo GOMS, também abordado por Barbosa e Silva (2010), oferece uma estrutur
 #### Regras de Seleção (Selection rules):
 - Decidir quais informações incluir no relato da ocorrência com base nas instruções fornecidas e na relevância para o caso.
 - Escolher entre digitar manualmente as informações ou usar recursos como copiar e colar, se aplicável e disponível.
+
+
+
+# 197- Denúncia Online
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1.
+
+* GOAL 0: Fazer Denúncia
+    * GOAL 1: Denúncia Online
+        * OP 1.1: Guiar o mouse para a aba de denuncia online
+        * 0P 1.2: Pressionar o botão
+    * GOAL 2: Selecionar a opção denuncia por meios de comunicação
+        * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
+        * OP 2.2: Pressionar o botão
+    * GOAL 3: Fazer Denuncia
+        * OP 3.1: Colocar as informações
+        * OP 3.2: Clicar no botão denunciar 
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
