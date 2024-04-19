@@ -30,6 +30,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 | 197- Denúncia Online   | Giovana          |  
 | Solicitar Antecedentes Criminais | Renata |
 | Registrar Ocorrência | Rayene |
+| Solicitar Carteira de Identidade| Raissa
 
 # 197- Denúncia Online
 
@@ -83,6 +84,19 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
 | 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                                                                                                   |
 
+# Solicitar Carteira de Identidade 
+
+|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1.  Acessar o Site da PCDF | **input**: Digitar o endereço correto do site da PCDF no navegador ou clicar em um link fornecido. <br> **Feedback**: Página inicial do site da PCDF é exibida.<br> **Plano**: Abrir o navegador e digitar o endereço do site ou clicar em um link pré-fornecido.<br>  |
+| 2.         Localizar o Serviço de Emissão de Carteira de Identidade.          | **Input**: Navegar pela aba aba de "Serviços" para encontrar a solicitação do serviço. <br> **Feedback**: O serviço é encontrado e acessado. <br> **Plano de Ação**: Navegar pelos aba para encontrar o serviço específico de emissão de carteira de identidade.|
+| 3.  Informar-se sobre os Requisitos e Procedimentos |**Input**: Ler as informações fornecidas sobre os requisitos, documentos necessários e procedimentos para solicitar a carteira de identidade. <br> **Feedback**: Entendimento claro dos requisitos e procedimentos.<br> **Plano de Ação**: Ler atentamente as informações fornecidas no site sobre os documentos necessários e os passos a serem seguidos para solicitar a carteira de identidade.                                                                       |
+| 4. Preencher o Formulário de Solicitação Online   | **Input**: Preencher o formulário online com as informações pessoais necessárias. <br> **Feedback**: Confirmação de envio bem-sucedido do formulário. <br>  **Plano de Ação**: Preencher corretamente o formulário online com os dados solicitados, incluindo informações pessoais e dados de contato.  |
+| 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
+| 2.2. Acompanhar o Status da Solicitação   |  **Input**: Verificar o status da solicitação online. <br> **Feedback**: Atualizações sobre o andamento da solicitação. <br> **Plano de Ação**: Verificar regularmente o status da solicitação no site da PCDF.|                                                                                
+
+
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -95,3 +109,4 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
+|1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| | |
