@@ -247,7 +247,7 @@ Problema de acessibilidade para idosos:
 
 ![Site BRB Mobilidade](../assets/planejamento/brbMobilidade.png)
 <div align="center">
-    <p> Figura 11: Imagem do site BRB Mobilidade . Fonte: 
+    <p> Figura 14: Imagem do site BRB Mobilidade . Fonte: 
         <a href="https://novo.brb.com.br/solucoes-de-governo/mobilidade">BRB Mobilidade</a>
     </p> 
 </div>
