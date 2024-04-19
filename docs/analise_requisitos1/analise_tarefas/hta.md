@@ -29,6 +29,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 |:------:|:-------------------------------:|
 | 197- Denúncia Online   | Giovana          |  
 | Solicitar Antecedentes Criminais | Renata |
+| Registrar Ocorrência | Rayene |
 
 # 197- Denúncia Online
 
@@ -52,23 +53,35 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
 |       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
 
-
 ## Solicitar Antecedentes Criminais
-| Objetivos/operações | poblemas e recomendações|
-| :-----------------: | :----------------------:|
-| 0.Solicitar antecedentes criminais 1>2 | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online.<br> |
-| 1. Informar email 1>2 | **plano**: informar email pessoal |
-| 1.1 Informar código de autorização 1>2 | **plano**: informar código enviado no email inserido |
-| 2. Solicitação | |
-| 2.1. Informar dados pessoais 1+2 | **plano**: informar nome, nome da mãe, nome do pai, emial. cpf, estado civil, rg, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte|
-| 2.1.1. Informar nome, nome da mãe, nome do pai, emial. cpf, estado civil, rg, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte | |
-| 2.2. Informar endereço residencial 1+2 | **plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo |
-| 2.2.1. Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo |  |
-| 2.3. Informar endereço comercial 1+2 | **plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade |
-| 2.3.1. Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade | |
-| 2.4. Informar finalidade da solicitação 1/2 | **plano**: informar a finalidade da solicitação de antecedentes criminais |
-| 3. Enviar respostas | |
-| 4. Recibo | **ação**: conferir solicitação<br> **recomendação**: após 3 dias utéis conferir solicitação |
+
+|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Solicitar antecedentes criminais 1>2  | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online. |
+| 1. Informar email 1>2                    | **Plano**: informar email pessoal                                                                                                                                                                               |
+| 1.1. Informar código de autorização 1>2  | **Plano**: informar código enviado no email inserido                                                                                                                                                             |
+| 2. Solicitação                           |                                                                                                                                                                                                                |
+| 2.1. Informar dados pessoais 1+2         | **Plano**: informar nome, nome da mãe, nome do pai, email, CPF, estado civil, RG, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte                                                                                           |
+| 2.1.1. Informar detalhes pessoais        |                                                                                                                                                                                                                |
+| 2.2. Informar endereço residencial 1+2   | **Plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo                                                                                                                                                        |
+| 2.2.1. Informar detalhes residenciais    |                                                                                                                                                                                                                |
+| 2.3. Informar endereço comercial 1+2     | **Plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade                                                                                                 |
+| 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
+| 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
+| 3. Enviar respostas                      |                                                                                                                                                                                                                |
+| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação                                                                                                                                   
+
+
+## Registrar Ocorrência
+
+|        Objetivos/operações                     | Problemas e Recomendações                                                                                                                                                                                                                                    |
+|:----------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Acessar a seção "Registro de Ocorrência"   | **Input:** Navegar até a seção "Delegacia Eletrônica" através do menu de serviços.<br> **Feedback:** Localizar o botão "Registrar Ocorrência" após rolar a página.<br> **Plano:** Navegar pelo menu de serviços até encontrar a seção relevante.<br> **Recomendação:** Melhorar a visibilidade do botão "Registrar Ocorrência". |
+| 1. Escolher a natureza da ocorrência          | **Input:** Selecionar uma das opções de natureza de ocorrência listadas.<br> **Feedback:** Navegar para o formulário de registro correspondente à natureza selecionada.<br> **Plano:** Escolher a natureza da ocorrência com base na situação.                                                                             |
+| 1.1. Informar dados pessoais                  | **Input:** Fornecer informações pessoais no formulário de registro.<br> **Feedback:** Conclusão bem-sucedida do formulário de registro.<br> **Plano:** Preencher todas as seções do formulário com informações precisas.                                                                                             |
+| 1.2. Informar detalhes da ocorrência          | **Input:** Fornecer detalhes específicos sobre a ocorrência no formulário.<br> **Feedback:** Conclusão bem-sucedida dos detalhes da ocorrência.<br> **Plano:** Preencher todas as seções relevantes do formulário com informações precisas.                                                                 |
+| 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
+| 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                                                                                                   |
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -81,4 +94,4 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)   |        18/04     |
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
-| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
+| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
