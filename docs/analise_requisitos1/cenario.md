@@ -65,6 +65,16 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 <p> Figura 5: Print do agendamneto</p>
 <p>Fonte: site da PCDF</p> </div>
 
+## Solicitar Antecedentes Criminais
+O cenário criado por [Renata Quadros](https://github.com/Renatinha28) é baseado na persona Carlos e em uma pessoa fictícia Júlia.  
+
+Autores: Carlos (advogado), Júlia (réu)
+
+Carlos, um advogado, precisa consultar os antecedentes criminais de sua cliente, Júlia, uma moça que mora em Brasília-DF e está sendo processada injustamente. Ele precisa comprovar que Júlia possui uma ficha criminal limpa para fortalecer sua defesa. Para isso, Carlos decide solicitar os antecedentes criminais de Júlia através do site da Polícia Civil do Distrito Federal. Ele prefere fazer essa solicitação junto com Júlia para garantir que os dados fornecidos estejam corretos.
+Após Júlia fornecer seu email pessoal e inserir o código de verificação, ela fornece todos os seus dados pessoais, incluindo nome completo, nome dos pais, CPF, RG, estado civil, data de nascimento, naturalidade, sexo, CNH, passaporte, endereço residencial e endereço comercial com CEP, além do motivo da solicitação.
+Carlos finaliza o preenchimento das informações e envia o pedido. Ele recebe uma mensagem do site informando que os dados serão analisados em até 3 dias úteis. Ele então informa a Júlia que entrará em contato após esse período para fornecer o resultado da solicitação.
+Dessa forma, Carlos espera obter os antecedentes criminais de Júlia para fortalecer sua defesa no processo judicial em que ela está envolvida.
+
 
 # Registra Ocorrência 
 
@@ -74,4 +84,5 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação de Cenário  | [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Raissa Andrade](https://github.com/RaissaAndradeS)| 18/08 |
 | 1.1 | Cenário da carteira inserido | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/04 |[Giovana Barbosa ](https://github.com/gio221) | 18/04|
-| 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | | |
+| 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
+| 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |

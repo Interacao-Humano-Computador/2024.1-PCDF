@@ -28,6 +28,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 | 197- Denúncia Online   | Giovana          |  
+| Solicitar Antecedentes Criminais | Renata |
 
 # 197- Denúncia Online
 
@@ -52,7 +53,22 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
 
 
-
+## Solicitar Antecedentes Criminais
+| Objetivos/operações | poblemas e recomendações|
+| :-----------------: | :----------------------:|
+| 0.Solicitar antecedentes criminais 1>2 | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online.<br> |
+| 1. Informar email 1>2 | **plano**: informar email pessoal |
+| 1.1 Informar código de autorização 1>2 | **plano**: informar código enviado no email inserido |
+| 2. Solicitação | |
+| 2.1. Informar dados pessoais 1+2 | **plano**: informar nome, nome da mãe, nome do pai, emial. cpf, estado civil, rg, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte|
+| 2.1.1. Informar nome, nome da mãe, nome do pai, emial. cpf, estado civil, rg, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte | |
+| 2.2. Informar endereço residencial 1+2 | **plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo |
+| 2.2.1. Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo |  |
+| 2.3. Informar endereço comercial 1+2 | **plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade |
+| 2.3.1. Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade | |
+| 2.4. Informar finalidade da solicitação 1/2 | **plano**: informar a finalidade da solicitação de antecedentes criminais |
+| 3. Enviar respostas | |
+| 4. Recibo | **ação**: conferir solicitação<br> **recomendação**: após 3 dias utéis conferir solicitação |
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -64,4 +80,5 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)   |        18/04     |
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
-|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |       |                |
+|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
+| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |

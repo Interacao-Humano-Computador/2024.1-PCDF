@@ -25,6 +25,7 @@ e regras de seleção (selection rules).
 |:------:|:-------------------------------:|
 | Registro de Ocorrência   | Rayene        |
 | 197- Denúncia Online   | Giovana          |  
+| Solicitar Antecedentes Criminais | Renata |
 
 # Registro de Ocorrência
 
@@ -97,6 +98,62 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
         * OP 3.1: Colocar as informações
         * OP 3.2: Clicar no botão denunciar 
 
+# Solicitar Antecedentes Criminais 
+* GOAL 0: Descobrir se a pessoa possui antecedentes criminais.
+  * GOAL 1: Solicitar os antecedentes criminais.
+    * METHOD 1.A: Acessar o sistema de solicitação de antecedentes criminais da PCDF.
+
+    (SEL. RULE: O usuário possui acesso ao sistema e sabe como navegar nele.)
+
+    * METHOD 1.B: Entrar em contato com a Polícia Civil do Distrito Federal por telefone ou e-mail para obter instruções sobre como solicitar os antecedentes criminais.
+
+    (SEL.RULE: O usuário não está familiarizado com o sistema online ou não possui acesso a ele.)
+
+  * GOAL 2: Preencher corretamente os dados necessários para a solicitação de antecedentes criminais.
+    * METHOD 2.A: Inserir os dados pessoais da pessoa para quem os antecedentes criminais estão sendo solicitados.
+
+    (SEL. RULE: O usuário possui os dados pessoais da pessoa.)
+
+      * OP. 2.A.1: Digitar o nome completo da pessoa.
+      * OP. 2.A.2: Inserir o nome completo dos pais da pessoa (se aplicável).
+      * OP. 2.A.3: Preencher o CPF (Cadastro de Pessoa Física) da pessoa.
+      * OP. 2.A.4: Fornecer o RG (Registro Geral) da pessoa.
+      * OP. 2.A.5: Indicar a data de nascimento da pessoa.
+      * OP. 2.A.6: Especificar a naturalidade (cidade e estado de nascimento) da pessoa.
+      * OP. 2.A.7: Selecionar o sexo da pessoa.
+      * OP. 2.A.8: Informar o estado civil da pessoa.
+      * OP. 2.A.9: Se aplicável, inserir o número da CNH (Carteira Nacional de Habilitação) da pessoa.
+      * OP. 2.A.10: Se aplicável, fornecer o número do passaporte da pessoa.
+      * OP. 2.A.11: Inserir o endereço residencial completo da pessoa.
+      * OP. 2.A.12: Se aplicável, incluir o endereço comercial completo da pessoa.
+      * OP. 2.A.13: Indicar o CEP (Código de Endereçamento Postal) tanto do endereço residencial quanto do endereço comercial.
+
+    * METHOD 2.B: Revisar os dados fornecidos para garantir que estejam corretos e completos.
+
+    (SEL. RULE: O usuário deseja evitar erros na solicitação.)
+
+      * OP. 2.B.1: Verificar se todos os campos foram preenchidos corretamente.
+      * OP. 2.B.2: Revisar se não há erros de digitação nos dados fornecidos.
+      * OP. 2.B.3: Confirmar se os dados estão atualizados e correspondem à pessoa correta.
+      * OP. 2.B.4: Corrigir qualquer informação incorreta ou incompleta identificada durante a revisão.
+  * GOAL 3: Confirmar o envio da solicitação.
+    * METHOD 3.A: Enviar a solicitação através do sistema online e aguardar a confirmação.
+
+    (SEL. RULE: O usuário tem acesso à internet e confia na eficácia do sistema.)
+
+    * METHOD 3.B: Entrar em contato com a PCDF para confirmar o recebimento da solicitação.
+
+    (SEL. RULE: O usuário prefere confirmar pessoalmente.)
+
+  * GOAL 4: Receber um código de acompanhamento da solicitação.
+    * METHOD 4.A: Aguardar o recebimento do código de acompanhamento através do e-mail fornecido na solicitação.
+
+    (SEL. RULE: O usuário confia na eficácia do sistema de envio de e-mails.)
+
+    * METHOD 4.B: Entrar em contato com a PCDF para solicitar o código de acompanhamento, caso não seja recebido dentro do prazo esperado.
+
+    (SEL.RULE: O usuário prefere confirmar pessoalmente.)
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -110,4 +167,5 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |        |             |
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
-|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |       |                |
+|  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |   [Renata Quadros](https://github.com/Renatinha28)    |  19/04              |
+| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
