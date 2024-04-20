@@ -43,6 +43,9 @@ Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos d
 - Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
 
 # Solicitar Antecedentes Criminais
+Fonte: [Renata Quadros](https://github.com/Renatinha28) 
+
+    Tabela que descreve Diagrama de Analise de Solicitar Antecedentes Criminais
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -118,4 +121,4 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
-|1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| | |
+|1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| [Renata Quadros](https://github.com/Renatinha28) | 19/04 |

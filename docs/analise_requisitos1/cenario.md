@@ -107,12 +107,29 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 <p> Figura 5: Print do agendamneto</p>
 <p>Fonte: site da PCDF</p> </div>
 
-# Registra Ocorrência 
+# Registrar Ocorrência 
+
+Esse cenário foi Criado [Rayene Almeida](https://github.com/rayenealmeida) é baseado em uma pessoa fictícia tentando marcar para revonar sua carteira de identidade.  
 
 
+![Rafael](../../assets/Analise_Requisitos/rafael.png)
+<div align="center">
+<p> Figura 6 : Rafael Mendes</p> 
+<p> Fonte:gerado através do site this-person-does-not-exist.com</p></div>
+
+Rafael Mendes, um jovem engenheiro civil que morava em Brazlândia, estava a caminho de uma reunião com um cliente em uma obra em andamento na região central de Brasília. Enquanto dirigia seu carro pela avenida movimentada, ele foi surpreendido por um motorista que avançou o sinal vermelho e colidiu violentamente com o seu veículo. O impacto foi forte, deixando ambos os carros bastante danificados. Rafael, apesar de assustado, não sofreu ferimentos graves, mas estava bastante abalado com a situação. Antes que pudesse reagir, o outro motorista, percebendo o estrago causado, acelerou e fugiu do local do acidente. 
+Com a adrenalina ainda correndo, Rafael imediatamente ligou para a emergência e solicitou ajuda no local do acidente. Assim que chegou em casa, Rafael acessou o site da Polícia Civil do Distrito Federal ele procurou no menu do site "Registro de Ocorrência" e não entrou, ele foi acessando os serviços um por um sendo "197 Denúncia", "Antecedentes Criminais", "Biblioteca", "Bloqueio de Aparelho Celular", "Carta de Serviços ao Cidadão", "Carteira de Identidade" até que finalmente achou ao entrar na "Delegacia Eletrônica".
+Ao ser encaminhado para a página Delegacia Eletrônica, ele rolou a pagina e encotrou um botão "Registrar Ocorrência", ao clicar foi levado ao campo abaixo que tinha as naturezas da ocorrência.
+Ele ficou confuso pois tinha uma opção de acidente de trÂnsito mas era acidente de trânsito sem vítima. Ao clicar na opção foi encaminhado para uma página que dizia "Por meio deste canal será possível o registro de ocorrências de acidente de trânsito sem vítima e aqueles em que o condutor do veículo causador do acidente se evade do local para fugir a sua responsabilidade", sendo assim essa era mesmo a opção certa. Em seguida ele rolou a página e foi lendo até encontrar a opção de concordar que leu e proceguir com o registro. Ao clicar foi encaminhado para outra página que perguntava " Este acidente de trânsito que você deseja registrar aconteceu no Distrito Federal?"  Então ele marcou que sim. Em seguida apareceu outra pergunta " Após o acidente houve contato verbal ou pessoal entre os condutores?" e a resposata era não. 
+A próxima pergunta que apareceu foi "O veículo estava estacionado no momento em que a avaria foi provocada?" e a resposta também era não e a proxima pergunta foi "O motorista causador deste acidente sem vítima evadiu-se do local, sem se identificar ou deixar meios para ser contactado, com o objetivo de fugir de eventual responsabilidade?" que foi o que ocorreu então ele marcou sim. Ao clicar em continuar ele preencheu seus dados cuidadosamente, escreveu os detalhes do ocorrido incluindo a descrição do acidente e os danos aos veículos, preencheu os Quesitos e enviou fotos de como ficou o carro no "Anexos". Após revisar minuciosamente todas as informações fornecidas, Rafael enviou o formulário de registro de ocorrência e aguardou ansiosamente pela confirmação da submissão.Ele esperava que o registro ajudasse na investigação do acidente e na determinação das responsabilidades, garantindo assim uma resolução justa do incidente.
 
 
-## Histórico de versão
+![Rafael](../../assets/Analise_Requisitos/pcdfservicos.png)
+<div align="center">
+<p> Figura 7 : Menu de Serviços PCDF</p> 
+<p> Fonte: Site PCDF</p></div>
+
+
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação de Cenário  | [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Raissa Andrade](https://github.com/RaissaAndradeS)| 18/08 |
@@ -120,3 +137,4 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 | 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
 | 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |[Giovana Barbosa ](https://github.com/gio221) |19/04 |
 | 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+| 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |   | |
