@@ -25,6 +25,7 @@ e regras de seleção (selection rules).
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
+| Validar Antecedentes Criminais | João   |
 | 197- Denúncia Online   | Giovana          |
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
@@ -129,6 +130,21 @@ Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo s
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
+
+#  Validar Antecedentes Criminais 
+
+Nessa tarefa o usuário pretende validar uma certidão de antecedentes criminais. Realizado por [João Pedro](https://github.com/JoaoODragonborn)
+
+* GOAL 0:  Validar certidão de antecedentes criminais
+    * GOAL 1: Preencher os dados da certidão
+        * OP 1.1: Preencher o número da certidão
+        * OP 1.2: Preencher o ano de solicitação da certidão
+        * OP 1.3: Preencher o ano de nascimento na certidão
+    * GOAL 2: Provar que o usuário não é um robô
+        * OP 2.1: Marcar o checkbox ao lado da frase "Eu não sou um robô"
+        * OP 2.2: Realizar tarefa aleatória que o CAPTCHA oferecer, caso ofereça
+    * GOAL 3: Pesquisar certidão
+        * OP 3.1: Clicar em "Pesquisar"
 
 # 197- Denúncia Online
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
