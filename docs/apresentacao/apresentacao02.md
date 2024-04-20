@@ -33,10 +33,10 @@ Tabela 1: Critérios de avaliação para a entrega
 14 – Que solicitará a permissão para gravar a voz ou imagem de qualquer pessoa, antes de começar a gravação? | Sim
 15 -O termo de consentimento livre e esclarecido dos participantes?| Sim
 16 - Foram utilizadas no mínimo duas técnicas para coletar dados e levantar os requisitos dos usuários (quanto mais melhor)?| Sim
-17 - Os Cenários?|
-18 - a Análise de tarefas?|
-19 – uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas?|
-20 - Utilizaram alguma técnica para especificar as tarefas?|
+17 - Os Cenários?| Sim
+18 - a Análise de tarefas?| Sim
+19 – uma atividade para cada integrante do grupos que deve estar modelizado em ao menos duas técnicas para especificar as tarefas?| Sim
+20 - Utilizaram alguma técnica para especificar as tarefas?| Sim
 
 
 ## Bibliografia 

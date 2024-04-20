@@ -23,10 +23,159 @@ e regras de seleção (selection rules).
      Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
-| Registro de Ocorrência   | Rayene        |
-| 197- Denúncia Online   | Giovana          |  
+|Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
-|Agendamento de Carteira de Identidade|Raissa|
+| Validar Antecedentes Criminais | João   |
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
+
+# Pesquisar Procurados 
+## Introdução 
+No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. Para isso foi escolhida a GOMS.
+O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
+como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
+e regras de seleção (selection rules).
+
+Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denúncia rápida de um crime, ainda na mesma página, os elementos seriam:
+
+- Objetivos: denunciar delito
+- Operadores: Inserir, via teclado, os seguintes dados:
+    - Local
+    - UF
+    - Cidade
+    - Bairro
+    - Crimes
+    - Histórico
+    - O Autor é menor de idade? (Sim/Não)
+- Métodos: Inserir dados via teclado, ou copiar essas informações de alguma outro local e colar na página presente.
+- Regras de exeção: Enviar o formulário sem todas as partes preenchidas.
+
+# Solicitar Antecedentes Criminais 
+Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
+
+![Página inicial para ocorrência](../../assets/Analise_Requisitos/inicial_solicitar_antecedentes.png)
+<div align="center">
+<p> Figura 4 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
+</div>
+
+![Página Seleção do Crime](../../assets/Analise_Requisitos/codigo_solicitar_antecedentes.png)
+<div align="center">
+<p> Figura 5 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
+</div>
+
+
+![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulario1_solicitar_antecedentes.png)
+<div align="center">
+<p> Figura 6 - Formulário. Fonte: Site PCDF  </p> 
+</div>
+
+![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulario2_solicitar_antecedentes.png)
+<div align="center">
+<p> Figura 6 - Formulário. Fonte: Site PCDF  </p> 
+</div>
+
+* GOAL 0: Descobrir se a pessoa possui antecedentes criminais.
+  * GOAL 1: Solicitar os antecedentes criminais.
+    * METHOD 1.A: Acessar o sistema de solicitação de antecedentes criminais da PCDF.
+
+    (SEL. RULE: O usuário possui acesso ao sistema e sabe como navegar nele.)
+
+    * METHOD 1.B: Entrar em contato com a Polícia Civil do Distrito Federal por telefone ou e-mail para obter instruções sobre como solicitar os antecedentes criminais.
+
+    (SEL.RULE: O usuário não está familiarizado com o sistema online ou não possui acesso a ele.)
+
+  * GOAL 2: Preencher corretamente os dados necessários para a solicitação de antecedentes criminais.
+    * METHOD 2.A: Inserir os dados pessoais da pessoa para quem os antecedentes criminais estão sendo solicitados.
+
+    (SEL. RULE: O usuário possui os dados pessoais da pessoa.)
+
+      * OP. 2.A.1: Digitar o nome completo da pessoa.
+      * OP. 2.A.2: Inserir o nome completo dos pais da pessoa (se aplicável).
+      * OP. 2.A.3: Preencher o CPF (Cadastro de Pessoa Física) da pessoa.
+      * OP. 2.A.4: Fornecer o RG (Registro Geral) da pessoa.
+      * OP. 2.A.5: Indicar a data de nascimento da pessoa.
+      * OP. 2.A.6: Especificar a naturalidade (cidade e estado de nascimento) da pessoa.
+      * OP. 2.A.7: Selecionar o sexo da pessoa.
+      * OP. 2.A.8: Informar o estado civil da pessoa.
+      * OP. 2.A.9: Se aplicável, inserir o número da CNH (Carteira Nacional de Habilitação) da pessoa.
+      * OP. 2.A.10: Se aplicável, fornecer o número do passaporte da pessoa.
+      * OP. 2.A.11: Inserir o endereço residencial completo da pessoa.
+      * OP. 2.A.12: Se aplicável, incluir o endereço comercial completo da pessoa.
+      * OP. 2.A.13: Indicar o CEP (Código de Endereçamento Postal) tanto do endereço residencial quanto do endereço comercial.
+
+    * METHOD 2.B: Revisar os dados fornecidos para garantir que estejam corretos e completos.
+
+    (SEL. RULE: O usuário deseja evitar erros na solicitação.)
+
+      * OP. 2.B.1: Verificar se todos os campos foram preenchidos corretamente.
+      * OP. 2.B.2: Revisar se não há erros de digitação nos dados fornecidos.
+      * OP. 2.B.3: Confirmar se os dados estão atualizados e correspondem à pessoa correta.
+      * OP. 2.B.4: Corrigir qualquer informação incorreta ou incompleta identificada durante a revisão.
+  * GOAL 3: Confirmar o envio da solicitação.
+    * METHOD 3.A: Enviar a solicitação através do sistema online e aguardar a confirmação.
+
+    (SEL. RULE: O usuário tem acesso à internet e confia na eficácia do sistema.)
+
+    * METHOD 3.B: Entrar em contato com a PCDF para confirmar o recebimento da solicitação.
+
+    (SEL. RULE: O usuário prefere confirmar pessoalmente.)
+
+  * GOAL 4: Receber um código de acompanhamento da solicitação.
+    * METHOD 4.A: Aguardar o recebimento do código de acompanhamento através do e-mail fornecido na solicitação.
+
+    (SEL. RULE: O usuário confia na eficácia do sistema de envio de e-mails.)
+
+    * METHOD 4.B: Entrar em contato com a PCDF para solicitar o código de acompanhamento, caso não seja recebido dentro do prazo esperado.
+
+    (SEL.RULE: O usuário prefere confirmar pessoalmente.)
+
+
+#  Validar Antecedentes Criminais 
+
+Nessa tarefa o usuário pretende validar uma certidão de antecedentes criminais. Realizado por [João Pedro](https://github.com/JoaoODragonborn)
+
+* GOAL 0:  Validar certidão de antecedentes criminais
+    * GOAL 1: Preencher os dados da certidão
+        * OP 1.1: Preencher o número da certidão
+        * OP 1.2: Preencher o ano de solicitação da certidão
+        * OP 1.3: Preencher o ano de nascimento na certidão
+    * GOAL 2: Provar que o usuário não é um robô
+        * OP 2.1: Marcar o checkbox ao lado da frase "Eu não sou um robô"
+        * OP 2.2: Realizar tarefa aleatória que o CAPTCHA oferecer, caso ofereça
+    * GOAL 3: Pesquisar certidão
+        * OP 3.1: Clicar em "Pesquisar"
+
+# 197- Denúncia Online
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
+
+* GOAL 0: Fazer Denúncia
+    * GOAL 1: Denúncia Online
+        * OP 1.1: Guiar o mouse para a aba de denuncia online
+        * 0P 1.2: Pressionar o botão
+    * GOAL 2: Selecionar a opção denuncia por meios de comunicação
+        * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
+        * OP 2.2: Pressionar o botão
+    * GOAL 3: Fazer Denuncia
+        * OP 3.1: Colocar as informações
+        * OP 3.2: Clicar no botão denunciar 
+
+# Agendamento de Carteira de Identidade 
+
+Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
+
+* GOAL 0: Solicitar Carteira de Identidade.
+* GOAL 1: entrar no site da PCDF.
+    * OP 1.1: Navegar por serviços.
+    * OP 1.1: Clicar em carteira de identidade.
+    * OP 1.1: Solicitar CIN.
+    * OP 1.1: Li e quero agendar a CIN.
+* GOAL 2: Escolher serviço solicitado e unidade de atendimento.
+    * OP 1.1: Preencher formulário online. 
+    * OP 1.1: Aguardar confirmação.
+
+Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuário esteja com pressa ou necessitar de um agendamento rápido, ele pode optar por procurar por horários disponíveis nos próximos dias.
+
 
 # Registro de Ocorrência
 
@@ -83,96 +232,6 @@ e regras de seleção (selection rules).
 </div>
 
 
-
-
-# 197- Denúncia Online
-Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
-
-* GOAL 0: Fazer Denúncia
-    * GOAL 1: Denúncia Online
-        * OP 1.1: Guiar o mouse para a aba de denuncia online
-        * 0P 1.2: Pressionar o botão
-    * GOAL 2: Selecionar a opção denuncia por meios de comunicação
-        * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
-        * OP 2.2: Pressionar o botão
-    * GOAL 3: Fazer Denuncia
-        * OP 3.1: Colocar as informações
-        * OP 3.2: Clicar no botão denunciar 
-
-# Solicitar Antecedentes Criminais 
-* GOAL 0: Descobrir se a pessoa possui antecedentes criminais.
-  * GOAL 1: Solicitar os antecedentes criminais.
-    * METHOD 1.A: Acessar o sistema de solicitação de antecedentes criminais da PCDF.
-
-    (SEL. RULE: O usuário possui acesso ao sistema e sabe como navegar nele.)
-
-    * METHOD 1.B: Entrar em contato com a Polícia Civil do Distrito Federal por telefone ou e-mail para obter instruções sobre como solicitar os antecedentes criminais.
-
-    (SEL.RULE: O usuário não está familiarizado com o sistema online ou não possui acesso a ele.)
-
-  * GOAL 2: Preencher corretamente os dados necessários para a solicitação de antecedentes criminais.
-    * METHOD 2.A: Inserir os dados pessoais da pessoa para quem os antecedentes criminais estão sendo solicitados.
-
-    (SEL. RULE: O usuário possui os dados pessoais da pessoa.)
-
-      * OP. 2.A.1: Digitar o nome completo da pessoa.
-      * OP. 2.A.2: Inserir o nome completo dos pais da pessoa (se aplicável).
-      * OP. 2.A.3: Preencher o CPF (Cadastro de Pessoa Física) da pessoa.
-      * OP. 2.A.4: Fornecer o RG (Registro Geral) da pessoa.
-      * OP. 2.A.5: Indicar a data de nascimento da pessoa.
-      * OP. 2.A.6: Especificar a naturalidade (cidade e estado de nascimento) da pessoa.
-      * OP. 2.A.7: Selecionar o sexo da pessoa.
-      * OP. 2.A.8: Informar o estado civil da pessoa.
-      * OP. 2.A.9: Se aplicável, inserir o número da CNH (Carteira Nacional de Habilitação) da pessoa.
-      * OP. 2.A.10: Se aplicável, fornecer o número do passaporte da pessoa.
-      * OP. 2.A.11: Inserir o endereço residencial completo da pessoa.
-      * OP. 2.A.12: Se aplicável, incluir o endereço comercial completo da pessoa.
-      * OP. 2.A.13: Indicar o CEP (Código de Endereçamento Postal) tanto do endereço residencial quanto do endereço comercial.
-
-    * METHOD 2.B: Revisar os dados fornecidos para garantir que estejam corretos e completos.
-
-    (SEL. RULE: O usuário deseja evitar erros na solicitação.)
-
-      * OP. 2.B.1: Verificar se todos os campos foram preenchidos corretamente.
-      * OP. 2.B.2: Revisar se não há erros de digitação nos dados fornecidos.
-      * OP. 2.B.3: Confirmar se os dados estão atualizados e correspondem à pessoa correta.
-      * OP. 2.B.4: Corrigir qualquer informação incorreta ou incompleta identificada durante a revisão.
-  * GOAL 3: Confirmar o envio da solicitação.
-    * METHOD 3.A: Enviar a solicitação através do sistema online e aguardar a confirmação.
-
-    (SEL. RULE: O usuário tem acesso à internet e confia na eficácia do sistema.)
-
-    * METHOD 3.B: Entrar em contato com a PCDF para confirmar o recebimento da solicitação.
-
-    (SEL. RULE: O usuário prefere confirmar pessoalmente.)
-
-  * GOAL 4: Receber um código de acompanhamento da solicitação.
-    * METHOD 4.A: Aguardar o recebimento do código de acompanhamento através do e-mail fornecido na solicitação.
-
-    (SEL. RULE: O usuário confia na eficácia do sistema de envio de e-mails.)
-
-    * METHOD 4.B: Entrar em contato com a PCDF para solicitar o código de acompanhamento, caso não seja recebido dentro do prazo esperado.
-
-    (SEL.RULE: O usuário prefere confirmar pessoalmente.)
-
-# Agendamento de Carteira de Identidade 
-
-Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
-
-* GOAL 0: Solicitar Carteira de Identidade.
-* GOAL 1: entrar no site da PCDF.
-    * OP 1.1: Navegar por serviços.
-    * OP 1.1: Clicar em carteira de identidade.
-    * OP 1.1: Solicitar CIN.
-    * OP 1.1: Li e quero agendar a CIN.
-* GOAL 2: Escolher serviço solicitado e unidade de atendimento.
-    * OP 1.1: Preencher formulário online. 
-    * OP 1.1: Aguardar confirmação.
-
-Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuário esteja com pressa ou necessitar de um agendamento rápido, ele pode optar por procurar por horários disponíveis nos próximos dias.
-
-
-
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -184,8 +243,9 @@ Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuá
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |        |             |
-|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |               |                    |
+|  1.0   | Criação do documento de hta                  |  [Giovana Barbosa](https://github.com/gio221)      |   18/04   |   [Renata Quadros](https://github.com/Renatinha28)      |     18/04        |
+|  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |           [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |   [Renata Quadros](https://github.com/Renatinha28)    |  19/04              |
-| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | | |
-|1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|||
+| 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+|1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+| 1.5 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |

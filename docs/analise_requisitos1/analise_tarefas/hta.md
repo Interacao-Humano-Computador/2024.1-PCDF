@@ -27,9 +27,57 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
     Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
-| 197- Denúncia Online   | Giovana          |  
+|Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
+
+# Pesquisar Procurados
+A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. 
+
+Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos de uma análise HTA seriam:
+
+- Tarefa: Inserir nome completo de uma pessoa civil com passagem pela polícia
+- Objetivo: Pesquisar procurados pela PCDF
+- Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
+
+# Solicitar Antecedentes Criminais
+Fonte: [Renata Quadros](https://github.com/Renatinha28) 
+
+    Tabela que descreve Diagrama de Analise de Solicitar Antecedentes Criminais
+
+|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Solicitar antecedentes criminais 1>2  | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online. |
+| 1. Informar email 1>2                    | **Plano**: informar email pessoal                                                                                                                                                                               |
+| 1.1. Informar código de autorização 1>2  | **Plano**: informar código enviado no email inserido                                                                                                                                                             |
+| 2. Solicitação                           |                                                                                                                                                                                                                |
+| 2.1. Informar dados pessoais 1+2         | **Plano**: informar nome, nome da mãe, nome do pai, email, CPF, estado civil, RG, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte                                                                                           |
+| 2.1.1. Informar detalhes pessoais        |                                                                                                                                                                                                                |
+| 2.2. Informar endereço residencial 1+2   | **Plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo                                                                                                                                                        |
+| 2.2.1. Informar detalhes residenciais    |                                                                                                                                                                                                                |
+| 2.3. Informar endereço comercial 1+2     | **Plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade                                                                                                 |
+| 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
+| 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
+| 3. Enviar respostas                      |                                                                                                                                                                                                                |
+| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação            |                                                                
+
+
+# Validar Antecedentes Criminais
+
+    Tabela HTA da validação de antecedentes criminais 
+
+|         Objetivos/operações         | Problemas e recomendações|
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Validar antecedentes criminais 1>2  | **input**: formulário de validação de antecedentes criminais com os dados da certidão.<br> **Feedback**: Muda para uma página com os dados da certidão, indicando se tal certidão é válida ou não<br> **Plano**: informar dados da certidão e responder o captcha, depois clicar em "Pesquisar".<br> |
+| 1. Informar dados da certidão 1+2  | **Plano**: informar número da certidão, ano da certidão e data de nascimento na certidão |
+| 1.1 Informar número da certidão, informar ano da certidão, informar data de nascimento na certidão|
+| 1.2 Validar o CAPTCHA 1>2    | **Plano**: Responder o CAPTCHA, realizando a tarefa aleatória que ele exigir, se exigir |
+| 1.2.1  Resolver o desafio do CAPTCHA |
+| 2.  Enviar dados 1>2 | **Plano**: Clicar no botão "Pesquisar"|
+| 2.1 Clicar no botão "Pesquisar" |
+
 
 # 197- Denúncia Online
 
@@ -52,27 +100,20 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |       1.2.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
 | 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
 |       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
+                                                                                  |
 
-## Solicitar Antecedentes Criminais
+# Solicitar Carteira de Identidade 
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0. Solicitar antecedentes criminais 1>2  | **input**: formulário de solicitação de antecedentes criminais com os dados pessoais.<br> **Feedback**: antecedentes criminais.<br> **Plano**: informar email, confirmar e depois preencher os dados e depois confirmar.<br> **Recomendação**: permitir que o usuário preencha o formulário online. |
-| 1. Informar email 1>2                    | **Plano**: informar email pessoal                                                                                                                                                                               |
-| 1.1. Informar código de autorização 1>2  | **Plano**: informar código enviado no email inserido                                                                                                                                                             |
-| 2. Solicitação                           |                                                                                                                                                                                                                |
-| 2.1. Informar dados pessoais 1+2         | **Plano**: informar nome, nome da mãe, nome do pai, email, CPF, estado civil, RG, data de expedição, órgão expedidor, UF, data de nascimento, UF, naturalidade, sexo, CNH, passaporte                                                                                           |
-| 2.1.1. Informar detalhes pessoais        |                                                                                                                                                                                                                |
-| 2.2. Informar endereço residencial 1+2   | **Plano**: Informar CEP, endereço, complemento, UF, cidade, telefone celular, telefone fixo                                                                                                                                                        |
-| 2.2.1. Informar detalhes residenciais    |                                                                                                                                                                                                                |
-| 2.3. Informar endereço comercial 1+2     | **Plano**: Informar órgão/empresa, profissão, cargo, telefone comercial, CEP, endereço, complemento, UF, cidade                                                                                                 |
-| 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
-| 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
-| 3. Enviar respostas                      |                                                                                                                                                                                                                |
-| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação                                                                                                                                   
+| 1.  Acessar o Site da PCDF | **input**: Digitar o endereço correto do site da PCDF no navegador ou clicar em um link fornecido. <br> **Feedback**: Página inicial do site da PCDF é exibida.<br> **Plano de Ação**: Abrir o navegador e digitar o endereço do site ou clicar em um link pré-fornecido.<br>  |
+| 2.         Localizar o Serviço de Emissão de Carteira de Identidade.          | **Input**: Navegar pela aba de "Serviços" para encontrar a solicitação do serviço. <br> **Feedback**: O serviço é encontrado e acessado. <br> **Plano de Ação**: Navegar pelos aba para encontrar o serviço específico de emissão de carteira de identidade.|
+| 3.  Informar-se sobre os Requisitos e Procedimentos |**Input**: Ler as informações fornecidas sobre os requisitos, documentos necessários e procedimentos para solicitar a carteira de identidade. <br> **Feedback**: Entendimento claro dos requisitos e procedimentos.<br> **Plano de Ação**: Ler atentamente as informações fornecidas no site sobre os documentos necessários e os passos a serem seguidos para solicitar a carteira de identidade.                                                                       |
+| 4. Preencher o Formulário de Solicitação Online   | **Input**: Preencher o formulário online com as informações pessoais necessárias. <br> **Feedback**: Confirmação de envio bem-sucedido do formulário. <br>  **Plano de Ação**: Preencher corretamente o formulário online com os dados solicitados, incluindo informações pessoais e dados de contato.  |
+| 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
+| 6. Acompanhar o Status da Solicitação   |  **Input**: Verificar o status da solicitação online. <br> **Feedback**: Atualizações sobre o andamento da solicitação. <br> **Plano de Ação**: Verificar regularmente o status da solicitação no site da PCDF.|                                                                                
 
-
-## Registrar Ocorrência
+# Registrar Ocorrência
 
 |        Objetivos/operações                     | Problemas e Recomendações                                                                                                                                                                                                                                    |
 |:----------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -81,7 +122,8 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 1.1. Informar dados pessoais                  | **Input:** Fornecer informações pessoais no formulário de registro.<br> **Feedback:** Conclusão bem-sucedida do formulário de registro.<br> **Plano:** Preencher todas as seções do formulário com informações precisas.                                                                                             |
 | 1.2. Informar detalhes da ocorrência          | **Input:** Fornecer detalhes específicos sobre a ocorrência no formulário.<br> **Feedback:** Conclusão bem-sucedida dos detalhes da ocorrência.<br> **Plano:** Preencher todas as seções relevantes do formulário com informações precisas.                                                                 |
 | 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
-| 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                                                                                                   |
+| 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                 
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -95,3 +137,4 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |  1.1   | Registro de Ocorrência                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   18/04   |       [Raissa Andrade](https://github.com/RaissaAndradeS)        |          18/04          |
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
+|1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
