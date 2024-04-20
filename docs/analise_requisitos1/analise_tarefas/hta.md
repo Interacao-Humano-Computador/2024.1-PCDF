@@ -29,6 +29,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
+| Validar Antecedentes Criminais | Joao |
 | 197- Denúncia Online   | Giovana          |
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
@@ -106,8 +107,8 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1.  Acessar o Site da PCDF | **input**: Digitar o endereço correto do site da PCDF no navegador ou clicar em um link fornecido. <br> **Feedback**: Página inicial do site da PCDF é exibida.<br> **Plano**: Abrir o navegador e digitar o endereço do site ou clicar em um link pré-fornecido.<br>  |
-| 2.         Localizar o Serviço de Emissão de Carteira de Identidade.          | **Input**: Navegar pela aba aba de "Serviços" para encontrar a solicitação do serviço. <br> **Feedback**: O serviço é encontrado e acessado. <br> **Plano de Ação**: Navegar pelos aba para encontrar o serviço específico de emissão de carteira de identidade.|
+| 1.  Acessar o Site da PCDF | **input**: Digitar o endereço correto do site da PCDF no navegador ou clicar em um link fornecido. <br> **Feedback**: Página inicial do site da PCDF é exibida.<br> **Plano de Ação**: Abrir o navegador e digitar o endereço do site ou clicar em um link pré-fornecido.<br>  |
+| 2.         Localizar o Serviço de Emissão de Carteira de Identidade.          | **Input**: Navegar pela aba de "Serviços" para encontrar a solicitação do serviço. <br> **Feedback**: O serviço é encontrado e acessado. <br> **Plano de Ação**: Navegar pelos aba para encontrar o serviço específico de emissão de carteira de identidade.|
 | 3.  Informar-se sobre os Requisitos e Procedimentos |**Input**: Ler as informações fornecidas sobre os requisitos, documentos necessários e procedimentos para solicitar a carteira de identidade. <br> **Feedback**: Entendimento claro dos requisitos e procedimentos.<br> **Plano de Ação**: Ler atentamente as informações fornecidas no site sobre os documentos necessários e os passos a serem seguidos para solicitar a carteira de identidade.                                                                       |
 | 4. Preencher o Formulário de Solicitação Online   | **Input**: Preencher o formulário online com as informações pessoais necessárias. <br> **Feedback**: Confirmação de envio bem-sucedido do formulário. <br>  **Plano de Ação**: Preencher corretamente o formulário online com os dados solicitados, incluindo informações pessoais e dados de contato.  |
 | 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
