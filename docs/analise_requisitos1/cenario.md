@@ -137,4 +137,4 @@ A próxima pergunta que apareceu foi "O veículo estava estacionado no momento e
 | 1.2 | Cenário do bloqueio de celular| [Giovana Barbosa ](https://github.com/gio221) | 18/04 | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
 | 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |[Giovana Barbosa ](https://github.com/gio221) |19/04 |
 | 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
-| 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |   | |
+| 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 20/04 |
