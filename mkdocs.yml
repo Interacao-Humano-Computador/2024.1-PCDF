@@ -29,7 +29,7 @@ nav:
         - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
         - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
     - Personas: analise_requisitos1/personas.md
-     - Cenários : analise_requisitos1/cenario.md
+    - Cenários : analise_requisitos1/cenario.md
     - Análise de tarefas:
         - HTA: analise_requisitos1/analise_tarefas/hta.md
         - GOMS: analise_requisitos1/analise_tarefas/goms.md
