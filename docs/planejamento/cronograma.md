@@ -48,11 +48,10 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
  Princípios gerais do projeto | Início: 22/04 Fim: 24/04 | Lara e Renata   | Início: 24/04 Fim: 24/04 | Giovana e Rayene |
 | Metas de usabilidade          | Início: 22/04 Fim: 24/04 | Giovana e Rayene   | Início: 24/04 Fim: 24/04 | João Pedro e Raissa   |
-| Guia de estilo  | Início: 24/04 Fim: 26/04 | João Pedro e Raissa | Início: 26/04 Fim: 28/04 | Renata   |
-| Verificação da Guia de estilo  | Início: 24/04 Fim: 26/04 |Lara e Renata  | Início: 26/04 Fim: 28/04 | Lara e Renata    |
-| Cracteristicas do site | Início: 22/04 Fim: 24/04 | Lara e Renata  | Início: 24/04 Fim: 24/04 | Giovana   |
+| Guia de estilo  | Início: 24/04 Fim: 26/04 | João Pedro e Raissa | Início: 26/04 Fim: 26/04 | Renata   |
+| Cracteristicas do site | Início: 24/04 Fim: 26/04 | Giovana e Renata  | Início: 26/04 Fim: 26/04 | Giovana   |
 | Perguntas do site | Início: 26/04 Fim: 27/04 | Giovana| Início: 27/04 Fim: 28/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Gravar Apresentação| Início: 30/04 Fim: 31/04 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 31/04 Fim: 31/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Gravar Apresentação| Início: 27/04 Fim: 28/04 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 28/04 Fim: 28/04 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 29/04 Fim: 01/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 01/05 Fim: 01/05 | Giovana, João, Lara, Raissa, Rayene e Renata    |
 
 
@@ -160,4 +159,4 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do cronograma no documento 03/04  | [Giovana Barbosa ](https://github.com/gio221) | 03/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 | 1.1 | Alterações de nomes   | [Giovana Barbosa ](https://github.com/gio221) | 07/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
-|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |              |                      |
+|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221)         |       20/04               |

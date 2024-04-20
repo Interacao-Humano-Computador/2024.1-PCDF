@@ -51,4 +51,5 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
       Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 | |  |
+| 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
+| 1.1 | tabela da etapa 2 executada  | [Giovana Barbosa ](https://github.com/gio221) | 20/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |

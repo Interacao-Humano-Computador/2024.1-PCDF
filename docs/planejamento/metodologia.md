@@ -1,7 +1,9 @@
 ## Introdução
 
 O uso de metodologias no grupo é fundamental para garantir uma abordagem estruturada e eficiente na realização de tarefas ou projetos. Como orgnaizar uma estrutura melhor, como responsabilidades e fluxos, também ajuda na eficiência pois aceleram o processo de tomada de decisões.
-Por isso o grupo decidiu usar a metodologia ágil scrum e Kanban, que ajuda a organizar o que deve ser feito em cada semana e também organizar o grupo com atividades que cada um tem que realizar.
+
+# Metodologia 
+Como metodologia do trabalho o grupo decidiu usar a metodologia ágil scrum e Kanban, que ajuda a organizar o que deve ser feito em cada semana e também organizar o grupo com atividades que cada um tem que realizar.
 
 ## Scrum Adaptado
 
