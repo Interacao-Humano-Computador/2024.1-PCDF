@@ -54,23 +54,23 @@ Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denún
 # Solicitar Antecedentes Criminais 
 Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
 
-![Página inicial para ocorrência](../../assets/Analise_Requisitos/inicial_solicitar_antecedentes.png)
+![Página inicial para ocorrência](../../assets/Analise_Requisitos/paginainicialsolicitarantecedentes.png)
 <div align="center">
 <p> Figura 4 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
 </div>
 
-![Página Seleção do Crime](../../assets/Analise_Requisitos/codigo_solicitar_antecedentes.png)
+![Página Seleção do Crime](../../assets/Analise_Requisitos/codigosolicitarantecedentes.png)
 <div align="center">
 <p> Figura 5 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
 </div>
 
 
-![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulario1_solicitar_antecedentes.png)
+![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulariosolicitarantecedentes1.png)
 <div align="center">
 <p> Figura 6 - Formulário. Fonte: Site PCDF  </p> 
 </div>
 
-![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulario2_solicitar_antecedentes.png)
+![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulariosolicitarantecedentes2.png)
 <div align="center">
 <p> Figura 6 - Formulário. Fonte: Site PCDF  </p> 
 </div>

@@ -22,7 +22,7 @@ Desempenho e Velocidade: O site carrega rapidamente e responde de forma ágil à
 <a id="analise_competitiva-pcdf"></a>
 ## Análise Competitiva - Polícia Civil do Distrito Federal
 
-![Página inicial da Polícia Civil do Distrito Federal](../../assets/Analise_Requisitos/inicial_PCDF.png)
+![Página inicial da Polícia Civil do Distrito Federal](../assets/Analise_Requisitos/PCDF.png)
 <div align="center">
 <p> Figura 1 - Página inicial da Polícia Civil do Distrito Federal. Fonte: Site PCDF  </p> 
 </div>
@@ -48,7 +48,7 @@ O site da Polícia Civil do Distrito Federal oferece uma experiência satisfató
 <a id="analise_competitiva-pcg"></a>
 ## Análise Competitiva - Polícia Civil do Goiás 
 
-![Página inicial da Polícia Civil do Goiás](../../assets/Analise_Requisitos/inicial_PCG.png)
+![Página inicial da Polícia Civil do Goiás](../../assets/Analise_Requisitos/goias.png)
 <div align="center">
 <p> Figura 2 - Página inicial da Polícia Civil do Goiás. Fonte: Site PCG  </p> 
 </div>
@@ -74,7 +74,7 @@ Embora o site da Polícia Civil de Goiás seja visualmente profissional e ofere�
 <a id="analise_competitiva-pcsp"></a>
 ## Análise Competitiva - Polícia Civil de São Paulo
 
-![Página inicial da Polícia Civil de São Paulo](../../assets/Analise_Requisitos/inicial_PCSP.png)
+![Página inicial da Polícia Civil de São Paulo](../../assets/Analise_Requisitos/saopaulo.png)
 <div align="center">
 <p> Figura 3 - Página inicial da Polícia Civil de São Paulo. Fonte: Site PCSP  </p> 
 </div>

@@ -47,4 +47,4 @@ Também ultilizamos o teams para gravar as reuniões e um canal no youtube que c
       Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação das metodologias | [Giovana Barbosa ](https://github.com/gio221) | 17/04 | |  |
+| 1.0 |  Criação das metodologias | [Giovana Barbosa ](https://github.com/gio221) | 17/04 | [Renata Quadros](https://github.com/Renatinha28) | 17/04 |

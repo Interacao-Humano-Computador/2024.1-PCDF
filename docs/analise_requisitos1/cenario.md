@@ -94,7 +94,7 @@ Então Ana fez a denúncia anônima,com os passos monstrado na figura 3, e depoi
 
 O cenário criado por [Raissa Andrade](https://github.com/RaissaAndradeS) é baseado em uma pessoa fictícia tentando marcar para revonar sua carteira de identidade.  
 
-![EAdriano](../../assets/Analise_Requisitos/Adriano.webp)
+![EAdriano](../assets/Analise_Requisitos/Adriano.webp)
 <div align="center">
 <p> Figura 4 : Adriano</p> 
 <p> Fonte:gerado através do site this-person-does-not-exist.com</p></div>
@@ -112,7 +112,7 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 Esse cenário foi Criado [Rayene Almeida](https://github.com/rayenealmeida) é baseado em uma pessoa fictícia tentando marcar para revonar sua carteira de identidade.  
 
 
-![Rafael](../../assets/Analise_Requisitos/rafael.png)
+![Rafael](../assets/Analise_Requisitos/rafael.png)
 <div align="center">
 <p> Figura 6 : Rafael Mendes</p> 
 <p> Fonte:gerado através do site this-person-does-not-exist.com</p></div>
@@ -124,7 +124,7 @@ Ele ficou confuso pois tinha uma opção de acidente de trÂnsito mas era aciden
 A próxima pergunta que apareceu foi "O veículo estava estacionado no momento em que a avaria foi provocada?" e a resposta também era não e a proxima pergunta foi "O motorista causador deste acidente sem vítima evadiu-se do local, sem se identificar ou deixar meios para ser contactado, com o objetivo de fugir de eventual responsabilidade?" que foi o que ocorreu então ele marcou sim. Ao clicar em continuar ele preencheu seus dados cuidadosamente, escreveu os detalhes do ocorrido incluindo a descrição do acidente e os danos aos veículos, preencheu os Quesitos e enviou fotos de como ficou o carro no "Anexos". Após revisar minuciosamente todas as informações fornecidas, Rafael enviou o formulário de registro de ocorrência e aguardou ansiosamente pela confirmação da submissão.Ele esperava que o registro ajudasse na investigação do acidente e na determinação das responsabilidades, garantindo assim uma resolução justa do incidente.
 
 
-![Rafael](../../assets/Analise_Requisitos/pcdfservicos.png)
+![Rafael](../assets/Analise_Requisitos/pcdfservicos.png)
 <div align="center">
 <p> Figura 7 : Menu de Serviços PCDF</p> 
 <p> Fonte: Site PCDF</p></div>

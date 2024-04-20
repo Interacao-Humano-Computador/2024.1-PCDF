@@ -29,6 +29,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
+| Validar Antecedentes Criminais | Joao |
 | 197- Denúncia Online   | Giovana          |
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
