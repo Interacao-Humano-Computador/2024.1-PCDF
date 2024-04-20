@@ -61,7 +61,23 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 2.3.1. Informar detalhes comerciais      |                                                                                                                                                                                                                |
 | 2.4. Informar finalidade da solicitação  | **Plano**: informar a finalidade da solicitação de antecedentes criminais                                                                                                                                       |
 | 3. Enviar respostas                      |                                                                                                                                                                                                                |
-| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação                                                                                                                                   
+| 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação            |                                                                
+
+
+# Validar Antecedentes Criminais
+
+    Tabela HTA da validação de antecedentes criminais 
+
+|         Objetivos/operações         | Problemas e recomendações|
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Validar antecedentes criminais 1>2  | **input**: formulário de validação de antecedentes criminais com os dados da certidão.<br> **Feedback**: Muda para uma página com os dados da certidão, indicando se tal certidão é válida ou não<br> **Plano**: informar dados da certidão e responder o captcha, depois clicar em "Pesquisar".<br> |
+| 1. Informar dados da certidão 1+2  | **Plano**: informar número da certidão, ano da certidão e data de nascimento na certidão |
+| 1.1 Informar número da certidão, informar ano da certidão, informar data de nascimento na certidão|
+| 1.2 Validar o CAPTCHA 1>2    | **Plano**: Responder o CAPTCHA, realizando a tarefa aleatória que ele exigir, se exigir |
+| 1.2.1  Resolver o desafio do CAPTCHA |
+| 2.  Enviar dados 1>2 | **Plano**: Clicar no botão "Pesquisar"|
+| 2.1 Clicar no botão "Pesquisar" |
+
 
 # 197- Denúncia Online
 
