@@ -40,7 +40,7 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Análise de Tarefas- | Inicio: 16/04 Fim: 18/04| Giovana, João, Lara, Raissa, Rayene e Renata | Inicio: 18/04 Fim: 18/04|Giovana, João, Lara, Raissa, Rayene e Renata|
 | Responder perguntas | Inicio: 21/04 Fim: 21/04|Giovana| Inicio: 21/04 Fim: 21/04|Renata|
 | Gravação da apresentação | Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata| Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata|
-| Correção pós entrega  | Inicio: 22/04 Fim: 25/04|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
+| Correção pós entrega  | Inicio: 06/05 Fim: 08/05|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 
 
 ## Bibliografia 
@@ -51,4 +51,5 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
       Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 | |  |
+| 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
+| 1.1 | tabela da etapa 2 executada  | [Giovana Barbosa ](https://github.com/gio221) | 20/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |

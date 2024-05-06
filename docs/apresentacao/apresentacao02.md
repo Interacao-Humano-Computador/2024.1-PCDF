@@ -6,7 +6,8 @@ Este documento tem objetivo de armanezar conteúdos da segunda apresentação
 
 ## Vídeo de apresentação 
 
-
+<p style="text-align: center"><a href="https://youtu.be/k6J8Pu_2J6g" target="blanket"></a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/k6J8Pu_2J6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 
 Este video descreve a apresentação que foi realizada na segunda etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, disponibilizado pelo professor André. Abaixo estão listados os critérios de avaliação:
@@ -18,13 +19,13 @@ Tabela 1: Critérios de avaliação para a entrega
 | :--------: | :----: |     
 1 - O histórico de versão padronizado? | Sim
 2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim
-3 - Vídeo de apresentação na categoria “não listado” no youtube; |
+3 - Vídeo de apresentação na categoria “não listado” no youtube; |Sim
 4 - Referências bibliográficas e/ou bibliografia em todos os artefatos|sim
 5 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim
 6 - Um texto fazendo uma introdução dos artefatos?| sim
 7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade | sim
 8 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | Sim
-9 – A gravação da reunião do grupo. | 
+9 – A gravação da reunião do grupo. | Sim
 10 - O perfil do usuário| sim
 11- O perfil do usuário segue os atributos de (Hackos e Redish, 1998; Courage e Baxter, 2005)| sim
 11- O perfil do usuário define os grupos de atributos apresentados no capítulo 8 - Organização do Espaço de Problema| sim
@@ -49,3 +50,4 @@ Tabela 2: Histórico de versões da página de apresentação
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
 | 1.0 |  06/04  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28) |14/04|
+| 1.1 |  20/04  | Adicionando video da apresentação |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28)  |06/05|

@@ -34,4 +34,4 @@ Definimos que iamos realizar a análise dos dados para identificar as porcentage
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  13/04  | Criação da ATA no documento |[Rayene Almeida ](https://github.com/rayenealmeida)||
+| 1.0 |  13/04  | Criação da ATA no documento |[Rayene Almeida ](https://github.com/rayenealmeida)|[Renata Quadros](https://github.com/Renatinha28) |06/05| 
