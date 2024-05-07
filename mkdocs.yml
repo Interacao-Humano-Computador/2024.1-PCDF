@@ -13,6 +13,7 @@ nav:
       - Reunião 2: reunioes/reuniao02.md
       - Reunião 3: reunioes/reuniao03.md
       - Reunião 4: reunioes/reuniao04.md
+      - Reunião 5: reunioes/reuniao05.md
   - Planejamento:
     - Metodologia: planejamento/metodologia.md
     - Cronograma: planejamento/cronograma.md
@@ -33,6 +34,12 @@ nav:
     - Análise de tarefas:
         - HTA: analise_requisitos1/analise_tarefas/hta.md
         - GOMS: analise_requisitos1/analise_tarefas/goms.md
+  - Análise de Requisitos II:
+    - Princípios Gerais do Projeto: analise_requisitos2/principios_gerais.md
+    - Metas de Usabilidade: analise_requisitos2/metas_usabilidade.md
+    - Guia de Estilo: analise_requisitos2/guia_estilo.md
+    - Características da plataforma: analise_requisitos2/caracteristicos.md
+
    
 
 theme:

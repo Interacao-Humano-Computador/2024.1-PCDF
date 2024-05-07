@@ -1,4 +1,4 @@
-# 2024.1-Grupo04
+# Policia Civil do Distrito Federal - Grupo 4
 ## Sobre o projeto
 Este repositório contém a documentação de todos os artefatos que vão ser feitos pelo grupo 4 na disciplina Interação Humano Computador ao longo do semestre 2024.1
 

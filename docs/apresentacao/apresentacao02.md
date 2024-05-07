@@ -1,17 +1,17 @@
-## Informações
+# Informações
 
 Este documento tem objetivo de armanezar conteúdos da segunda apresentação
 
-#
 
-## Vídeo de apresentação 
+
+# Vídeo de apresentação 
 
 <p style="text-align: center"><a href="https://youtu.be/k6J8Pu_2J6g" target="blanket"></a></p>
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/k6J8Pu_2J6g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 
 
 Este video descreve a apresentação que foi realizada na segunda etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, disponibilizado pelo professor André. Abaixo estão listados os critérios de avaliação:
-## Critérios para entrega
+# Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 
 

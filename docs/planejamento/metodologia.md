@@ -1,4 +1,4 @@
-## Introdução
+# Introdução
 
 O uso de metodologias no grupo é fundamental para garantir uma abordagem estruturada e eficiente na realização de tarefas ou projetos. Como orgnaizar uma estrutura melhor, como responsabilidades e fluxos, também ajuda na eficiência pois aceleram o processo de tomada de decisões.
 

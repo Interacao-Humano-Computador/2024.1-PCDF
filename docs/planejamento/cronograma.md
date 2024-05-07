@@ -1,4 +1,4 @@
-## Informações
+# Introdução
 
 Este documento tem objetivo de apresentar o cronograma que planejampos e que o grupo espera ultilizar para entregar os artefatos da disciplina
 
@@ -46,13 +46,13 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
- Princípios gerais do projeto | Início: 06/05 Fim: 08/05 | Lara e João   | Início: 08/05  Fim: 08/05 | Giovana e Renata |
-| Metas de usabilidade          | Início: 06/05 Fim: 08/05 | Giovana e Renata   | Início: 08/05  Fim: 08/05 | Rayene e Raisssa   |
-| Guia de estilo  | Início: 08/05 Fim: 10/05 | Rayene e Raisssa | Início: 10/05 Fim: 10/05 | Renata e Giovana   |
-| Cracteristicas do site | Início: 08/05 Fim: 10/05 | Giovana e Renata  | Início: 10/05 Fim: 10/05| Giovana, João, Lara, Raissa, Rayene e Renata  |
+ Princípios gerais do projeto | Início: 07/05 Fim: 10/05 | Lara e João   | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata |
+| Metas de usabilidade          |  Início: 07/05 Fim: 10/05 | Raissa  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Guia de estilo  |  Início: 07/05 Fim: 10/05 | Rayene  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Cracteristicas do site |  Início: 07/05 Fim: 10/05 | Giovana e Renata  | Início: 10/05 Fim: 10/05| Giovana, João, Lara, Raissa, Rayene e Renata  |
 | Perguntas do site | Início: 10/05 Fim: 10/05 | Giovana| Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | nício: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Correção pós entrega   | Início: 13/05 Fim: 15/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
+| Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Correção pós entrega   | Início: 14/05 Fim: 17/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
 
 
 ## Etapa 4: Planejamento da Avaliação do Storyboard
@@ -159,3 +159,4 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | 1.0 |  Criação do cronograma no documento 03/04  | [Giovana Barbosa ](https://github.com/gio221) | 03/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 | 1.1 | Alterações de nomes   | [Giovana Barbosa ](https://github.com/gio221) | 07/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221)         |       20/04               |
+| 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | |  |
