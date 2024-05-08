@@ -1,6 +1,6 @@
 # Introdução
 
-Este documento tem objetivo de armanezar conteúdos da primeira apresentação
+Este documento tem objetivo de armazenar conteúdos da primeira apresentação
 
 
 

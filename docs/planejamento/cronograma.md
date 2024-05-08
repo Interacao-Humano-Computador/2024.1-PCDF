@@ -49,7 +49,7 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
  Princípios gerais do projeto | Início: 07/05 Fim: 10/05 | Lara e João   | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata |
 | Metas de usabilidade          |  Início: 07/05 Fim: 10/05 | Raissa  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Guia de estilo  |  Início: 07/05 Fim: 10/05 | Rayene  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Cracteristicas do site |  Início: 07/05 Fim: 10/05 | Giovana e Renata  | Início: 10/05 Fim: 10/05| Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Caracteristicas do site |  Início: 07/05 Fim: 10/05 | Giovana e Renata  | Início: 10/05 Fim: 10/05| Giovana, João, Lara, Raissa, Rayene e Renata  |
 | Perguntas do site | Início: 10/05 Fim: 10/05 | Giovana| Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 14/05 Fim: 17/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
