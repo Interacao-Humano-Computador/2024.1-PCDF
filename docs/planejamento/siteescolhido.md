@@ -5,10 +5,14 @@
 Após a apresentação decidimos escolher um site que não tinha sido avaliado por nenhum integrante do grupo o PCDF
 
 ## PCDF- Policia Civil do Distrito Federal
-![PCDF](../assets/planejamento/PCDF.png)
-<br>
-<p align="center">
-  Figura 1 - Logo Oficial da PCDF
+
+<p style="text-align: center">
+    
+    <img src="../../assets/planejamento/PCDF.png" alt="PCDF"/>
+    
+    <p style="text-align: center">
+      Figura 1 - Logo Oficial da PCDF
+    </p>
 </p>
 
 ## Critérios para escolha
