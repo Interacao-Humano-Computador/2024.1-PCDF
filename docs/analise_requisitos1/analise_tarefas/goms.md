@@ -14,7 +14,7 @@ e regras de seleção (selection rules).
 
 ## GOMS-KLM
  O KLM é a técnica mais simples de GOMS, limitada a um conjunto predefinido de operadores primitivos descrito na tabela 1
-### Figura 1: Tabela KLM GOMS
+
 ![KLM-GOMS](../../assets/Analise_Requisitos/klm-goms.png)<div>
 <p> Figura 1 - Tabela KLM GOMS </p>
 </div>
@@ -54,25 +54,25 @@ Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denún
 ### Solicitar Antecedentes Criminais 
 Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
 
-#### Figura 2: Página de Ocorrência
+
 ![Página inicial para ocorrência](../../assets/Analise_Requisitos/paginainicialsolicitarantecedentes.png)
 <div align="center">
 <p> Figura 2 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
 </div>
 
-#### Figura 3: Seleção do crime
+
 ![Página Seleção do Crime](../../assets/Analise_Requisitos/codigosolicitarantecedentes.png)
 <div align="center">
 <p> Figura 3 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
 </div>
 
-#### Figura 4: Formulário de Ocorrência 1
+
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulariosolicitarantecedentes1.png)
 <div align="center">
 <p> Figura 4 - Formulário 1. Fonte: Site PCDF  </p> 
 </div>
 
-#### Figura 5: Formulário de Ocorrência 2
+
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulariosolicitarantecedentes2.png)
 <div align="center">
 <p> Figura 5 - Formulário 2. Fonte: Site PCDF  </p> 
@@ -217,20 +217,19 @@ Meta: Registrar uma ocorrência no site da PCDF
         * OP 4.2: Clicar no botão "Enviar" para submeter a ocorrência
             * Motoras:
                 * Mover o cursor para clicar no botão de envio
-#### Figura 6: Registro de Ocorrência
+
 ![Página inicial para ocorrência](../../assets/Analise_Requisitos/registraocorrencia.png)
 <div align="center">
 <p> Figura 6 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
 </div>
 
-#### Figura 7: Seleção do crime
 
 ![Página Seleção do Crime](../../assets/Analise_Requisitos/registraocorrencia2.png)
 <div align="center">
 <p> Figura 7 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
 </div>
 
-#### Figura 8: Formulário de Ocorrência 3
+
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/registraocorrencia3.png)
 <div align="center">
 <p> Figura 8 - Formulário de Ocorrência 3. Fonte: Site PCDF  </p> 

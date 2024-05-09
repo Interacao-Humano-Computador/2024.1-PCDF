@@ -1,7 +1,7 @@
 
 <a id="analise_competitiva"></a>
 ## Análise Competitiva
-A análise competitiva  foi realizada pela integrante [Renata Quadros](https://github.com/Renatinha28), comparando o [PCDF](#analise_competitiva-pcdf) com os sites da [Polícia Civil do Goiás](#analise_competitiva-pcg) e de [São Paulo](#analise_competitiva-pcsp).
+A análise competitiva  foi realizada pela integrante [Renata Quadros](https://github.com/Renatinha28), comparando o site do [PCDF](#analise_competitiva-pcdf), mostrado na figura 1, com os sites da [Polícia Civil do Goiás](#analise_competitiva-pcg) e de [São Paulo](#analise_competitiva-pcsp) mostrados na figura 2 e 3, respectivamente.
 
 Critérios de Avaliação:
 
@@ -24,7 +24,7 @@ Desempenho e Velocidade: O site carrega rapidamente e responde de forma ágil à
 
 ![Página inicial da Polícia Civil do Distrito Federal](../assets/Analise_Requisitos/PCDF.png)
 <div align="center">
-<p> Figura 1 - Página inicial da Polícia Civil do Distrito Federal. Fonte: Site PCDF  </p> 
+<p> Figura 1 - Página inicial da Polícia Civil do Distrito Federal. <br> Fonte: Site PCDF  </p> 
 </div>
 
 Aparência e Usabilidade: O site apresenta uma aparência profissional e atrativa, com uma navegação intuitiva e de fácil utilização. Os elementos de design são consistentes, contribuindo para uma experiência positiva do usuário.
@@ -50,7 +50,7 @@ O site da Polícia Civil do Distrito Federal oferece uma experiência satisfató
 
 ![Página inicial da Polícia Civil do Goiás](../../assets/Analise_Requisitos/goias.png)
 <div align="center">
-<p> Figura 2 - Página inicial da Polícia Civil do Goiás. Fonte: Site PCG  </p> 
+<p> Figura 2 - Página inicial da Polícia Civil do Goiás. <br> Fonte: Site PCG  </p> 
 </div>
 
 Aparência e Usabilidade: O site é visualmente profissional, mas a sua atratividade é limitada. A navegação é intuitiva e de fácil acesso, embora as cores não sejam muito favoráveis. Os elementos de design são consistentes com a identidade visual da Polícia Civil.
@@ -76,7 +76,7 @@ Embora o site da Polícia Civil de Goiás seja visualmente profissional e ofere�
 
 ![Página inicial da Polícia Civil de São Paulo](../../assets/Analise_Requisitos/saopaulo.png)
 <div align="center">
-<p> Figura 3 - Página inicial da Polícia Civil de São Paulo. Fonte: Site PCSP  </p> 
+<p> Figura 3 - Página inicial da Polícia Civil de São Paulo. <br> Fonte: Site PCSP  </p> 
 </div>
 
 Aparência e Usabilidade: O site apresenta uma estética profissional e agradável, facilitando a navegação de forma intuitiva e amigável. Os elementos de design são consistentes, o que contribui para uma experiência positiva do usuário.
