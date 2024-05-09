@@ -15,7 +15,7 @@ A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada princ
 4. __Planos__: São as sequências de subtarefas e ações necessárias para atingir um objetivo específico. Os planos descrevem o fluxo de trabalho ou a sequência de atividades que os usuários devem seguir para realizar uma tarefa com sucesso.
 
 Como definido na figura 1.
-
+### Tabela
 ![tabela](../../assets/Analise_Requisitos/índice.png)
 <div align="center">
 <p> Figura 1 - Tabela Elementos de um diagrama HTA. </p> 
@@ -34,7 +34,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
 
-# Pesquisar Procurados
+### Pesquisar Procurados
 A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. 
 
 Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos de uma análise HTA seriam:
@@ -43,7 +43,7 @@ Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos d
 - Objetivo: Pesquisar procurados pela PCDF
 - Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
 
-# Solicitar Antecedentes Criminais
+### Solicitar Antecedentes Criminais
 Fonte: [Renata Quadros](https://github.com/Renatinha28) 
 
     Tabela que descreve Diagrama de Analise de Solicitar Antecedentes Criminais
@@ -65,7 +65,7 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 4. Recibo                                | **Ação**: conferir solicitação<br> **Recomendação**: após 3 dias úteis conferir solicitação            |                                                                
 
 
-# Validar Antecedentes Criminais
+### Validar Antecedentes Criminais
 
     Tabela HTA da validação de antecedentes criminais 
 
@@ -80,7 +80,7 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 2.1 Clicar no botão "Pesquisar" |
 
 
-# 197- Denúncia Online
+### 197- Denúncia Online
 
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 2.
 
@@ -103,7 +103,7 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
                                                                                   |
 
-# Solicitar Carteira de Identidade 
+### Solicitar Carteira de Identidade 
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -114,7 +114,7 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
 | 6. Acompanhar o Status da Solicitação   |  **Input**: Verificar o status da solicitação online. <br> **Feedback**: Atualizações sobre o andamento da solicitação. <br> **Plano de Ação**: Verificar regularmente o status da solicitação no site da PCDF.|                                                                                
 
-# Registrar Ocorrência
+### Registrar Ocorrência
 
 |        Objetivos/operações                     | Problemas e Recomendações                                                                                                                                                                                                                                    |
 |:----------------------------------------------:|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -139,3 +139,4 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
 |1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
+|1.5| Atualização do Índice|[Rayene Almeida](https://github.com/rayenealmeida)|09/05|  |  |

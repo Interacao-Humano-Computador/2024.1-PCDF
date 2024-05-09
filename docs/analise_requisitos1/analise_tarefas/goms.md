@@ -14,9 +14,9 @@ e regras de seleção (selection rules).
 
 ## GOMS-KLM
  O KLM é a técnica mais simples de GOMS, limitada a um conjunto predefinido de operadores primitivos descrito na tabela 1
-
+### Figura 1: Tabela KLM GOMS
 ![KLM-GOMS](../../assets/Analise_Requisitos/klm-goms.png)<div>
-<p>Tabela 1 </p>
+<p> Figura 1 - Tabela KLM GOMS </p>
 </div>
 
 ## Funcionalidades Avaliadas pela GOMS
@@ -30,8 +30,8 @@ e regras de seleção (selection rules).
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
 
-# Pesquisar Procurados 
-## Introdução 
+### Pesquisar Procurados 
+#### Introdução 
 No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. Para isso foi escolhida a GOMS.
 O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
 como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
@@ -51,28 +51,31 @@ Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denún
 - Métodos: Inserir dados via teclado, ou copiar essas informações de alguma outro local e colar na página presente.
 - Regras de exeção: Enviar o formulário sem todas as partes preenchidas.
 
-# Solicitar Antecedentes Criminais 
+### Solicitar Antecedentes Criminais 
 Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
 
+#### Figura 2: Página de Ocorrência
 ![Página inicial para ocorrência](../../assets/Analise_Requisitos/paginainicialsolicitarantecedentes.png)
 <div align="center">
-<p> Figura 4 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
+<p> Figura 2 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
 </div>
 
+#### Figura 3: Seleção do crime
 ![Página Seleção do Crime](../../assets/Analise_Requisitos/codigosolicitarantecedentes.png)
 <div align="center">
-<p> Figura 5 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
+<p> Figura 3 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
 </div>
 
-
+#### Figura 4: Formulário de Ocorrência 1
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulariosolicitarantecedentes1.png)
 <div align="center">
-<p> Figura 6 - Formulário. Fonte: Site PCDF  </p> 
+<p> Figura 4 - Formulário 1. Fonte: Site PCDF  </p> 
 </div>
 
+#### Figura 5: Formulário de Ocorrência 2
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/formulariosolicitarantecedentes2.png)
 <div align="center">
-<p> Figura 6 - Formulário. Fonte: Site PCDF  </p> 
+<p> Figura 5 - Formulário 2. Fonte: Site PCDF  </p> 
 </div>
 
 * GOAL 0: Descobrir se a pessoa possui antecedentes criminais.
@@ -131,7 +134,7 @@ Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo s
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
 
-#  Validar Antecedentes Criminais 
+###  Validar Antecedentes Criminais 
 
 Nessa tarefa o usuário pretende validar uma certidão de antecedentes criminais. Realizado por [João Pedro](https://github.com/JoaoODragonborn)
 
@@ -146,7 +149,7 @@ Nessa tarefa o usuário pretende validar uma certidão de antecedentes criminais
     * GOAL 3: Pesquisar certidão
         * OP 3.1: Clicar em "Pesquisar"
 
-# 197- Denúncia Online
+### 197- Denúncia Online
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
 
 * GOAL 0: Fazer Denúncia
@@ -160,7 +163,7 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
         * OP 3.1: Colocar as informações
         * OP 3.2: Clicar no botão denunciar 
 
-# Agendamento de Carteira de Identidade 
+### Agendamento de Carteira de Identidade 
 
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
 
@@ -177,15 +180,15 @@ Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de mar
 Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuário esteja com pressa ou necessitar de um agendamento rápido, ele pode optar por procurar por horários disponíveis nos próximos dias.
 
 
-# Registro de Ocorrência
+### Registro de Ocorrência
 
-## Modelo Goals, Operators, Methods, and Selection rules (GOMS)
+#### Modelo Goals, Operators, Methods, and Selection rules (GOMS)
 
 [Rayene Almeida](https://github.com/rayenealmeida) aplicará o método GOMS no modelo CMN para analisar detalhadamente as ações cognitivas e motoras dos usuários ao realizar o registro de ocorrências no site da PCDF. A integrante identificará os objetivos que os usuários buscam alcançar ao usar essa funcionalidade, os operadores cognitivos e motores necessários para realizar as tarefas, os métodos sequenciais utilizados para atingir esses objetivos e as regras de seleção que orientam o comportamento do usuário diante de diferentes opções disponíveis na interface.
 
-## Meta: Registrar uma ocorrência no site da PCDF
+Meta: Registrar uma ocorrência no site da PCDF
 
-### Passos GOMS:
+#### Passos GOMS:
 
 * GOAL 0: Registrar uma Ocorrência
     * GOAL 1: Acessar a seção de "Registro de Ocorrência" no site da PCDF
@@ -214,21 +217,23 @@ Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuá
         * OP 4.2: Clicar no botão "Enviar" para submeter a ocorrência
             * Motoras:
                 * Mover o cursor para clicar no botão de envio
-
+#### Figura 6: Registro de Ocorrência
 ![Página inicial para ocorrência](../../assets/Analise_Requisitos/registraocorrencia.png)
 <div align="center">
-<p> Figura 1 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
+<p> Figura 6 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
 </div>
+
+#### Figura 7: Seleção do crime
 
 ![Página Seleção do Crime](../../assets/Analise_Requisitos/registraocorrencia2.png)
 <div align="center">
-<p> Figura 2 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
+<p> Figura 7 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
 </div>
 
-
+#### Figura 8: Formulário de Ocorrência 3
 ![Página de Formulário para Ocorrência](../../assets/Analise_Requisitos/registraocorrencia3.png)
 <div align="center">
-<p> Figura 3 - Formulário da Ocorrência. Fonte: Site PCDF  </p> 
+<p> Figura 8 - Formulário de Ocorrência 3. Fonte: Site PCDF  </p> 
 </div>
 
 
@@ -249,3 +254,4 @@ Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuá
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 |1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.5 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+| 1.6 | Atualização de figuras | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 | | |

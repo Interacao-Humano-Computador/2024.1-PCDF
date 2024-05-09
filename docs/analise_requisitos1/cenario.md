@@ -1,4 +1,4 @@
-# Introdução 
+## Introdução 
 Os cenários são uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais (Rosson e Carrol, 2002).
 
 ## Metodologia
@@ -17,6 +17,7 @@ A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cená
 **Cenário: Visualização da Página de Procurados pela Polícia Civil Regional**
 Criado por  [Lara Giuliana](https://github.com/gravelylara)
 
+### Personagem 1
 Contexto:
 Um cidadão comum está navegando na internet em sua casa, utilizando seu laptop pessoal para pesquisar informações locais. Ele tem interesse em saber mais sobre os procurados pela Polícia Civil em sua região para estar ciente de possíveis ameaças ou situações de segurança.
 
@@ -42,6 +43,7 @@ Este cenário descreve como um cidadão comum pode utilizar a página de procura
 # Solicitar Antecedentes Criminais
 O cenário criado por [Renata Quadros](https://github.com/Renatinha28) é baseado na persona Carlos e em uma pessoa fictícia Júlia.  
 
+### Personagem 2
 Autores: Carlos (advogado), Júlia (réu)
 
 Carlos, um advogado, precisa consultar os antecedentes criminais de sua cliente, Júlia, uma moça que mora em Brasília-DF e está sendo processada injustamente. Ele precisa comprovar que Júlia possui uma ficha criminal limpa para fortalecer sua defesa. Para isso, Carlos decide solicitar os antecedentes criminais de Júlia através do site da Polícia Civil do Distrito Federal. Ele prefere fazer essa solicitação junto com Júlia para garantir que os dados fornecidos estejam corretos.
@@ -53,11 +55,13 @@ Dessa forma, Carlos espera obter os antecedentes criminais de Júlia para fortal
 
 Cenário criado por [João Pedro](https://github.com/JoaoODragonborn) baseado em um personagem fictício chamado Pedro.
 
-<p style="text-align: center">Figura 1: Pedro</p>
+### Figura 1: Personagem 3 
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/pedro.jpeg" alt="Pedro" style="border-radius: 5%; width: 300px;"/>
 </p>
+<p style="text-align: center">Figura 1: Pedro</p>
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
+
 
 Pedro é dono de uma uma empresa de segurança privada e eventualmente precisa contratar novos profissionais para cumprir com as demandas dos seus clientes. Pela natureza da sua empresa e os serviços prestados por ela, Pedro precisa que seus empregados sejam confiáveis e não representem perigo aos seus clientes. Assim, ao contratar novos funcionários, Pedro sempre exige que os candidatos apresentem sua certidão de antecedentes criminais. Para averiguar a veracidade das tais certidões, Pedro vai até o site da polícia civil para validar a certidão. Verificada a veracidade da certidão, Pedro tira suas devidas conclusões sobre o candidato e decide se deve contratá-lo ou não.
 
@@ -65,6 +69,7 @@ Pedro é dono de uma uma empresa de segurança privada e eventualmente precisa c
 
 Esse cenário foi criado por [Giovana Barbosa ](https://github.com/gio221) é baseado em uma persona que definimos como usuária do site PCDF, que deseja bloquear um celular roubado
 
+### Figura 2: Personagem 4 
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/ana.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
 </p>
@@ -75,14 +80,18 @@ Ana monstrada na figura 1, é dona de casa, ela mora em Ceilândia com três fil
 Depois de mais ou menos um mês e meio que os novos vizinhos mudaram ela começou a escutar barulhos estranhos de cachorros chorando, no começo ela achou que eles estavam brincando ou algo similar.
 Mas os dias foram passando e esses barulhos foram se tornando constantes, depois de um tempo Ana começou a se preocupar e prestar mais atenção nos vizinhos novos. A casa de Ana era um sobrado então ela conseguia ver o quintal dos vizinhos.
 Um dia Ana estava cuidando da casa e quando olhou para o lote vizinho ela viu os dois cachorros dos vizinhos bem desidratados, amarrados e com focinheira, Ana ficou bastante assustada, e como ela já tinha usado o site da PCDF para solicitar sua carteira de identidade, ela abriu o site, e viu que tinha como fazer denúncia online por lá, e quando ela entrou ela achou a aba para Denúncia de Maus Tratos Animais, como montrado na figura 2.
+
+### Figura 3: Informações sobre Denúncia
 <div>
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/197_animais.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura 2 : Informações sobre a Denúncia do 197 Online</p>
+<p style="text-align: center">Figura 3 : Informações sobre a Denúncia do 197 Online</p>
 <p style="text-align: center">Fonte: site PCDF</p></div>
 
 Então Ana fez a denúncia anônima,com os passos monstrado na figura 3, e depois de mais ou menos um dia, a policia foi até os vizinhos e regataram os animais e levaram para abrigos.
+
+### Figura 4: Maus tratos animais
 <div>
 <p style="text-align: center">
     <img src="../../assets/Analise_Requisitos/197_animais2.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
@@ -94,7 +103,8 @@ Então Ana fez a denúncia anônima,com os passos monstrado na figura 3, e depoi
 
 O cenário criado por [Raissa Andrade](https://github.com/RaissaAndradeS) é baseado em uma pessoa fictícia tentando marcar para revonar sua carteira de identidade.  
 
-![EAdriano](../assets/Analise_Requisitos/Adriano.webp)
+### Figura 5: Personagem 5 
+![Adriano](../assets/Analise_Requisitos/Adriano.webp)
 <div align="center">
 <p> Figura 4 : Adriano</p> 
 <p> Fonte:gerado através do site this-person-does-not-exist.com</p></div>
@@ -102,6 +112,7 @@ O cenário criado por [Raissa Andrade](https://github.com/RaissaAndradeS) é bas
 Adriano Valverde como monstrado na figura 4, tem 17 anos, terminou o ensino médio, encontra - se estudando para concurso. Adriano é menor de idade, ainda não tem a CNH. Ele tirou o Registro Geral (RG) ainda quando era criança e não sabia que seu RG tem validade, de 0 a 12 anos, tem a validade de 5 anos. De 12 a 60 anos incompletos, tem validade de 10 anos e acima de 60 anos tem validade indeterminada. 
 Adriano irá prestar concurso, precisa manter a carteira de identidade atualizada e para conseguir emitir um novo RG, adriano precisa acessar o site da Polícia Civil do Distrito Federal, na aba de "Serviços" acessará carteira de identidade que vai leva - lo para outra página e nessa página, ele conseguira agendar um horário para emitir seu novo documento.  Mas adriano não consegue concluir seu agendamento pelo site da PCDF, ao tentar marcar agendamento, mesmo mostrando um horário disponível, ao final ha uma mensagem mostrando ao contrario. Mas Adriano precisa muito desse documento, então ele deu refresh na pagina e quando foi escolher a opção de lugar, já não havia mais o gama e ele conseguiu mas apenas na unidade de samambaia, como montrado na figura 5.
 
+### Figura 6: Agendamento
 ![Agendamento](../assets/Analise_Requisitos/pcdf.png)
 <div align="center">
 <p> Figura 5: Print do agendamneto</p>
@@ -111,7 +122,7 @@ Adriano irá prestar concurso, precisa manter a carteira de identidade atualizad
 
 Esse cenário foi Criado [Rayene Almeida](https://github.com/rayenealmeida) é baseado em uma pessoa fictícia tentando fazer o registro de uma ocorrência.  
 
-
+### Figura 7: Personagem 6 
 ![Rafael](../assets/Analise_Requisitos/rafael.png)
 <div align="center">
 <p> Figura 6 : Rafael Mendes</p> 
@@ -123,7 +134,7 @@ Ao ser encaminhado para a página Delegacia Eletrônica, ele rolou a pagina e en
 Ele ficou confuso pois tinha uma opção de acidente de trÂnsito mas era acidente de trânsito sem vítima. Ao clicar na opção foi encaminhado para uma página que dizia "Por meio deste canal será possível o registro de ocorrências de acidente de trânsito sem vítima e aqueles em que o condutor do veículo causador do acidente se evade do local para fugir a sua responsabilidade", sendo assim essa era mesmo a opção certa. Em seguida ele rolou a página e foi lendo até encontrar a opção de concordar que leu e proceguir com o registro. Ao clicar foi encaminhado para outra página que perguntava " Este acidente de trânsito que você deseja registrar aconteceu no Distrito Federal?"  Então ele marcou que sim. Em seguida apareceu outra pergunta " Após o acidente houve contato verbal ou pessoal entre os condutores?" e a resposata era não. 
 A próxima pergunta que apareceu foi "O veículo estava estacionado no momento em que a avaria foi provocada?" e a resposta também era não e a proxima pergunta foi "O motorista causador deste acidente sem vítima evadiu-se do local, sem se identificar ou deixar meios para ser contactado, com o objetivo de fugir de eventual responsabilidade?" que foi o que ocorreu então ele marcou sim. Ao clicar em continuar ele preencheu seus dados cuidadosamente, escreveu os detalhes do ocorrido incluindo a descrição do acidente e os danos aos veículos, preencheu os Quesitos e enviou fotos de como ficou o carro no "Anexos". Após revisar minuciosamente todas as informações fornecidas, Rafael enviou o formulário de registro de ocorrência e aguardou ansiosamente pela confirmação da submissão.Ele esperava que o registro ajudasse na investigação do acidente e na determinação das responsabilidades, garantindo assim uma resolução justa do incidente.
 
-
+### Figura 8: Menu de Serviços PCDF
 ![Rafael](../assets/Analise_Requisitos/pcdfservicos.png)
 <div align="center">
 <p> Figura 7 : Menu de Serviços PCDF</p> 
@@ -138,3 +149,4 @@ A próxima pergunta que apareceu foi "O veículo estava estacionado no momento e
 | 1.3 | Cenário solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |[Giovana Barbosa ](https://github.com/gio221) |19/04 |
 | 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 20/04 |
+| 1.4 | Atualização de figuras e índice | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 |   | |
