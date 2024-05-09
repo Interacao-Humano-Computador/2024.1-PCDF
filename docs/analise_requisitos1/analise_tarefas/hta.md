@@ -44,6 +44,13 @@ Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos d
 - Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
 
 ### Solicitar Antecedentes Criminais
+Nessa tarefa o usuário pretende solicitar os antecedentes criminais no site da PCDF, foi analisada pela integrante  [Renata Quadros](https://github.com/Renatinha28) e feito o diagrama como monstrado na figura 2.
+
+![tabela](../../assets/Analise_Requisitos/analise_Solicitar_Ant.png)
+<div align="center">
+<p> Figura 2- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
+
+</div>
 Fonte: [Renata Quadros](https://github.com/Renatinha28) 
 
     Tabela que descreve Diagrama de Analise de Solicitar Antecedentes Criminais
@@ -82,7 +89,7 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 
 ### 197- Denúncia Online
 
-Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 2.
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 3.
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
 <div align="center">
@@ -124,6 +131,33 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 1.2. Informar detalhes da ocorrência          | **Input:** Fornecer detalhes específicos sobre a ocorrência no formulário.<br> **Feedback:** Conclusão bem-sucedida dos detalhes da ocorrência.<br> **Plano:** Preencher todas as seções relevantes do formulário com informações precisas.                                                                 |
 | 2. Revisar e enviar o formulário              | **Input:** Revisar as informações inseridas e enviar o formulário.<br> **Feedback:** Submissão bem-sucedida da ocorrência.<br> **Plano:** Revisar todas as informações fornecidas antes de enviar.<br> **Recomendação:** Incluir uma etapa de confirmação antes do envio final.                                               |
 | 2.1. Receber confirmação da ocorrência        | **Input:** Receber confirmação da submissão da ocorrência.<br> **Feedback:** Receber uma confirmação por email ou na própria página.<br> **Plano:** Aguardar pela confirmação após o envio do formulário.                 
+
+### Retrato Falado Online: Descreva e Identifique 
+Nessa tarefa o usuário pretende fazer um retrato falado de forma online no site da PCDF, foi analisada pela integrante  [Renata Quadros](https://github.com/Renatinha28) e feito o diagrama como monstrado na figura 4.
+
+![tabela](../../assets/Analise_Requisitos/analise_Retrato_Falado.png)
+<div align="center">
+<p> Figura 2- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
+
+</div>
+Fonte: [Renata Quadros](https://github.com/Renatinha28) 
+
+    Tabela que descreve Diagrama de Analise do Retrato Falado Online
+
+|         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Acessar "Denúncia Online" 1>2 | |
+| 1. Selecionar "Retrato Falado Online" |  **Plano:** Identificar e selecionar a opção de "Retrato Falado Online" dentro da seção de "Denúncia Online". |
+| 2. Preencher o formulário de Retrato Falado Online 1+2 | **input**: formulário de retrato falado online.<br>  |
+| 2.1. Informar dados pessoais 1+2 | **Plano**: informar nome, email, CPF |                                                               
+| 2.2. Selecionar o tipo de denúncia 1+2 | **Plano**: informar o tipo de denúncia |
+| 2.3. Descrever o incidente e o suspeito 1+2 | **Plano**: Descrever detalhadamente o incidente e as características do suspeito com base nas observações do denunciante. |
+| 2.4. Criar o retrato falado do suspeito 1+2 | **input**: apertar o botão de criar avatar.<br> **Recomendação**: Fornecer uma interface de criação intuitiva e fácil de usar.|
+| 2.4.1. Selecionar um avatar gerado 1>2 | **Plano**: selecionar um avatar dentre as 6 opções dadas pela IA |
+| 2.4.2. Avaliar avatar selecionado 1+2 | **Plano**: avaliar o avatar selecionado descrever a fidelidade da imagem de acordo com a lembrança do suspeito |
+| 3. Enviar a denúncia | |
+| 4. Receber confirmação da denúncia | **Ação**: conferir solicitação e informações necessárias <br> **Recomendação**: Enviar uma confirmação clara da recepção da denúncia e informar sobre os próximos passos no processo de investigação, incluindo prazos para atualizações.  |
+
 
 
 ## Bibliografia
