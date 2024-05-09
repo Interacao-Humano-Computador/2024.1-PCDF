@@ -173,4 +173,5 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 |  1.2   | 197               |   [Giovana Barbosa](https://github.com/gio221)        |   18/04   |    [Renata Quadros](https://github.com/Renatinha28)   | 19/04               |
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
 |1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
-|1.5| Atualização do Índice|[Rayene Almeida](https://github.com/rayenealmeida)|09/05|  |  |
+|1.5| Atualização do Índice|[Rayene Almeida](https://github.com/rayenealmeida)|09/05|  [Renata Quadros](https://github.com/Renatinha28) | 09/05  |
+| 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | | |

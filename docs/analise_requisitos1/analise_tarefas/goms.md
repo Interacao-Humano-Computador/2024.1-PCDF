@@ -236,6 +236,48 @@ Meta: Registrar uma ocorrência no site da PCDF
 <p> Figura 8 - Formulário de Ocorrência 3. Fonte: Site PCDF  </p> 
 </div>
 
+## Retrato Falado Online: Descreva e Identifique
+Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). 
+
+* GOAL 0: Acessar a funcionalidade de Denúncia Online:
+    * METHOD 0.A: Navegar até o site da Polícia Civil do Distrito Federal (PCDF).
+    
+    (SEL. RULE: O usuário sabe que pode fazer denúncias online.)
+
+* GOAL 1: Selecionar a opção de Retrato Falado Online:
+    * METHOD 1.A: Identificar e clicar na seção "Denúncia Online".
+        * OP. 1.A.1: Escanear visualmente a página inicial em busca da seção "Denúncia Online".
+        * OP. 1.A.2: Clicar na seção identificada como "Denúncia Online".
+    * METHOD 1.B: Escolher "Retrato Falado Online" dentre as opções disponíveis.
+        * OP. 1.B.1: Procurar por opções de denúncia específicas, como "Retrato Falado Online".
+        * OP. 1.B.2: Clicar na opção encontrada para selecioná-la.
+    
+    (SEL. RULE: O usuário procura a opção que corresponde à sua necessidade específica.)
+
+* GOAL 2: Preencher o formulário de Retrato Falado Online:
+    * METHOD 2.A: Fornecer os dados pessoais solicitados (nome, e-mail, CPF).
+        * OP. 2.A.1: Digitar nome completo da pessoa. 
+        * OP. 2.A.2: Digitar o CPF.
+        * OP. 2.A.3: Digitar o e-mail.  
+    * METHOD 2.B: Selecionar o tipo de denúncia (ex: Assalto/Roubo).
+    * METHOD 2.C: Descrever detalhadamente o incidente e as características do suspeito.
+        * OP. 2.C.1: Descrever detalhadamente o incidente. 
+        * OP. 2.C.2: Descrever detalhadamente as características do suspeito.
+    * METHOD 2.D: Criar o retrato falado do suspeito.
+        * OP. 2.D.1: Apertar o botão de criar avatar. 
+        * OP. 2.D.2: Selecionar um avatar criado. 
+    * METHOD 2.E: Avaliar o avatar selecionado
+        * OP. 2.E.1: Descrever a fidelidade do avatar de acordo com a lembrança do suspeito. 
+    
+    (SEL. RULE: O usuário segue o fluxo natural do formulário, preenchendo campos conforme necessário.)
+
+* GOAL 3: Enviar a denúncia:
+    * METHOD 3.A: Clicar no botão de envio após revisão completa dos dados fornecidos.
+
+* GOAL 4: Receber confirmação da denúncia:
+    * METHOD 4.A: Verificar a mensagem informativa e aguardar a confirmação por e-mail da recepção da denúncia.
+    * METHOD 4.B: Aguardar atualizações dentro do prazo estipulado.
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -254,4 +296,5 @@ Meta: Registrar uma ocorrência no site da PCDF
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 |  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 |1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.5 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
-| 1.6 | Atualização de figuras | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 | | |
+| 1.6 | Atualização de figuras | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
+| 1.7 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | | |
