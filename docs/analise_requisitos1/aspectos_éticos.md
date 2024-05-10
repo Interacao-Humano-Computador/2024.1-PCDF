@@ -63,4 +63,4 @@ Assinatura do Pesquisador Responsável: _______________________
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
-| 1.1 | Termos de consentimento | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | | | 
+| 1.1 | Termos de consentimento | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa ](https://github.com/gio221)   | 10/05| 

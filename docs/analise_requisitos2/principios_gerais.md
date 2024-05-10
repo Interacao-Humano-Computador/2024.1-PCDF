@@ -6,35 +6,79 @@
 
 Retirar essa parte do texto ao finalizar.
 
-## Introdução 
+# Introdução 
+O autor Norman (1988) ressalta a importância de projetar sistemas com um modelo conceitual claro, que os usuários possam entender facilmente. Esse modelo deve ajudar a entender como as ações e informações do sistema se relacionam com o conhecimento do mundo. Ele enfatiza que o design deve facilitar a determinação das ações possíveis em cada momento, tornar as coisas visíveis, permitir a avaliação do estado atual do sistema e seguir mapeamentos naturais entre intenções, ações e resultados.
 
+As diretrizes comuns em Interação Humano-Computador (IHC) incluem corresponder às expectativas dos usuários, simplificar as tarefas, equilibrar controle e liberdade do usuário, manter consistência e padronização, promover eficiência, antecipar necessidades do usuário, garantir visibilidade e reconhecimento, fornecer conteúdo relevante e expressão adequada, e projetar para erros. Essas diretrizes são essenciais para o design de interação e interface eficazes.
 
 ## Metodologia 
-
+Para realizarmos os principios gerais, foi realizado uma análise individual de violações que o site poderia ter em relação ao principio
 
 ## Correspondência com as Expectativas dos Usuários
 
 ### Motivação
 Segundo Nielsen (1994), o projetista deve seguir as convenções do mundo real, fazendo com que a informação apareça em uma ordem natural e lógica. Assim, é importante entender as sequências de ações que são familiares aos usuários e, caso a solução se desvie do que lhes é familiar, deve ao menos refletir uma organização lógica que lhes sejam plausível. Ao final de cada tarefa, o sistema deve retornar um feedback informativo para que o usuário fique aliviado e possa estar liberado para fazer outras tarefas.
 
+Para corresponder às expectativas dos usuários, é essencial projetar sistemas que sigam mapeamentos naturais entre variáveis mentais e físicas, permitindo que os usuários entendam facilmente os relacionamentos entre intenções, ações possíveis e resultados.
+
+### Violação
+A violção que vemos no site da PCDF, e que o agendamento de Reuniões ela fica em informações, violando a Correspondência com as Expectativas dos Usuários, pois essa informção deveria ficar na aba de serviços. Como monstra na figura 1
+
+![Página Seleção do Crime](../assets/Analise_Requisitos/Correspondência%20com%20as%20Expectativas%20dos%20Usuários.png)
+<div align="center">
+<p> Figura 1 - Violação da Correspondência com as Expectativas dos Usuários Fonte: Site PCDF  </p> 
+</div>
+
 ## Simplicidade nas Estruturas das Tarefas
 
 ### Motivação
 Norman (1988) recomenda simplificar a estrutura das tarefas, reduzindo a quantidade de planejamento e resolução deproblemas que elas requerem. Assim é importante reestruturar tarefas desnecessariamente complexas.
+
+### Violação
+No site da PCDF, na aba de Solicitar Antecedentes Criminais, para que possamos vizualizar algum antecendete, precisamos colocar nosso email, e não conseguimos seguir em frente sem colocar o email, como monstra na figura 2
+![Página Seleção do Crime](../assets/Analise_Requisitos/Simplicidade%20nas%20Estruturas%20das%20Tarefas.png)
+<div align="center">
+<p> Figura 2 - Simplicidade nas Estruturas das Tarefas Fonte: Site PCDF  </p> 
+</div>
 
 ## Equilíbrio entre Controle e Liberdade do Usuário
 
 ### Motivação
 Diversos autores como Norman(1988), Nielsen(1993), Tognazzini(2003), Shneiderman(1998) e cooper(1999) destacam a importância de manter o usuário no controle. Tognazzini afirma que assim o usuário aprende mais rápido e ganha um sentimento de maestria. Porém há de se buscar um equilíbrio, pois muitas opções e caminhos podem deixar os usuários perdidos, sem saber qual caminho seguir. Tal controle e liberdade não se aplica apenas para a realização de tarefas, mas para cancelar um tarefa em progresso ou retornar a um ponto anterior, afinal usuários podem se sentir tentados a explorar o sistema e devem ter segurança das suas ações e caso perceba que estão seguindo um caminho potêncialmente perigoso, tenha a oportunidade de evitar tal perigo.
 
+O site da PCDF permite que o suário tem uma organização de layout muito boa, ou  seja, o sistema peca, por deixar o usuário da plataforma totalmente no controle, o que pode gerar confusão e indecisão.
+
 ## Consistência e Padronização
 
 ### Motivação
+Para facilitar o aprendizado e uso de um sistema, Norman (1988) recomenda assegurar a consistência da
+interface com o modelo conceitual embutido no sistema.anto Norman (1988) como Tognazzini (2014) acreditam que a consistência mais importante é com as
+expectativas dos usuários, como visto na seção anterior. Segundo eles, mesmo quando essa correspondência
+não é possível, ou seja, quando precisamos definir mapeamentos arbitrários, devemos padronizar.
 
+O site da PCDF tem uma padronização muito boa, como monstra na figura 3
+![Página Seleção do Crime](../assets/Analise_Requisitos/Consistência%20e%20Padronização.png)
+<div align="center">
+<p> Figura 3 - Consistência e Padronização Fonte: Site PCDF </p> 
+</div>
 
 ## Promovendo a Eficiência do Usuário
 
 ### Motivação
+Tognazzini (2014) recomenda considerar sempre a eficiência do usuário em primeiro lugar, e não a do
+computador. As pessoas são mais custosas do que máquinas, e uma economia de tempo e esforço do usuário
+costumam trazer mais benefícios do que economias semelhantes de processamento ou armazenamento.
+Para isso, Tognazzini sugere manter o usuário ocupado. Toda vez que o usuário precisa esperar o sistema
+responder antes que possa continuar seu trabalho, há perda de produtividade e desperdício de dinheiro
+
+### Violação
+No site da PCDF, vosê não cosnegue fazer um login, então se você inicia uma atividade e por algum motivo não consegue finalizar o site não salva seu progresso, como monstra na figura 4
+
+![Página Seleção do Crime](../assets/Analise_Requisitos/Promovendo%20a%20Eficiência%20do%20Usuário.png)
+<div align="center">
+<p> Figura 4 - Promovendo a Eficiência do Usuário Fonte: Site PCDF  </p> 
+</div>
+
 
 ## Antecipação
 
@@ -93,4 +137,5 @@ Portanto, ao projetarmos sistemas e interfaces, lembremo-nos sempre do nosso com
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0 | Criação do documento | [Giovana Barbosa ](https://github.com/gio221)  | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |
-| 1.1 | Diretrizes adicionadas |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 | | |  
+| 1.1 | Diretrizes adicionadas |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |[Giovana Barbosa](https://github.com/gio221)  |10/05 |  
+| 1.2 | Diretrizes adicionadas | [Giovana Barbosa](https://github.com/gio221)  | 10/05 | | |  

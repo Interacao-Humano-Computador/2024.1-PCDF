@@ -15,17 +15,17 @@ Tabela 1: Critérios de avaliação para a entrega
 
 | O git-pages possui?     | Sim/Não/Incompleto |
 | :--------: | :----: |     
-1 - O histórico de versão padronizado? | 
-2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | 
+1 - O histórico de versão padronizado? | Sim
+2 – O(s) autor(es) e o(s) revisor(es) para cada artefato? | Sim
 3 - Vídeo de apresentação na categoria “não listado” no youtube; |
-4 - Referências bibliográficas e/ou bibliografia em todos os artefatos|
-5 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | 
-6 - Um texto fazendo uma introdução dos artefatos?| 
-7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade | 
-8 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). | 
+4 - Referências bibliográficas e/ou bibliografia em todos os artefatos|Sim
+5 - As tabelas e imagens possuem legenda e fonte e elas chamadas dentro dos texto? | Sim
+6 - Um texto fazendo uma introdução dos artefatos?| Sim
+7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade | Sim
+8 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |Sim 
 9 – A gravação da reunião do grupo. | 
 10 - As características da plataforma para o projeto| 
-11- Os Princípios Gerais do Projeto que serão utilizados no projeto?| 
+11- Os Princípios Gerais do Projeto que serão utilizados no projeto?| Sim
 12 - Os Princípios Gerais do Projeto contém os seguintes tópicos:| 
 13 – As metas de usabilidade que devem ser alcançadas no projeto? |
 14 – A razão da seleção das metas de usabilidade? |

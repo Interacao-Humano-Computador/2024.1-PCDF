@@ -33,6 +33,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 | 197- Denúncia Online   | Giovana          |
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
+|Retrato Falado Online|Renata|
 
 ### Pesquisar Procurados
 A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. 
@@ -174,4 +175,4 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 1.3 | Solicitar antecedentes criminais | [Renata Quadros](https://github.com/Renatinha28) | 19/04 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |
 |1.4| Solicitação de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)|19/04| [Renata Quadros](https://github.com/Renatinha28) | 19/04 |
 |1.5| Atualização do Índice|[Rayene Almeida](https://github.com/rayenealmeida)|09/05|  [Renata Quadros](https://github.com/Renatinha28) | 09/05  |
-| 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | | |
+| 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | [Giovana Barbosa](https://github.com/gio221)   |10/05 |

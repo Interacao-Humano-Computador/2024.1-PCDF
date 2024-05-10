@@ -53,6 +53,7 @@ A avaliação do site foi feita pela integrante Raissa [link](https://unbbr-my.s
 | 197- Denúncia Online |  Giovana         | 
 | Solicitar carteira de identidade |  Raissa         | 
 | Registra Ocorrência|  Rayene         |
+|Retrato Falado Online|Renata|
 
 ## Bibliografia
 

@@ -141,7 +141,7 @@ A próxima pergunta que apareceu foi "O veículo estava estacionado no momento e
 Este é o cenário de uma nova funcionalidade sugerida pela integrante [Renata Quadros](https://github.com/Renatinha28). O cenário é baseado em uma pessoa fictícia que tenta fazer um retrato falado online após ser assaltada.<div>
 
 <p style="text-align: center">
-    <img src="../../assets/Analise_Requisitos/ana_silva.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
+    <img src="../../assets/Analise_Requisitos/Ana-Silva.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
 </p>
 <p style="text-align: center">Figura 10 : Persona Ana Silva</p>
 <p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p></div>
@@ -161,5 +161,5 @@ Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção q
 | 1.3 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 20/04 |
 | 1.4 | Atualização de figuras e índice | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
-| 1.5 | Cenário funcionalidade sugerida | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |   |  |
+| 1.5 | Cenário funcionalidade sugerida | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |   [Giovana Barbosa ](https://github.com/gio221) | 10/05 |
 

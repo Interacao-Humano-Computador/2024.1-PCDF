@@ -1,6 +1,6 @@
 # GOMS (Goals, Operators, Methods, And Selection Rules)
 
-## Introdução 
+# Introdução 
 O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
 como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
 e regras de seleção (selection rules).
@@ -12,13 +12,6 @@ e regras de seleção (selection rules).
  método para utilizar
 
 
-## GOMS-KLM
- O KLM é a técnica mais simples de GOMS, limitada a um conjunto predefinido de operadores primitivos descrito na tabela 1
-
-![KLM-GOMS](../../assets/Analise_Requisitos/klm-goms.png)<div>
-<p> Figura 1 - Tabela KLM GOMS </p>
-</div>
-
 ## Funcionalidades Avaliadas pela GOMS
      Tabela que monstra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
@@ -29,6 +22,7 @@ e regras de seleção (selection rules).
 | 197- Denúncia Online   | Giovana          |
 | Solicitar Carteira de Identidade| Raissa
 | Registrar Ocorrência | Rayene |
+|Retrato Falado Online|Renata|
 
 ### Pesquisar Procurados 
 #### Introdução 
@@ -296,4 +290,4 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 |1.4| Solicitar Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 19/04|  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.5 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.6 | Atualização de figuras | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
-| 1.7 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | | |
+| 1.7 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa](https://github.com/gio221)   |10/05 |
