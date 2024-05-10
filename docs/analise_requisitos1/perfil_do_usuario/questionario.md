@@ -8,6 +8,7 @@ Pra realizarmos esse questionário nos fizemos um termo de consentimento, e cria
 O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), além de uma participante a mais anônima, garantindo sua privacidade, selecionada pelo aspecto de residir no DF e ter conhecimentos básicos sobre o site. Foi conduzido estes testes com o intuido de garantir a clareza e qualidade do questionário.
 
 <a id="questionario"></a>
+
 ## Questionário
 
     Tabela 1: perguntas do questionário

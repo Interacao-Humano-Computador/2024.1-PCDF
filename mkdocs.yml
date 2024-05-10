@@ -27,7 +27,8 @@ nav:
   - Análise de Requisitos I:
     - Aspectos Éticos: analise_requisitos1/aspectos_éticos.md
     - Perfil do Usuário:
-        - Questionário: analise_requisitos1/perfil_do_usuario/questionario.md
+        - Questionário : analise_requisitos1/perfil_do_usuario/questionario.md
+        - Entrevista: analise_requisitos1/perfil_do_usuario/questionariopr.md
         - Análise Competitiva: analise_requisitos1/perfil_do_usuario/analise_competitiva.md
         - Resultado do Perfil do Usuário: analise_requisitos1/perfil_do_usuario/resultado.md
     - Personas: analise_requisitos1/personas.md
