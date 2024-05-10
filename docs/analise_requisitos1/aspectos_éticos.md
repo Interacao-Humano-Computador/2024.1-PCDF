@@ -11,10 +11,9 @@ Uma pesquisa baseada na ética precisa respeitar seus usuários, respeitando sua
 
 Um termo de consentimento é um documento legal utilizado quando envolve pesquisas com usuários reais, no qual uma pessoa expressa seu entendimento e concordância com determinadas informações, procedimentos ou ações. Esse documento geralmente contém informações sobre os objetivos do estudo ou procedimento, os possíveis benefícios e riscos envolvidos, os direitos do participante ou paciente, as medidas de segurança adotadas e a liberdade de retirar o consentimento a qualquer momento. Para ultilizar essa pesquisa montamos um termo de consentimento :
 
+Os termos de consentimento foram feitos pela integrante [Renata Quadros](https://github.com/Renatinha28), consistindo em dois documentos distintos: um para o questionário e outro para a entrevista.
 
-## Termo de Consentimento 
-Nosso termo de consentimento foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) 
-
+## Termo de Consentimento do questionário
 Somos estudantes de Engenharia de Software da turma de Interação Humano-Computador do semestre 2024.1, participando da atividade de avaliação IHC do site PCDF. Nesta etapa do projeto, buscamos compreender as opiniões dos usuários ou pessoas afetadas pelo sistema atual do PCDF e suas expectativas/experiências em relação ao sistema.
 Estamos realizando uma série de pesquisas, e solicitamos seu consentimento para a realização desse questionário. Para decidir
 sobre o seu consentimento, é importante que você conheça as seguintes informações sobre a pesquisa:
@@ -30,6 +29,32 @@ sobre o seu consentimento, é importante que você conheça as seguintes informa
 De posse dessas informações, gostaríamos que você se pronunciasse acerca da entrevista:
 Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação conduzida pelo grupo de IHC referente ao site do PCDF. Concordo em participar voluntariamente como participante desta avaliação. Entendo que minha participação envolverá responder a questionários relacionados às funcionalidades do site PCDF. Fui esclarecido(a) de que posso interromper minha participação a qualquer momento, sem qualquer penalidade, e que todas as informações coletadas serão tratadas de forma confidencial, sendo utilizadas apenas para os fins da avaliação. Estou ciente de que poderei receber informações adicionais sobre o estudo após sua conclusão, se assim desejar, e que estou livre para retirar meu consentimento a qualquer momento, sem prejuízo algum.
 
+## Termo de Consentimento da entrevista
+Declaro que fui devidamente informado(a) sobre os objetivos da avaliação conduzida pelo grupo de Interação Humano-Computador (IHC) da turma de Engenharia de Software do semestre 2024.1, referente ao site da Polícia Civil do Distrito Federal (PCDF). Concordo em participar voluntariamente como participante desta entrevista e em ser gravado para fins de análise e pesquisa.
+Entendo que minha participação envolverá responder a perguntas relacionadas à minha experiência, opiniões e expectativas em relação ao sistema do PCDF. Fui esclarecido(a) de que posso interromper minha participação a qualquer momento, sem qualquer penalidade, e que todas as informações coletadas serão tratadas de forma confidencial.
+Estou ciente de que a gravação desta entrevista será utilizada exclusivamente para os fins da pesquisa em Interação Humano-Computador do sistema PCDF. Entendo que poderei receber informações adicionais sobre o estudo após sua conclusão, se assim desejar, e que estou livre para retirar meu consentimento a qualquer momento, sem prejuízo algum.
+
+Declaro ainda que compreendo os princípios éticos que regem esta pesquisa, tais como:
+
+      * Princípio da Autonomia: Reconheço meu direito de tomar decisões sobre minha participação na pesquisa, incluindo consentir ou recusar minha participação.
+
+      * Princípio da Beneficência: Entendo que esta pesquisa busca maximizar benefícios e minimizar danos para os participantes.
+
+      * Princípio da Não Maleficência: Reconheço que medidas foram tomadas para prevenir danos decorrentes da pesquisa, tanto imediatos quanto futuros.
+
+      * Princípio da Justiça e Equidade: Compreendo que todos os participantes serão tratados de forma justa e imparcial, garantindo igualdade de acesso e distribuição justa de benefícios e riscos.
+
+Estou ciente de que minha participação é voluntária e que concordo com os termos acima mencionados.
+
+Local: [Local da entrevista]
+
+Data: [Data da Entrevista]
+
+Assinatura do Participante: _______________________
+
+Assinatura do Pesquisador Responsável: _______________________
+
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
@@ -38,3 +63,4 @@ Eu declaro que fui devidamente informado(a) sobre os objetivos da avaliação co
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
+| 1.1 | Termos de consentimento | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | | | 
