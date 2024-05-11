@@ -161,17 +161,37 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
 
-* GOAL 0: Solicitar Carteira de Identidade.
-* GOAL 1: entrar no site da PCDF.
-    * OP 1.1: Navegar por serviços.
-    * OP 1.1: Clicar em carteira de identidade.
-    * OP 1.1: Solicitar CIN.
-    * OP 1.1: Li e quero agendar a CIN.
-* GOAL 2: Escolher serviço solicitado e unidade de atendimento.
-    * OP 1.1: Preencher formulário online. 
-    * OP 1.1: Aguardar confirmação.
 
-Regras de seleção nesse caso, pode incluir a seguinte situação, caso o usuário esteja com pressa ou necessitar de um agendamento rápido, ele pode optar por procurar por horários disponíveis nos próximos dias.
+* GOAL 0: Solicitar Carteira de Identidade.
+    * OP 1: Acessar o sita da PCDF
+        * OP 1.1: Abrir o navegador 
+        * OP 1.2: DIgitar "https://www.pcdf.df.gov.br" na barra de endereços
+        * OP 1.3: Apertar Enter
+        * OP 1.4: Procurar "Serviços"
+
+* GOAL 1: Agendamento
+    * OP 2: Escolher serviço e Unidade de Atendimento
+        * OP 2.1: Selecionar primeira ou segunda via
+        * OP 2.2: Selecionar Unidade de atendimento
+        * OP 2.3: Escolher data
+        * OP 2.4: Escolher horário
+    * OP : Confirmações de dados
+
+* GOAL 2: Preencher o Formulário de Solicitação 
+    * OP 3: Ler instruções da página
+    * OP: Preencher os campos obrigatórios
+        * OP 3.1: Nome Completo
+        * OP 3.2: Data de Nascimento
+        * OP 3.3: Endereço
+        * OP 3.4: Número de telefone
+    * OP: Revisar os dados inseridos
+
+* GOAL 3: Resumo e Confirmação do agendamento
+    * OP 4: Ler dados da página
+        * OP 4.1: Abrir e-mail
+        * OP 4.2: Copiar código de autorização
+        * OP 4.3: Colar na página da PCDF
+        * OP 4.4: Finalizar 
 
 
 ### Registro de Ocorrência
