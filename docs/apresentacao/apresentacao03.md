@@ -24,7 +24,7 @@ Tabela 1: Critérios de avaliação para a entrega
 7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade | Sim
 8 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |Sim 
 9 – A gravação da reunião do grupo. | 
-10 - As características da plataforma para o projeto| 
+10 - As características da plataforma para o projeto| Sim
 11- Os Princípios Gerais do Projeto que serão utilizados no projeto?| Sim
 12 - Os Princípios Gerais do Projeto contém os seguintes tópicos:| Sim
 13 – As metas de usabilidade que devem ser alcançadas no projeto? |Sim
