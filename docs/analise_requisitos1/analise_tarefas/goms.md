@@ -311,3 +311,4 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 | 1.5 | Cenário visualizar procurados | [Lara Giuliana](https://github.com/gravelylara) | 19/04 | [Giovana Barbosa ](https://github.com/gio221)|19/04 |
 | 1.6 | Atualização de figuras | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
 | 1.7 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa](https://github.com/gio221)   |10/05 |
+| 1.8 | Correções da Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |   | |
