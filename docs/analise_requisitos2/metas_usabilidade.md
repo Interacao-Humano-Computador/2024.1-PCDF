@@ -40,7 +40,7 @@ Fonte: [PCDF](https://www.pcdf.df.gov.br)
 A satisfação do usuário representa o aspecto da usabilidade que reflete a avaliação subjetiva dos sentimentos e emoções do usuário resultantes do uso do sistema.
 
 ### No sistema 
-O site oferece alguns erros de carregamento, dificuldades técnicas para acessar ou utilizar os serviços online. Alguns informações desatualizadas como a agenda do delegado e videos. A agenda do delegado pelo meu último acesso na data: 11/02/2024, não carrega as informações necessárias. E a sessão de vídeos que não são postados desde 2022.
+O site oferece alguns erros de carregamento, dificuldades técnicas para acessar ou utilizar os serviços online. Alguns informações desatualizadas como a agenda do delegado e videos. A agenda do delegado pelo meu último acesso na data: 11/05/2024, não carrega as informações necessárias. E a sessão de vídeos que não são postados desde 2022.
 
 <p align="center"> <b>Figura 3</b>. Agenda do Delegado </p>
 
