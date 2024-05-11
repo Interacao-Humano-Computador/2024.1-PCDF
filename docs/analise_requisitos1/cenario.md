@@ -1,7 +1,7 @@
-## Introdução 
+# Introdução 
 Os cenários são uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais (Rosson e Carrol, 2002).
 
-## Metodologia
+# Metodologia
 A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cenário com base no Capítulo 6 do livro de Barbosa e Silva.
 
 ## Elementos Característicos de um Cenário

@@ -159,4 +159,4 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | 1.0 |  Criação do cronograma no documento 03/04  | [Giovana Barbosa ](https://github.com/gio221) | 03/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 | 1.1 | Alterações de nomes   | [Giovana Barbosa ](https://github.com/gio221) | 07/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221)         |       20/04               |
-| 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | |  |
+| 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | [Renata Quadros](https://github.com/Renatinha28)  |11/05|

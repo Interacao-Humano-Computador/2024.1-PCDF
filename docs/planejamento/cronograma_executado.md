@@ -70,4 +70,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
 | 1.1 | tabela da etapa 2 executada  | [Giovana Barbosa ](https://github.com/gio221) | 20/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
-| 1.2 | tabela da etapa 3 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/05 | |  |
+| 1.2 | tabela da etapa 3 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/05 | [Renata Quadros](https://github.com/Renatinha28)  |11/05|

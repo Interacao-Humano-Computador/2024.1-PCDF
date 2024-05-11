@@ -26,12 +26,12 @@ Tabela 1: Critérios de avaliação para a entrega
 9 – A gravação da reunião do grupo. | 
 10 - As características da plataforma para o projeto| 
 11- Os Princípios Gerais do Projeto que serão utilizados no projeto?| Sim
-12 - Os Princípios Gerais do Projeto contém os seguintes tópicos:| 
-13 – As metas de usabilidade que devem ser alcançadas no projeto? |
-14 – A razão da seleção das metas de usabilidade? |
-15 - O Guia de Estilo do projeto?| 
-16 - O Guia de Estilo do projeto possui a seguinte estrutura: Introdução,Resultados de análise,Elementos de interface,Elementos de interação,Elementos de ação,Vocabulário e padrões | 
-17 -  O Guia de Estilo corresponde ao site avaliado?|
+12 - Os Princípios Gerais do Projeto contém os seguintes tópicos:| Sim
+13 – As metas de usabilidade que devem ser alcançadas no projeto? |Sim
+14 – A razão da seleção das metas de usabilidade? |Sim
+15 - O Guia de Estilo do projeto?| Sim
+16 - O Guia de Estilo do projeto possui a seguinte estrutura: Introdução,Resultados de análise,Elementos de interface,Elementos de interação,Elementos de ação,Vocabulário e padrões | Sim
+17 -  O Guia de Estilo corresponde ao site avaliado?|Sim
 
 
 ## Bibliografia 
@@ -43,5 +43,6 @@ Tabela 2: Histórico de versões da página de apresentação
 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  07/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|||
+| 1.0 |  07/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28)  |11/05|
+
 
