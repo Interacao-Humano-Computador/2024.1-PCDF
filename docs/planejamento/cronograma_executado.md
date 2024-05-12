@@ -42,6 +42,23 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação | Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata| Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega  | Inicio: 06/05 Fim: 08/05|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 
+## Etapa 3: Princípios gerais do projeto
+
+### executado 
+
+    Esta tabela descreve as atividades planejadas da etapa 3
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+ Princípios gerais do projeto | Início: 07/05 Fim: 10/05 | Giovana e Renata   | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata |
+| Metas de usabilidade          |  Início: 07/05 Fim: 10/05 | Raissa  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Guia de estilo  |  Início: 07/05 Fim: 10/05 | Rayene  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Caracteristicas do site |  Início: 07/05 Fim: 10/05 | João | Início: 10/05 Fim: 10/05| Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Perguntas do site | Início: 10/05 Fim: 10/05 | Giovana| Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Correção pós entrega   | Início: 14/05 Fim: 17/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
+
+
 
 ## Bibliografia 
 [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
@@ -53,3 +70,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
 | 1.1 | tabela da etapa 2 executada  | [Giovana Barbosa ](https://github.com/gio221) | 20/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
+| 1.2 | tabela da etapa 3 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/05 | [Renata Quadros](https://github.com/Renatinha28)  |11/05|

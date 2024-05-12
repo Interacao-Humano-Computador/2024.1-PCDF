@@ -1,7 +1,14 @@
+# Introdução
+O perfil de usuário é construído em cima de dados coletados dos próprios usuários, e tem como objetivo descobrir e definir quais as características das pessoas que utilizam ou utilizarão o sistema que está sendo desenvolvido. Existem várias maneiras de mapear o perfil de usuário e uma delas e o Questionário realizado com pessoas reais que são usuárias do sistema
+
+# Metodologia
+Pra realizarmos esse questionário nos fizemos um termo de consentimento, e criamos um formulário sonline com algumas perguntas, sendo uma delas se a pessoa aceitava o termo, se a pessoa aceita o termo ela passa a responder as perguntas, com as respostas coletas nos conseguimos mapear o perfil do usuário
+
 ## Teste Piloto
 O teste piloto do questionário foi realizado pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), além de uma participante a mais anônima, garantindo sua privacidade, selecionada pelo aspecto de residir no DF e ter conhecimentos básicos sobre o site. Foi conduzido estes testes com o intuido de garantir a clareza e qualidade do questionário.
 
 <a id="questionario"></a>
+
 ## Questionário
 
     Tabela 1: perguntas do questionário

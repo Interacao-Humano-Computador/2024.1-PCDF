@@ -2,6 +2,7 @@
 
 Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 abaixo, estão apresentados os sites selecionados por cada integrante:
 
+
 ## Tabela 1: Sites Escolhidos
 
 | Integrante                                         | Site Avaliado      | Link                                           |

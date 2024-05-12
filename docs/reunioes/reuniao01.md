@@ -3,7 +3,7 @@
 ## Introdução
 Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com o objetivo de nos organizar para a entrega da primeira atividade em grupo 
 
-#
+
 
 ## Quem esteve presente
 

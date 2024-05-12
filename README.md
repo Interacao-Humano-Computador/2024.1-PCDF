@@ -1,8 +1,15 @@
-# 2024.1-Grupo04
-## Sobre o projeto
-Este repositório contém a documentação de todos os artefatos que vão ser feitos pelo grupo 4 na disciplina Interação Humano Computador ao longo do semestre 2024.1
+# Polícia Civil do Distrito Federal
 
-O objetivo do projeto é aplicar os conhecimentos da matéria em uma avaliação real de um site
+<p align="center"><img src="docs/assets/img/PoliciaCivil.png" width = 50%></p>
+
+
+<font size="2"><p style="text-align:center">Fonte: [PCDF](https://www.pcdf.df.gov.br)</p></font>
+
+
+
+## Sobre o projeto
+Esse repositório tem como objetivo registrar a documentação e evolução do projeto [PCDF](https://www.pcdf.df.gov.br).  O projeto será produzido pelos alunos do grupo 04 da disciplina de Interação Humano Computador (IHC), do semestre 2024.1, da Faculdade do Gama da Universidade de brasilia (FGA - UnB).
+
 
 ## Equipe
 

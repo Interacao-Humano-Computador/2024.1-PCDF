@@ -2,11 +2,9 @@ Este repositório contém a documentação de todos os artefatos que serão entr
 
 ## Sobre o projeto
 
-<p style="text-align: center">Figura 1 - Logo da PCDF  </p> 
-
-
 <p style="text-align: center"><img src="assets/planejamento/PCDF.png"></p>
 
+<p style="text-align: center">Figura 1 - Logo da PCDF  </p> 
 
 <p style="text-align: center"><a href="https://www.pcdf.df.gov.br/">Fonte: Site da PCDF</a></p>
 

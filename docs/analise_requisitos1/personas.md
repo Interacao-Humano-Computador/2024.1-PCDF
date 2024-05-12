@@ -1,72 +1,98 @@
-Segundo Barbosa e Silva (2010): “embora personas sejam fictícias (i.e., não correspondem a uma pessoa real), elas são definidas com detalhes para representar usuários ‘típicos’ “, o que ajuda a definir o comportamento desejado de um sistema.
+## Introdução
 
-Pela bibliografia consultada, há a possibilidade de serem definidas anti-personas, que seriam perfis de usuários para quem não seria desenhado o sistema, já que quanto maior o grupo de usuários maiores as funcionalidade e maiores os empecilhos de usabilidade para cada um deles. Entretanto, para um serviço público como da Polícia Civil, uma demarcação tão rigorosa se torna imprópria.
+Sobre personas, Barbosa e Silva (2010) afirmam que “embora personas sejam fictícias (i.e., não correspondem a uma pessoa real), elas são definidas com detalhes para representar usuários ‘típicos’ , o que ajuda a definir o comportamento desejado de um sistema".
 
-Assim, sendo o público do site da PCDF mais abrangente, foram definidas algumas personas:
-### Persona 1: Maria, a Estudante Universitária
+## Metodologia
 
+As personas foram definidas a partir da análise de perfil realizada através de questionário, além de terem sidos baseados também nos possíveis usuários das funcionalidades do site. Tais personas serão usadas no design de interação, sendo sempre uma referência para a equipe, que os levará em consideração na hora de projetar uma interface gráfica voltada a atender suas necessidades e minimizar quaisquer riscos à nevegação no site.
 
-<p style="text-align: center">
-    <img src="../../assets/Analise_Requisitos/maria.jpeg" alt="maria" style="border-radius: 5%; width: 300px;"/>
-</p>
-<p style="text-align: center">Figura 1: Persona Maria</p>
-<p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
+Foram definidas quatro personas baseadas no perfil de usuário elaborado. Três personas primárias e duas personas secundárias. Há a possibilidade de serem definidas anti-personas, que seriam perfis de usuários para quem não seria desenhado o sistema, porém, para um serviço público como da Polícia Civil, uma demarcação tão rigorosa se torna imprópria. 
 
-* Maria, de 24 anos, é estudante de jornalismo na Universidade de Brasília e vive em Brasília desde seu nascimento. Maria consome diversos jornais, sites de dados estatísticos e qualquer outro tipo de mídia que veicula dados relevantes e atuais, sempre checando suas fontes para embasar os dados que podem entrar em suas pesquisas e matérias jornalísticas, visando ter um ótimo portfólio que possa alavancar sua carreira.
-* Maria está fazendo um trabalho acadêmico sobre segurança pública na sua região e precisa de estatísticas recentes de criminalidade para embasar sua pesquisa.
-* Ela acessa o site da Polícia Civil em busca de relatórios e dados estatísticos sobre crimes na sua cidade.
-* Maria fica frustrada ao não conseguir encontrar facilmente as informações que procura, pois o site tem uma navegação confusa e os dados estão escondidos em submenus difíceis de localizar.
+A quantidade foi definida apartir de Cooper e Baxter, que recomendam entra 3 a 12 personas. Foram escolhidas menos personas que o maior valor recomendado, já que quanto maior o grupo de usuários maiores as funcionalidade e maiores os empecilhos de usabilidade para cada um deles. As personas definidas a mais que o mínimo garantem uma melhor diversidade de usuários.  
 
-A figura 1 representa Maria
-### Persona 2: João, o Empresário
+Assim, definidas as seguintes personas:
 
-<p style="text-align: center">
-    <img src="../../assets/Analise_Requisitos/joao.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
-</p>
-<p style="text-align: center">Figura 2: Persona João</p>
+### Persona 1: Rafael, o Engenheiro
 
-<p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
-
-* João, 46 anos, é dono de uma pequena empresa no DF. A empresa já completa 15 anos desde sua fundação e tem prosperado ao longo dos anos. Porém a região sofre com altos indices de criminalidade e João precisa obter informações sobre como registrar um boletim de ocorrência online após um incidente em seu estabelecimento.
-* Ele acessa o site da Polícia Civil para encontrar orientações claras sobre como proceder e quais documentos são necessários.
-João fica satisfeito ao encontrar uma seção específica no site dedicada a orientações para empresários e um formulário de boletim de ocorrência online de fácil acesso.
-* João conclui o registro do boletim de ocorrência de forma rápida e eficiente, graças às instruções claras fornecidas no site.
-
-A figura 2 representa João
-### Persona 3: Carlos, o Advogado
+| <p style="text-align: center">Figura 1 - Persona 1: Rafael Mendes </p><figure markdown>![ Persona Primária Rafael Mende ](../../assets/Analise_Requisitos/rafael.png)<figcaption>Fonte: gerado através do site this-person-does-not-exist.com</figcaption></figure> |
+| ------------------- |
+| **Status**: Persona Primária|
+| **Nome**: Rafael Mendes|
+| **Gênero**: Masculino |
+| **Idade**: 30 anos |
+| **Profissão**: Engenheiro Civil |
+| **Escolaridade**: Ensino superior completo |
+| **Estado Civil**: Casaado |
+| **Objetivo**: <br> **Pessoal e Final:** Viajar pelo mundo e conhecer as mais diversas culturas mundo a fora <br>**Corporativo:** Ser reconhecido pelos seus colegas e clientes e alcançar cargos de liderança<br> **Experiência** Sentir que viveu a vida ao máximo |
+| **Expectativa**: O site por ser do estado pode não ser desorganizado |
+| **Requisitos**: Relatar incidentes/acidentes de trânsito |
 
 
-<p style="text-align: center">
-    <img src="../../assets/Analise_Requisitos/carlos.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
-</p>
-<p style="text-align: center">Figura 3: Persona Carlos</p>
-<p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
+### Persona 2: Maria, a Estudante Universitária
 
-* Carlos, 38 anos, é formado em direito e há 13 anos trabalha como advogado penal. Pedro possui sua própria agência de advocacia, atendendo vários clientes acusados de cometer os mais variados crimes. Ao defender seus clientes, Pedro busca o máximo de informações sobre cada uma das partes envolvidas no processo, tais como procedimentos legais e antecedentes criminais para representar um cliente em um caso criminal.
-* Ele navega pelo site em busca de recursos úteis, como formulários de solicitação, instruções de procedimentos legais e contatos de unidades especializadas.
-* Carlos fica frustrado ao encontrar informações desatualizadas e links quebrados em algumas seções do site, o que dificulta sua busca por recursos relevantes.
-* Ele acaba contatando diretamente a Polícia Civil por telefone para obter as informações necessárias, perdendo tempo e eficiência no processo.
+| <p style="text-align: center">Figura 2- Persona Primária Maria Gabriela de Jesus</p><figure markdown>![Persona Primária Maria Eduarda de Oliveira](../../assets/Analise_Requisitos/maria.jpeg)<figcaption>Fonte: gerado através do site this-person-does-not-exist.com</figcaption></figure> |
+| ------------------- |
+| **Status**: Persona Primária |
+| **Nome**: Maria Gabriela de Jesus |
+| **Gênero**: Feminino |
+| **Idade**: 24 anos |
+| **Profissão**: Estudante, graduando em jornalismo |
+| **Escolaridade**: Médio completo |
+| **Estado Civil**: Solteira|
+| **Objetivo**: <br> **Pessoal e Final:** Se tornar uma pessoa melhor e ajudar a sociedade <br>**Corporativo:** Informar pessoas e denunciar realidades pouco cabíveis a uma boa qualidade de vida do seu povo<br> **Experiência** Sentir-se útil á sociedade|
+| **Expectativa**: Acredita que pode obter informações relevantes sobre a criminalidade na região onde trabalha/mora |
+| **Requisitos**: Conseguir encontrar dados estatísticos de sua preferência |
 
-A figura 3 representa Carlos
-### Persona 4: Ana, a Dona de Casa
+### Persona 3: Ana, a Dona de Casa
+
+| <p style="text-align: center">Figura 3 - Persona: 3: Ana Maria Lacerda </p><figure markdown>![ Persona Primária Ana Maria Lacerda ](../../assets/Analise_Requisitos/ana.jpeg)<figcaption>Fonte: gerado através do site this-person-does-not-exist.com</figcaption></figure> |
+| ------------------- |
+| **Status**: Persona Primária |
+| **Nome**: Ana Maria Lacerda |
+| **Gênero**: Feminino |
+| **Idade**: 45 anos |
+| **Profissão**: Dona de casa |
+| **Escolaridade**: Ensino Fundamental Completo |
+| **Estado Civil**: Casada |
+| **Objetivo**: <br> **Pessoal e Final:** Viajar pelo Brasil <br>**Corporativo:** Criar seus filhos para serem grandes pessoas <br> **Experiência** Ir a formatura dos seus filhos |
+| **Expectativa**: Não tem expectativas |
+| **Requisitos**: Poder agendar a retirada do RG de um dos seus filhos  |
 
 
-<p style="text-align: center">
-    <img src="../../assets/Analise_Requisitos/ana.jpeg" alt="ababaab" style="border-radius: 5%; width: 300px;"/>
-</p>
-<p style="text-align: center">Figura 4: Persona Ana</p>
+### Persona 4: João, o Empresário
 
-<p style="text-align: center">Fonte: gerado através do site this-person-does-not-exist.com</p>
+| <p style="text-align: center">Figura 4 - Persona 4: João Cardoso Filho </p><figure markdown>![ Persona Secundária João Cardoso Filho ](../../assets/Analise_Requisitos/joao.jpeg)<figcaption>Fonte: gerado através do site this-person-does-not-exist.com</figcaption></figure> |
+| ------------------- |
+| **Status**: Persona Secundária |
+| **Nome**:  João Cardoso Filho |
+| **Gênero**: Masculino |
+| **Idade**:  46 anos |
+| **Profissão**: Autonomo |
+| **Escolaridade**: Ensino Médio  |
+| **Estado Civil**: Divorciado |
+| **Objetivo**: <br> **Pessoal e Final:** Ver seus filhos se formarem <br>**Corporativo:** Expandir sua pequena empresa para mais cidades ou bairros<br> **Experiência** Viver uma vida sossegada |
+| **Expectativa**: Vai ter problemas na utilização pois não é grande adepto a navegação web|
+| **Requisitos**: Realizar denuncias e boletins de ocorrência |
 
-* Ana, 35 anos, é dona de casa e junto com seu marido possui três filhos, todos menores de idade. Ana quer que seus filhos cresçam e se tornem bons cidadãos, exerçam seus direitos e vivam sob a lei vigente onde quer que morem. Em algum momento da vida de cada um deles, Ana precisará tirar sua carteira de identidade, assim como precisará pedir uma segunda via em caso de perda ou caso a identidade sofra danos físicos preocupada com a segurança de sua família e de seu bairro.
-* Ela acessa o site da Polícia Civil em busca de dicas de segurança e informações sobre como relatar atividades suspeitas na vizinhança.
-* Ana fica aliviada ao encontrar uma seção dedicada a dicas de segurança para residências, incluindo medidas preventivas e conselhos sobre como proteger sua família e seus pertences. Além disso, ela descobre um formulário de denúncia online que permite relatar anonimamente atividades suspeitas à polícia.
-* Sentindo-se mais informada e capacitada, Ana implementa algumas das sugestões de segurança em sua casa e usa o formulário de denúncia para relatar uma atividade suspeita que observou recentemente em sua vizinhança.
+### Persona 5: Carlos, o Advogado
 
-A figura 4 representa Ana
+| <p style="text-align: center">Figura 5 - Persona 5: Carlos José de Oliveira  </p><figure markdown>![ Persona Secundária Carlos José de Oliveira  ](../../assets/Analise_Requisitos/carlos.jpeg)<figcaption>Fonte: gerado através do site this-person-does-not-exist.com</figcaption></figure> |
+| ------------------- |
+| **Status**: Persona Secundária|
+| **Nome**: Carlos José de Oliveira  |
+| **Gênero**: Masculino |
+| **Idade**: 38 anos |
+| **Profissão**: Advogado |
+| **Escolaridade**: Ensino Superior Completo |
+| **Estado Civil**: Casado |
+| **Objetivo**: <br> **Pessoal e Final:** Se tornar um escritor renomado <br>**Corporativo:** Ter seu próprio escritório de advocacia <br> **Experiência** Se tornar um especialisa em direiro penal |
+| **Expectativa**: Encontrar com facilidade o que está buscando |
+| **Requisitos**: Poder validar documentos emitidos pela polícia |
 
-## Bibliografia
+
+## Referências Bibliograficas
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+> Courage, C. & Baxter, K. Understanding your users: a practical guide to user requirements, methods, tools, and techniques. San Francisco, CA: Morgan KaufmannPublishers, 2005.
 
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões
@@ -74,4 +100,5 @@ A figura 4 representa Ana
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento Personas                   |   [Lara Giuliana](https://github.com/gravelylara)     |   15/04   |[Giovana Barbosa](https://github.com/gio221)   |15/04|
 |  1.1   | Chamando figuras no texto                   |  [Giovana Barbosa](https://github.com/gio221)   |   17/04   |   [Lara Giuliana](https://github.com/gravelylara)     |   18/04  
+|  1.2   | Correção pós-apresentação|  [João Pedro](https://github.com/JoaoODragonborn)   |   08/05   | [Lara Giuliana](https://github.com/gravelylara) | 09/05  
 
