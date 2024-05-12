@@ -10,6 +10,7 @@ Este documento tem objetivo de armazenar conteúdos da primeira apresentação
 <p style="text-align: center"><a href="https://youtu.be/frSFkkrWemk?si=O-rETQ07iw109nR6" target="blanket">Vídeo da Apresentação 1</a></p>
 
 Este video descreve a apresentação que foi realizada na segunda etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
+
 # Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 1

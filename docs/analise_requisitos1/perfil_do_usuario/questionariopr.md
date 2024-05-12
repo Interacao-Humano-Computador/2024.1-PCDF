@@ -47,8 +47,12 @@ Kaio: Sim
 #### 9 - Qual idioma do Kaio?
 Kaio: Português
 
+## Video da Entrevista
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/_d5NanIcMso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/_d5NanIcMso" target="blanket">Vídeo da Entrevista</a></p>
 
+Este video monstra e entrevista com o usuário Kaio
 
 # Conclusão
 Com base essa entrevista e em outras técnicas que ultilizamos, conseguimos determinar o perfil do usuário

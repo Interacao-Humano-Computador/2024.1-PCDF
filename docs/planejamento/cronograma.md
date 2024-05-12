@@ -60,11 +60,15 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Planejamento da avaliação do Storyboard                          | Início: 13/05 Fim: 15/05 | Renata e Giovana    | Início: 15/05 Fim: 15/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 15/05 Fim: 17/05 | Lara João Pedro  | Início: 17/05 Fim: 17/05   | Raissa |
-| Planejamento da Avaliação da Análise de tarefas                  | Início: 17/05 Fim: 19/05 | Rayene e Raissa | Início: 19/05 Fim: 19/05   | Lara    |
-| Planejamento do relato da avaliação da análise de tareas         | Início: 19/05 Fim: 20/05 | Giovana e Renata         | Início: 20/05 Fim: 20/05 | João Pedro          |Início: 20/05 Fim: 20/05Início: 07/05 Fim: 07/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Gravação da apresentação   | Início: 20/05 Fim: 20/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Planejamento da avaliação do Storyboard                          | Início: 14/05 Fim: 16/05 | Renata    | Início: 16/05 Fim: 16/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 16/05 Fim: 18/05 | Lara   | Início: 18/05 Fim: 18/05   |  Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Relato do Storyboard    | Início: 18/05 Fim: 20/05 | João   | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 14/05 Fim: 16/05| Raissa | Início: 16/05 Fim: 16/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Planejamento do relato da avaliação da análise de tareas         | Início: 16/05 Fim: 18/05 | Giovana    | Início: 18/05 Fim: 18/05  | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Relato da Análise de tarefas       | Início: 18/05 Fim: 20/05 | Rayene | Início: 20/05 Fim: 20/05   |  Giovana, João, Lara, Raissa, Rayene e Renata    |
+| Storyboard           | Início: 14/05 Fim: 20/05 |  Giovana, João, Lara, Raissa, Rayene e Renata  | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Perguntas do site | Início: 20/05 Fim: 20/05 | Giovana| Início: 20/05 Fim: 20/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Gravação da apresentação   | Início: 20/05 Fim: 21/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 21/05 Fim: 21/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega         | Início: 22/05 Fim: 24/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 24/05 Fim: 24/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 
 ## Etapa 5: Relato dos resultados do Story Board
