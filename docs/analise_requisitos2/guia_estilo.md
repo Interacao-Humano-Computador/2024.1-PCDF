@@ -34,7 +34,7 @@ Aqui se apresenta os elementos sobre design de telas, visualização de informa�
         </a>
     </p>
     <p style="text-align: center">Figura 1: Guia de estilo</p>
-    <p style="text-align: center">Fonte: Rayene Alemida (criado pelo Figma)</p>
+    <p style="text-align: center">Fonte: Rayene Almeida (criado pelo Figma)</p>
 </div>
 
 
