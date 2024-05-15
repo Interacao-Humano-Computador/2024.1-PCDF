@@ -151,6 +151,11 @@ Após ler uma breve explicação sobre a importância de fornecer informações 
 Selecionando "Assalto/Roubo" como o tipo de denúncia, Ana descreveu o incidente que vivenciou durante sua pedalada, detalhando o momento em que foi abordada pelo assaltante e os pertences que foram roubados. Com base em suas observações, ela descreveu o suspeito como um homem jovem, de estatura média, vestindo roupas escuras e usando um capuz para cobrir o rosto.
 Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção que correspondiam à descrição fornecida e salvou sua escolha. Ao visualizar o avatar criado ao lado de uma caixa de texto, Ana decidiu fazer algumas observações sobre detalhes específicos, como a forma da boca e a posição das orelhas, para garantir a precisão do retrato. Após revisar todas as informações fornecidas, Ana enviou a denúncia, incluindo o avatar criado e suas informações pessoais. Em resposta, ela recebeu uma mensagem de confirmação, indicando que sua denúncia foi recebida e que a Polícia Civil do Distrito Federal (PCDF) entraria em contato por e-mail dentro de até três dias úteis para fornecer uma atualização sobre o caso. A mensagem também mencionou a possibilidade de retorno sobre a presença de um suspeito semelhante no banco de dados, caso seja encontrado, com o retrato atualizado para sua confirmação, se necessário. Além disso, Ana foi informada de que receberia um link para solicitar uma reunião presencial, caso desejasse.
 
+## Bibliografia 
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+## Histórico de Versões
+      Tabela que descreve o Histórico de Versões
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
@@ -162,4 +167,5 @@ Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção q
 | 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 20/04 |
 | 1.4 | Atualização de figuras e índice | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
 | 1.5 | Cenário funcionalidade sugerida | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |   [Giovana Barbosa ](https://github.com/gio221) | 10/05 |
+| 1.7 |  Bibliografia  | [Giovana Barbosa ](https://github.com/gio221) | 15/05 | [Renata Quadros](https://github.com/Renatinha28) | 15/05 |
 

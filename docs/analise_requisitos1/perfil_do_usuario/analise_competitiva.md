@@ -26,7 +26,7 @@ Desempenho e Velocidade: O site carrega rapidamente e responde de forma ágil à
 <a id="analise_competitiva-pcdf"></a>
 ## Análise Competitiva - Polícia Civil do Distrito Federal
 
-![Página inicial da Polícia Civil do Distrito Federal](../assets/Analise_Requisitos/PCDF.png)
+![Página inicial da Polícia Civil do Distrito Federal](../../assets/Analise_Requisitos/Equilíbrio%20entre%20Controle%20e%20Liberdade%20do%20Usuário.png)
 <div align="center">
 <p> Figura 1 - Página inicial da Polícia Civil do Distrito Federal. <br> Fonte: Site PCDF  </p> 
 </div>
