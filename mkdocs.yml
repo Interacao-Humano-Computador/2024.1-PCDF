@@ -41,6 +41,17 @@ nav:
     - Metas de Usabilidade: analise_requisitos2/metas_usabilidade.md
     - Guia de Estilo: analise_requisitos2/guia_estilo.md
     - Características da plataforma: analise_requisitos2/caracteristicos.md
+  - Design, Avaliação e Desenvolvimento :
+    - Nivel 1:
+      - Análise de tarefas:
+        - Planejamento da Avaliação da Análise de Tarefas : design/Nivel1/analise_tarefas/planejamento_avaliação.md
+        - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/analise_tarefas/planejamento_relato.md
+        - Relato do Resultado: design/Nivel1/analise_tarefas/relato.md
+      - Storyboard:
+        - Planejamento da Avaliação da Análise de Tarefas : design/Nivel1/stroyboard/planejamento_avaliação.md
+        - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/stroyboard/planejamento_relato.md
+        - Relato do Resultado: design/Nivel1/stroyboard/relato.md
+        - Storyboards: design/Nivel1/stroyboard/stroryboar.md
 
    
 
