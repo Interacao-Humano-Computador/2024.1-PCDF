@@ -44,15 +44,29 @@ Declaro ainda que compreendo os princípios éticos que regem esta pesquisa, tai
 
       * Princípio da Justiça e Equidade: Compreendo que todos os participantes serão tratados de forma justa e imparcial, garantindo igualdade de acesso e distribuição justa de benefícios e riscos.
 
-Estou ciente de que minha participação é voluntária e que concordo com os termos acima mencionados.
+Declaco que estou ciente de que minha participação é voluntária e que concordo com os termos acima mencionados.
 
-Local: [Local da entrevista]
+[ ]Sim [ ]Não
 
-Data: [Data da Entrevista]
 
-Assinatura do Participante: _______________________
+## Termo de consentimento da entrevista dos Storyboards
+Ao participar desta entrevista, é essencial que você esteja ciente e concorde com algumas diretrizes éticas:
 
-Assinatura do Pesquisador Responsável: _______________________
+* Autonomia: Você tem o direito de participar voluntariamente desta entrevista. Sua participação é completamente opcional, e você pode retirar seu consentimento a qualquer momento sem penalidades.
+
+* Beneficência: Nosso objetivo é conduzir esta entrevista de maneira a beneficiar tanto os entrevistadores quanto os entrevistados. Buscamos entender suas perspectivas para melhorar nossos processos de design e interação humano-computador.
+
+* Não-maleficência: Faremos o possível para garantir que sua participação nesta entrevista seja segura e livre de danos. Todas as informações coletadas serão tratadas com confidencialidade e utilizadas apenas para os fins desta pesquisa.
+
+* Justiça e Equidade: Todos os participantes serão tratados com respeito e imparcialidade, independentemente de sua origem, gênero, raça ou qualquer outra característica. Buscamos garantir que nossas práticas de pesquisa sejam justas e equitativas para todos os envolvidos.
+
+Além disso, gostaríamos de esclarecer que esta entrevista está sendo conduzida por integrantes do curso de Interação Humano-Computador (IHC), como parte de um projeto acadêmico relacionado a essa disciplina. O objetivo deste projeto é avaliar storyboards criados com base em princípios de IHC, a fim de melhorar a experiência do usuário em sistemas computacionais.
+
+Durante a entrevista, solicitamos que você ligue sua câmera, se possível, para facilitar a comunicação e garantir uma interação mais próxima e transparente entre os participantes.
+
+Você concorda com os termos acima e está disposto a participar desta entrevista?
+
+[ ]Sim [ ]Não
 
 
 ## Bibliografia
@@ -64,3 +78,4 @@ Assinatura do Pesquisador Responsável: _______________________
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |    [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
 | 1.1 | Termos de consentimento | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa ](https://github.com/gio221)   | 10/05| 
+| 1.2 | Termo de consentimento dos storyboards | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | | |
