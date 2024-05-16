@@ -56,6 +56,9 @@ As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](h
 ## Tarefa 4: Denúncia Online
 
 ## Tarefa 5: Solicitar carteira de identidade 
+Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
+![Quadrinho da ID](../../../assets/storyboards/CarteiraID.png)
+<center> Figura ?? Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)
 
 ## Tarefa 6: Registrar Ocorrência 
 
@@ -92,3 +95,4 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | | |
 | 1.1 | Storyboard da tarefa 2 | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | | |
+| 1.2 | Storyboard da tarefa 2 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | | |
