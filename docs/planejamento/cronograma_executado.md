@@ -58,7 +58,24 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 14/05 Fim: 17/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
 
+## Etapa 4: Planejamento da Avaliação do Storyboard
 
+### executado 
+
+    Esta tabela descreve as atividades planejadas da etapa 4
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Planejamento da avaliação do Storyboard                          | Início: 14/05 Fim: 16/05 | Renata    | Início: 16/05 Fim: 16/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 16/05 Fim: 18/05 | Lara   | Início: 18/05 Fim: 18/05   |  Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Relato do Storyboard    | Início: 18/05 Fim: 20/05 | João   | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Planejamento da Avaliação da Análise de tarefas                  | Início: 14/05 Fim: 16/05| Raissa | Início: 16/05 Fim: 16/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Planejamento do relato da avaliação da análise de tareas         | Início: 16/05 Fim: 18/05 | Giovana    | Início: 18/05 Fim: 18/05  | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Relato da Análise de tarefas       | Início: 18/05 Fim: 20/05 | Rayene | Início: 20/05 Fim: 20/05   |  Giovana, João, Lara, Raissa, Rayene e Renata    |
+| Storyboard           | Início: 14/05 Fim: 20/05 |  Giovana, João, Lara, Raissa, Rayene e Renata  | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Perguntas do site | Início: 20/05 Fim: 20/05 | Giovana| Início: 20/05 Fim: 20/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Gravação da apresentação   | Início: 20/05 Fim: 21/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 21/05 Fim: 21/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega         | Início: 22/05 Fim: 24/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 24/05 Fim: 24/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 
 ## Bibliografia 
 [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
@@ -71,3 +88,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | 1.0 |  Criação do cronograma executado  | [Giovana Barbosa ](https://github.com/gio221) | 14/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
 | 1.1 | tabela da etapa 2 executada  | [Giovana Barbosa ](https://github.com/gio221) | 20/04 |[Renata Quadros](https://github.com/Renatinha28) | 20/04 |
 | 1.2 | tabela da etapa 3 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/05 | [Renata Quadros](https://github.com/Renatinha28)  |11/05|
+| 1.3 | tabela da etapa 4 executada  | [Giovana Barbosa ](https://github.com/gio221) | 16/05 | [Renata Quadros](https://github.com/Renatinha28)  |16/05|

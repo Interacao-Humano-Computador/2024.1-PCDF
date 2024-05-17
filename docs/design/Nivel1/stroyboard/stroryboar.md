@@ -25,31 +25,48 @@ A metodologia adotada consiste na elaboração de storyboards feitos pelos integ
 
 * Satisfação da pessoa ao completar a tarefa: Ao final de cada storyboard, é avaliada a satisfação dos usuários ao completar a tarefa, considerando se suas expectativas foram atendidas e se obtiveram sucesso na realização das atividades propostas.
 
+## Funcionalidades Tratadas no Stroryboard
+
+    Tabela que monstra quais funcionalidades foram avaliadas pela HTA
+ Funcionalidade    |    Integrante Responsável             |  
+|:------:|:-------------------------------:|
+|Pesquisar Procurados|Lara|  
+| Solicitar Antecedentes Criminais | Renata |
+| Validar Antecedentes Criminais | Joao |
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
+|Retrato Falado Online|Renata|
+
+
 ## Tarefa 1: Pesquisar procurados 
 
 ## Tarefa 2: Solicitar Antecedentes Criminais
 As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, na qual foi processada injustamente. 
 
-<div>
-<p style="text-align: center">
-    <img src="../../assets/storyboards/storyboard_solicitar_ant1.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
-</p>
-<p style="text-align: center">Figura 2 : Storyboard de Solicitar antecedentes</p>
-<p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
 
-<div>
-<p style="text-align: center">
-    <img src="../../assets/storyboards/storyboard_solicitar_ant2.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
-</p>
-<p style="text-align: center">Figura 3 : Stroryboard de Solicitar antecedentes</p>
-<p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
+![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant1.png)
+<div align="center">
+    <p> Figura 2: Stroryboard de Solicitar antecedentes. Fonte: 
+        <a href="https://github.com/Renatinha28">Renata</a>
+    </p> 
+</div>
 
-<div>
-<p style="text-align: center">
-    <img src="../../assets/storyboards/storyboard_solicitar_ant3.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
-</p>
-<p style="text-align: center">Figura 4 : Stroryboard de Solicitar antecedentes</p>
-<p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
+![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant2.png)
+<div align="center">
+    <p> Figura 3: Stroryboard de Solicitar antecedentes . Fonte: 
+        <a href="https://github.com/Renatinha28">Renata</a>
+    </p> 
+</div>
+
+
+![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant3.png)
+<div align="center">
+    <p> Figura 4: Stroryboard de Solicitar antecedentes . Fonte: 
+        <a href="https://github.com/Renatinha28">Renata</a>
+    </p> 
+</div>
+
 
 ## Tarefa 3: Validar certidão de antecedentes criminais 
 
@@ -57,42 +74,50 @@ As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](h
 
 ## Tarefa 5: Solicitar carteira de identidade 
 Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
-![Quadrinho da ID](../../../assets/storyboards/CarteiraID.png)
-<center> Figura ?? Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)
+![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
+<div align="center">
+    <p> Figura 5: Storyboard de Retrato Falado  . Fonte: 
+        <a href="https://github.com/RaissaAndradeS">Raissa</a>
+    </p> 
+</div>
 
 ## Tarefa 6: Registrar Ocorrência 
 
 ## Tarefa 7: Fazer um retrato falado de forma online
 As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) e se baseia na Ana Silva, uma médica que foi assaltada e está sem tempo de ir até a delegacia para registrar sua denúncia e seu retrato falado.
 
-<div>
-<p style="text-align: center">
-    <img src="../../assets/storyboards/storyboard_retrato_falado1.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
-</p>
-<p style="text-align: center">Figura 9 : Storyboard de Retrato Falado - online </p>
-<p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
 
-<div>
-<p style="text-align: center">
-    <img src="../../assets/storyboards/storyboard_retrato_falado2.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
-</p>
-<p style="text-align: center">Figura 10 : Storyboard de Retrato Falado - online </p>
-<p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
+![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado1.png)
+<div align="center">
+    <p> Figura 9: Storyboard de Retrato Falado  . Fonte: 
+        <a href="https://github.com/Renatinha28">Renata</a>
+    </p> 
+</div>
 
-<div>
-<p style="text-align: center">
-    <img src="../../assets/storyboards/storyboard_retrato_falado3.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
-</p>
-<p style="text-align: center">Figura 11 : Storyboard de Retrato Falado - online </p>
-<p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
+![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado2.png)
+<div align="center">
+    <p> Figura 10: Storyboard de Retrato Falado  . Fonte: 
+        <a href="https://github.com/Renatinha28">Renata</a>
+    </p> 
+</div>
 
-## Referências Bibliográficas
+![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado3.png)
+<div align="center">
+    <p> Figura 11: Storyboard de Retrato Falado  . Fonte: 
+        <a href="https://github.com/Renatinha28">Renata</a>
+    </p> 
+</div>
+
+
+## Bibliografia
+> BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
+
 
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | | |
-| 1.1 | Storyboard da tarefa 2 | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | | |
-| 1.2 | Storyboard da tarefa 2 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | | |
+| 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 16/05 |[Giovana Barbosa ](https://github.com/gio221) | 16/05  | 
+| 1.1 | Storyboard da tarefa 2 | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
+| 1.2 | Storyboard da tarefa 2 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 

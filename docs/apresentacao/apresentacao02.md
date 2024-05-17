@@ -1,4 +1,4 @@
-# Informações
+# Introdução
 
 Este documento tem objetivo de armanezar conteúdos da segunda apresentação
 
