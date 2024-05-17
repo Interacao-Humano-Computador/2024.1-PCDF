@@ -28,7 +28,7 @@ A metodologia adotada consiste na elaboração de storyboards feitos pelos integ
 ## Funcionalidades Tratadas no Stroryboard
 
     Tabela que monstra quais funcionalidades foram avaliadas pela HTA
- Funcionalidade    |    Integrante Responsável             | 
+ Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
@@ -82,6 +82,13 @@ Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve q
 </div>
 
 ## Tarefa 6: Registrar Ocorrência 
+Esse é um Storyboard de uma pessoa que sofreu um acidente de carroe o infrator fugio do local, então ele teve que registrar uma ocorrêcnia.<br> <br>
+![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/Storyboard_RegistroOcorrencia.jpeg)
+<div align="center">
+    <p> Figura 5: Storyboard de Registro de Ocorrência . Fonte: 
+        <a href="https://github.com/rayenealmeida">Rayene</a>
+    </p> 
+</div>
 
 ## Tarefa 7: Fazer um retrato falado de forma online
 As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) e se baseia na Ana Silva, uma médica que foi assaltada e está sem tempo de ir até a delegacia para registrar sua denúncia e seu retrato falado.
