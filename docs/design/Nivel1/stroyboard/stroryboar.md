@@ -71,12 +71,20 @@ As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](h
 ## Tarefa 3: Validar certidão de antecedentes criminais 
 
 ## Tarefa 4: Denúncia Online
+Esse é um stroryboard que relata o uso do site da PCDF para fazer denúncia onlines feito pela integrante [Giovana](https://github.com/gio221)
+<br> <br>
+![Quadrinho da 197](../../../assets/design/Nivel1/storyboards/Stroryboard_197.png)
+<div align="center">
+    <p> Figura 5: Storyboard de Retrato Falado  . Fonte: 
+        <a href="https://github.com/gio221">Giovana</a>
+    </p> 
+</div>
 
 ## Tarefa 5: Solicitar carteira de identidade 
 Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 <div align="center">
-    <p> Figura 5: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 6: Storyboard de Retrato Falado  . Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>
@@ -85,7 +93,7 @@ Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve q
 Esse é um Storyboard de uma pessoa que sofreu um acidente de carroe o infrator fugio do local, então ele teve que registrar uma ocorrêcnia.<br> <br>
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/Storyboard_RegistroOcorrencia.jpeg)
 <div align="center">
-    <p> Figura 5: Storyboard de Registro de Ocorrência . Fonte: 
+    <p> Figura 7: Storyboard de Registro de Ocorrência . Fonte: 
         <a href="https://github.com/rayenealmeida">Rayene</a>
     </p> 
 </div>
@@ -96,21 +104,21 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado1.png)
 <div align="center">
-    <p> Figura 9: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 8: Storyboard de Retrato Falado  . Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado2.png)
 <div align="center">
-    <p> Figura 10: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 9: Storyboard de Retrato Falado  . Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado3.png)
 <div align="center">
-    <p> Figura 11: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 10: Storyboard de Retrato Falado  . Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
