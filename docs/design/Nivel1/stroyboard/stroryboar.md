@@ -34,7 +34,7 @@ As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](h
 <p style="text-align: center">
     <img src="../../assets/storyboards/storyboard_solicitar_ant1.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura 2 : Stroryboard de Solicitar antecedentes</p>
+<p style="text-align: center">Figura 2 : Storyboard de Solicitar antecedentes</p>
 <p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
 
 <div>
@@ -69,21 +69,21 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 <p style="text-align: center">
     <img src="../../assets/storyboards/storyboard_retrato_falado1.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura 9 : Stroryboard de Retrato Falado - online </p>
+<p style="text-align: center">Figura 9 : Storyboard de Retrato Falado - online </p>
 <p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
 
 <div>
 <p style="text-align: center">
     <img src="../../assets/storyboards/storyboard_retrato_falado2.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura 10 : Stroryboard de Retrato Falado - online </p>
+<p style="text-align: center">Figura 10 : Storyboard de Retrato Falado - online </p>
 <p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
 
 <div>
 <p style="text-align: center">
     <img src="../../assets/storyboards/storyboard_retrato_falado3.png" alt="storyboard" style="border-radius: 5%; width: 800px;"/>
 </p>
-<p style="text-align: center">Figura 11 : Stroryboard de Retrato Falado - online </p>
+<p style="text-align: center">Figura 11 : Storyboard de Retrato Falado - online </p>
 <p style="text-align: center">Fonte: [Renata Quadros](https://github.com/Renatinha28) </p></div>
 
 ## Referências Bibliográficas
