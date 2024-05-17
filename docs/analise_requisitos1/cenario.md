@@ -5,13 +5,41 @@ Os cenários são uma narrativa, textual ou pictórica, concreta, rica em detalh
 A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cenário com base no Capítulo 6 do livro de Barbosa e Silva.
 
 ## Elementos Característicos de um Cenário
-* __Ambiente ou Contexto__: Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário;
-* __Atores__: Pessoas interagindo com o computador ou outros elementos do ambiente; características pessoais relevantes ao cenário;
-* __Objetivos__: Efeitos na situação que motivam as ações realizadas pelos atores;
-* __Planejamento__: atividade mental dirigida para transformar um objetivo em um comportamento ou conjunto de ações;
-* __Ações__: Comportamento observável;
-* __Eventos__: Ações externas ou reações produzidas pelo computador ou outras características do ambiente;
-* __Avaliação__: Atividade mental dirigida para interpretar a situação.
+    Tabela que descreve o Cenário
+|     Caracteristicas       |     Descrição      |    
+| :----------------------------------------------------------: | :-------------------------------: | 
+Ambiente ou Contexto| Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário;|
+Atores|Pessoas interagindo com o computador ou outros elementos do ambiente; características pessoais relevantes ao cenário;|
+Objetivos| Efeitos na situação que motivam as ações realizadas pelos atores;|
+|Planejamento|atividade mental dirigida para transformar um objetivo em um comportamento ou conjunto de ações;|
+|Ações| Comportamento observável;|
+|Eventos|Ações externas ou reações produzidas pelo computador ou outras características do ambiente;|
+|Avaliação |Atividade mental dirigida para interpretar a situação.|
+
+<div align="center">
+    <p> Tabela 1: Elementos Característicos de um Cenário . Fonte: 
+        <a href="https://github.com/gio221">Giovana</a>
+    </p> 
+</div>
+
+## Cenários Realizados
+
+    Tabela que monstra quais funcionalidades foram feitas os cenários
+ Funcionalidade    |    Integrante Responsável             | 
+|:------:|:-------------------------------:|
+|Pesquisar Procurados|Lara|  
+| Solicitar Antecedentes Criminais | Renata |
+| Validar Antecedentes Criminais | Joao |
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
+|Retrato Falado Online|Renata|
+
+<div align="center">
+    <p> Tabela 2: Responsável de cada cenário . Fonte: 
+        <a href="https://github.com/gio221">Giovana</a>
+    </p> 
+</div>
 
 # Pesquisar procurados 
 **Cenário: Visualização da Página de Procurados pela Polícia Civil Regional**

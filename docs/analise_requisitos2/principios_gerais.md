@@ -21,6 +21,13 @@ A violação que vemos no site da PCDF, e que o agendamento de Reuniões ela fic
 <p> Figura 1 - Violação da Correspondência com as Expectativas dos Usuários Fonte: Site PCDF  </p> 
 </div>
 
+### Sugestão de melhoria
+
+Podemos realizar algumas melhorias para atender a Correspondência dos usuários como:
+
+- Fazer pesquisas com os usuários, para saber suas dificuldades e seus acertos, promovendo um site melhor e mais confiável
+- Verificar o layout do site para que possa ser repensado as informações
+
 # Simplicidade nas Estruturas das Tarefas
 
 ### Motivação
@@ -33,6 +40,10 @@ No site da PCDF, na aba de Solicitar Antecedentes Criminais, para que possamos v
 <p> Figura 2 - Simplicidade nas Estruturas das Tarefas Fonte: Site PCDF  </p> 
 </div>
 
+### Sugestão de Melhoria 
+
+Para que o usuário consiga realizar a solicitação de antecedentes criminais, não seja requisitado que ele coloque um email, e sim que ela já possa solicitar a verificação e se assim o usuário desejar ele colocar um contato, para que possa receber o documento
+
 # Equilíbrio entre Controle e Liberdade do Usuário
 
 ### Motivação
@@ -43,6 +54,9 @@ O site da PCDF permite que o suário tem uma organização de layout muito boa, 
 <div align="center">
 <p> Figura 3 - Equilíbrio entre Controle e Liberdade do Usuário Fonte: Site PCDF  </p> 
 </div>
+
+### Sugestão de Melhoria
+É interessante que o usuário tenha uma facilidade em manuzear o layout do site, mas também é necessário que o sistema não deixe o usuário livre e totalmente sem controle, por isso seria interessante deixar algumas informações mais acessiveis, para que não haja indecisão por parte do usuário
 
 # Consistência e Padronização
 
@@ -57,6 +71,7 @@ O site da PCDF tem uma padronização muito boa, como monstra na figura 4
 <div align="center">
 <p> Figura 4 - Consistência e Padronização Fonte: Site PCDF </p> 
 </div>
+
 
 # Promovendo a Eficiência do Usuário
 
@@ -74,6 +89,9 @@ No site da PCDF, vosê não cosnegue fazer um login, então se você inicia uma 
 <div align="center">
 <p> Figura 5 - Promovendo a Eficiência do Usuário Fonte: Site PCDF  </p> 
 </div>
+
+### Sugestão de Melhoria
+O usuário não tem certeza que vai conseguir realizar toda a tarefa, por isso uma opção de login seria bem vinda
 
 # Antecipação
 

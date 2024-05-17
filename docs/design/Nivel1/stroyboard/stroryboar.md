@@ -28,7 +28,7 @@ A metodologia adotada consiste na elaboração de storyboards feitos pelos integ
 ## Funcionalidades Tratadas no Stroryboard
 
     Tabela que monstra quais funcionalidades foram avaliadas pela HTA
- Funcionalidade    |    Integrante Responsável             |  
+ Funcionalidade    |    Integrante Responsável             | 
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
 | Solicitar Antecedentes Criminais | Renata |
