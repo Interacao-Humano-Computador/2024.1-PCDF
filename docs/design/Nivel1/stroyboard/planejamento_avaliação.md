@@ -71,7 +71,7 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
     Tabela 2: cronograma 
 | Integrante responsável | Data       | Local | Horário | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 1 |                 
+| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Online (Microsoft Teams) | 19:30 a 19:50 | Kaio Costa |                 
 | [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 2 |    
 | [Lara Juliana](https://github.com/gravelylara) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 3 |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 4 |
