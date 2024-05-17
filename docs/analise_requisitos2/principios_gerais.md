@@ -216,4 +216,5 @@ Com base em todas as diretrizes avaliadas e nas funcionalidades escolhidas por c
 | 1.0 | Criação do documento | [Giovana Barbosa ](https://github.com/gio221)  | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |
 | 1.1 | Diretrizes adicionadas |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |[Giovana Barbosa](https://github.com/gio221)  |10/05 |  
 | 1.2 | Diretrizes adicionadas | [Giovana Barbosa](https://github.com/gio221)  | 10/05 |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |
-| 1.3 | Sugestão de melhoria | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | | |
+| 1.3 | Sugestão de melhoria | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 17/05 |
+| 1.4 | Sugestão de melhoria | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |  [Renata Quadros](https://github.com/Renatinha28) | 17/05 |

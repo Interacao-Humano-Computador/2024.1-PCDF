@@ -39,5 +39,5 @@ Tabela 2: Histórico de versões da página de apresentação
 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  16/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|
+| 1.0 |  16/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28) | 16/05 |
 

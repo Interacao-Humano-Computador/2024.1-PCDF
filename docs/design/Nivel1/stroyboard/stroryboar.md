@@ -40,6 +40,14 @@ A metodologia adotada consiste na elaboração de storyboards feitos pelos integ
 
 
 ## Tarefa 1: Pesquisar procurados 
+A figura 1 é o storyboard feito pela integrante [Lara Giuliana](https://github.com/gravelylara)
+
+![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados.jpg)
+<div align="center">
+    <p> Figura 1: Stroryboard de Pesquisar procurados  . Fonte: 
+        <a href="https://github.com/gravelylara">Lara</a>
+    </p> 
+</div>
 
 ## Tarefa 2: Solicitar Antecedentes Criminais
 As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, na qual foi processada injustamente. 

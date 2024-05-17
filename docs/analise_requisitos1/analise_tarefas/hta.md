@@ -94,7 +94,7 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
 <div align="center">
-<p> Figura 2- Diagrama de Analise da Denúncia Online. </p> 
+<p> Figura 3- Diagrama de Analise da Denúncia Online. </p> 
 
 </div>
 Fonte :[Giovana Barbosa](https://github.com/gio221)  
@@ -112,6 +112,16 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
                                                                                   |
 
 ### Solicitar Carteira de Identidade 
+Nessa tabela o usuário quer Solicitar a Carteira de identidade
+![Carteira de Identidade](../../assets/Analise_Requisitos/DiagramaCart.png)
+
+<div align="center">
+<p> Figura 4- Solicitar Carteira de Identidade  </p> 
+
+</div>
+Fonte :[Raissa](https://github.com/RaissaAndradeS)  
+
+     Tabela que descreve Diagrama de Analise da Denúncia Online
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -121,9 +131,6 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 4. Preencher o Formulário de Solicitação Online   | **Input**: Preencher o formulário online com as informações pessoais necessárias. <br> **Feedback**: Confirmação de envio bem-sucedido do formulário. <br>  **Plano de Ação**: Preencher corretamente o formulário online com os dados solicitados, incluindo informações pessoais e dados de contato.  |
 | 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
 | 6. Acompanhar o Status da Solicitação   |  **Input**: Verificar o status da solicitação online. <br> **Feedback**: Atualizações sobre o andamento da solicitação. <br> **Plano de Ação**: Verificar regularmente o status da solicitação no site da PCDF.|            
-
-## Diagrama da Carteira de identidade 
-![Carteira de Identidade](../../assets/Analise_Requisitos/DiagramaCart.png)
 
 ### Registrar Ocorrência
 
