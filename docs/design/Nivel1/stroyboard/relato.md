@@ -5,9 +5,8 @@
 ## Tarefa 2: Solicitar Antecedentes Criminais
  integrante [Renata Quadros](https://github.com/Renatinha28)
 
- 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/LJHZhiuZGR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/LJHZhiuZGR0" target="blanket">Vídeo da Entrevista da Renata</a></p>
+ <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/LJHZhiuZGR0 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/LJHZhiuZGR0 " target="blanket">Vídeo da Entrevista da Renata</a></p>
 
  Tabela que monstra as respostas do usuário 
 
@@ -60,8 +59,10 @@ feito pela intregante Giovana
 
 ## Tarefa 6: Registrar Ocorrência 
 integrante Rayene
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/-ObE0m9BHBI " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/-ObE0m9BHBI " target="blanket">Vídeo da Entrevista da Rayene</a></p>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/-ObE0m9BHBI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/-ObE0m9BHBI" target="blanket">Vídeo da Entrevista da Rayene</a></p>
+
 
 
     Tabela que monstra as respostas do usuário 
@@ -107,3 +108,15 @@ integrante Rayene
 | 12 | O storyboard destaca os principais benefícios e vantagens do produto para os usuários? | Sim|
 | 13 | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?| Sim|
 | 14 | Você tem alguma sugestão ou feedback para melhorar o storyboard? | não|
+
+## Referências Bibliográficas
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+
+## Histórico de Versões
+      Tabela que descreve o Histórico de Versões
+
+|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 | Criação do documento |[Giovana Barbosa](https://github.com/gio221)  | 16/05 | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | 
+| 1.1 | Entrevistas |[Giovana Barbosa](https://github.com/gio221)  | 18/05 | [Renata Quadros](https://github.com/Renatinha28) | 18/05 | 
