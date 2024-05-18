@@ -25,17 +25,85 @@ A manutenção contínua do Guia de Estilo é vital para sua relevância ao long
 ## Resultado da Análise 
 Os usuários acessam o site PCDF por diferentes dispositivos, computadores sendo eles desktops ou notebooks e dispositivos móveis. Neste contexto, é importante projetar e desenvolver a interface do site levando em consideração a responsividade.
 
-## Elementos de Interface, interação e ação
-Aqui se apresenta os elementos sobre design de telas, visualização de informações, disposição espacial e grid, elementos de interface, janelas, tipografia, símbolos, logo e cores que foram elaborados pela ferramenta Figma. Respresentados na Figura 1 abaixo:
-<div>
-    <p style="text-align: center">
-        <a href="https://www.figma.com/file/tccrBi93oA5K3m9AtjJLuk/Untitled?type=design&node-id=0%3A1&mode=design&t=dtWw4x4wgTHq9QT0-1">
-            <img src="../../assets/Analise_Requisitos/guiadeestilo.png" alt="ababaab" style="border-radius: 5%; width: 800px;"/>
-        </a>
-    </p>
-    <p style="text-align: center">Figura 1: Guia de estilo</p>
-    <p style="text-align: center">Fonte: Rayene Almeida (criado pelo Figma)</p>
+## Elementos de Interface
+Um guia de estilo de interfaceé um conjunto de padrões e diretrizes que garantem a consistência visual e funcional de uma aplicação ou website.
+
+### Tipografia
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/Tipografia.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 1: Tipografia</p>
+<p style="text-align: center">Fonte: Rayene Almeida (criado pelo Figma)</p>
 </div>
+
+- Fontes: É usado fontes como Roboto para garantir legibilidade e profissionalismo.
+- Tamanho Títulos (24px), subtítulos (20px), texto do corpo (16px), notas de rodapé (14px). 
+- Peso: Os títulos em negrito, subtítulos em semi-negrito e texto do corpo em regular.
+- Espaçamento: Linha de 1.5 para texto do corpo, 1.2 para títulos.
+
+
+### Cores
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/Cores.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 2: Cores</p>
+<p style="text-align: center">Fonte: Rayene Almeida (criado pelo Figma)</p>
+</div>
+
+- Primárias: Preto (#000000) para cabeçalhos e rodapés, azul escuro (#003366), branco (#FFFFFF) para fundos.
+- Secundárias: Cinza claro (#F2F2F2) para seções de fundo, azul claro (#3399FF) para botões de chamada para ação e amarelo escuro (#BEA55A) para menu e botão.
+- Suporte: Vermelho (#FF0000) para alertas e avisos, verde (#33CC33) para confirmações e sucessos.
+
+### Botões e Ícones
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/botoes.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 3: Botões</p>
+<p style="text-align: center">Fonte: Rayene Almeida (criado pelo Figma)</p>
+</div>
+
+Estilo: Bordas arredondadas com 4px de raio, sombra sutil para elevação.
+
+**Ícones:**Ícones lineares simples, utilizando a biblioteca FontAwesome ou similar. Tamanho 24px para ícones em botões, 20px para ícones em listas ou navegação.
+
+### Formulários
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/formulario.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 4: Formulários</p>
+<p style="text-align: center">Fonte: site PCDF</p>
+</div>
+
+- Campos de Entrada: Bordas cinza claro (#CCCCCC), foco com borda azul (#3399FF).
+- Botões de Rádio e Caixas de Seleção: Azul escuro para itens selecionados, cinza para não selecionados.
+- Drop-downs: Fundo branco, borda cinza claro, setas em azul escuro.
+
+### Layouts e Grid
+
+- Estrutura: Grid de 12 colunas com espaçamento de 24px entre colunas.
+- Margens e Padding: Margens de 16px em dispositivos móveis, 24px em tablets, 32px em desktops.
+- Responsividade: Adaptável a diferentes tamanhos de tela com pontos de quebra específicos.
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/Grid1.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 5: Grid página inicial</p>
+<p style="text-align: center">Fonte: Figma e site PCDF</p>
+</div>
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/Grid2.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 6: Grid página de seleção</p>
+<p style="text-align: center">Fonte: Figma e site PCDF</p>
+</div>
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/Grid3.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 7: Grid página de formulário</p>
+<p style="text-align: center">Fonte: Figma e site PCDF</p>
+</div>
+
+## Elementos de Interação
+
+## Elementos de Ação
 
 
 ## Vocabulário e padrões
@@ -46,11 +114,13 @@ Aqui se apresenta os elementos sobre design de telas, visualização de informa�
 - **Sequências de diálogos:** Para garantir uma interação consistente e intuitiva, é fundamental padronizar as sequências de diálogos em todo o sistema. Isso envolve seguir o padrão especificado nos elementos de interação, garantindo que os botões estejam posicionados de maneira semelhante em todas as sequências de diálogos. 
 
 
-## Bibliografia
+## Referência Bibliográfica
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+> MARCUS, A. Graphic design for electronic documents and user interfaces. Association for Computing Machinery, New York, NY, USA, 1991.
 
 ## **Histórico de Versões**
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 10/05 | [Giovana Barbosa](https://github.com/gio221)   |11/05 |
+| 1.1 | Correção do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 17/05 |   |  |
