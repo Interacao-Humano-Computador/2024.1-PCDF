@@ -3,6 +3,11 @@
 
 
 ## Tarefa 2: Solicitar Antecedentes Criminais
+ integrante [Renata Quadros](https://github.com/Renatinha28)
+
+ <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/rF3gOmHL41A " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/rF3gOmHL41A " target="blanket">Vídeo da Entrevista da Renata</a></p>
+
 
 ## Tarefa 3: Validar certidão de antecedentes criminais 
 
@@ -13,8 +18,6 @@
 
 ## Tarefa 6: Registrar Ocorrência 
 
-
-## Tarefa 7: Fazer um retrato falado de forma online
 
 
 
