@@ -1,6 +1,9 @@
 ## Introdução 
 De acordo com o livro "Interação Humano-Computador" de Barbosa e Silva(2010), um guia de estilo é um documento que estabelece diretrizes para a criação de interfaces gráficas de usuário consistentes e eficientes. Essas diretrizes geralmente incluem recomendações de design, como layout, tipografia, cores, iconografia, além de orientações sobre interação e usabilidade. 
 
+## Metodologia
+Para elaborar o guia de estilo para o site da Polícia Civil do Distrito Federal (PCDF), adotou-se uma abordagem que se baseou na Avaliação Heurística do site. O desenvolvimento seguiu com foco na simplificação das estruturas das tarefas, na uniformidade e padronização, e na promoção da eficiência do usuário na execução das atividades. Além disso, outros princípios contemplados no documento de Princípios Gerais do Projeto também foram levados em conta. 
+
 ## Objetivo do Guia de Estilo
 O objetivo principal de um guia de estilo é promover a coerência e a usabilidade em produtos de software, garantindo uma experiência de usuário mais satisfatória e eficiente. Neste sentido, para melhores práticas será analisado os seguintes elementos:
 
@@ -22,8 +25,38 @@ Este guia de estilo da PCDF serve como um recurso fundamental para orientar as d
 ### Como manter o Guia
 A manutenção contínua do Guia de Estilo é vital para sua relevância ao longo do tempo. Isso inclui revisões regulares para atualização conforme as melhores práticas de design, feedback dos usuários para identificar áreas de melhoria, comunicação transparente sobre atualizações e estabelecimento de um sistema de versionamento claro. 
 
-## Resultado da Análise 
-Os usuários acessam o site PCDF por diferentes dispositivos, computadores sendo eles desktops ou notebooks e dispositivos móveis. Neste contexto, é importante projetar e desenvolver a interface do site levando em consideração a responsividade.
+## Resultados 
+
+1. Monitor e Resolução
+
+    - Monitor e Resolução mais Comuns: A maioria dos usuários acessa o site da PCDF por meio de monitores de computador com resoluções variadas, incluindo 1920x1080, 1366x768 e 1280x1024 pixels.
+    - Adaptação Responsiva: O site da PCDF deve garantir uma experiência de usuário consistente em diferentes resoluções de tela, adaptando-se de forma responsiva para garantir a legibilidade e a usabilidade em monitores de diversos tamanhos.
+
+2. Navegadores
+
+    - Navegadores Utilizados: Os navegadores mais comuns para acessar o site da PCDF são Google Chrome, Mozilla Firefox, Microsoft Edge e Safari.
+    - Compatibilidade dos Navegadores: O site da PCDF deve ser testado e otimizado para garantir a compatibilidade com os principais navegadores utilizados pelos usuários, proporcionando uma experiência consistente e sem falhas.
+
+3. Sistema Operacional
+
+    - Sistemas Operacionais Predominantes: Os sistemas operacionais mais utilizados para acessar o site da PCDF incluem Windows, macOS e Android.
+    - Testes de Compatibilidade: É importante realizar testes em diferentes sistemas operacionais para garantir que o site seja compatível e funcione corretamente em todas as plataformas, proporcionando uma experiência de usuário uniforme.
+
+4. Periféricos
+
+    - Dispositivos de Entrada mais Comuns: Os dispositivos de entrada mais comuns para acessar o site da PCDF incluem teclado e mouse.
+    - Experiência de Usuário Adaptada: O site deve ser projetado levando em consideração diferentes dispositivos de entrada, garantindo uma navegação fácil e acessível para usuários que utilizam diferentes periféricos.
+
+5. Conectividade
+
+    - Tipos de Conexão à Internet: Os usuários acessam o site da PCDF por meio de diferentes tipos de conexão à internet, incluindo Wi-Fi, 4G/5G e conexões com fio.
+
+6. Contexto de Uso
+
+    - Situações de Uso Diversificadas: O site da PCDF é acessado em uma variedade de contextos de uso, incluindo em casa, no trabalho, em dispositivos móveis durante deslocamentos, entre outros.
+    - Adaptação às Necessidades do Usuário: O site deve ser projetado levando em consideração os diferentes contextos de uso, fornecendo informações relevantes e funcionalidades úteis para atender às necessidades dos usuários em cada situação.
+
+Esses resultados fornecem insights valiosos para orientar o design e o desenvolvimento contínuo do site da PCDF, garantindo uma experiência de usuário otimizada e eficaz em diversas condições e cenários de uso.
 
 ## Elementos de Interface
 Um guia de estilo de interfaceé um conjunto de padrões e diretrizes que garantem a consistência visual e funcional de uma aplicação ou website.
@@ -98,36 +131,22 @@ Estilo: Bordas arredondadas com 4px de raio, sombra sutil para elevação.
 <img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/Grid3.png" width="100%">
 <div align="center">
 <p style="text-align: center">Figura 7: Grid página de formulário</p>
-<p style="text-align: center">Fonte: Figma e site PCDF</p>
+<p style="text-align: center">Fonte: Rayene Almeida e site PCDF</p>
 </div>
 
 ## Elementos de Interação
 Os elementos de interação são componentes chave que permitem aos usuários navegar, fornecer informações e executar ações. 
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/estilos.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 8: Estilos de interação</p>
+<p style="text-align: center">Fonte: Site PCDF</p>
+</div>
+
 ### Estilos de interação
-- **Botões**
-**Primários**
-- Uso: Ações principais (ex: "Enviar", "Salvar")
-- Estilo:
-    - Cor de Fundo: Azul Claro (#3399FF)
-    - Texto: Branco (#FFFFFF)
-    - Fonte: Arial ou Roboto, Negrito, 16px
-    - Padding: 12px vertical, 20px horizontal
-    - Bordas Arredondadas: 4px
-- Estados:
-    - Hover: Fundo Azul Claro mais luminoso (#5AB3FF)
-    - Ativo: Fundo Azul Claro mais escuro (#2B89E0)
 
-    Secundários
-        Uso: Ações secundárias (ex: "Cancelar", "Voltar")
-        Estilo:
-            Cor de Fundo: Branco (#FFFFFF)
-            Texto: Azul Claro (#3399FF)
-            Borda: 2px sólida, Azul Claro (#3399FF)
-            Fonte: Arial ou Roboto, Regular, 16px
-            Padding: 12px vertical, 20px horizontal
-            Bordas Arredondadas: 4px
+**Alertas:**
 
-**Alertas**
 - Uso: Ações críticas (ex: "Excluir", "Resetar")
 - Cor de Fundo: Vermelho (#FF5630)
 - Texto: Branco (#FFFFFF)
@@ -136,19 +155,51 @@ Os elementos de interação são componentes chave que permitem aos usuários na
 - Bordas Arredondadas: 4px
 
 **Links**
+
 - Uso: Navegação e acessos rápidos
 - Texto: Azul Claro (#3399FF)
 - Fonte: Arial ou Roboto, Regular, 16px
 
 **Ícones Interativos**
+
 - Uso: Navegação e ações rápidas (ex: menus, fechar, buscar)
 - Tamanho: 24px (principais), 20px (listas/menus)
 - Cor: Sinza escuro (#777777), Azul Escuro (#003366)
 
 ### Seleção de estilo
-### Aceleradores
-## Elementos de Ação
 
+- Campos de Seleção (Drop-down)
+- Uso: Para escolher entre várias opções.
+- Cor de Fundo: Branco (#FFFFFF)
+- Borda: 1px sólida, Cinza Claro (#CCCCCC)
+- Fonte: Arial ou Roboto, Regular, 16px
+- Padding: 10px
+- Bordas Arredondadas: 4px
+
+<img title="a title" alt="janelas e Grid" src="../../assets/Analise_Requisitos/selecao.png" width="100%">
+<div align="center">
+<p style="text-align: center">Figura 9: Seleção de Estilo</p>
+<p style="text-align: center">Fonte: Site PCDF</p>
+</div>
+
+### Aceleradores
+Os elementos de ação no site da Polícia Civil do Distrito Federal (PCDF) são componentes interativos que permitem aos usuários realizar tarefas específicas, como enviar formulários, navegar entre páginas, ou acessar informações detalhadas. 
+
+## Elementos de Ação
+Os elementos de ação são componentes cruciais que permitem ao usuário realizar diversas tarefas dentro da interface. Eles incluem:
+### Preenchimento de Campos
+- Descrição: Esses elementos permitem que os usuários forneçam informações relevantes, como em formulários de contato, inscrição, ou busca de ocorrências.
+- Exemplos: Campos de texto para nome, e-mail, mensagem, etc.
+- Estilo no Site da PCDF: Caixas de texto com rótulos explicativos, consistentes com a identidade visual da PCDF.
+### Seleção
+- Descrição: Permitem que os usuários façam escolhas entre diferentes opções.
+- Exemplos: Checkboxes, botões de rádio, menus suspensos.
+- Estilo no Site da PCDF: Checkboxes e botões de rádio com rótulos claros e significativos. Menus suspensos com opções bem definidas e descritivas.
+
+### Ativação
+- Descrição: Esses elementos permitem que os usuários realizem ações específicas, como enviar um formulário, acessar uma página ou baixar um documento.
+- Exemplos: Botões de envio, links de navegação, ícones interativos.
+- Estilo no Site da PCDF: Botões com textos descritivos e cores consistentes com a identidade visual da PCDF. Links de navegação com texto claro e direto. Ícones representativos das ações que ativam, com feedback visual adequado.
 
 ## Vocabulário e padrões
 - **Terminologia Familiar:** Durante o processo de desenvolvimento do protótipo, foi crucial empregar uma linguagem acessível e familiar aos usuários. Evitando o uso excessivo de termos técnicos, algo imnportante para garantir que todos os usuários, incluindo os iniciantes, possam compreender e utilizar a aplicação de forma intuitiva. Dessa forma, promovemos uma experiência de usuário mais inclusiva e eficaz, contribuindo para o sucesso do projeto de design.
@@ -160,7 +211,8 @@ Os elementos de interação são componentes chave que permitem aos usuários na
 
 ## Referência Bibliográfica
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
-> GNOME Foundation, "GNOME Developer Center." [Online]. Available: https://developer.gnome.org/. [Accessed: 17 de Maio, 2024].
+> GNOME Foundation, "GNOME Developer Center." [Online]. Available: https://developer.gnome.org/. [Acesso: 17 de Maio, 2024].
+> POLÍCIA CIVIL DO DISTRITO FEDERAL. Site oficial da Polícia Civil do Distrito Federal. Disponível em: https://www.pcdf.df.gov.br. [Acesso: 17 de Maio, 2024].
 
 
 ## **Histórico de Versões**
@@ -169,3 +221,4 @@ Os elementos de interação são componentes chave que permitem aos usuários na
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 10/05 | [Giovana Barbosa](https://github.com/gio221)   |11/05 |
 | 1.1 | Correção do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 17/05 |   |  |
+| 1.1 | Finalização das correções| [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   |  |
