@@ -51,8 +51,8 @@ Um guia de estilo de interfaceé um conjunto de padrões e diretrizes que garant
 </div>
 
 - Primárias: Preto (#000000) para cabeçalhos e rodapés, azul escuro (#003366), branco (#FFFFFF) para fundos.
-- Secundárias: Cinza claro (#F2F2F2) para seções de fundo, azul claro (#3399FF) para botões de chamada para ação e amarelo escuro (#BEA55A) para menu e botão.
-- Suporte: Vermelho (#FF0000) para alertas e avisos, verde (#33CC33) para confirmações e sucessos.
+- Secundárias: Cinza claro (#F2F2F2) para seções de fundo, azul claro (#3399FF) para botões de chamada para ação e amarelo escuro (#BEA55A) para menu e botão, Verde claro para alguns botões de texto (#36B37E).
+- Suporte: Vermelho (#FF5630) para alertas e avisos, verde (#36B37E) para confirmações e sucessos.
 
 ### Botões e Ícones
 
@@ -102,7 +102,51 @@ Estilo: Bordas arredondadas com 4px de raio, sombra sutil para elevação.
 </div>
 
 ## Elementos de Interação
+Os elementos de interação são componentes chave que permitem aos usuários navegar, fornecer informações e executar ações. 
+### Estilos de interação
+- **Botões**
+**Primários**
+- Uso: Ações principais (ex: "Enviar", "Salvar")
+- Estilo:
+    - Cor de Fundo: Azul Claro (#3399FF)
+    - Texto: Branco (#FFFFFF)
+    - Fonte: Arial ou Roboto, Negrito, 16px
+    - Padding: 12px vertical, 20px horizontal
+    - Bordas Arredondadas: 4px
+- Estados:
+    - Hover: Fundo Azul Claro mais luminoso (#5AB3FF)
+    - Ativo: Fundo Azul Claro mais escuro (#2B89E0)
 
+    Secundários
+        Uso: Ações secundárias (ex: "Cancelar", "Voltar")
+        Estilo:
+            Cor de Fundo: Branco (#FFFFFF)
+            Texto: Azul Claro (#3399FF)
+            Borda: 2px sólida, Azul Claro (#3399FF)
+            Fonte: Arial ou Roboto, Regular, 16px
+            Padding: 12px vertical, 20px horizontal
+            Bordas Arredondadas: 4px
+
+**Alertas**
+- Uso: Ações críticas (ex: "Excluir", "Resetar")
+- Cor de Fundo: Vermelho (#FF5630)
+- Texto: Branco (#FFFFFF)
+- Fonte: Arial ou Roboto, Negrito, 16px
+- Padding: 12px vertical, 20px horizontal
+- Bordas Arredondadas: 4px
+
+**Links**
+- Uso: Navegação e acessos rápidos
+- Texto: Azul Claro (#3399FF)
+- Fonte: Arial ou Roboto, Regular, 16px
+
+**Ícones Interativos**
+- Uso: Navegação e ações rápidas (ex: menus, fechar, buscar)
+- Tamanho: 24px (principais), 20px (listas/menus)
+- Cor: Sinza escuro (#777777), Azul Escuro (#003366)
+
+### Seleção de estilo
+### Aceleradores
 ## Elementos de Ação
 
 
@@ -116,7 +160,8 @@ Estilo: Bordas arredondadas com 4px de raio, sombra sutil para elevação.
 
 ## Referência Bibliográfica
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
-> MARCUS, A. Graphic design for electronic documents and user interfaces. Association for Computing Machinery, New York, NY, USA, 1991.
+> GNOME Foundation, "GNOME Developer Center." [Online]. Available: https://developer.gnome.org/. [Accessed: 17 de Maio, 2024].
+
 
 ## **Histórico de Versões**
 
