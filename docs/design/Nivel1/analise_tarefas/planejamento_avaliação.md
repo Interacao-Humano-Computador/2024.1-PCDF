@@ -37,7 +37,6 @@ De acordo com o objetivo da avaliação, as perguntas foram designadas de acordo
 |- Identificar problemas na interação e interface| - Que parte da interface e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interfaxe? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? |
 
 
-
 ### __C__ - Escolher os métodos 
 
 O método escolhido foi o de investigação, esse meio é feito por questionários e assim permite o avaliador explorar visões, pensamentos, previsões e interações do usuário com sistemas interativos, compreendendo suas concepções, opniões e comportamentos. Isso inclui investigar porríveis problemas de design, desafios enfrentados pelos usuários, sua adaptação à tecnologia existente e suas expectativas em relação a futuras interações com tecnologias atuais.
@@ -70,7 +69,24 @@ Nesse parte do processo, contém 5 etapas, sendo elas;
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 |  |  | |
 | [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
 | [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
-    
+
+
+### <center> Roteiro de perguntas 
+|__Numero__|__Pergunta__|__Resposta__|
+|----------|------------|------------|
+|1.| Qual é seu nome? |Questão aberta |
+|2.|Qual seu grau de experiência com tecnologias? | |
+|3.|Você consegue acessar os serviços? | |
+|4. | De acordo com o site da PCDF qual parte da interface e da interação o deixa insatisfeito? | |
+|5. | Qual parte da interface o desmotiva a descobrir novas funcionalidades?| |
+|6. |Você entende o significado e para que serve cada elemento de interface? | | <br>
+|__Comparação da PCDF com PCGO__|
+|7. |Qual das alternativas é a mais eficiente? Mais fácil de aprender?| |
+|8. |Qual delas você preferiu?| |
+|9. |Qual te agradou mais e qual é mais fácil de aprender?|
+|10. |Quais barreiras você enfrentou para atingir seus objetivos?|
+|11.|Você teve acesso as todas informações oferecidas pelo sistema?|
+
 
 ### __D__ - Decidir questões éticas
 
@@ -79,7 +95,15 @@ Garantir questões éticas na avaliação é fundamental. Para afirmar o respeit
 ### __E__ - Avaliar, analisar e apresentar os dados 
 Após todo o processo passado por cada etapa, chegamos na parte de avaliar, analisar e apresentar os dados, é trivial que o examinador esteja atento a diversos aspectos de toda avaliação antes de tirar qualquer conclusão e divulgar os resultados.
 Deve-se verificar a validade interna do estudo, garantindo que o método de avaliação meça com precisão o que se propõe a medir, evitando distorções nos dados.
-A validade externa também é crucial, avaliando em que medida os resultados podem ser generalizados ou aplicados a outros contextos similares. Por fim, a validade ecológica do estudo deve ser analisada, considerando o quão semelhantes são os materiais, métodos e ambiente de estudo à situação real investigada.
+A validade externa também é crucial, avaliando em que medida os resultados podem ser generalizados ou aplicados a outros contextos similares. Por fim, a validade ecológica do estudo deve ser analisada, considerando o quão semelhantes são os materiais, métodos e ambiente de estudo à situação real investigada. </center>
+
+### Teste piloto 
+
+Antes da entrevista principal com os usuários, dois avaliadores conduzirão um teste piloto. Esse teste tem como propósito simular uma sessão de avaliação para garantir o funcionamento correto de todas as ferramentas planejadas, verificar a eficácia do planejamento e determinar se a avaliação pode fornecer os dados necessários para o estudo. Além disso, o teste piloto permitirá avaliar a clareza e a objetividade da linguagem usada na entrevista, garantindo que as perguntas sejam compreendidas de forma adequada pelos participantes.
+
+|__Data__|__Local__|__Horário__|__Entrevistadores__|__Participante__|
+|--------|---------|-----------|-------------------|--------|
+|18/05/2024|Microsoft Teams|A definir | [Raissa Andrade](https://github.com/RaissaAndradeS)| A definir|
 
 
 ## Histórico de Versões
