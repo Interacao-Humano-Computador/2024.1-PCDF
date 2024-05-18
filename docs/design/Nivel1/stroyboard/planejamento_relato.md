@@ -158,4 +158,4 @@ Com base na análise dos dados, serão propostas correções específicas para o
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criação do Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |     | |
+| 1.0 | Criação do Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |     [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
