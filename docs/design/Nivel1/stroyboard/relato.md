@@ -10,7 +10,8 @@
 <p style="text-align: center"><a href="https://youtu.be/LJHZhiuZGR0" target="blanket">Vídeo da Entrevista da Renata</a></p>
 
  Tabela que monstra as respostas do usuário 
-    | Número | Pergunta | Resposta |
+
+| Número | Pergunta | Resposta |
 |:-------:|-----------------------------------------------------------|---------------------------------------------|
 | 1 | Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? | Sim|
 | 2 | O cenário descrito no storyboard parece realista e relevante para os usuários do sistema? |Sim |
@@ -37,7 +38,8 @@ feito pela intregante Giovana
 
 
     Tabela que monstra as respostas do usuário Kaio
-    | Número | Pergunta | Resposta |
+
+| Número | Pergunta | Resposta |
 |:-------:|-----------------------------------------------------------|---------------------------------------------|
 | 1 | Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? | Sim|
 | 2 | O cenário descrito no storyboard parece realista e relevante para os usuários do sistema? |Sim |
@@ -65,7 +67,8 @@ feito pela intregante Giovana
 
 
     Tabela que monstra as respostas do usuário 
-    | Número | Pergunta | Resposta |
+
+| Número | Pergunta | Resposta |
 |:-------:|-----------------------------------------------------------|---------------------------------------------|
 | 1 | Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? | Sim|
 | 2 | O cenário descrito no storyboard parece realista e relevante para os usuários do sistema? |Sim |
