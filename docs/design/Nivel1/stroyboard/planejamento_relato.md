@@ -108,9 +108,42 @@ Você concorda com os termos acima e está disposto a participar desta entrevist
 
 Após a coleta, os dados serão avaliados e interpretados considerando o contexto em que foram obtidos. A análise meticulosa envolverá a documentação dos problemas encontrados, sugestões de melhorias e feedbacks dos usuários.
 
+## Interpretação e Apresentação dos Dados
+
+### Sumário dos Dados
+
+No planejamento do relato do storyboard, é crucial incluir um resumo dos dados coletados durante o estudo. Esse resumo fornece uma visão geral dos tipos de dados coletados, a quantidade e a origem desses dados. Aqui estão alguns elementos a serem considerados neste resumo:
+
+- **Natureza dos Dados:** Descreva os diferentes tipos de dados coletados durante a análise do storyboard. Isso pode abranger dados quantitativos, como métricas de desempenho, tempo dedicado a cada etapa ou taxas de sucesso, além de dados qualitativos, como observações comportamentais, respostas de entrevistas ou comentários dos participantes.
+
+- **Volume de Dados:** Indique a quantidade de dados coletados para cada tipo. Isso pode ser expresso numericamente, por exemplo, o número total de entrevistas realizadas, o número de observações registradas ou o tamanho do conjunto de dados qualitativos analisados.
+
+- **Origem dos Dados:** Identifique a fonte dos dados coletados. Isso pode incluir informações sobre os participantes do estudo, como seus perfis demográficos ou experiência prévia do entrevistador e anotações de observações.
+
+- **Métodos de Coleta:** Entrevista.
+
+Ao incluir esse resumo no planejamento do relato do storyboard, você oferece uma visão geral dos dados coletados, o que ajuda a contextualizar as informações utilizadas para as conclusões e recomendações apresentadas no relatório final. Isso possibilita uma compreensão mais completa e transparente dos resultados da análise.
+
 ### Análise dos Dados Coletados
 
-A análise será realizada com foco em identificar problemas de usabilidade, desafios enfrentados pelos usuários e funcionalidades faltantes. Serão categorizados os problemas encontrados, descritas as sugestões de melhorias e anotadas todas as observações gerais feitas durante as entrevistas.
+Na etapa de análise dos dados coletados no planejamento do relato do storyboard, é fundamental examinar e interpretar os dados de forma sistemática e cuidadosa. O objetivo da análise dos dados é identificar padrões, tendências e insights relevantes que surgiram durante a avaliação dos storyboards. Aqui estão alguns aspectos a serem considerados ao realizar essa análise:
+
+- **Organização dos Dados:** Organize os dados coletados de maneira lógica e estruturada para facilitar a análise. Isso pode envolver a criação de tabelas, gráficos ou categorização dos dados em temas ou categorias relevantes.
+
+- **Codificação dos Dados:** Aplique um sistema de codificação aos dados qualitativos para identificar temas, categorias ou padrões emergentes. Isso envolve atribuir rótulos ou tags aos dados com base em seus significados e relações. A codificação ajuda a resumir e agrupar informações relevantes.
+
+- **Análise Quantitativa:** Realize análises quantitativas dos dados, se aplicável. Isso pode envolver cálculos de métricas de desempenho, taxas de sucesso, tempo médio gasto em cada storyboard ou outras medidas numéricas relevantes. Utilize ferramentas estatísticas adequadas para extrair insights significativos dos dados quantitativos.
+
+- **Análise Qualitativa:** Explore os dados qualitativos por meio de uma análise aprofundada e reflexiva. Identifique padrões, tendências, citações ou exemplos que ilustrem as experiências e percepções dos participantes. Procure por temas recorrentes, problemas comuns ou pontos de destaque nos relatos qualitativos.
+
+- **Relacionamento entre os Dados:** Analise as relações e conexões entre diferentes conjuntos de dados. Procure por associações, correlações ou dependências entre variáveis ou características específicas. Isso pode ajudar a identificar fatores que influenciam o desempenho dos usuários ou padrões de comportamento relevantes.
+
+- **Interpretação dos Resultados:** Após analisar os dados, interprete os resultados de maneira clara e objetiva. Identifique insights-chave, destacando descobertas importantes, pontos fortes e áreas de melhoria. Conecte os resultados à finalidade do storyboard e ao objetivo do estudo.
+
+- **Apoio Visual:** Utilize gráficos, tabelas, citações ou outros elementos visuais para auxiliar na apresentação dos resultados e tornar as informações mais acessíveis e compreensíveis para os leitores.
+
+Lembre-se de que a análise dos dados coletados é uma etapa crucial para fornecer conclusões robustas e embasar as recomendações no relatório final do storyboard. Portanto, é importante investir tempo e esforço suficientes para realizar uma análise rigorosa e confiável dos dados coletados.
+
 
 ### Sugestões de Correções
 
