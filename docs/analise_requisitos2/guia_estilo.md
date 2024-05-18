@@ -208,11 +208,13 @@ Os elementos de ação são componentes cruciais que permitem ao usuário realiz
 
 - **Sequências de diálogos:** Para garantir uma interação consistente e intuitiva, é fundamental padronizar as sequências de diálogos em todo o sistema. Isso envolve seguir o padrão especificado nos elementos de interação, garantindo que os botões estejam posicionados de maneira semelhante em todas as sequências de diálogos. 
 
-
 ## Referência Bibliográfica
-> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 > GNOME Foundation, "GNOME Developer Center." [Online]. Available: https://developer.gnome.org/. [Acesso: 17 de Maio, 2024].
 > POLÍCIA CIVIL DO DISTRITO FEDERAL. Site oficial da Polícia Civil do Distrito Federal. Disponível em: https://www.pcdf.df.gov.br. [Acesso: 17 de Maio, 2024].
+
+
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 
 ## **Histórico de Versões**
@@ -221,4 +223,4 @@ Os elementos de ação são componentes cruciais que permitem ao usuário realiz
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 10/05 | [Giovana Barbosa](https://github.com/gio221)   |11/05 |
 | 1.1 | Correção do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 17/05 |   |  |
-| 1.1 | Finalização das correções| [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   |  |
+| 1.2 | Finalização das correções| [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   |  |
