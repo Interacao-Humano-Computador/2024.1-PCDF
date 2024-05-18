@@ -57,7 +57,7 @@ Utilizaremos entrevistas com usuários para explorar suas percepções, opiniõe
 
 #### Mão-de-obra Necessária
 
-- 6 entrevistadores (1 para cada storyboard, com cada entrevistador responsável por 1 funcionalidades).
+- 6 entrevistadores (1 para cada storyboard, com cada entrevistador responsável por 1 funcionalidades e pelo menos 1 ouvinte).
 
 #### Orçamento
 
