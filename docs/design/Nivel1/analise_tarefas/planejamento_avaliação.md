@@ -31,10 +31,15 @@ De acordo com o objetivo da avaliação, as perguntas foram designadas de acordo
     - Ideias e alternativas de design;
     - Identificar problemas na interação e interface;
 
+__Tabela 2__ - Perguntas que serão respondidas.
+
 |__Objetivos__| Perguntas a serem respondidas|
 |-------------|------------------------------|
 |- Ideias e alternativas de design| - De qual delas se espera que tenha um impacto negativo menor ao ser adotada? <br> - Qual delas os usuários preferem? Por que? |
-|- Identificar problemas na interação e interface| - Que parte da interface e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interfaxe? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? |
+|- Identificar problemas na interação e interface| - Que parte da interface e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interface? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? | 
+<br>
+
+<center> Fonte - BARBOSA e SILVA (2011).</center>
 
 
 ### __C__ - Escolher os métodos 
@@ -59,6 +64,9 @@ Nesse parte do processo, contém 5 etapas, sendo elas;
 
 #### 4. Prazos
 
+__Tabela 3__ - Cronograma.
+
+
     A seguir o cronograma de como será documentada.
 
 | Integrante responsável | Data       | Artefato | Horário | Entrevistado |
@@ -70,6 +78,10 @@ Nesse parte do processo, contém 5 etapas, sendo elas;
 | [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
 | [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
 
+<center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
+
+
+__Tabela 4__ - Roteiro de perguntas
 
 ### <center> Roteiro de perguntas 
 |__Numero__|__Pergunta__|__Resposta__|
@@ -87,6 +99,7 @@ Nesse parte do processo, contém 5 etapas, sendo elas;
 |10. |Quais barreiras você enfrentou para atingir seus objetivos?|
 |11.|Você teve acesso as todas informações oferecidas pelo sistema?|
 
+<center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
 ### __D__ - Decidir questões éticas
 
@@ -101,9 +114,21 @@ A validade externa também é crucial, avaliando em que medida os resultados pod
 
 Antes da entrevista principal com os usuários, dois avaliadores conduzirão um teste piloto. Esse teste tem como propósito simular uma sessão de avaliação para garantir o funcionamento correto de todas as ferramentas planejadas, verificar a eficácia do planejamento e determinar se a avaliação pode fornecer os dados necessários para o estudo. Além disso, o teste piloto permitirá avaliar a clareza e a objetividade da linguagem usada na entrevista, garantindo que as perguntas sejam compreendidas de forma adequada pelos participantes.
 
+O teste piloto foi realizado no dia 18/05/2024, pela parte da manhã.
+
 |__Data__|__Local__|__Horário__|__Entrevistadores__|__Participante__|
 |--------|---------|-----------|-------------------|--------|
-|18/05/2024|Microsoft Teams|A definir | [Raissa Andrade](https://github.com/RaissaAndradeS)| A definir|
+|18/05/2024|Microsoft Teams|11:30 am | [Raissa Andrade](https://github.com/RaissaAndradeS)| [Renata Quadros](https://github.com/Renatinha28)|
+
+### Resultado do Teste piloto 
+Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto, durou cerca de 8 minutos. A participante [Renata Quadros](https://github.com/Renatinha28) fez o papel do usuário e [Raissa Andrade](https://github.com/RaissaAndradeS) fez o papel de entrevistadora. No roteiro, apresento o Termo de Consentimento, peço para realizar uma atividade no site da PCDF, apresento o diagrama que foi feito no HTA e por último peço para ela comparar o site da PCDF com PCGO.
+Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=tM17vB1zjOw)
+
+## Referências Bibliográficas
+
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+> Planejamento de Avaliação - Bilheteria Digital. Disponível em: <https://interacao-humano-computador.github.io/2023.1-BilheteriaDigital/apresentacao/apresentacao1/>. Acesso em 16 de Maio de 2024
 
 
 ## Histórico de Versões
@@ -111,3 +136,4 @@ Antes da entrevista principal com os usuários, dois avaliadores conduzirão um 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
+| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 |  |  |
