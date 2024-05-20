@@ -74,7 +74,7 @@ __Tabela 3__ - Cronograma.
 | [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  |  |                 
 | [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  |  |    
 | [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  |  |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 |  |  | |
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade | 19:30 PM  | Raphael |
 | [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
 | [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
 

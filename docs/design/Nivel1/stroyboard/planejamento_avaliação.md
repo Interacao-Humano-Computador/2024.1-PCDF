@@ -74,7 +74,7 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
 | [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Online (Microsoft Teams) | 19:30 a 19:50 | Kaio Costa |                 
 | [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 2 |    
 | [Lara Juliana](https://github.com/gravelylara) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 3 |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 4 |
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Online (Microsoft Teams) | 20:00 PM | Raphael |
 | [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 5 |
 | [Renata Quadros](https://github.com/Renatinha28) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 6 |
 
