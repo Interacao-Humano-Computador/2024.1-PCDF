@@ -77,4 +77,4 @@ As perguntas para verificação das metas há diversos aspectos do site da PCDF 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação de Metas de Usabilidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |  [Giovana Barbosa](https://github.com/gio221)   |11/05 |
-| 1.1 | Correção de Metas de Usabilidade e inserção da conclusão | [Raissa Andrade](https://github.com/RaissaAndradeS) | 10/05 |  | |
+| 1.1 | Correção de Metas de Usabilidade e inserção da conclusão | [Raissa Andrade](https://github.com/RaissaAndradeS) | 10/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 20/05 |
