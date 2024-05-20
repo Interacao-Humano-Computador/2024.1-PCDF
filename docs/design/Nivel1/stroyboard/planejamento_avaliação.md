@@ -128,4 +128,4 @@ Após a conclusão da avaliação, é crucial registrar e analisar os dados de m
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
-| 1.1 | Planejamento da avaliação do storyboard | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
+| 1.1 | Planejamento da avaliação do storyboard | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)   | 16/05 |

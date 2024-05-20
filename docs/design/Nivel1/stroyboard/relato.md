@@ -119,4 +119,4 @@ integrante Rayene
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento |[Giovana Barbosa](https://github.com/gio221)  | 16/05 | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | 
-| 1.1 | Entrevistas |[Giovana Barbosa](https://github.com/gio221)  | 18/05 | [Renata Quadros](https://github.com/Renatinha28) | 18/05 | 
+| 1.1 | Entrevistas |[Giovana Barbosa](https://github.com/gio221)  | 18/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 18/05 | 
