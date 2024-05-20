@@ -1,4 +1,4 @@
-# Introdução 
+## Introdução 
 
 As metas de usabilidade são objetivos específicos estabelecidos no design e na avaliação de sistemas interativos, com o propósito de melhorar a experiência do usuário e a eficácia das interações. Essas metas tendem garantir que o sistema seja intuitivo, eficiente e agradável de se usar, que seja acessível, com fácil navegação, clareza na apresentação de informações e eficiência na realização de tarefas.
 
@@ -18,12 +18,16 @@ Facilidade de aprendizagem diz respeito à quantidade de tempo e esforço necess
 
 ### No sistema
 No geral, o site demonstra ser de fácil aprendizagem quando você está buscando um serviço. O site possui muitas informações, mas na parte institucional, possuem algumas funcionalidades que não são intuitivas, por falta de padronização, um exemplo é a parte de "Gestão Estratégica e Governança", as outras informações do site geralmente são texto mas nessa parte são figuras que posssuem um link,  algumas sendo clicavéis e outras não possui link ou qualquer outra informação.
-<p align="center"> <b>Figura 1</b>. Gestão Estrategica </p>
+
 
 ![Gestão Estratégica](../assets/Analise_Requisitos/GestaoEstrat.png)
 
+<div align="center">
+    <p> Figura 1: Gestão Estratégica. Fonte: 
+        <a href="https://www.pcdf.df.gov.br">PCDF</a>
+    </p> 
+</div>
 
-Fonte: [PCDF](https://www.pcdf.df.gov.br)
 
 ## 3. Facilidade de recordação 
 A facilidade de recordação refere-se ao esforço cognitivo que um usuário precisa fazer para lembrar como interagir com a interface de um sistema interativo, após ter aprendido previamente essa interação.
@@ -31,10 +35,15 @@ A facilidade de recordação refere-se ao esforço cognitivo que um usuário pre
 ### No sistema
 Na facilidade de recordação em relação aos serviços oferecidos é bastante intuitivo, facilitando a interação do usuários com o site. Em cada serviço ofertado há um texto explicando o que deve ser feito e como deve ser feito. O exemplo a seguir é da 197 Denúncia On-line. 
 
-<p align="center"> <b>Figura 2</b>. Denuncia Online </p>
 
-![DenunciaOn](../assets/DenunciaOn.png)
-Fonte: [PCDF](https://www.pcdf.df.gov.br)
+![DenunciaOn](../assets/Analise_Requisitos/DenunciaOn.jpeg)
+
+<div align="center">
+    <p> Figura 2: Denuncia Online. Fonte: 
+        <a href="https://www.pcdf.df.gov.br">PCDF</a>
+    </p> 
+</div>
+
 
 ## 4. Satisfação do usuário 
 A satisfação do usuário representa o aspecto da usabilidade que reflete a avaliação subjetiva dos sentimentos e emoções do usuário resultantes do uso do sistema.
@@ -42,16 +51,24 @@ A satisfação do usuário representa o aspecto da usabilidade que reflete a ava
 ### No sistema 
 O site oferece alguns erros de carregamento, dificuldades técnicas para acessar ou utilizar os serviços online. Alguns informações desatualizadas como a agenda do delegado e videos. A agenda do delegado pelo meu último acesso na data: 11/05/2024, não carrega as informações necessárias. E a sessão de vídeos que não são postados desde 2022.
 
-<p align="center"> <b>Figura 3</b>. Agenda do Delegado </p>
 
 ![AgendaDel](../assets/Analise_Requisitos/AgendaDel.png)
-Fonte: [PCDF](https://www.pcdf.df.gov.br)
 
-<p align="center"> <b>Figura 4</b>. Vídeos </p>
+<div align="center">
+    <p> Figura 3: Agenda do Delegado. Fonte: 
+        <a href="https://www.pcdf.df.gov.br">PCDF</a>
+    </p> 
+</div>
+
+
 
 ![Videos](../assets/Analise_Requisitos/Videos.png)
+<div align="center">
+    <p> Figura 4: Vídeos . Fonte: 
+        <a href="https://www.pcdf.df.gov.br">PCDF</a>
+    </p> 
+</div>
 
-Fonte: [PCDF](https://www.pcdf.df.gov.br)
 
 ## 5. Segurança
 A segurança no uso de um sistema envolve garantir a proteção dos usuários contra condições adversas ou perigosas. Existem duas abordagens para alcançar essa segurança: prevenir problemas antes que ocorram e ajudar os usuários a se recuperarem de situações indesejadas ocorram. Para prevenir problemas, é importante minimizar a probabilidade de apertar acidentalmente teclas, botões ou comandos indesejados.
@@ -78,3 +95,4 @@ As perguntas para verificação das metas há diversos aspectos do site da PCDF 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação de Metas de Usabilidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |  [Giovana Barbosa](https://github.com/gio221)   |11/05 |
 | 1.1 | Correção de Metas de Usabilidade e inserção da conclusão | [Raissa Andrade](https://github.com/RaissaAndradeS) | 10/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 20/05 |
+| 1.2 | Correções de figuras e índice| [Rayene Almeida](https://github.com/RaissaAndradeS) | 20/05 | | |
