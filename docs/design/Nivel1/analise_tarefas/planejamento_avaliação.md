@@ -52,15 +52,15 @@ Nesse parte do processo, contém 5 etapas, sendo elas;
 
 #### 1. Recrutamento
 
-    No recrutamento, os usuários entrevistados devem ser de acordo com o perfil definido no Perfil dos Usuários, de forma arbitrária, os avaliadores devem escolher se será presencial ou online desde que seja gravada e documentada. Como temos 6 integrantes no grupo, teremos 1 entrevistado para cada avaliador.
+No recrutamento, os usuários entrevistados devem ser de acordo com o perfil definido no Perfil dos Usuários, de forma arbitrária, os avaliadores devem escolher se será presencial ou online desde que seja gravada e documentada. Como temos 6 integrantes no grupo, teremos 1 entrevistado para cada avaliador.
 
 #### 2. Preparação
 
-    Na preparação, cada integrante da equipe tem um artefato a ser trabalhado, então as perguntas devem ser com base na sua tarefa. A atividade deve ser construida com base na analise de tarefa realizada na entrega anterior. 
+Na preparação, cada integrante da equipe tem um artefato a ser trabalhado, então as perguntas devem ser com base na sua tarefa. A atividade deve ser construida com base na analise de tarefa realizada na entrega anterior. 
 
 #### 3. Custos
 
-    Visando em não gerar custos para a aquipe, vamos optar por fazer a entrevista de forma online em uma plataforma que seja gratuita, o teams. 
+Visando em não gerar custos para a aquipe, vamos optar por fazer a entrevista de forma online em uma plataforma que seja gratuita, o teams. 
 
 #### 4. Prazos
 
