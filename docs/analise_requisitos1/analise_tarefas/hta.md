@@ -24,7 +24,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 
 ## Funcionalidades Avaliadas pela HTA
 
-    Tabela que monstra quais funcionalidades foram avaliadas pela HTA
+    Tabela que mostra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
@@ -36,20 +36,23 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 |Retrato Falado Online|Renata|
 
 ### Pesquisar Procurados
-A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. 
 
-Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos de uma análise HTA seriam:
+    Tabela HTA da pesquisa por pessoas procuradas pela polícia 
 
-- Tarefa: Inserir nome completo de uma pessoa civil com passagem pela polícia
-- Objetivo: Pesquisar procurados pela PCDF
-- Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
+|         Objetivos/operações         | Problemas e recomendações|
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Pesquisar os nomes de procurados no registro policial 1>2  | **input**: formulário de busca, com nome ou apelido, sexo, crime, cidade/área, situação.<br> **Feedback**: busca retorna resultado ou se não encontrou nada<br> **Plano**: informar dados do indivíduo procurado e depois enviar mensagem de confirmação de busca.<br> **Recomendação**: permitir que o usuário tenha uma lista prévia e mais ampla de criminosos da região, podendo acessar mais detalhes de cada um deles.<br>|
+| 1. Informar dados do indivíduo procurado 1+2  | **Plano**: nome ou apelido, sexo, crime, cidade/área, situação, de forma que pelo menos um destes inputs é necessário |
+| 1.1 Informar nome ou apelido, sexo, crime, cidade/área, situação|
+| 2.  Enviar formulário 1>2 | **Plano**: Clicar no botão "Pesquisar" (ou "Ver Todos")|
+| 2.1 Clicar no botão "Pesquisar" | **Feedback**: Muda para uma página com os dados da certidão, indicando se tal certidão é válida ou não.<br> **Recomendação**: tornar a caixa de retorno da busca mais evidente com uma mensagem mais clara.<br>|
 
 ### Solicitar Antecedentes Criminais
 Nessa tarefa o usuário pretende solicitar os antecedentes criminais no site da PCDF, foi analisada pela integrante  [Renata Quadros](https://github.com/Renatinha28) e feito o diagrama como monstrado na figura 2.
 
 ![tabela](../../assets/Analise_Requisitos/analise_Solicitar_Ant.png)
 <div align="center">
-<p> Figura 2- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
+<p> Figura 3- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
 
 </div>
 Fonte: [Renata Quadros](https://github.com/Renatinha28) 
@@ -94,7 +97,7 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
 <div align="center">
-<p> Figura 3- Diagrama de Analise da Denúncia Online. </p> 
+<p> Figura 4- Diagrama de Analise da Denúncia Online. </p> 
 
 </div>
 Fonte :[Giovana Barbosa](https://github.com/gio221)  
@@ -116,7 +119,7 @@ Nessa tabela o usuário quer Solicitar a Carteira de identidade
 ![Carteira de Identidade](../../assets/Analise_Requisitos/DiagramaCart.png)
 
 <div align="center">
-<p> Figura 4- Solicitar Carteira de Identidade  </p> 
+<p> Figura 5- Solicitar Carteira de Identidade  </p> 
 
 </div>
 Fonte :[Raissa](https://github.com/RaissaAndradeS)  
@@ -148,7 +151,7 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online no site
 
 ![tabela](../../assets/Analise_Requisitos/analise_Retrato_Falado.png)
 <div align="center">
-<p> Figura 2- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
+<p> Figura 6- Diagrama de Analise de Retrato Falado. </p> 
 
 </div>
 Fonte: [Renata Quadros](https://github.com/Renatinha28) 
@@ -187,3 +190,4 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 |1.5| Atualização do Índice|[Rayene Almeida](https://github.com/rayenealmeida)|09/05|  [Renata Quadros](https://github.com/Renatinha28) | 09/05  |
 | 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 | 1.7 | Adição do Diagrama de Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |    [Giovana Barbosa](https://github.com/gio221)   |11/05 |
+| 1.8 | Correção na seção "Procurados"| [Lara Giuliana](https://github.com/gravelylara) | 21/05 |    [Giovana Barbosa](https://github.com/gio221)   |11/05 |
