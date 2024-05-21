@@ -69,14 +69,14 @@ __Tabela 3__ - Cronograma.
 
     A seguir o cronograma de como será documentada.
 
-| Integrante responsável | Data       | Artefato | Horário | Entrevistado |
-|:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  |  |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  |  |    
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  |  |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade | 19:30 PM  | Raphael |
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
+| Integrante responsável | Data       | Artefato | Entrevistado |
+|:----------------------:|------------|-------|---------|
+| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Denuncia Online |  Kaio |                  
+| [João Pedro](https://github.com/JoaoODragonborn) | 20/05/2024 | Validar certidão de antecentes | Vinicius |      
+| [Lara Juliana](https://github.com/gravelylara) | 20/05/2024 |Pesquisar Procurados  |  |                
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade  | Raphael |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 20/05/2024 | Registra Ocorrência |  |  
+| [Renata Quadros](https://github.com/Renatinha28) | 17/05/2024 | Solicitar Antecedentes | Luisa |  
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -136,4 +136,4 @@ Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
-| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) |  |
+| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |

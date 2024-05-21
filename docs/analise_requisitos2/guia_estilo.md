@@ -222,5 +222,5 @@ Os elementos de ação são componentes cruciais que permitem ao usuário realiz
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 10/05 | [Giovana Barbosa](https://github.com/gio221)   |11/05 |
-| 1.1 | Correção do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 17/05 |   |  |
-| 1.2 | Finalização das correções| [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   |  |
+| 1.1 | Correção do Guia de Estilo | [Rayene Almeida](https://github.com/rayenealmeida) | 17/05 |   [Giovana Barbosa ](https://github.com/gio221)      |   20/05  |
+| 1.2 | Finalização das correções| [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana Barbosa ](https://github.com/gio221)      |   20/05  |s

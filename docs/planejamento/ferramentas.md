@@ -18,10 +18,10 @@ Primeira Tabela, informações de todas ferramentas e suas utilidades para o pro
 | 5.| <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Github.svg" alt="GitHub" width=50px> | GitHub | Utilizada para hospedar o repositório e a git page.  |
 | 6.| <img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Excel.svg" alt="Google Planilhas" width=50px> | Exel | Utilizado para fazer o Heatmap.  |
 | 7.| <img src="https://cdn-icons-png.flaticon.com/128/2991/2991110.png" alt="Google Forms" width=50px> | Forms | Utilizado para fazer o Questionário.  |
-| 8.|<img src="../assets/ferramentas/thispersondoesntexist.png" alt="this persona" width="50px"> | This Person Doesn't Exist| Usando para gerar imagens de pessoas que não existem |
-| 9.|<img src="../assets/ferramentas/figma.png" alt="alt text" width="50px">|Figma| Usado para prototipo e Storyboard|
-| 10.|<img src="../assets/ferramentas/miro.png" alt="alt text" width="50px">|Miro|Utilizado para trocar ideias|
-| 11.|<img src="../assets/ferramentas/storyboardthat.png" alt="alt text" width="50px">|Storyboard That|Utilizado para fazer o Storyboard|
+| 8.|<img src="../assets/planejamento/thispersondoesntexist.png" alt="this persona" width="50px"> | This Person Doesn't Exist| Usando para gerar imagens de pessoas que não existem |
+| 9.|<img src="../assets/planejamento/figma.png" alt="alt text" width="50px">|Figma| Usado para prototipo e Storyboard|
+| 10.|<img src="../assets/planejamento/miro.png" alt="alt text" width="50px">|Miro|Utilizado para trocar ideias|
+| 11.|<img src="../assets/planejamento/storyboardthat.png" alt="alt text" width="50px">|Storyboard That|Utilizado para fazer o Storyboard|
 
 Detalhamento das ferramentas utilizadas durante o projeto.
 <center> (Fonte: SILVEIRA, Raissa. 2024). </center>
