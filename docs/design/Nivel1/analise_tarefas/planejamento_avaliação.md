@@ -3,7 +3,7 @@
 ### Introdução 
 
 A avaliação é uma etapa crucial para entender e melhorar a interação entre os usuários e os sistemas computacionais. A ideia do planejamento é envolver uma série de etapas detalhadas visando que a avaliação seja ampla e absoluta.
-Primeiro, é essencial definir os objetivos da avaliação, identificar as tarefas críticas e as questões que são necessárias serem respondidas. Logo após, os métodos de avaliação apropriados, 
+Primeiro, é essencial definir os objetivos da avaliação, identificar as tarefas críticas e as questões que são necessárias serem respondidas. Logo após, os métodos de avaliação apropriados.
 
 ### Metodologia 
 
@@ -52,7 +52,7 @@ Nesse parte do processo, contém 5 etapas, sendo elas;
 
 #### 1. Recrutamento
 
-No recrutamento, os usuários entrevistados devem ser de acordo com o perfil definido no Perfil dos Usuários, de forma arbitrária, os avaliadores devem escolher se será presencial ou online desde que seja gravada e documentada. Como temos 6 integrantes no grupo, teremos 1 entrevistado para cada avaliador.
+No recrutamento, os usuários entrevistados devem ser de acordo com o perfil definido no Perfil dos Usuários, de forma arbitrária, os avaliadores devem fazer a avaliação de forma presencial e tem que ser gravada e documentada. Como temos 6 integrantes no grupo, teremos 1 entrevistado para cada avaliador.
 
 #### 2. Preparação
 
@@ -137,5 +137,5 @@ Antes da entrevista principal com os usuários, um ou dois avaliadores conduzir�
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
-| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |
-| 1.2 | Adicionando o teste pilot  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 | |  |
+| 1.1 | Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |
+| 1.2 | Adicionando o teste piloto  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 | |  |
