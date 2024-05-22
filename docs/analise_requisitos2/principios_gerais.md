@@ -21,6 +21,13 @@ A violação que vemos no site da PCDF, e que o agendamento de Reuniões ela fic
 <p> Figura 1 - Violação da Correspondência com as Expectativas dos Usuários Fonte: Site PCDF  </p> 
 </div>
 
+### Sugestão de melhoria
+
+Podemos realizar algumas melhorias para atender a Correspondência dos usuários como:
+
+- Fazer pesquisas com os usuários, para saber suas dificuldades e seus acertos, promovendo um site melhor e mais confiável
+- Verificar o layout do site para que possa ser repensado as informações
+
 # Simplicidade nas Estruturas das Tarefas
 
 ### Motivação
@@ -33,6 +40,10 @@ No site da PCDF, na aba de Solicitar Antecedentes Criminais, para que possamos v
 <p> Figura 2 - Simplicidade nas Estruturas das Tarefas Fonte: Site PCDF  </p> 
 </div>
 
+### Sugestão de Melhoria 
+
+Para que o usuário consiga realizar a solicitação de antecedentes criminais, não seja requisitado que ele coloque um email, e sim que ela já possa solicitar a verificação e se assim o usuário desejar ele colocar um contato, para que possa receber o documento
+
 # Equilíbrio entre Controle e Liberdade do Usuário
 
 ### Motivação
@@ -43,6 +54,9 @@ O site da PCDF permite que o suário tem uma organização de layout muito boa, 
 <div align="center">
 <p> Figura 3 - Equilíbrio entre Controle e Liberdade do Usuário Fonte: Site PCDF  </p> 
 </div>
+
+### Sugestão de Melhoria
+É interessante que o usuário tenha uma facilidade em manuzear o layout do site, mas também é necessário que o sistema não deixe o usuário livre e totalmente sem controle, por isso seria interessante deixar algumas informações mais acessiveis, para que não haja indecisão por parte do usuário
 
 # Consistência e Padronização
 
@@ -57,6 +71,7 @@ O site da PCDF tem uma padronização muito boa, como monstra na figura 4
 <div align="center">
 <p> Figura 4 - Consistência e Padronização Fonte: Site PCDF </p> 
 </div>
+
 
 # Promovendo a Eficiência do Usuário
 
@@ -75,6 +90,8 @@ No site da PCDF, vosê não cosnegue fazer um login, então se você inicia uma 
 <p> Figura 5 - Promovendo a Eficiência do Usuário Fonte: Site PCDF  </p> 
 </div>
 
+### Sugestão de Melhoria
+O usuário não tem certeza que vai conseguir realizar toda a tarefa, por isso uma opção de login seria bem vinda
 
 # Antecipação
 
@@ -93,6 +110,11 @@ Como explicado acima, o site da PCDF não possui um login logo que se acessa a p
 <div align="center">
 <p> Figura 6 - Antecipação Fonte: Site PCDF  </p> 
 </div>
+
+## Sugestão de melhoria
+Para resolver a violação de antecipação e melhorar a experiência do usuário, sugerimos a implementação de um sistema de login com memorização de informações de acesso recentes. Ao entrar na plataforma, os usuários seriam direcionados a uma página de login, onde poderiam inserir suas credenciais e optar por "Lembrar-me". Isso permitiria que suas preferências e histórico de ações fossem salvos de forma segura, utilizando cookies e local storage, além de um banco de dados para armazenar interações e preferências. Com isso, o site poderia antecipar as necessidades dos usuários, proporcionando uma experiência mais fluida e eficiente. 
+
+Essa abordagem não só melhoraria a eficiência do site, como também criaria uma experiência de usuário mais satisfatória e personalizada, alinhada com os princípios de IHC de antecipação e proatividade.
 
 # Visibilidade e Reconhecimento
 
@@ -113,6 +135,16 @@ No site da PCDF quando entramos na parte de solicitar antecedentes criminais, lo
 <div align="center">
 <p> Figura 7 - Visibilidade e Reconhecimento Fonte: Site PCDF  </p> 
 </div>
+
+## Sugestão de melhoria
+Para a melhoria da Visibilidade e reconhecimento recomendamos:
+* Mensagem de Introdução:
+
+Descrição: Adicionar uma mensagem de introdução na página inicial da seção de solicitação de antecedentes criminais que explique brevemente o processo.
+
+Conteúdo: "Para solicitar seus antecedentes criminais, você precisará fornecer um e-mail válido. Um código de verificação será enviado para este e-mail para que possamos confirmar sua identidade e continuar o processo."
+
+Benefícios: Fornece uma visão geral clara do processo, reduzindo a incerteza sobre os passos seguintes.
 
 # Conteúdo Relevante e Expressão Adequada
 
@@ -152,6 +184,26 @@ Quando vamos solicitar a Carteira de Identidade, o usuário não tem certeza se 
 <p> Figura 9 - Projeto para Erros Fonte: Site PCDF  </p> 
 </div>
 
+## Sugestão de melhoria
+Para melhorar a experiência do usuário ao solicitar a Carteira de Identidade e assegurar que ele tenha certeza de que o agendamento foi feito corretamente, sugerimos as seguintes melhorias:
+
+* Mensagem de Confirmação Imediata:
+Após o usuário completar o agendamento, deve ser exibida uma mensagem de confirmação imediata na tela. Esta mensagem deve ser clara e destacada, indicando que o agendamento foi realizado com sucesso, e incluir informações detalhadas sobre o agendamento, como data, hora, local e número de confirmação. Isso proporcionará segurança imediata ao usuário, reduzindo a incerteza sobre a conclusão do processo.
+
+* Página de Revisão de Agendamentos:
+Implementar uma página onde os usuários possam revisar, cancelar ou reagendar seus compromissos. Esta página deve listar os agendamentos futuros com detalhes e status, além de botões para cancelar ou reagendar compromissos. Isso oferecerá ao usuário controle e flexibilidade, aumentando a confiança e a satisfação com o sistema.
+
+## Principios Gerais escolhidos para o projeto:
+Com base em todas as diretrizes avaliadas e nas funcionalidades escolhidas por cada integrante, os principios gerais escolhidos para o projeto são:
+
+      1- Correspondência com as Expectativas dos Usuários
+      2- Simplicidade nas Estruturas das Tarefas
+      3- Equilíbrio entre Controle e Liberdade do Usuário
+      4- Promovendo a Eficiência do Usuário
+      5- Antecipação
+      6- Visibilidade e Reconhecimento
+      7- Projeto para Erros
+
 ## Bibliografia 
 > BARBOSA, Simone; SILVA, Bruno. Interação Humano Computador. 1. ed. Rio de Janeiro: Elsevier, 2010.
 >
@@ -164,3 +216,5 @@ Quando vamos solicitar a Carteira de Identidade, o usuário não tem certeza se 
 | 1.0 | Criação do documento | [Giovana Barbosa ](https://github.com/gio221)  | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |
 | 1.1 | Diretrizes adicionadas |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |[Giovana Barbosa](https://github.com/gio221)  |10/05 |  
 | 1.2 | Diretrizes adicionadas | [Giovana Barbosa](https://github.com/gio221)  | 10/05 |  [Renata Quadros](https://github.com/Renatinha28) | 10/05 |
+| 1.3 | Sugestão de melhoria | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 17/05 |
+| 1.4 | Sugestão de melhoria | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |  [Renata Quadros](https://github.com/Renatinha28) | 17/05 |

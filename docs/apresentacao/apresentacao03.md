@@ -1,4 +1,4 @@
-# Informações
+# Introdução 
 
 Este documento tem objetivo de armanezar conteúdos da terceira apresentação
 
@@ -7,12 +7,13 @@ Este documento tem objetivo de armanezar conteúdos da terceira apresentação
 # Vídeo de apresentação 
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EtBUz5jxs-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/EtBUz5jxs-E" target="blanket">Vídeo da Entrevista</a></p>
+<p style="text-align: center"><a href="https://youtu.be/EtBUz5jxs-E" target="blanket">Vídeo da Apresentação 3</a></p>
 
 Este video descreve a apresentação que foi realizada na terceira etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
 # Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 
+
 
 | O git-pages possui?     | Sim/Não/Incompleto |
 | :--------: | :----: |     
@@ -33,7 +34,6 @@ Tabela 1: Critérios de avaliação para a entrega
 15 - O Guia de Estilo do projeto?| Sim
 16 - O Guia de Estilo do projeto possui a seguinte estrutura: Introdução,Resultados de análise,Elementos de interface,Elementos de interação,Elementos de ação,Vocabulário e padrões | Sim
 17 -  O Guia de Estilo corresponde ao site avaliado?|Sim
-
 
 ## Bibliografia 
 Fonte : [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)

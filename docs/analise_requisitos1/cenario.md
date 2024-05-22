@@ -5,13 +5,41 @@ Os cenários são uma narrativa, textual ou pictórica, concreta, rica em detalh
 A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cenário com base no Capítulo 6 do livro de Barbosa e Silva.
 
 ## Elementos Característicos de um Cenário
-* __Ambiente ou Contexto__: Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário;
-* __Atores__: Pessoas interagindo com o computador ou outros elementos do ambiente; características pessoais relevantes ao cenário;
-* __Objetivos__: Efeitos na situação que motivam as ações realizadas pelos atores;
-* __Planejamento__: atividade mental dirigida para transformar um objetivo em um comportamento ou conjunto de ações;
-* __Ações__: Comportamento observável;
-* __Eventos__: Ações externas ou reações produzidas pelo computador ou outras características do ambiente;
-* __Avaliação__: Atividade mental dirigida para interpretar a situação.
+    Tabela que descreve o Cenário
+|     Caracteristicas       |     Descrição      |    
+| :----------------------------------------------------------: | :-------------------------------: | 
+Ambiente ou Contexto| Detalhes da situação que motivam ou explicam os objetivos, ações e reações dos atores do cenário;|
+Atores|Pessoas interagindo com o computador ou outros elementos do ambiente; características pessoais relevantes ao cenário;|
+Objetivos| Efeitos na situação que motivam as ações realizadas pelos atores;|
+|Planejamento|atividade mental dirigida para transformar um objetivo em um comportamento ou conjunto de ações;|
+|Ações| Comportamento observável;|
+|Eventos|Ações externas ou reações produzidas pelo computador ou outras características do ambiente;|
+|Avaliação |Atividade mental dirigida para interpretar a situação.|
+
+<div align="center">
+    <p> Tabela 1: Elementos Característicos de um Cenário . Fonte: 
+        <a href="https://github.com/gio221">Giovana</a>
+    </p> 
+</div>
+
+## Cenários Realizados
+
+    Tabela que monstra quais funcionalidades foram feitas os cenários
+ Funcionalidade    |    Integrante Responsável             | 
+|:------:|:-------------------------------:|
+|Pesquisar Procurados|Lara|  
+| Solicitar Antecedentes Criminais | Renata |
+| Validar Antecedentes Criminais | Joao |
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
+|Retrato Falado Online|Renata|
+
+<div align="center">
+    <p> Tabela 2: Responsável de cada cenário . Fonte: 
+        <a href="https://github.com/gio221">Giovana</a>
+    </p> 
+</div>
 
 # Pesquisar procurados 
 **Cenário: Visualização da Página de Procurados pela Polícia Civil Regional**
@@ -151,6 +179,11 @@ Após ler uma breve explicação sobre a importância de fornecer informações 
 Selecionando "Assalto/Roubo" como o tipo de denúncia, Ana descreveu o incidente que vivenciou durante sua pedalada, detalhando o momento em que foi abordada pelo assaltante e os pertences que foram roubados. Com base em suas observações, ela descreveu o suspeito como um homem jovem, de estatura média, vestindo roupas escuras e usando um capuz para cobrir o rosto.
 Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção que correspondiam à descrição fornecida e salvou sua escolha. Ao visualizar o avatar criado ao lado de uma caixa de texto, Ana decidiu fazer algumas observações sobre detalhes específicos, como a forma da boca e a posição das orelhas, para garantir a precisão do retrato. Após revisar todas as informações fornecidas, Ana enviou a denúncia, incluindo o avatar criado e suas informações pessoais. Em resposta, ela recebeu uma mensagem de confirmação, indicando que sua denúncia foi recebida e que a Polícia Civil do Distrito Federal (PCDF) entraria em contato por e-mail dentro de até três dias úteis para fornecer uma atualização sobre o caso. A mensagem também mencionou a possibilidade de retorno sobre a presença de um suspeito semelhante no banco de dados, caso seja encontrado, com o retrato atualizado para sua confirmação, se necessário. Além disso, Ana foi informada de que receberia um link para solicitar uma reunião presencial, caso desejasse.
 
+## Bibliografia 
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+## Histórico de Versões
+      Tabela que descreve o Histórico de Versões
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
@@ -162,4 +195,5 @@ Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção q
 | 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 20/04 |
 | 1.4 | Atualização de figuras e índice | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
 | 1.5 | Cenário funcionalidade sugerida | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |   [Giovana Barbosa ](https://github.com/gio221) | 10/05 |
+| 1.7 |  Bibliografia  | [Giovana Barbosa ](https://github.com/gio221) | 15/05 | [Renata Quadros](https://github.com/Renatinha28) | 15/05 |
 

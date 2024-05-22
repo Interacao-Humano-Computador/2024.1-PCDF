@@ -1,0 +1,133 @@
+## Introdução
+O planejamento do storyboard é uma etapa crucial no processo de design de Interação Humano-Computador (IHC), pois permite visualizar e comunicar como a interação entre o usuário e o sistema. Baseado nos princípios da IHC, o planejamento do storyboard busca garantir que a interface proposta seja intuitiva, eficiente e agradável de usar, promovendo uma experiência positiva para o usuário.
+
+Neste contexto, é essencial considerar diversos aspectos, desde as necessidades e características dos usuários até os objetivos do sistema e as restrições tecnológicas. O storyboard é uma ferramenta poderosa que permite ao designer representar de forma visual as diferentes etapas da interação, desde a entrada de dados até a saída de informações, proporcionando uma visão panorâmica e detalhada do fluxo de uso do sistema.
+
+## Objetivo
+O objetivo deste documento é fornecer uma metodologia estruturada para o planejamento do storyboard em projetos de Interação Humano-Computador (IHC), com foco na avaliação de funcionalidades específicas do sistema. É relevante mencionar que os storyboards realizados estão no artefato Storyboard.
+
+## Metodologia
+Para garantir a eficácia e relevância do storyboard, é fundamental seguir uma metodologia estruturada. Neste documento, utilizamos uma metodologia baseada no framework DECIDE, proposta por Sharp, Rogers e Preece (2007), que fornece uma abordagem sistemática e abrangente para esse planejamento. A tabela 1 descreve o significado de cada letra nesta metodologia. 
+
+    Tabela 1: framework DECIDE
+| Letra | Descrição |
+|:-----:|------------------------------------------------------------------|
+| D | Determinar os objetivos da avaliação. |
+| E | Explorar perguntas a serem respondidas com a avaliação. |
+| C | Escolher os métodos de avaliação a serem utilizados. |
+| I | Identificar e administrar as questões práticas da avaliação. |                                                               
+| D | Decidir como lidar com as questões éticas. |
+| E | Avaliar, interpretar e apresentar os dados. |
+
+Fonte - BARBOSA e SILVA (2010).
+
+## Planejamento da Avaliação do Storyboard
+
+## D - Determinar os objetivos da avaliação.
+A avaliação dos storyboards tem como objetivo primordial verificar a adequação e fidelidade das representações visuais apresentadas em relação à realidade do contexto de uso do sistema. Além de elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. Para atingir esse objetivo, a avaliação se concentra em várias etapas essenciais como análise da correspondência das tarefas, comparação entre storyboards e realidade e necessidade de modificação dos storyboards.
+
+## E - Explorar perguntas a serem respondidas com a avaliação.
+Nesta etapa, elaboramos um roteiro de entrevista com perguntas específicas que nos ajudarão a explorar diferentes aspectos da interação do usuário com o storyboard, visando atingir nossos objetivos de avaliação. É fundamental que as perguntas sejam claras, concisas e abordem todos os aspectos relevantes do storyboard.
+
+Para desenvolver as perguntas específicas para avaliar os storyboards na área de Interação Humano-Computador (IHC), consideramos os objetivos gerais da avaliação. O principal objetivo é verificar a adequação e fidelidade das representações visuais apresentadas em relação à realidade do contexto de uso do sistema, além de elaborar e validar uma versão final que fosse clara, coesa, atraente e alinhada com os objetivos do projeto.
+Com base nesses objetivos, foram propostas as seguintes perguntas:
+
+* Os usuários concordam que as representações visuais nos storyboards refletem com precisão as situações e interações encontradas no contexto real de uso do sistema?
+
+* Os feedbacks dos usuários indicam que a versão final dos storyboards é clara, coesa, atraente e alinhada com os objetivos do projeto de design de interface?
+
+* Os storyboards precisam de alguma modificação para validação com o usuário?
+
+
+## C - Escolher os métodos de avaliação a serem utilizados.
+O método de avaliação escolhido foi a entrevista, pois ela permite uma interação direta entre o avaliador e os usuários, o que possibilita uma exploração mais profunda das percepções, opiniões e experiências dos usuários em relação aos storyboards, além de oferecerem uma oportunidade para os usuários expressarem suas opiniões e feedbacks de forma verbal, o que pode facilitar a comunicação de ideias complexas que podem não ser facilmente capturadas por outros métodos de avaliação.
+
+## I - Identificar e administrar as questões práticas da avaliação
+* Recrutamento: 
+ 
+Cada integrante do grupo ficou responsável pela criação de um storyboard, totalizando seis storyboards e mais um considerando que um integrante está responsável por duas funcionalidades, e, portanto, sete usuários necessários para a avaliação. O recrutamento dos usuários foi planejado de forma flexível, levando em consideração o perfil de usuário, levantado pelo questionário feito anteriormente e será realizado de maneira individual para cada storyboard, garantindo que os usuários selecionados correspondam ao contexto específico de cada representação visual.
+
+* Preparação: 
+
+Antes de iniciar as entrevistas oficiais, será realizado um teste piloto para garantir a eficácia do processo. Os entrevistadores serão responsáveis por convidar os entrevistados e conduzir as entrevistas de forma individual ou em dupla. Durante a entrevista, eles registrarão todas as justificativas e considerações feitas pelo entrevistado em relação às perguntas apresentadas. Antes de iniciar a entrevista, os entrevistadores apresentarão o termo de consentimento, que conterá todos os detalhes relevantes da entrevista, incluindo a solicitação de gravação e o uso da câmera durante a interação. O entrevistador só prosseguirá com a entrevista se o entrevistado aceitar os termos do consentimento.
+
+* Usuários
+
+Para a etapa da entrevista, iremos selecionar os usuários com base em critérios previamente definidos no questionário. Optamos por no minímo sete entrevistado considerando o número de funcionalidades escolhidas para serem avaliadas no projeto.
+
+* Ferramentas
+
+As entrevistas serão conduzidas por meio da plataforma Microsoft Teams, pois permite a gravação facilitada das entrevistas. Tanto os avaliadores quanto os entrevistados podem utilizar papel e caneta para documentar perguntas e respostas ou alguma ferramenta online, se necessário.
+
+* Teste piloto
+
+Os testes pilotos nos ajudarão a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais.Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Eles serão realizados antes das entrevistas e serão conduzidos pelas integrantes [Renata Quadros](https://github.com/Renatinha28)
+
+Confira o resultado do teste piloto 
+<video controls src="../../../assets/img/Reunião em _General_-20240522_150714-Gravação de Reunião.mp4" title="Title"></video>
+
+## Cronograma 
+O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realizadas por cada integrante.
+
+    Tabela 2: cronograma 
+| Integrante responsável | Data       | Local | Horário | Entrevistado |
+|:----------------------:|------------|-------|---------|--------------| 
+| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  | Nome do Entrevistado 1 |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  | Nome do Entrevistado 2 |    
+| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  | Nome do Entrevistado 3 |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | |   | Nome do Entrevistado 4 |
+| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  | Nome do Entrevistado 5 |
+| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  | Nome do Entrevistado 6 |
+
+Fonte - Renata Quadros.
+
+## Roteiro das perguntas
+Durante a entrevista, contextualizaremos a importância dos storyboards para a usabilidade de um sistema, explicando detalhadamente o processo ao entrevistado e apresentando o termo de conscentimento antes de iniciar. Vale ressaltar que o entrevistador pode e deve fazer anotações sobre a justificativa de cada resposta sempre que possível. Em seguida, apresentaremos as perguntas da entrevista como mostra a tabela 3.
+
+    Tabela 3: perguntas da entrevista
+| Número | Pergunta | Resposta |
+|:-------:|-----------------------------------------------------------|---------------------------------------------|
+| 1 | Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 2 | O cenário descrito no storyboard parece realista e relevante para os usuários do sistema? |[]Sim<br> []Não<br> []Não sei responder<br> |
+| 3 | As atividades mostradas no storyboard refletem o que os usuários realmente fazem ao usar o sistema? | []Sim<br> []Não<br> []Não sei responder<br> |
+| 4 | Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? | []Sim<br> []Não<br> []Não sei responder<br> |
+| 5 | O storyboard parece ser apropriado para o público-alvo do produto? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 6 | O estilo visual do storyboard corresponde à identidade visual do produto? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 7 | O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 8 | Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 9 | As informações fornecidas no storyboard são fáceis de entender para os usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 10 | Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 11 | O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 12 | O storyboard destaca os principais benefícios e vantagens do produto para os usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 13 | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?| []Sim<br> []Não<br> []Não sei responder<br>|
+| 14 | Você tem alguma sugestão ou feedback para melhorar o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
+
+<center>Fonte - [Renata Quadros](https://github.com/Renatinha28) <br> <br> <br>
+
+* Execução do roteiro: Durante a entrevista, o entrevistador instigará o usuário a expressar suas ideias e opiniões sobre o storyboard apresentado. Qualquer alteração proposta pelo usuário será cuidadosamente registrada e posteriormente avaliada em conjunto para validação.
+
+## D - Decidir como lidar com as questões éticas.
+Antes de prosseguir com a entrevista, é importante abordar questões éticas que regem nosso processo. Nossa abordagem ética é fundamentada nos princípios estabelecidos pelo Conselho Nacional de Saúde, especialmente nos pilares da autonomia, beneficência, não-maleficência e justiça e equidade. Esses princípios orientam nossas práticas para garantir que a pesquisa seja conduzida de forma ética e respeitosa. O termo de consentimento está presente no artefato [Aspectos Éticos](analise_requisitos1/aspectos_éticos.md).
+
+## E - Avaliar, interpretar e apresentar os dados.
+Após a conclusão da avaliação, é crucial registrar e analisar os dados de maneira meticulosa, considerando o contexto em que foram obtidos e avaliando sua confiabilidade e aplicabilidade para representar os usuários do site. Isso implica em documentar problemas, desafios encontrados durante a interação, bem como questões relacionadas à usabilidade, funcionalidades faltantes e possíveis problemas de desempenho. Todos esses detalhes, incluindo descrições dos problemas, sua categorização, sugestões de melhorias e feedback dos usuários, serão cuidadosamente anotados, juntamente com quaisquer observações gerais feitas durante as entrevistas. Após essa fase de análise, os dados serão compartilhados com a equipe de desenvolvimento, visando obter insights valiosos para aprimorar o projeto.
+
+<a id="teste_piloto"></a>
+
+
+
+## Referências Bibliográficas
+> Sharp H, Rogers Y, Preece J. Interaction design: beyond human-computer interaction edição. New York, NY: John Wiley & Sons; 2007.
+
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+> BRASIL. Resolução nº 466, de 12 de dezembro de 2012, que trata de pesquisas em seres humanos e atualiza a resolução 196. Brasília, DF: Diário Oficial da União, 2013. Disponível em: <https://conselho.saude.gov.br/resolucoes/2012/Reso466.pdf>. Acesso em: 15/05/2024.
+
+## Histórico de Versões
+      Tabela que descreve o Histórico de Versões
+
+|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
+| 1.1 | Planejamento da avaliação do storyboard | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)   | 16/05 |
+| 1.2 | Adicionando o teste piloto  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 |  [Giovana Barbosa](https://github.com/gio221)  | 22/05 |

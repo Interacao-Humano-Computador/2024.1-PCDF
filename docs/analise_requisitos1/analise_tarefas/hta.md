@@ -24,7 +24,7 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 
 ## Funcionalidades Avaliadas pela HTA
 
-    Tabela que monstra quais funcionalidades foram avaliadas pela HTA
+    Tabela que mostra quais funcionalidades foram avaliadas pela HTA
  Funcionalidade    |    Integrante Responsável             |  
 |:------:|:-------------------------------:|
 |Pesquisar Procurados|Lara|  
@@ -36,20 +36,23 @@ Fonte :  BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Cam
 |Retrato Falado Online|Renata|
 
 ### Pesquisar Procurados
-A Análise de Tarefas Hierárquica (HTA) é uma técnica de análise usada principalmente no design de interfaces de usuário e sistemas interativos. Ela se concentra em entender como os usuários realizam tarefas complexas, dividindo-as em etapas menores e mais gerenciáveis. 
 
-Assim, na funcionalidade de _Procurados_ da Polícia Civil do DF, os elementos de uma análise HTA seriam:
+    Tabela HTA da pesquisa por pessoas procuradas pela polícia 
 
-- Tarefa: Inserir nome completo de uma pessoa civil com passagem pela polícia
-- Objetivo: Pesquisar procurados pela PCDF
-- Plano (subbjetivo): Clicar no _input box_ da página, inserir caracteres e enviar o formulário para realizar a busca
+|         Objetivos/operações         | Problemas e recomendações|
+|:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 0. Pesquisar os nomes de procurados no registro policial 1>2  | **input**: formulário de busca, com nome ou apelido, sexo, crime, cidade/área, situação.<br> **Feedback**: busca retorna resultado ou se não encontrou nada<br> **Plano**: informar dados do indivíduo procurado e depois enviar mensagem de confirmação de busca.<br> **Recomendação**: permitir que o usuário tenha uma lista prévia e mais ampla de criminosos da região, podendo acessar mais detalhes de cada um deles.<br>|
+| 1. Informar dados do indivíduo procurado 1+2  | **Plano**: nome ou apelido, sexo, crime, cidade/área, situação, de forma que pelo menos um destes inputs é necessário |
+| 1.1 Informar nome ou apelido, sexo, crime, cidade/área, situação|
+| 2.  Enviar formulário 1>2 | **Plano**: Clicar no botão "Pesquisar" (ou "Ver Todos")|
+| 2.1 Clicar no botão "Pesquisar" | **Feedback**: Muda para uma página com os dados da certidão, indicando se tal certidão é válida ou não.<br> **Recomendação**: tornar a caixa de retorno da busca mais evidente com uma mensagem mais clara.<br>|
 
 ### Solicitar Antecedentes Criminais
 Nessa tarefa o usuário pretende solicitar os antecedentes criminais no site da PCDF, foi analisada pela integrante  [Renata Quadros](https://github.com/Renatinha28) e feito o diagrama como monstrado na figura 2.
 
 ![tabela](../../assets/Analise_Requisitos/analise_Solicitar_Ant.png)
 <div align="center">
-<p> Figura 2- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
+<p> Figura 3- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
 
 </div>
 Fonte: [Renata Quadros](https://github.com/Renatinha28) 
@@ -94,7 +97,7 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
 <div align="center">
-<p> Figura 2- Diagrama de Analise da Denúncia Online. </p> 
+<p> Figura 4- Diagrama de Analise da Denúncia Online. </p> 
 
 </div>
 Fonte :[Giovana Barbosa](https://github.com/gio221)  
@@ -103,15 +106,34 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0.Fazer Denúncia  |                                                                                                                                                                                                         |
-|      1.Denúncia Online     | **input**: Ver qual denúncia vai fazer.<br>**feedback**: usuário redirecionado para a página de denúncias<br> **plano**: procurar qual denúncia                                        |
-|     1.1.Escolher tipo de denúncia      | **input**: Ver qual denúncia vai fazer.<br>**feedback**: após ver qual denúncia quer fazer, clicar nela  **plano**: selecionar qual denúncia vai fazer                                             |
-|       1.2.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
-| 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
-|       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
-                                                                                  |
+| 0. Entrar no site da PCDF  |  **input**: Digitar o endereço  do site da PCDF no navegador <br>**feedback**:Página inicial do site da PCDF <br> **plano**: Procurar pela aba serviços
+|  1.Acessar "Serviços" |  **input**: Acessar a aba serviços <br>**feedback**:Página de serviços da PCDF <br> **plano**: Procurar pela 197-Denuncia Online                                                                                    |
+|      2.Acessar "197 Denúncia"   | **input**: Acessar a aba de denuncia <br>**feedback**: usuário redirecionado para a página de denúncias<br> **plano**: procurar qual denúncia                                        |
+|     2.1.Acessar "197-Denúnica-Online"      | **input**: Selecionar denuncia online<br>**feedback**: Vai ser redirecionado para a página de denuncias online <br> **plano**: selecionar qual denúncia vai fazer                                             |
+|     2.1.1Acessar o tipo de denuncia   | **input**: Selecionar qual tipo de denuncia deseja.<br>**feedback**: vai ser redirecionado para a pagina de coletar infromações.<br>  **plano**: Preencher localização                  |
+| 2.1.2 Informar localização | **input**: preencher localização da denuncia <br>**feedback**: usuário vai receber uma confirmação <br>                                                                                   | 
+| 2.1.3 descrever o crime | **input**: preencher sobre a denuncia <br>**feedback**: usuário vai receber uma confirmação <br>                                                                                   | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+| 2.2Acessar "Denúncia email"| **input**: acessar denuncia por email <br>**feedback**: usuário vai ser reedirecionado para o email da PCDF <br>                          **plano**: Preencher informações da denuncia no email                  |                                                         | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+| 2.3Acessar "Denúncia 197-Whatssapp"| **input**: acessar denuncia por whatssap <br>**feedback**: usuário vai ser reedirecionado para o whatssap da PCDF <br>                          **plano**: Preencher informações da denuncia no whatssap                |                                                         | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+|2.4Acessar "Denúncia ligação 197-opção (0)"| **input**: acessar denuncia por ligação <br>**feedback**: usuário vai ser reedirecionado para o telefone da PCDF <br>                          **plano**: Dar informações da denuncia para o atendente da PCDF             |                                                         | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+
+
 
 ### Solicitar Carteira de Identidade 
+Nessa tabela o usuário quer Solicitar a Carteira de identidade
+![Carteira de Identidade](../../assets/Analise_Requisitos/DiagramaCart.png)
+
+<div align="center">
+<p> Figura 5- Solicitar Carteira de Identidade  </p> 
+
+</div>
+Fonte :[Raissa](https://github.com/RaissaAndradeS)  
+
+     Tabela que descreve Diagrama de Analise de Solicitar Carteira de Identidade 
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -121,9 +143,6 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 | 4. Preencher o Formulário de Solicitação Online   | **Input**: Preencher o formulário online com as informações pessoais necessárias. <br> **Feedback**: Confirmação de envio bem-sucedido do formulário. <br>  **Plano de Ação**: Preencher corretamente o formulário online com os dados solicitados, incluindo informações pessoais e dados de contato.  |
 | 5.Comparecer ao Posto de Atendimento | **Input**: Comparecer pessoalmente ao posto de atendimento na data e horário agendados, levando os documentos necessários. <br> **Feedback**: Verificação dos documentos e procedimentos para coleta de dados biométricos e fotográficos, se aplicável. <br> **Plano de Ação**: Comparecer ao posto de atendimento na data e horário agendados, levando todos os documentos solicitados. |
 | 6. Acompanhar o Status da Solicitação   |  **Input**: Verificar o status da solicitação online. <br> **Feedback**: Atualizações sobre o andamento da solicitação. <br> **Plano de Ação**: Verificar regularmente o status da solicitação no site da PCDF.|            
-
-## Diagrama da Carteira de identidade 
-![Carteira de Identidade](../../assets/Analise_Requisitos/DiagramaCart.png)
 
 ### Registrar Ocorrência
 
@@ -141,7 +160,7 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online no site
 
 ![tabela](../../assets/Analise_Requisitos/analise_Retrato_Falado.png)
 <div align="center">
-<p> Figura 2- Diagrama de Analise de Solicitar Antecedentes Criminais. </p> 
+<p> Figura 6- Diagrama de Analise de Retrato Falado. </p> 
 
 </div>
 Fonte: [Renata Quadros](https://github.com/Renatinha28) 
@@ -180,3 +199,4 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 |1.5| Atualização do Índice|[Rayene Almeida](https://github.com/rayenealmeida)|09/05|  [Renata Quadros](https://github.com/Renatinha28) | 09/05  |
 | 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 | 1.7 | Adição do Diagrama de Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |    [Giovana Barbosa](https://github.com/gio221)   |11/05 |
+| 1.8 | Correção na seção "Procurados"| [Lara Giuliana](https://github.com/gravelylara) | 21/05 |    [Giovana Barbosa](https://github.com/gio221)   |11/05 |

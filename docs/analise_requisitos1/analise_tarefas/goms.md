@@ -146,14 +146,15 @@ Nessa tarefa o usuário pretende validar uma certidão de antecedentes criminais
 ### 197- Denúncia Online
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
 
-* GOAL 0: Fazer Denúncia
-    * GOAL 1: Denúncia Online
+* GOAL 0: Fazer uma denuncia Online
+    * GOAL 1: Entrar na parte de Denúncia Online
         * OP 1.1: Guiar o mouse para a aba de denuncia online
         * 0P 1.2: Pressionar o botão
     * GOAL 2: Selecionar a opção denuncia por meios de comunicação
         * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
         * OP 2.2: Pressionar o botão
-    * GOAL 3: Fazer Denuncia
+        * OP 2.3: fazer a denuncia 
+    * GOAL 3: Selecionar denucia Online
         * OP 3.1: Colocar as informações
         * OP 3.2: Clicar no botão denunciar 
 
@@ -297,7 +298,7 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 
 ## Referências bibliograficas
 
->Polícia Civil do Distrito Federal. Delegacia Eletrônica. Capturado em 18 de abril de 2024, de https://www.pcdf.df.gov.br/servicos/delegacia-eletronica.
+> Polícia Civil do Distrito Federal. Polícia Civil do Distrito Federal. Disponível em: [https://www.pcdf.df.gov.br/](https://www.pcdf.df.gov.br/). Acesso em: 14 abr 2024.
 
 ## Histórico de Versões
 
@@ -312,3 +313,4 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 | 1.6 | Atualização de figuras | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
 | 1.7 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa](https://github.com/gio221)   |10/05 |
 | 1.8 | Correções da Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |   [Giovana Barbosa](https://github.com/gio221)   |10/05 |
+|  1.9   | Correção de link               |   [Giovana Barbosa](https://github.com/gio221)        |   15/05   |   [Renata Quadros](https://github.com/Renatinha28)    |  15/05              |
