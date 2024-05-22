@@ -6,16 +6,18 @@ Este documento tem objetivo de armanezar conteúdos da quarta apresentação
 
 # Vídeo de apresentação 
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/bkQWFgGcRec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/bkQWFgGcRec" target="blanket">Vídeo da Apresentação 4</a></p>
 
 
-Este video descreve a apresentação que foi realizada na terceira etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
+Este video descreve a apresentação que foi realizada na quarta etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
 # Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 
 
 | O git-pages possui?     | Sim/Não/Incompleto |
 | :--------: | :----: |     
-1 -A gravação da apresentação dessa etapa? |
+1 -A gravação da apresentação dessa etapa? |Sim
 2 – O planejamento da avaliação segue o Framework DECIDE? |Sim
 3 - Descreve o(s) objetivo(s) da avaliação? (apropriação de tecnologia pelos usuários; ideias e alternativas de design; conformidade com um padrão; e/ou problemas na interação e na interface na fase do modelo conceitual) |Sim
 4 - Os métodos de avaliação a serem utilizados?|Sim

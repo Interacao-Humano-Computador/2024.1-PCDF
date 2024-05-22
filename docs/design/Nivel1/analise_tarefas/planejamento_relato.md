@@ -41,14 +41,14 @@ O método de Avaliação a ser ultilizado é a entrevista aos usuários, portant
 
     Tabela 2- Cronograma da Avaliação
 
-| Integrante responsável | Data       | Artefato | Entrevistado |
-|:----------------------:|------------|-------|---------|
-| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Denuncia Online |  Kaio |                  
-| [João Pedro](https://github.com/JoaoODragonborn) | 20/05/2024 | Validar certidão de antecentes | Vinicius |      
-| [Lara Juliana](https://github.com/gravelylara) | 20/05/2024 |Pesquisar Procurados  |  |                
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade  | Raphael |
-| [Rayene Almeida](https://github.com/rayenealmeida) | 20/05/2024 | Registra Ocorrência |  |  
-| [Renata Quadros](https://github.com/Renatinha28) | 17/05/2024 | Solicitar Antecedentes | Luisa |  
+| Integrante responsável | Data       | Artefato | 
+|:----------------------:|------------|-------|
+| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Denuncia Online |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | 20/05/2024 | Validar certidão de antecentes |       
+| [Lara Juliana](https://github.com/gravelylara) | 20/05/2024 |Pesquisar Procurados  |            
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade  | 
+| [Rayene Almeida](https://github.com/rayenealmeida) | 20/05/2024 | Registra Ocorrência |    
+| [Renata Quadros](https://github.com/Renatinha28) | 17/05/2024 | Solicitar Antecedentes |  
 
 Fonte: [Giovana Barbosa](https://github.com/gio221)
 
@@ -100,14 +100,14 @@ No encerramento da atividade, a validação com um usuário real é crucial. As 
 
     Tabela 3- Cronograma de Reprojeto
 
-| Integrante responsável | Data       | Artefato | Horário | Entrevistado |
-|:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  |  |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  |  |    
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  |  |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 |  |  | |
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
+| Integrante responsável | Data       | Artefato | 
+|:----------------------:|------------|-------|
+| [Giovana Silva](https://github.com/gio221) | 24/05/2024 | Denuncia Online |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | 24/05/2024 | Validar certidão de antecentes |       
+| [Lara Juliana](https://github.com/gravelylara) | 24/05/2024 |Pesquisar Procurados  |            
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05/2024 | Carteira de identidade  | 
+| [Rayene Almeida](https://github.com/rayenealmeida) | 24/05/2024 | Registra Ocorrência |    
+| [Renata Quadros](https://github.com/Renatinha28) | 24/05/2024 | Solicitar Antecedentes |  
 
 # Referências Bibliográficas    
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
