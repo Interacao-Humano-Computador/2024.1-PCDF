@@ -46,9 +46,9 @@ __Tabela 2__ - Perguntas que serão respondidas.
 
 O método escolhido foi o de investigação, esse meio é feito por questionários e assim permite o avaliador explorar visões, pensamentos, previsões e interações do usuário com sistemas interativos, compreendendo suas concepções, opniões e comportamentos. Isso inclui investigar porríveis problemas de design, desafios enfrentados pelos usuários, sua adaptação à tecnologia existente e suas expectativas em relação a futuras interações com tecnologias atuais.
 
-### __I__ - Idenficar questões práticas 
+### __I__ - Identificar questões práticas 
 
-Nesse parte do processo, contém 5 etapas, sendo elas; 
+Nesse parte do processo, contém 4 etapas, sendo elas; 
 
 #### 1. Recrutamento
 
