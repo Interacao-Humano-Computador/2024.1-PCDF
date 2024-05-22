@@ -33,22 +33,13 @@ De acordo com o objetivo da avaliação, as perguntas foram designadas de acordo
 
 __Tabela 2__ - Perguntas que serão respondidas.
 
-|__Numero__|__Pergunta__|__Resposta__|
-|----------|------------|------------|
-|1.| Qual é seu nome? | |
-|2.|Qual é a sua idade? ||
-|3.|Qual é sua profissão?||
-|4.| Qual seu grau de experiência com tecnologias? | |
-|5.| Qual é sua facilidade em utilizar artefatos tecnológicos? | |
-|6.| Como você descreveria seu grau de experiência e conhecimento acerca de procedimentos policiais e legais? | |
-|7.| Você já utilizou algum serviço online do site da PCDF? | |
-|8.| Ao observar a tarefa, a sequência de processos é coerente com o mundo real? Se não, poderia descrever o porquê? | |
-|9.| Como você faria para alcançar seu objetivo de acordo com a funcionalidade descrita? | |
-|10.| Você seguiria esta sequencia para utilizar esta tarefa no site da PCDF? | |
-|11.| Qual sugestão de melhoria você gostaria de compartilhar sobre a funcionalidade do site da PCDF? Seja da própria funcionalidade descrita ou no diagrama. | |
+|__Objetivos__| Perguntas a serem respondidas|
+|-------------|------------------------------|
+|- Ideias e alternativas de design| - De qual delas se espera que tenha um impacto negativo menor ao ser adotada? <br> - Qual delas os usuários preferem? Por que? |
+|- Identificar problemas na interação e interface| - Que parte da avaliação e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interface? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? | 
 <br>
 
-<center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
+<center> Fonte - BARBOSA e SILVA (2011).</center>
 
 
 ### __C__ - Escolher os métodos 
