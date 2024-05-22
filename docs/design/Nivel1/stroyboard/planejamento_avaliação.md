@@ -61,7 +61,7 @@ As entrevistas serão conduzidas por meio da plataforma Microsoft Teams, pois pe
 
 * Teste piloto
 
-Os testes pilotos nos ajudarão a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais.Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Eles serão realizados antes das entrevistas e serão conduzidos pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Silva](https://github.com/gio221). 
+Os testes pilotos nos ajudarão a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais.Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Eles serão realizados antes das entrevistas e serão conduzidos pelas integrantes [Renata Quadros](https://github.com/Renatinha28)
 
 Confira o resultado do teste piloto 
 <video controls src="../../../assets/img/Reunião em _General_-20240522_150714-Gravação de Reunião.mp4" title="Title"></video>
@@ -113,7 +113,7 @@ Antes de prosseguir com a entrevista, é importante abordar questões éticas qu
 Após a conclusão da avaliação, é crucial registrar e analisar os dados de maneira meticulosa, considerando o contexto em que foram obtidos e avaliando sua confiabilidade e aplicabilidade para representar os usuários do site. Isso implica em documentar problemas, desafios encontrados durante a interação, bem como questões relacionadas à usabilidade, funcionalidades faltantes e possíveis problemas de desempenho. Todos esses detalhes, incluindo descrições dos problemas, sua categorização, sugestões de melhorias e feedback dos usuários, serão cuidadosamente anotados, juntamente com quaisquer observações gerais feitas durante as entrevistas. Após essa fase de análise, os dados serão compartilhados com a equipe de desenvolvimento, visando obter insights valiosos para aprimorar o projeto.
 
 <a id="teste_piloto"></a>
-## Resultado do teste piloto
+
 
 
 ## Referências Bibliográficas
