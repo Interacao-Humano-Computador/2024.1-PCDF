@@ -24,7 +24,7 @@ Tabela 1: Critérios de avaliação para a entrega
 7 -  A estrutura do relatório do resultado da avaliação (os objetivos da avaliação; uma breve descrição do método de prototipação em papel; o número e o perfil de avaliadores e dos participantes; as tarefas executadas pelos participantes; lista de problemas encontrados etc) |Sim
 8 -  Um cronograma (data e horário) e local para realização da avaliação do StoryBoard e da Análise das Tarefas |Sim
 9 – cada desenho do StoryBoard está relacionado uma especificação do artefato da Análise de Tarefas? | Sim
-10 - quantidade de storyboards é igual a quantidade de integrantes do grupo|Sim
+10 - quantidade de storyboards é igual a quantidade de integrantes do grupo|Não, temos um a mais
 11- A definição do teste piloto e data para realização do teste piloto antes da avaliação?| Sim
 12 - O resultado do teste piloto não será apresentado no resultado da avaliação?| Sim
 13 –  Os itens que o avaliador deve realizar/anotar durante a avaliação (listar os problemas encontrados, priorizar a correção dos problemas não resolvidos)?|Sim
