@@ -57,11 +57,11 @@ Utilizaremos entrevistas com usuários para explorar suas percepções, opiniõe
 
 #### Mão-de-obra Necessária
 
-- 6 entrevistadores (1 para cada storyboard, com cada entrevistador responsável por 1 funcionalidades e pelo menos 1 ouvinte).
+- 6 entrevistadores (1 para cada storyboard, com cada entrevistador responsável por 1 funcionalidades).
 
 #### Orçamento
 
-- Uso de ferramentas gratuitas como Microsoft Teams para conduzir as entrevistas.
+- Uso de ferramentas gratuitas câmera do celular para gravar.
 - Nenhum custo adicional esperado.
 
 #### Prazo
