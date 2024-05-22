@@ -106,13 +106,22 @@ Fonte :[Giovana Barbosa](https://github.com/gio221)
 
 |     Objetivos/Operações      | Problemas e recomendações                                                                                                                                                                               |
 | :--------------------------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  0.Fazer Denúncia  |                                                                                                                                                                                                         |
-|      1.Denúncia Online     | **input**: Ver qual denúncia vai fazer.<br>**feedback**: usuário redirecionado para a página de denúncias<br> **plano**: procurar qual denúncia                                        |
-|     1.1.Escolher tipo de denúncia      | **input**: Ver qual denúncia vai fazer.<br>**feedback**: após ver qual denúncia quer fazer, clicar nela  **plano**: selecionar qual denúncia vai fazer                                             |
-|       1.2.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
-| 2.Denuncia por meios de comunicação | **input**: escolher qual meio de comunicação vai ultilizar e clicar nele.<br>**feedback**: usuário redirecionado para o link do canal de comunicação(ligação, whatssap,e-mail) .<br>                                                                                   | 
-|       2.1.Fazer denuncia      | **input**: dados da denuncia.<br>**feedback**: usuário deve preencher informações sobre a denúncia.<br>  |
-                                                                                  |
+| 0. Entrar no site da PCDF  |  **input**: Digitar o endereço  do site da PCDF no navegador <br>**feedback**:Página inicial do site da PCDF <br> **plano**: Procurar pela aba serviços
+|  1.Acessar "Serviços" |  **input**: Acessar a aba serviços <br>**feedback**:Página de serviços da PCDF <br> **plano**: Procurar pela 197-Denuncia Online                                                                                    |
+|      2.Acessar "197 Denúncia"   | **input**: Acessar a aba de denuncia <br>**feedback**: usuário redirecionado para a página de denúncias<br> **plano**: procurar qual denúncia                                        |
+|     2.1.Acessar "197-Denúnica-Online"      | **input**: Selecionar denuncia online<br>**feedback**: Vai ser redirecionado para a página de denuncias online <br> **plano**: selecionar qual denúncia vai fazer                                             |
+|     2.1.1Acessar o tipo de denuncia   | **input**: Selecionar qual tipo de denuncia deseja.<br>**feedback**: vai ser redirecionado para a pagina de coletar infromações.<br>  **plano**: Preencher localização                  |
+| 2.1.2 Informar localização | **input**: preencher localização da denuncia <br>**feedback**: usuário vai receber uma confirmação <br>                                                                                   | 
+| 2.1.3 descrever o crime | **input**: preencher sobre a denuncia <br>**feedback**: usuário vai receber uma confirmação <br>                                                                                   | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+| 2.2Acessar "Denúncia email"| **input**: acessar denuncia por email <br>**feedback**: usuário vai ser reedirecionado para o email da PCDF <br>                          **plano**: Preencher informações da denuncia no email                  |                                                         | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+| 2.3Acessar "Denúncia 197-Whatssapp"| **input**: acessar denuncia por whatssap <br>**feedback**: usuário vai ser reedirecionado para o whatssap da PCDF <br>                          **plano**: Preencher informações da denuncia no whatssap                |                                                         | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+|2.4Acessar "Denúncia ligação 197-opção (0)"| **input**: acessar denuncia por ligação <br>**feedback**: usuário vai ser reedirecionado para o telefone da PCDF <br>                          **plano**: Dar informações da denuncia para o atendente da PCDF             |                                                         | 
+|       2.1.Fazer denuncia      | **input**: enviar denuncia<br>**feedback**: usuário deve receber uma confirmação de envio.<br>  |
+
+
 
 ### Solicitar Carteira de Identidade 
 Nessa tabela o usuário quer Solicitar a Carteira de identidade
@@ -124,7 +133,7 @@ Nessa tabela o usuário quer Solicitar a Carteira de identidade
 </div>
 Fonte :[Raissa](https://github.com/RaissaAndradeS)  
 
-     Tabela que descreve Diagrama de Analise da Denúncia Online
+     Tabela que descreve Diagrama de Analise de Solicitar Carteira de Identidade 
 
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
