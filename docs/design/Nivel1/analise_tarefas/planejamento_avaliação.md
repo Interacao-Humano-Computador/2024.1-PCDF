@@ -60,7 +60,7 @@ Na preparação, cada integrante da equipe tem um artefato a ser trabalhado, ent
 
 #### 3. Custos
 
-Visando em não gerar custos para a aquipe, vamos optar por fazer a entrevista de forma online em uma plataforma que seja gratuita, o teams. 
+Visando em não gerar custos para a equipe, vamos optar por fazer a entrevista de forma presencial. 
 
 #### 4. Prazos
 
@@ -71,12 +71,12 @@ __Tabela 3__ - Cronograma.
 
 | Integrante responsável | Data       | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|
-| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Denuncia Online |  Kaio |                  
-| [João Pedro](https://github.com/JoaoODragonborn) | 20/05/2024 | Validar certidão de antecentes | Vinicius |      
-| [Lara Juliana](https://github.com/gravelylara) | 20/05/2024 |Pesquisar Procurados  |  |                
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade  | Raphael |
-| [Rayene Almeida](https://github.com/rayenealmeida) | 20/05/2024 | Registra Ocorrência |  |  
-| [Renata Quadros](https://github.com/Renatinha28) | 17/05/2024 | Solicitar Antecedentes | Luisa |  
+| [Giovana Silva](https://github.com/gio221) | /05/2024 | Denuncia Online |  |                  
+| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 | Validar certidão de antecentes |  |      
+| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |Pesquisar Procurados  |  |                
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | Carteira de identidade  | |
+| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 | Registra Ocorrência |  |  
+| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 | Solicitar Antecedentes |  |  
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -86,18 +86,15 @@ __Tabela 4__ - Roteiro de perguntas
 ### <center> Roteiro de perguntas 
 |__Numero__|__Pergunta__|__Resposta__|
 |----------|------------|------------|
-|1.| Qual é seu nome? |Questão aberta |
-|2.|Qual seu grau de experiência com tecnologias? | |
-|3.|Você consegue acessar os serviços? | |
-|4. | De acordo com o site da PCDF qual parte da interface e da interação o deixa insatisfeito? | |
-|5. | Qual parte da interface o desmotiva a descobrir novas funcionalidades?| |
-|6. |Você entende o significado e para que serve cada elemento de interface? | | <br>
-|__Comparação da PCDF com PCGO__|
-|7. |Qual das alternativas é a mais eficiente? Mais fácil de aprender?| |
-|8. |Qual delas você preferiu?| |
-|9. |Qual te agradou mais e qual é mais fácil de aprender?|
-|10. |Quais barreiras você enfrentou para atingir seus objetivos?|
-|11.|Você teve acesso as todas informações oferecidas pelo sistema?|
+|1.| Qual é seu nome? | |
+|2.| Qual seu grau de experiência com tecnologias? | |
+|3.| Qual é sua facilidade em utilizar artefatos tecnológicos? | |
+|4.| Como você descreveria seu grau de experiência e conhecimento acerca de procedimentos policiais e legais? | |
+|5.| Você já utilizou algum serviço online do site da PCDF? | |
+|6.| Ao observar a tarefa, a sequência de processos é coerente com o mundo real? Se não, poderia descrever o porquê? | |
+|7.| Como você faria para alcançar seu objetivo de acordo com a funcionalidade descrita? | |
+|8.| Você seguiria esta sequencia para utilizar esta tarefa no site da PCDF? | |
+|9.| Qual sugestão de melhoria você gostaria de compartilhar sobre a funcionalidade do site da PCDF? Seja da própria funcionalidade descrita ou no diagrama. | |
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -112,17 +109,19 @@ A validade externa também é crucial, avaliando em que medida os resultados pod
 
 ### Teste piloto 
 
-Antes da entrevista principal com os usuários, dois avaliadores conduzirão um teste piloto. Esse teste tem como propósito simular uma sessão de avaliação para garantir o funcionamento correto de todas as ferramentas planejadas, verificar a eficácia do planejamento e determinar se a avaliação pode fornecer os dados necessários para o estudo. Além disso, o teste piloto permitirá avaliar a clareza e a objetividade da linguagem usada na entrevista, garantindo que as perguntas sejam compreendidas de forma adequada pelos participantes.
+Antes da entrevista principal com os usuários, um ou dois avaliadores conduzirão um teste piloto. Esse teste tem como propósito simular uma sessão de avaliação para garantir o funcionamento correto de todas as ferramentas planejadas, verificar a eficácia do planejamento e determinar se a avaliação pode fornecer os dados necessários para o estudo. Além disso, o teste piloto permitirá avaliar a clareza e a objetividade da linguagem usada na entrevista, garantindo que as perguntas sejam compreendidas de forma adequada pelos participantes.
 
-O teste piloto foi realizado no dia 18/05/2024, pela parte da manhã.
 
-|__Data__|__Local__|__Horário__|__Entrevistadores__|__Participante__|
-|--------|---------|-----------|-------------------|--------|
-|18/05/2024|Microsoft Teams|11:30 am | [Raissa Andrade](https://github.com/RaissaAndradeS)| [Renata Quadros](https://github.com/Renatinha28)|
+
+|__Data__|__Local__|__Horário__|__Entrevistadores__|
+|--------|---------|-----------|-------------------|
+|22/05/2024|Microsoft Teams|11:30 am | [Renata Quadros](https://github.com/Renatinha28)|
 
 ### Resultado do Teste piloto 
-Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto, durou cerca de 8 minutos. A participante [Renata Quadros](https://github.com/Renatinha28) fez o papel do usuário e [Raissa Andrade](https://github.com/RaissaAndradeS) fez o papel de entrevistadora. No roteiro, apresento o Termo de Consentimento, peço para realizar uma atividade no site da PCDF, apresento o diagrama que foi feito no HTA e por último peço para ela comparar o site da PCDF com PCGO.
-Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=tM17vB1zjOw)
+
+<video controls src="../../../assets/img/Reunião em _General_-20240522_150714-Gravação de Reunião.mp4" title="Title"></video>
+
+* OBSERVAÇÃO: Foi feito um teste piloto para analise de tarefa e para o storyboard juntos, esse teste é o mesmo presente no storyboard
 
 ## Referências Bibliográficas
 
@@ -137,3 +136,4 @@ Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
 | 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |
+| 1.2 | Adicionando o teste pilot  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 | |  |

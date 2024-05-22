@@ -63,7 +63,8 @@ As entrevistas serão conduzidas por meio da plataforma Microsoft Teams, pois pe
 
 Os testes pilotos nos ajudarão a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais.Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Eles serão realizados antes das entrevistas e serão conduzidos pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Silva](https://github.com/gio221). 
 
-Confira o resultado do teste piloto [aqui](#teste_piloto).
+Confira o resultado do teste piloto 
+<video controls src="../../../assets/img/Reunião em _General_-20240522_150714-Gravação de Reunião.mp4" title="Title"></video>
 
 ## Cronograma 
 O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realizadas por cada integrante.
@@ -71,12 +72,12 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
     Tabela 2: cronograma 
 | Integrante responsável | Data       | Local | Horário | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Online (Microsoft Teams) | 19:30 a 19:50 | Kaio Costa |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 2 |    
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 3 |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Online (Microsoft Teams) | 20:00 PM | Raphael |
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 5 |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 | Online (Microsoft Teams) |  | Nome do Entrevistado 6 |
+| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  | Nome do Entrevistado 1 |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  | Nome do Entrevistado 2 |    
+| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  | Nome do Entrevistado 3 |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | |   | Nome do Entrevistado 4 |
+| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  | Nome do Entrevistado 5 |
+| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  | Nome do Entrevistado 6 |
 
 Fonte - Renata Quadros.
 
@@ -129,3 +130,4 @@ Após a conclusão da avaliação, é crucial registrar e analisar os dados de m
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
 | 1.1 | Planejamento da avaliação do storyboard | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)   | 16/05 |
+| 1.2 | Adicionando o teste piloto  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 |  |  |
