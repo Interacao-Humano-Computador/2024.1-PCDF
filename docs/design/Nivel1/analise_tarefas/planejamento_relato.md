@@ -55,25 +55,26 @@ Fonte: [Giovana Barbosa](https://github.com/gio221)
 ## Perguntas que deveriam ser respondidas com a avaliação
 - 1- De qual delas se espera que tenha um impacto negativo menor ao ser adotada?
 - 2- Qual delas os usuários preferem? Por que?
-- 3- Que parte da interface e da interação o deixa insatisfeito?
-- 4- Ele entende o que significa cada elemento da interfaxe?
+- 4- Ele entende o que significa cada elemento ?
 - 5- Ele vai entender o que deve ser feito logo em seguida?
 - 6- Ele tem acesso a todas as informações oferecidas pelo sistema?
 
 # Mão-de-obra necessária para conduzir a avaliação,  os prazos e a preparação e o uso dos equipamentos necessários.
 
 ## Mão-de-obra necessária
-É necessário um integrante do grupo para fazer as perguntas e modelar a entrevista, o entrevistado com usuário, e um integrante do grupo para anoatar as respostas
+É necessário um integrante do grupo para fazer as perguntas e modelar a entrevista, o entrevistado como usuário
 
 ## Preparação 
-Para poder fazer a entrevista, primeiro é necessário realizar o teste piloto
+Para poder fazer a entrevista, primeiro é necessário realizar o teste piloto, e marca com o usuário a realização da entrevista  
 
 ## Prazo
-O relato deve ser realizado até 17/05/2024 para a realização da entrega do relato dentro da matéria. 
+A entrevista deve ser realizado até 22/05/2024 para a realização da entrega do relato dentro da matéria. 
 
 ## Equipamento
 Apresentar todos os equipamento utilizados para a realização com sucesso das entrevistas com os usuários. 
 
+# Número e Perfil dos Usuários e Avaliadores
+Deve ser relato qual foi o motivo da escolha dos intrevistados com base no perfil do usuário do site
 
 # Sugestões de melhoria
 É fundamental que o entrevistador documente de maneira completa as sugestões e melhorias baseadas nos problemas identificados durante a avaliação. Isso envolve registrar de forma clara e objetiva cada problema encontrado, descrevendo o contexto em que ocorreu, as ações realizadas pelo usuário, o resultado esperado e o resultado observado. Além disso, o entrevistador deve propor soluções ou sugestões para corrigir os problemas identificados, oferecendo ideias para ajustes de design, melhorias na interface do usuário ou alterações nas funcionalidades.
@@ -84,6 +85,14 @@ Apresentar todos os equipamento utilizados para a realização com sucesso das e
 # Análise e interpretação dos resultados
 ## Sumário dos principais resultados
 Serão apresentados de forma resumida e objetiva os dados obtidos com avaliação de cada tarefa, contendo uma descrição breve se os participantes conseguiram realizá-la com êxito ou não. 
+
+## Interpretação e Análise dos Dados
+Após a coleta de dados dos participantes, o próximo passo é interpretá-los, dando significado às informações obtidas. Isso é feito por meio de anotações feitas durante as entrevistas, onde as respostas e orientações dos usuários são registradas, especialmente aquelas relacionadas aos questionamentos específicos de cada funcionalidade. Cada avaliador responsável pela sua respectiva tarefa analisará individualmente os feedbacks dos participantes que entrevistou.
+
+Nesta fase do processo, o relatório deve conter as interpretações derivadas dos dados coletados, onde serão analisados e discutidos os insights e observações obtidos durante as entrevistas
+
+## Lista dos Problemas Encontrados
+Nessa parte do relato o entrevistador deve realatar as dificuldades que os usuários encontraram durante a entrevista
 
 ## Planejamento de Reprojeto
 No encerramento da atividade, a validação com um usuário real é crucial. As mudanças sugeridas e outras questões encontradas durante a análise do artefato devem ser consideradas para um eventual reprojetar. No entanto, é fundamental manter a base do projeto original e fazer apenas as alterações necessárias. Nesse sentido, a Tabela 2 apresenta um cronograma de reprojeto, agendado para ocorrer um dia após a entrevista. O horário é flexível e não deve ser seguido rigidamente.
