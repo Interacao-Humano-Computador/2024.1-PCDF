@@ -1,7 +1,7 @@
 # Ata da reunião - 07/05/2024
 
 ## Introdução
-Ata da reunião que aconteceu no dia 07/05/2024 das  da noite, com foco nos resultados da etapa 2 e planejamento da etapa 3 
+Ata da reunião que aconteceu no dia 07/05/2024 , com foco nos resultados da etapa 2 e planejamento da etapa 3 
 
 #
 
@@ -31,3 +31,4 @@ Fizemos um verificação do que precisva ser corrigido no site, e montamos uma p
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
 | 1.0 |  07/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) |[Renata Quadros](https://github.com/Renatinha28)  |11/05|
+

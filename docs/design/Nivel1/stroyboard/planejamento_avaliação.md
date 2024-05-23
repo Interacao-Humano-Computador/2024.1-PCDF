@@ -64,7 +64,11 @@ As entrevistas serão conduzidas por meio da plataforma Microsoft Teams, pois pe
 Os testes pilotos nos ajudarão a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais.Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Eles serão realizados antes das entrevistas e serão conduzidos pelas integrantes [Renata Quadros](https://github.com/Renatinha28)
 
 Confira o resultado do teste piloto 
-<video controls src="../../../assets/img/Reunião em _General_-20240522_150714-Gravação de Reunião.mp4" title="Title"></video>
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YSvD6ehyKpg " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/YSvD6ehyKpg " target="blanket">Resultado do teste piloto</a></p>
+
 
 ## Cronograma 
 O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realizadas por cada integrante.

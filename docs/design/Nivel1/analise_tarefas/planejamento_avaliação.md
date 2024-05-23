@@ -121,7 +121,9 @@ Antes da entrevista principal com os usuários, um ou dois avaliadores conduzir�
 
 ### Resultado do Teste piloto 
 
-<video controls src="../../../assets/img/Reunião em _General_-20240522_150714-Gravação de Reunião.mp4" title="Title"></video>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YSvD6ehyKpg " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/YSvD6ehyKpg " target="blanket">Resultado do teste piloto</a></p>
+
 
 * OBSERVAÇÃO: Foi feito um teste piloto para analise de tarefa e para o storyboard juntos, esse teste é o mesmo presente no storyboard
 

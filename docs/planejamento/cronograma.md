@@ -69,20 +69,20 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Storyboard           | Início: 14/05 Fim: 20/05 |  Giovana, João, Lara, Raissa, Rayene e Renata  | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Perguntas do site | Início: 20/05 Fim: 20/05 | Giovana| Início: 20/05 Fim: 20/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Gravação da apresentação   | Início: 20/05 Fim: 21/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 21/05 Fim: 21/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Correção pós entrega         | Início: 22/05 Fim: 24/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 24/05 Fim: 24/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega         | Início: 23/05 Fim: 25/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 25/05 Fim: 25/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 
 ## Etapa 5: Relato dos resultados do Story Board
     Esta tabela descreve as atividades planejadas da etapa 5
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Relato dos resultados do Storyboard    | Início: 22/05 Fim: 24/05 | Giovana          | Início: 24/05 Fim: 24/05 |  Giovana, João, Lara, Raissa, Rayene e Renata           |
-| Relato dos resultados da Análise de tarefas                             | Início: 24/05 Fim: 26/05 | João Pedro  | Início: 26/05 Fim: 26/05 |Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Planejamento da avaliação do protótipo de papel                         | Início: 28/05 Fim: 30/05 | Rayene  e Renata | Início: 30/05 Fim: 30/05 |Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 26/05 Fim: 28/05 | Raissa e Lara        | Início: 28/05 Fim: 28/05 | Giovana, João, Lara, Raissa, Rayene e Renata            |
-| Responder Perguntas Finais   | Início: 30/05 Fim: 30/05| Giovana              | Início: 30/05 Fim: 30/05| Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Gravação da apresentação                                                | Início: 30/05 Fim: 01/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 01/06 Fim: 01/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |
-|Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 06/06 Fim: 05/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | 
+| Relato dos resultados do Storyboard    | Início: 25/05 Fim: 27/05 | Giovana          |  Início: 25/05 Fim: 27/05 |  Giovana, João, Lara, Raissa, Rayene e Renata           |
+| Relato dos resultados da Análise de tarefas                             |  Início: 25/05 Fim: 27/05 | Rayene |  Início: 25/05 Fim: 27/05  |Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Planejamento da avaliação do protótipo de papel                         | Início: 23/05 Fim: 25/05 | João e Lara |  Início: 23/05 Fim: 25/05  |Giovana, João, Lara, Raissa, Rayene e Renata   |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 25/05 Fim: 27/05 | Raissa e Renata        | Início: 25/05 Fim: 27/05 | Giovana, João, Lara, Raissa, Rayene e Renata            |
+| Responder Perguntas Finais   |  Início: 25/05 Fim: 27/05 | Giovana              |  Início: 25/05 Fim: 27/05 | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Gravação da apresentação                                                | Início: 28/05 Fim: 29/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 28/05 Fim: 29/05 | Giovana, João, Lara, Raissa, Rayene e Renata              |
+|Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | 
 
 ## Etapa 6.1:  Verificação dos artefatos
     Esta tabela descreve as atividades planejadas da etapa 6.1
