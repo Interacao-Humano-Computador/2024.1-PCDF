@@ -67,15 +67,13 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
 | Planejamento da avaliação do Storyboard                          | Início: 14/05 Fim: 16/05 | Renata    | Início: 16/05 Fim: 16/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 16/05 Fim: 18/05 | Lara   | Início: 18/05 Fim: 18/05   |  Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Relato do Storyboard    | Início: 18/05 Fim: 20/05 | João   | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Planejamento do relato dos resultados da avaliação do Storyboard | Início: 16/05 Fim: 18/05 | Rayene  | Início: 18/05 Fim: 18/05   |  Giovana, João, Lara, Raissa, Rayene e Renata  |
 | Planejamento da Avaliação da Análise de tarefas                  | Início: 14/05 Fim: 16/05| Raissa | Início: 16/05 Fim: 16/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Planejamento do relato da avaliação da análise de tareas         | Início: 16/05 Fim: 18/05 | Giovana    | Início: 18/05 Fim: 18/05  | Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Relato da Análise de tarefas       | Início: 18/05 Fim: 20/05 | Rayene | Início: 20/05 Fim: 20/05   |  Giovana, João, Lara, Raissa, Rayene e Renata    |
 | Storyboard           | Início: 14/05 Fim: 20/05 |  Giovana, João, Lara, Raissa, Rayene e Renata  | Início: 20/05 Fim: 20/05   | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Perguntas do site | Início: 20/05 Fim: 20/05 | Giovana| Início: 20/05 Fim: 20/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Gravação da apresentação   | Início: 20/05 Fim: 21/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 21/05 Fim: 21/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Correção pós entrega         | Início: 22/05 Fim: 24/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 24/05 Fim: 24/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Gravação da apresentação   | Início: 20/05 Fim: 22/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 22/05 Fim: 22/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega         | Início: 22/05 Fim: 28/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 24/05 Fim: 24/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 
 ## Bibliografia 
 [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)

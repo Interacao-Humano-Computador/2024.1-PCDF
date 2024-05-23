@@ -68,7 +68,6 @@ Você concorda com os termos acima e está disposto a participar desta entrevist
 
 [ ]Sim [ ]Não
 
-## Termo de consentimento da entrevista da Análise de Tarefas
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
