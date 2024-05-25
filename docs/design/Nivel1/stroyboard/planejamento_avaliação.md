@@ -24,20 +24,31 @@ Fonte - BARBOSA e SILVA (2010).
 ## Planejamento da Avaliação do Storyboard
 
 ## D - Determinar os objetivos da avaliação.
-A avaliação dos storyboards tem como objetivo primordial verificar a adequação e fidelidade das representações visuais apresentadas em relação à realidade do contexto de uso do sistema. Além de elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. Para atingir esse objetivo, a avaliação se concentra em várias etapas essenciais como análise da correspondência das tarefas, comparação entre storyboards e realidade e necessidade de modificação dos storyboards.
+A tabela 2 descreve os objetivos desta avaliação.
+
+    Tabela 2: objetivos da avaliação
+| Número | Objetivos |
+| :-----: | ----------------------------------------------------------------------------------------------------------|
+| 1 | Verificar a adequação e fidelidade das representações visuais em relação à realidade do contexto de uso do sistema. |
+| 2 | Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. |
+| 3 | Analisar a correspondência das tarefas representadas nos storyboards. |
+| 4 | Comparar os storyboards com a realidade do contexto de uso. | 
+| 5 | Identificar e implementar as modificações necessárias nos storyboards. |
 
 ## E - Explorar perguntas a serem respondidas com a avaliação.
 Nesta etapa, elaboramos um roteiro de entrevista com perguntas específicas que nos ajudarão a explorar diferentes aspectos da interação do usuário com o storyboard, visando atingir nossos objetivos de avaliação. É fundamental que as perguntas sejam claras, concisas e abordem todos os aspectos relevantes do storyboard.
 
 Para desenvolver as perguntas específicas para avaliar os storyboards na área de Interação Humano-Computador (IHC), consideramos os objetivos gerais da avaliação. O principal objetivo é verificar a adequação e fidelidade das representações visuais apresentadas em relação à realidade do contexto de uso do sistema, além de elaborar e validar uma versão final que fosse clara, coesa, atraente e alinhada com os objetivos do projeto.
-Com base nesses objetivos, foram propostas as seguintes perguntas:
+Com base nesses objetivos, foram propostas as seguintes perguntas mostradas na tabela 3:
 
-* Os usuários concordam que as representações visuais nos storyboards refletem com precisão as situações e interações encontradas no contexto real de uso do sistema?
-
-* Os feedbacks dos usuários indicam que a versão final dos storyboards é clara, coesa, atraente e alinhada com os objetivos do projeto de design de interface?
-
-* Os storyboards precisam de alguma modificação para validação com o usuário?
-
+    Tabela 3: perguntas a serem respondidas
+| Número | Perguntas |
+| :-----: | ------------------------------------------------------------------------------------------|
+| 1 | As representações visuais no storyboard refletem adequadamente as tarefas e o contexto de uso do sistema? |
+| 2 | As sequências de interação mostradas no storyboard são claras e correspondem ao fluxo de trabalho real dos usuários? |
+| 3 | O storyboard é visualmente atraente e está alinhado com os objetivos gerais do projeto? |
+| 4 | O storyboard representa fielmente o ambiente e as condições reais onde o sistema será utilizado? |
+| 5 | Existem partes do storyboard que precisam de modificações para melhorar sua clareza ou fidelidade? Se sim, quais seriam essas modificações? |
 
 ## C - Escolher os métodos de avaliação a serem utilizados.
 O método de avaliação escolhido foi a entrevista, pois ela permite uma interação direta entre o avaliador e os usuários, o que possibilita uma exploração mais profunda das percepções, opiniões e experiências dos usuários em relação aos storyboards, além de oferecerem uma oportunidade para os usuários expressarem suas opiniões e feedbacks de forma verbal, o que pode facilitar a comunicação de ideias complexas que podem não ser facilmente capturadas por outros métodos de avaliação.
@@ -61,7 +72,7 @@ As entrevistas serão conduzidas por meio da plataforma Microsoft Teams, pois pe
 
 * Teste piloto
 
-Os testes pilotos nos ajudarão a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais.Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Eles serão realizados antes das entrevistas e serão conduzidos pelas integrantes [Renata Quadros](https://github.com/Renatinha28)
+O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
 Confira o resultado do teste piloto 
 
@@ -76,12 +87,12 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
     Tabela 2: cronograma 
 | Integrante responsável | Data       | Local | Horário | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  | Nome do Entrevistado 1 |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  | Nome do Entrevistado 2 |    
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  | Nome do Entrevistado 3 |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | |   | Nome do Entrevistado 4 |
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  | Nome do Entrevistado 5 |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  | Nome do Entrevistado 6 |
+| [Giovana Silva](https://github.com/gio221) | 26/05/2024 | Presencial |  | Nome do Entrevistado 1 |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | 26/05/2024 | Presencial |  | Nome do Entrevistado 2 |    
+| [Lara Juliana](https://github.com/gravelylara) | 26/05/2024 | Presencial |  | Nome do Entrevistado 3 |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 26/05/2024 | Presencial |   | Nome do Entrevistado 4 |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 26/05/2024 | Presencial |  | Nome do Entrevistado 5 |
+| [Renata Quadros](https://github.com/Renatinha28) | 26/05/2024 | Presencial |  | Nome do Entrevistado 6 |
 
 Fonte - Renata Quadros.
 
@@ -91,20 +102,21 @@ Durante a entrevista, contextualizaremos a importância dos storyboards para a u
     Tabela 3: perguntas da entrevista
 | Número | Pergunta | Resposta |
 |:-------:|-----------------------------------------------------------|---------------------------------------------|
-| 1 | Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 2 | O cenário descrito no storyboard parece realista e relevante para os usuários do sistema? |[]Sim<br> []Não<br> []Não sei responder<br> |
-| 3 | As atividades mostradas no storyboard refletem o que os usuários realmente fazem ao usar o sistema? | []Sim<br> []Não<br> []Não sei responder<br> |
-| 4 | Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? | []Sim<br> []Não<br> []Não sei responder<br> |
-| 5 | O storyboard parece ser apropriado para o público-alvo do produto? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 6 | O estilo visual do storyboard corresponde à identidade visual do produto? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 7 | O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 8 | Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 9 | As informações fornecidas no storyboard são fáceis de entender para os usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 10 | Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 11 | O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 12 | O storyboard destaca os principais benefícios e vantagens do produto para os usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
-| 13 | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?| []Sim<br> []Não<br> []Não sei responder<br>|
-| 14 | Você tem alguma sugestão ou feedback para melhorar o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 1 | Qual seu nome completo? | Aberta |
+| 2 | Qual sua idade? | Aberta |
+| 3 | Qual sua ocupação? | Aberta |
+| 4 | Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 5 | O cenário descrito no storyboard parece realista e relevante para os usuários do sistema? |[]Sim<br> []Não<br> []Não sei responder<br> |
+| 6 | Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? | []Sim<br> []Não<br> []Não sei responder<br> |
+| 7 | O storyboard parece ser apropriado para o público-alvo do produto? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 8 | O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 9 | Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 10 | As informações fornecidas no storyboard são fáceis de entender para os usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 11 | Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 12 | O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 13 | O storyboard destaca os principais benefícios e vantagens do produto para os usuários? | []Sim<br> []Não<br> []Não sei responder<br>|
+| 14 | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?| []Sim<br> []Não<br> []Não sei responder<br>|
+| 15 | Você tem alguma sugestão ou feedback para melhorar o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
 
 <center>Fonte - [Renata Quadros](https://github.com/Renatinha28) <br> <br> <br>
 
@@ -115,9 +127,6 @@ Antes de prosseguir com a entrevista, é importante abordar questões éticas qu
 
 ## E - Avaliar, interpretar e apresentar os dados.
 Após a conclusão da avaliação, é crucial registrar e analisar os dados de maneira meticulosa, considerando o contexto em que foram obtidos e avaliando sua confiabilidade e aplicabilidade para representar os usuários do site. Isso implica em documentar problemas, desafios encontrados durante a interação, bem como questões relacionadas à usabilidade, funcionalidades faltantes e possíveis problemas de desempenho. Todos esses detalhes, incluindo descrições dos problemas, sua categorização, sugestões de melhorias e feedback dos usuários, serão cuidadosamente anotados, juntamente com quaisquer observações gerais feitas durante as entrevistas. Após essa fase de análise, os dados serão compartilhados com a equipe de desenvolvimento, visando obter insights valiosos para aprimorar o projeto.
-
-<a id="teste_piloto"></a>
-
 
 
 ## Referências Bibliográficas
@@ -134,4 +143,5 @@ Após a conclusão da avaliação, é crucial registrar e analisar os dados de m
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
 | 1.1 | Planejamento da avaliação do storyboard | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)   | 16/05 |
-| 1.2 | Adicionando o teste piloto  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 |  [Giovana Barbosa](https://github.com/gio221)  | 22/05 |
+| 1.2 | Adicionando o teste piloto  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 |  [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 22/05 |
+| 1.3 | Correções | [Renata Quadros](https://github.com/Renatinha28) | 25/05 | | |
