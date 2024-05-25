@@ -126,4 +126,4 @@ Ao incorporar essas melhorias, o site da Polícia Civil do Distrito Federal pode
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-| 1.0 | Análise competitiva | [Renata Quadros](https://github.com/Renatinha28) |14/04|[Giovana Barbosa ](https://github.com/gio221)  |14/04 |
+| 1.0 | Análise competitiva | [Renata Quadros](https://github.com/Renatinha28) |14/04|[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  |14/04 |

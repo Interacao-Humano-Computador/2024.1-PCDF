@@ -30,5 +30,5 @@ Fizemos um verificação do que precisva ser corrigido no site, e montamos uma p
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  07/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) |[Renata Quadros](https://github.com/Renatinha28)  |11/05|
+| 1.0 |  07/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
 

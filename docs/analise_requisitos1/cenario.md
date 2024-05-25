@@ -195,5 +195,5 @@ Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção q
 | 1.4 | Cenário registro de ocorrencia | [Rayene Almeida](https://github.com/rayenealmeida) | 19/04 | [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS) | 20/04 |
 | 1.4 | Atualização de figuras e índice | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
 | 1.5 | Cenário funcionalidade sugerida | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |   [Giovana Barbosa ](https://github.com/gio221) | 10/05 |
-| 1.7 |  Bibliografia  | [Giovana Barbosa ](https://github.com/gio221) | 15/05 | [Renata Quadros](https://github.com/Renatinha28) | 15/05 |
+| 1.7 |  Bibliografia  | [Giovana Barbosa ](https://github.com/gio221) | 15/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 15/05 |
 

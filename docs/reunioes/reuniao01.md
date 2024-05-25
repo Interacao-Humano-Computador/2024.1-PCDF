@@ -49,4 +49,4 @@ Tabela 3: Histórico de versões da página da primeira reunião
 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28)|
+| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|

@@ -3,7 +3,7 @@
 ### Introdução 
 
 A avaliação é uma etapa crucial para entender e melhorar a interação entre os usuários e os sistemas computacionais. A ideia do planejamento é envolver uma série de etapas detalhadas visando que a avaliação seja ampla e absoluta.
-Primeiro, é essencial definir os objetivos da avaliação, identificar as tarefas críticas e as questões que são necessárias serem respondidas. Logo após, os métodos de avaliação apropriados.
+Primeiro, é essencial definir os objetivos da avaliação, identificar as tarefas críticas e as questões que são necessárias serem respondidas. Logo após, os métodos de avaliação apropriados, 
 
 ### Metodologia 
 
@@ -36,7 +36,7 @@ __Tabela 2__ - Perguntas que serão respondidas.
 |__Objetivos__| Perguntas a serem respondidas|
 |-------------|------------------------------|
 |- Ideias e alternativas de design| - De qual delas se espera que tenha um impacto negativo menor ao ser adotada? <br> - Qual delas os usuários preferem? Por que? |
-|- Identificar problemas na interação e interface| - Que parte da avaliação e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interface? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? | 
+|- Identificar problemas na interação e interface| - Que parte da interface e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interface? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? | 
 <br>
 
 <center> Fonte - BARBOSA e SILVA (2011).</center>
@@ -46,21 +46,21 @@ __Tabela 2__ - Perguntas que serão respondidas.
 
 O método escolhido foi o de investigação, esse meio é feito por questionários e assim permite o avaliador explorar visões, pensamentos, previsões e interações do usuário com sistemas interativos, compreendendo suas concepções, opniões e comportamentos. Isso inclui investigar porríveis problemas de design, desafios enfrentados pelos usuários, sua adaptação à tecnologia existente e suas expectativas em relação a futuras interações com tecnologias atuais.
 
-### __I__ - Identificar questões práticas 
+### __I__ - Idenficar questões práticas 
 
-Nesse parte do processo, contém 4 etapas, sendo elas; 
+Nesse parte do processo, contém 5 etapas, sendo elas; 
 
 #### 1. Recrutamento
 
-No recrutamento, os usuários entrevistados devem ser de acordo com o perfil definido no Perfil dos Usuários, de forma arbitrária, os avaliadores devem fazer a avaliação de forma presencial e tem que ser gravada e documentada. Como temos 6 integrantes no grupo, teremos 1 entrevistado para cada avaliador.
+    No recrutamento, os usuários entrevistados devem ser de acordo com o perfil definido no Perfil dos Usuários, de forma arbitrária, os avaliadores devem escolher se será presencial ou online desde que seja gravada e documentada. Como temos 6 integrantes no grupo, teremos 1 entrevistado para cada avaliador.
 
 #### 2. Preparação
 
-Na preparação, cada integrante da equipe tem um artefato a ser trabalhado, então as perguntas devem ser com base na sua tarefa. A atividade deve ser construida com base na analise de tarefa realizada na entrega anterior. 
+    Na preparação, cada integrante da equipe tem um artefato a ser trabalhado, então as perguntas devem ser com base na sua tarefa. A atividade deve ser construida com base na analise de tarefa realizada na entrega anterior. 
 
 #### 3. Custos
 
-Visando em não gerar custos para a equipe, vamos optar por fazer a entrevista de forma presencial. 
+    Visando em não gerar custos para a aquipe, vamos optar por fazer a entrevista de forma online em uma plataforma que seja gratuita, o teams. 
 
 #### 4. Prazos
 
@@ -69,14 +69,14 @@ __Tabela 3__ - Cronograma.
 
     A seguir o cronograma de como será documentada.
 
-| Integrante responsável | Data       | Artefato | 
-|:----------------------:|------------|-------|
-| [Giovana Silva](https://github.com/gio221) | /05/2024 | Denuncia Online |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 | Validar certidão de antecentes |        
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |Pesquisar Procurados  |                 
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | Carteira de identidade  | 
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 | Registra Ocorrência |    
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 | Solicitar Antecedentes |  
+| Integrante responsável | Data       | Artefato | Horário | Entrevistado |
+|:----------------------:|------------|-------|---------|--------------| 
+| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  |  |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  |  |    
+| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  |  |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 |  |  | |
+| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
+| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -86,17 +86,18 @@ __Tabela 4__ - Roteiro de perguntas
 ### <center> Roteiro de perguntas 
 |__Numero__|__Pergunta__|__Resposta__|
 |----------|------------|------------|
-|1.| Qual é seu nome? | |
-|2.|Qual é a sua idade? ||
-|3.|Qual é sua profissão?||
-|4.| Qual seu grau de experiência com tecnologias? | |
-|5.| Qual é sua facilidade em utilizar artefatos tecnológicos? | |
-|6.| Como você descreveria seu grau de experiência e conhecimento acerca de procedimentos policiais e legais? | |
-|7.| Você já utilizou algum serviço online do site da PCDF? | |
-|8.| Ao observar a tarefa, a sequência de processos é coerente com o mundo real? Se não, poderia descrever o porquê? | |
-|9.| Como você faria para alcançar seu objetivo de acordo com a funcionalidade descrita? | |
-|10.| Você seguiria esta sequencia para utilizar esta tarefa no site da PCDF? | |
-|11.| Qual sugestão de melhoria você gostaria de compartilhar sobre a funcionalidade do site da PCDF? Seja da própria funcionalidade descrita ou no diagrama. | |
+|1.| Qual é seu nome? |Questão aberta |
+|2.|Qual seu grau de experiência com tecnologias? | |
+|3.|Você consegue acessar os serviços? | |
+|4. | De acordo com o site da PCDF qual parte da interface e da interação o deixa insatisfeito? | |
+|5. | Qual parte da interface o desmotiva a descobrir novas funcionalidades?| |
+|6. |Você entende o significado e para que serve cada elemento de interface? | | <br>
+|__Comparação da PCDF com PCGO__|
+|7. |Qual das alternativas é a mais eficiente? Mais fácil de aprender?| |
+|8. |Qual delas você preferiu?| |
+|9. |Qual te agradou mais e qual é mais fácil de aprender?|
+|10. |Quais barreiras você enfrentou para atingir seus objetivos?|
+|11.|Você teve acesso as todas informações oferecidas pelo sistema?|
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -111,21 +112,17 @@ A validade externa também é crucial, avaliando em que medida os resultados pod
 
 ### Teste piloto 
 
-Antes da entrevista principal com os usuários, um ou dois avaliadores conduzirão um teste piloto. Esse teste tem como propósito simular uma sessão de avaliação para garantir o funcionamento correto de todas as ferramentas planejadas, verificar a eficácia do planejamento e determinar se a avaliação pode fornecer os dados necessários para o estudo. Além disso, o teste piloto permitirá avaliar a clareza e a objetividade da linguagem usada na entrevista, garantindo que as perguntas sejam compreendidas de forma adequada pelos participantes.
+Antes da entrevista principal com os usuários, dois avaliadores conduzirão um teste piloto. Esse teste tem como propósito simular uma sessão de avaliação para garantir o funcionamento correto de todas as ferramentas planejadas, verificar a eficácia do planejamento e determinar se a avaliação pode fornecer os dados necessários para o estudo. Além disso, o teste piloto permitirá avaliar a clareza e a objetividade da linguagem usada na entrevista, garantindo que as perguntas sejam compreendidas de forma adequada pelos participantes.
 
+O teste piloto foi realizado no dia 18/05/2024, pela parte da manhã.
 
-
-|__Data__|__Local__|__Horário__|__Entrevistadores__|
-|--------|---------|-----------|-------------------|
-|22/05/2024|Microsoft Teams|11:30 am | [Renata Quadros](https://github.com/Renatinha28)|
+|__Data__|__Local__|__Horário__|__Entrevistadores__|__Participante__|
+|--------|---------|-----------|-------------------|--------|
+|18/05/2024|Microsoft Teams|11:30 am | [Raissa Andrade](https://github.com/RaissaAndradeS)| [Renata Quadros](https://github.com/Renatinha28)|
 
 ### Resultado do Teste piloto 
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YSvD6ehyKpg " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/YSvD6ehyKpg " target="blanket">Resultado do teste piloto</a></p>
-
-
-* OBSERVAÇÃO: Foi feito um teste piloto para analise de tarefa e para o storyboard juntos, esse teste é o mesmo presente no storyboard
+Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto, durou cerca de 8 minutos. A participante [Renata Quadros](https://github.com/Renatinha28) fez o papel do usuário e [Raissa Andrade](https://github.com/RaissaAndradeS) fez o papel de entrevistadora. No roteiro, apresento o Termo de Consentimento, peço para realizar uma atividade no site da PCDF, apresento o diagrama que foi feito no HTA e por último peço para ela comparar o site da PCDF com PCGO.
+Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=tM17vB1zjOw)
 
 ## Referências Bibliográficas
 
@@ -138,6 +135,5 @@ Antes da entrevista principal com os usuários, um ou dois avaliadores conduzir�
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 16/05 |
-| 1.1 | Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28) | 19/05 |
-| 1.2 | Adicionando o teste piloto  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 22/05 | [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 22/05 |
+| 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
+| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |
