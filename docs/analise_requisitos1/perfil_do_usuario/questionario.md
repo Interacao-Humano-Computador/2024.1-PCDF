@@ -83,5 +83,5 @@ De 11 usuários um 2 usuários contou sua experiência:
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Planejamento do perfil de usuários                   |   [Renata Quadros](https://github.com/Renatinha28),[Giovana Barbosa ](https://github.com/gio221)      |   12/04   |     [Raissa Andrade](https://github.com/RaissaAndradeS)        |           13/04           |
-|1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
-|1.1| Arrumar a tabela|[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04|  [Giovana Barbosa ](https://github.com/gio221)|19/04 |
+|1.1| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 13/04|
+|1.1| Arrumar a tabela|[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04|  [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)|19/04 |

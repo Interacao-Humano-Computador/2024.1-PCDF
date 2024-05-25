@@ -34,4 +34,4 @@ Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida)|
+| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|

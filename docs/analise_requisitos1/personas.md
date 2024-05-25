@@ -98,7 +98,7 @@ Assim, definidas as seguintes personas:
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento Personas                   |   [Lara Giuliana](https://github.com/gravelylara)     |   15/04   |[Giovana Barbosa](https://github.com/gio221)   |15/04|
-|  1.1   | Chamando figuras no texto                   |  [Giovana Barbosa](https://github.com/gio221)   |   17/04   |   [Lara Giuliana](https://github.com/gravelylara)     |   18/04  
-|  1.2   | Correção pós-apresentação|  [João Pedro](https://github.com/JoaoODragonborn)   |   08/05   | [Lara Giuliana](https://github.com/gravelylara) | 09/05  
+|  1.0   | Criação do documento Personas                   |   [Lara Giuliana](https://github.com/gravelylara)     |   15/04   |[Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221)   |15/04|
+|  1.1   | Chamando figuras no texto                   |  [Giovana Barbosa](https://github.com/gio221)   |   17/04   |  [Renata Quadros](https://github.com/Renatinha28),  [Lara Giuliana](https://github.com/gravelylara)     |   18/04  
+|  1.2   | Correção pós-apresentação|  [João Pedro](https://github.com/JoaoODragonborn)   |   08/05   | [Lara Giuliana](https://github.com/gravelylara) [Renata Quadros](https://github.com/Renatinha28) | 09/05  
 

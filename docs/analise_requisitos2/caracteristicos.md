@@ -39,4 +39,4 @@ Sem acesso a equipe de desenvolvimento do site e qualquer documentação da sua 
 
 | Versão | Data       | Descrição                         | Autor(es)                                                                                   | Revisor(es)                                                                                         |
 | ------ | ---------- | --------------------------------- | ------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
-| `1.0`  | 11/05/2024 | Criação da página de características da plataforma. | [João Pedro](https://github.com/JoaoODragonborn)| [Lara Giuliana](https://github.com/gravelylara)
+| `1.0`  | 11/05/2024 | Criação da página de características da plataforma. | [João Pedro](https://github.com/JoaoODragonborn)| [Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28) 
