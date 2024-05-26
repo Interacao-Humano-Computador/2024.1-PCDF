@@ -25,7 +25,7 @@ Tabela 1: Informações sobre a reunião
 - Ver os sites avaliados por cada integrante
 - Definir horário das reuniões
 - Definir ferramentas para o projeto
-- Definir Cronograma das atividades
+
 
 ## Sites que cada um avaliou individualmente
 
@@ -42,6 +42,10 @@ Tabela 2: Membros da equipe e sites avaliados individualmente
    
 ## Horário das reuniões
 Ficou definido que vamos fazer três reuniões semanais uma na segunda as 21:00, uma na quarta as 21:00 e uma na sexta as 10:00
+
+## Ferramentas que definimos
+Definimos que iamos fazer as gravações das reuniões e apresentações pelo teams, whatssap para mensagens , youtube para postar as gravações, vscode e github para os codigos
+
 
 ## Histórico de versão
 
