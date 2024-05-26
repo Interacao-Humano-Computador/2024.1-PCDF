@@ -1,15 +1,6 @@
 ## Introdução
 O planejamento do relato dos resultados da avaliação se apresenta como uma descrição do processo do relato dos resultados da avaliação do storyboard. No contexto de Interação Humano-Computador (IHC) e Experiência do Usuário (UX), a avaliação de storyboards é uma etapa importante para garantir que os conceitos e funcionalidades propostas atendam às necessidades e expectativas dos usuários. 
 
-## Objetivos da Avaliação
-Os objetivos da avaliação foram definidos no Planejamento da Avaliação do Storyboard. Eles são:
-
-1. Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema.
-2. Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto.
-3. Analisar a correspondência das tarefas representadas nos storyboards.
-4. Comparar os storyboards com a realidade do contexto de uso.
-5. Identificar e implementar as modificações necessárias nos storyboards.
-
 - os objetivos da avaliação; ok
 
 ## Metodologia
@@ -19,7 +10,16 @@ A avaliação foi conduzida utilizando o método de entrevistas, dessa forma for
 os resultados foram obtidos; ok
 
 - o número e o perfil dos avaliadores e dos participantes; ok
+
 ## Tópicos
+### Objetivos da Avaliação
+Os objetivos da avaliação foram definidos no Planejamento da Avaliação do Storyboard. Eles são:
+
+1. Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema.
+2. Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto.
+3. Analisar a correspondência das tarefas representadas nos storyboards.
+4. Comparar os storyboards com a realidade do contexto de uso.
+5. Identificar e implementar as modificações necessárias nos storyboards.
 
 ### Metodo de Avaliação
 O método de avaliação segue o planejamento da avaliação do storyboard sendo assim serão no total seis entrevistadores que são os integrantes do grupo e sete entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo erá realizar duas entrevista, uma para cada funcionalidade.
@@ -37,6 +37,13 @@ O método de avaliação segue o planejamento da avaliação do storyboard sendo
     Fonte - 
     <a href="https://github.com/rayenealmeida">Rayene Almeida</a>
 </div>
+
+### Tarefas Executads pelos participantes
+1. Navegar pelo storyboard, passando por todas as cenas e transições, para entender o fluxo geral da proposta com objetivo de avaliar a clareza das transições e a coerência do fluxo de navegação.
+2. Observar a GOMS.
+3. Responder ao questionário de forma clara e sincera.
+4. Seguir as instruções do storyboard para reportar um problema ou fornecer feedback sobre o sistema.
+
 
 ### Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](analise_requisitos1/aspectos_éticos.md).
@@ -75,6 +82,8 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
 
 <center>Fonte - [Renata Quadros](https://github.com/Renatinha28) 
+
+
 - as tarefas executadas pelos participantes;
 
 
