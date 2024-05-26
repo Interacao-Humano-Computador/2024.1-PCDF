@@ -29,7 +29,7 @@ A tabela 2 descreve os objetivos desta avaliação.
     Tabela 2: objetivos da avaliação
 | Número | Objetivos |
 | :-----: | ----------------------------------------------------------------------------------------------------------|
-| 1 | Verificar a adequação e fidelidade das representações visuais em relação à realidade do contexto de uso do sistema. |
+| 1 | Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema. |
 | 2 | Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. |
 | 3 | Analisar a correspondência das tarefas representadas nos storyboards. |
 | 4 | Comparar os storyboards com a realidade do contexto de uso. | 
@@ -38,7 +38,7 @@ A tabela 2 descreve os objetivos desta avaliação.
 ## E - Explorar perguntas a serem respondidas com a avaliação.
 Nesta etapa, elaboramos um roteiro de entrevista com perguntas específicas que nos ajudarão a explorar diferentes aspectos da interação do usuário com o storyboard, visando atingir nossos objetivos de avaliação. É fundamental que as perguntas sejam claras, concisas e abordem todos os aspectos relevantes do storyboard.
 
-Para desenvolver as perguntas específicas para avaliar os storyboards na área de Interação Humano-Computador (IHC), consideramos os objetivos gerais da avaliação. O principal objetivo é verificar a adequação e fidelidade das representações visuais apresentadas em relação à realidade do contexto de uso do sistema, além de elaborar e validar uma versão final que fosse clara, coesa, atraente e alinhada com os objetivos do projeto.
+Para desenvolver as perguntas específicas para avaliar os storyboards na área de Interação Humano-Computador (IHC), consideramos os objetivos gerais da avaliação. O principal objetivo é verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema, além de elaborar e validar uma versão final que fosse clara, coesa, atraente e alinhada com os objetivos do projeto.
 Com base nesses objetivos, foram propostas as seguintes perguntas mostradas na tabela 3:
 
     Tabela 3: perguntas a serem respondidas
@@ -56,7 +56,7 @@ O método de avaliação escolhido foi a entrevista, pois ela permite uma intera
 ## I - Identificar e administrar as questões práticas da avaliação
 * Recrutamento: 
  
-Cada integrante do grupo ficou responsável pela criação de um storyboard, totalizando seis storyboards e mais um considerando que um integrante está responsável por duas funcionalidades, e, portanto, sete usuários necessários para a avaliação. O recrutamento dos usuários foi planejado de forma flexível, levando em consideração o perfil de usuário, levantado pelo questionário feito anteriormente e será realizado de maneira individual para cada storyboard, garantindo que os usuários selecionados correspondam ao contexto específico de cada representação visual.
+Cada integrante do grupo ficou responsável pela criação de um storyboard, totalizando sete storyboards sendo um integrante responsável por dois deles, e, portanto, sete usuários necessários para a avaliação. O recrutamento dos usuários foi planejado de forma flexível, levando em consideração o perfil de usuário, levantado pelo questionário feito anteriormente e será realizado de maneira individual para cada storyboard, garantindo que os usuários selecionados correspondam ao contexto específico de cada representação visual.
 
 * Preparação: 
 
@@ -68,7 +68,7 @@ Para a etapa da entrevista, iremos selecionar os usuários com base em critério
 
 * Ferramentas
 
-As entrevistas serão conduzidas por meio da plataforma Microsoft Teams, pois permite a gravação facilitada das entrevistas. Tanto os avaliadores quanto os entrevistados podem utilizar papel e caneta para documentar perguntas e respostas ou alguma ferramenta online, se necessário.
+As entrevistas serão conduzidas presencialmente podendo utilizar a câmera do celular ou a plataforma Microsoft Teams, pois permite a gravação facilitada das entrevistas. Tanto os avaliadores quanto os entrevistados podem utilizar papel e caneta para documentar perguntas e respostas ou alguma ferramenta online, se necessário.
 
 * Teste piloto
 
@@ -93,9 +93,9 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 26/05/2024 | Presencial |   | Nome do Entrevistado 4 |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 26/05/2024 | Presencial |  | Nome do Entrevistado 5 |
 | [Renata Quadros](https://github.com/Renatinha28) | 26/05/2024 | Presencial |  | Nome do Entrevistado 6 |
-
+<div align = 'center'>
 Fonte - Renata Quadros.
-
+</div>
 ## Roteiro das perguntas
 Durante a entrevista, contextualizaremos a importância dos storyboards para a usabilidade de um sistema, explicando detalhadamente o processo ao entrevistado e apresentando o termo de conscentimento antes de iniciar. Vale ressaltar que o entrevistador pode e deve fazer anotações sobre a justificativa de cada resposta sempre que possível. Em seguida, apresentaremos as perguntas da entrevista como mostra a tabela 3.
 

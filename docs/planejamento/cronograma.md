@@ -76,8 +76,8 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Relato dos resultados do Storyboard    | Início: 25/05 Fim: 27/05 | Giovana          |  Início: 25/05 Fim: 27/05 |  Giovana, João, Lara, Raissa, Rayene e Renata           |
-| Relato dos resultados da Análise de tarefas                             |  Início: 25/05 Fim: 27/05 | Rayene |  Início: 25/05 Fim: 27/05  |Giovana, João, Lara, Raissa, Rayene e Renata  |
+| Relato dos resultados do Storyboard    | Início: 25/05 Fim: 27/05 | Rayene          |  Início: 25/05 Fim: 27/05 |  Giovana, João, Lara, Raissa, Rayene e Renata           |
+| Relato dos resultados da Análise de tarefas                             |  Início: 25/05 Fim: 27/05 | Giovana |  Início: 25/05 Fim: 27/05  |Giovana, João, Lara, Raissa, Rayene e Renata  |
 | Planejamento da avaliação do protótipo de papel                         | Início: 23/05 Fim: 25/05 | João e Lara |  Início: 23/05 Fim: 25/05  |Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 25/05 Fim: 27/05 | Raissa e Renata        | Início: 25/05 Fim: 27/05 | Giovana, João, Lara, Raissa, Rayene e Renata            |
 | Responder Perguntas Finais   |  Início: 25/05 Fim: 27/05 | Giovana              |  Início: 25/05 Fim: 27/05 | Giovana, João, Lara, Raissa, Rayene e Renata              |
@@ -163,4 +163,5 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | 1.0 |  Criação do cronograma no documento 03/04  | [Giovana Barbosa ](https://github.com/gio221) | 03/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 | 1.1 | Alterações de nomes   | [Giovana Barbosa ](https://github.com/gio221) | 07/04 | [Renata Quadros](https://github.com/Renatinha28) | 07/04 |
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221) , [Renata Quadros](https://github.com/Renatinha28)        |       20/04               |
-| 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | [Renata Quadros](https://github.com/Renatinha28)  |11/05|
+| 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
+| 1.4 | Alterações atividades pós reunião 6  | [Rayene Almeida](https://github.com/rayenealmeida)  | 25/05 |  | |
