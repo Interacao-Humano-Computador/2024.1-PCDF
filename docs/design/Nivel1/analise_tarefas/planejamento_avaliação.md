@@ -129,4 +129,4 @@ Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
 | 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |
-| 1.2 | Correções  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05 |  |  |
+| 1.2 | Correções  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05 |  [Giovana Barbosa](https://github.com/gio221)  | 26/05 |

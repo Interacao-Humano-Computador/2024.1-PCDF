@@ -2,11 +2,7 @@
 Este documento tem como objetivo descrever o planejamento do relato da análise de tarefas que é um documento que será ultilizado como base para escrever o relato e conclusões da avaliação. O relato será baseado no planejamento da avaliação da análise de tarefas. Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema do site da PCDF e fornecer sugestões de redesign pelo grupo
 
 # Metodologia 
-A escolha da metodologia varia de acordo com os resultados que devm ser alcançados:
-
-- 1.Observação: a pessoa deve observar enquanto o usuário realiza a prática de alguma funcionalidade do sistema, se atentando as dificuldades que os usuários podem vir a ter
-- 2.Entrevistas: Realizar entrevistas com o usuário em dupla ou em grupo.As entrevistas podem ser estruturadas, semiestruturadas ou não estruturadas, dependendo das necessidades do estudo
-- 3.Questionários: Utilizar questionários padronizados para coletar dados quantitativos e qualitativos sobre as tarefas. 
+Ultilizamos o método de entrevista , em que apresentamos a analise de tarefas GOMS e os storyboard de cada funcionalidade. Assim foi possivel coletar os dados dos usuários e os feedbacks.
 
 É sempre importante resaltar que a metodologia deve se adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. Neste projeto ultilizamos o framework DECIDE
 
@@ -26,52 +22,45 @@ A documentação do relato deve conter as seguintes informações:
 
 ## Objetivo da Avaliação
 
-Nesta etapa, o redator do documento deve abordar diversos pontos fundamentais para a compreensão completa da avaliação. Primeiramente, é essencial explicar a razão pela qual a avaliação está sendo realizada. Isso pode incluir identificar necessidades específicas, solucionar problemas detectados ou melhorar processos existentes. Em seguida, deve-se descrever claramente o objetivo que o grupo pretende alcançar com a análise de tarefas.
-
-Justificar a importância da avaliação é um aspecto crucial, pois ajuda a todos os envolvidos a entenderem o valor e a relevância do processo. Isso pode envolver demonstrar como a avaliação pode levar a melhorias significativas, aumentar a eficiência ou garantir a conformidade com padrões e regulamentos.
-
-Além disso, é importante esclarecer as expectativas e as metas estabelecidas. Isso significa definir o que se espera alcançar com a avaliação, quais resultados são desejados e como esses resultados beneficiarão a organização ou o grupo.
-
-Por fim, fornecer uma visão geral do propósito e do contexto da avaliação ajuda a situar o leitor, fornecendo um pano de fundo que contextualiza a análise de tarefas dentro de um quadro mais amplo. Isso inclui descrever o ambiente em que a avaliação ocorrerá, as circunstâncias que a motivaram e como ela se alinha com os objetivos estratégicos da organização.
-
-Em resumo, o redator deve detalhar a razão da avaliação, os objetivos almejados, a importância da avaliação, as expectativas e metas, além de fornecer uma visão geral do contexto. Isso garante que todos os envolvidos compreendam a finalidade e o valor do processo de avaliação.
+O objetivo da avaliação assim como mencionado no planejamento de avaliação é  assegurar que as funcionalidades criadas durante a Análise de Tarefas atendam aos padrões exigidos e explorar possíveis alternativas de design para a aplicação. 
 
 ## Método de Avaliação
 O método de Avaliação a ser ultilizado é a entrevista aos usuários, portanto segue-se o modelo. O entrevistador deve seguir o seguinte cronograma para as entrevistas
 
     Tabela 2- Cronograma da Avaliação
 
-| Integrante responsável | Data       | Artefato | 
-|:----------------------:|------------|-------|
-| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Denuncia Online |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | 20/05/2024 | Validar certidão de antecentes |       
-| [Lara Juliana](https://github.com/gravelylara) | 20/05/2024 |Pesquisar Procurados  |            
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade  | 
-| [Rayene Almeida](https://github.com/rayenealmeida) | 20/05/2024 | Registra Ocorrência |    
-| [Renata Quadros](https://github.com/Renatinha28) | 17/05/2024 | Solicitar Antecedentes |  
+| Integrante responsável | Data       | Artefato | Horário | Entrevistado |
+|:----------------------:|------------|-------|---------|--------------| 
+| [Giovana Silva](https://github.com/gio221) | 28/05/2024 |  |  |  |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | 28/05/2024 |  |  |  |    
+| [Lara Juliana](https://github.com/gravelylara) | 28/05/2024 |  |  |  |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 28/05/2024 |  |  | |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 28/05/2024 |  |  |  |
+| [Renata Quadros](https://github.com/Renatinha28) | 28/05/2024 |  |  |  |  
 
 Fonte: [Giovana Barbosa](https://github.com/gio221)
 
-## Perguntas que deveriam ser respondidas com a avaliação
-- 1- De qual delas se espera que tenha um impacto negativo menor ao ser adotada?
-- 2- Qual delas os usuários preferem? Por que?
-- 4- Ele entende o que significa cada elemento ?
-- 5- Ele vai entender o que deve ser feito logo em seguida?
-- 6- Ele tem acesso a todas as informações oferecidas pelo sistema?
+## Tarefas Executads pelos participantes
+1. Navegar pelo storyboard, passando por todas as cenas e transições, para entender o fluxo geral da proposta com objetivo de avaliar a clareza das transições e a coerência do fluxo de navegação.
+2. Observar a GOMS.
+3. Responder ao questionário de forma clara e sincera.
+4. Seguir as instruções do storyboard para reportar um problema ou fornecer feedback sobre o sistema.
 
-# Mão-de-obra necessária para conduzir a avaliação,  os prazos e a preparação e o uso dos equipamentos necessários.
 
-## Mão-de-obra necessária
-É necessário um integrante do grupo para fazer as perguntas e modelar a entrevista, o entrevistado como usuário
+## Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](analise_requisitos1/aspectos_éticos.md).
 
-## Preparação 
-Para poder fazer a entrevista, primeiro é necessário realizar o teste piloto, e marca com o usuário a realização da entrevista  
-
-## Prazo
-A entrevista deve ser realizado até 22/05/2024 para a realização da entrega do relato dentro da matéria. 
-
-## Equipamento
-Apresentar todos os equipamento utilizados para a realização com sucesso das entrevistas com os usuários. 
+## Perguntas a serem respondidas
+- Qual é seu nome? |Questão aberta |
+- Qual seu grau de experiência com tecnologias? | |
+- Você já utilizou o site da PCDF?  | |
+-  Você acha essa funcionalidade importante? | |
+- Se a 4 for sim, por que você utilizaria essa funcionalidade?| |
+- O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  | | <br>
+- Tem alguma parte que ficou confusa? | |
+- Se você pudesse mudar? O que mudaria no processo de tarefas?| |
+- De acordo com o diagrama, você o considera demorado de realizar as ações?|
+- Sugestões de melhorias?|
 
 # Número e Perfil dos Usuários e Avaliadores
 Deve ser relato qual foi o motivo da escolha dos intrevistados com base no perfil do usuário do site

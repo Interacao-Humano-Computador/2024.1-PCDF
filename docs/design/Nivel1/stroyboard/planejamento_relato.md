@@ -171,5 +171,6 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |     [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
-| 2.0 | Novo Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 25/05 |      |  | 
+| 2.0 | Novo Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 25/05 |       [Giovana Barbosa](https://github.com/gio221)  | 26/05 |
+
 
