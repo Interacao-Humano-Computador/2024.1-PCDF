@@ -23,21 +23,14 @@ __Tabela 1__ - Significado do Framework DECIDE.
 <center> Fonte - BARBOSA e SILVA (2011).
 
 ### __D__ - Determinar os objetivos
-O principal objetivo desta avaliação é detectar problemas de usabilidade no site da PCDF e analisar como os usuários interagem com os diferentes elementos do site durante a realização de tarefas, além de identificar possíveis dificuldades encontradas. Como por exemplo a forma que as informações estão dispostas. 
+Essa avaliação tem como objetivos principais assegurar que as funcionalidades criadas durante a Análise de Tarefas atendam aos padrões exigidos e explorar possíveis alternativas de design para a aplicação. 
 
 ### __E__ - Explorar perguntas 
 
-De acordo com o objetivo da avaliação, as perguntas foram designadas de acordo com os seguintes itens: 
-    - Ideias e alternativas de design;
-    - Identificar problemas na interação e interface;
-
-__Tabela 2__ - Perguntas que serão respondidas.
-
-|__Objetivos__| Perguntas a serem respondidas|
-|-------------|------------------------------|
-|- Ideias e alternativas de design| - De qual delas se espera que tenha um impacto negativo menor ao ser adotada? <br> - Qual delas os usuários preferem? Por que? |
-|- Identificar problemas na interação e interface| - Que parte da interface e da interação o deixa insatisfeito? <br> - Ele entende o que significa cada elemento da interface? <br> - Ele vai entender o que deve ser feito logo em seguida? <br> - Ele tem acesso a todas as informações oferecidas pelo sistema? | 
-<br>
+De acordo com o objetivo da avaliação, as perguntas foram designadas de acordo com os seguintes itens, serão feitas após a coleta de dados.
+    - Os diagramas GOM'S estão utilizando as notações corretas, legendas adequadas e a representação em tabela?<br>
+    - Os diagramas representam de forma precisa as tarefas esperadas para as funcionalidades do site? <br>
+    - As entrevistas fornecem informações que possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
 
 <center> Fonte - BARBOSA e SILVA (2011).</center>
 
@@ -71,12 +64,12 @@ __Tabela 3__ - Cronograma.
 
 | Integrante responsável | Data       | Artefato | Horário | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | /05/2024 |  |  |  |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 |  |  |  |    
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 |  |  |  |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 |  |  | |
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 |  |  |  |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 |  |  |  |
+| [Giovana Silva](https://github.com/gio221) | 28/05/2024 |  |  |  |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | 28/05/2024 |  |  |  |    
+| [Lara Juliana](https://github.com/gravelylara) | 28/05/2024 |  |  |  |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 28/05/2024 |  |  | |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 28/05/2024 |  |  |  |
+| [Renata Quadros](https://github.com/Renatinha28) | 28/05/2024 |  |  |  |
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -88,16 +81,15 @@ __Tabela 4__ - Roteiro de perguntas
 |----------|------------|------------|
 |1.| Qual é seu nome? |Questão aberta |
 |2.|Qual seu grau de experiência com tecnologias? | |
-|3.|Você consegue acessar os serviços? | |
-|4. | De acordo com o site da PCDF qual parte da interface e da interação o deixa insatisfeito? | |
-|5. | Qual parte da interface o desmotiva a descobrir novas funcionalidades?| |
-|6. |Você entende o significado e para que serve cada elemento de interface? | | <br>
-|__Comparação da PCDF com PCGO__|
-|7. |Qual das alternativas é a mais eficiente? Mais fácil de aprender?| |
-|8. |Qual delas você preferiu?| |
-|9. |Qual te agradou mais e qual é mais fácil de aprender?|
-|10. |Quais barreiras você enfrentou para atingir seus objetivos?|
-|11.|Você teve acesso as todas informações oferecidas pelo sistema?|
+|3.|Você já utilizou o site da PCDF?  | |
+|4. | Você acha essa funcionalidade importante? | |
+|5. | Se a 4 for sim, por que você utilizaria essa funcionalidade?| |
+|6. |O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  | | <br>
+|7. |Tem alguma parte que ficou confusa? | |
+|8. |Se você pudesse mudar? O que mudaria no processo de tarefas?| |
+|9. |De acordo com o diagrama, você o considera demorado de realizar as ações?|
+|10. |Sugestões de melhorias?|
+
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
