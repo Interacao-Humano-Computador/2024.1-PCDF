@@ -1,17 +1,12 @@
 ## Introdução
 O planejamento do relato dos resultados da avaliação se apresenta como uma descrição do processo do relato dos resultados da avaliação do storyboard. No contexto de Interação Humano-Computador (IHC) e Experiência do Usuário (UX), a avaliação de storyboards é uma etapa importante para garantir que os conceitos e funcionalidades propostas atendam às necessidades e expectativas dos usuários. 
 
-- os objetivos da avaliação; ok
 
 ## Metodologia
 A avaliação foi conduzida utilizando o método de entrevistas, dessa forma foram obtidos os resultados com o auxílio da imagem dos storyboard e a avaliação GOMS da funcionalidade. Assim podemos identificar as necessidades do usuário acompanhando-o presencialmente. A coleta de dados incluiu a observação direta, gravação de interações para uma análise posterior, questionário e análise de feedback, permitindo assim uma análise completa dos resultados.
 
-- uma breve descrição do método para auxiliar o leitor a compreender como
-os resultados foram obtidos; ok
-
-- o número e o perfil dos avaliadores e dos participantes; ok
-
 ## Tópicos
+
 ### Objetivos da Avaliação
 Os objetivos da avaliação foram definidos no Planejamento da Avaliação do Storyboard. Eles são:
 
@@ -21,22 +16,53 @@ Os objetivos da avaliação foram definidos no Planejamento da Avaliação do St
 4. Comparar os storyboards com a realidade do contexto de uso.
 5. Identificar e implementar as modificações necessárias nos storyboards.
 
-### Metodo de Avaliação
+### Método de Avaliação
 O método de avaliação segue o planejamento da avaliação do storyboard sendo assim serão no total seis entrevistadores que são os integrantes do grupo e sete entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo erá realizar duas entrevista, uma para cada funcionalidade.
 
-### Cronograma da Entrevista
-| Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
-|:----------------------:|--------------------|-----------|---------|--------------------|-------------------|-----------------|
-| Nome do Integrante     | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Nome do Relator | 00/00/2024      |
+### Cronogramas das Entrevistas
+
+
+| Funcionalidade                   | Entrevistador | Entrevistado | Data da entrevista | Horário da entrevista | Local da entrevista         |
+|----------------------------------|---------------|--------------|--------------------|-----------------------|-----------------------------|
+| Pesquisar Procurados             | Lara          |      Nome do Entrevistado        |              00/05/2024      |            HH:MM           |           Presencial                  |
+| Solicitar Antecedentes Criminais | Renata        |       Nome do Entrevistado         |              00/05/2024      |           HH:MM            |       Presencial                      |
+| Validar Antecedentes Criminais   | Joao          |      Nome do Entrevistado          |               00/05/2024     |            HH:MM           |    Presencial                         |
+| 197- Denúncia Online             | Giovana       |      Nome do Entrevistado          |               00/05/2024     |            HH:MM           |     Presencial                        |
+| Solicitar Carteira de Identidade | Raissa        |       Nome do Entrevistado         |               00/05/2024     |              HH:MM         |           Presencial                  |
+| Registrar Ocorrência             | Rayene        |     Adeilto Junior         |         26/05/2024           |        20:00            |      Casa do Entrevistador                   | Casa do Entrevistador | Retrato Falado Online            |
+| Retrato falado Online             | Renata        |     Luisa Ataides         |        00/05/2024            |      HH:MM  |    Presencial |
 
 <div align = 'center'>
-    Tabela 1: Cronograma da entrevista
+    Tabela 1: Cronograma da entrevista Geral
 </div>
 
 <div align = 'center'>
     Fonte - 
     <a href="https://github.com/rayenealmeida">Rayene Almeida</a>
 </div>
+
+
+
+| Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
+|:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
+| Pesquisar Procurados             | Lara                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene | 27/05/2024      |
+| Solicitar Antecedentes Criminais | Renata                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| Validar Antecedentes Criminais   | Joao                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| 197- Denúncia Online             | Giovana                | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| Solicitar Carteira de Identidade | Raissa                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| Registrar Ocorrência             | Rayene                 | DD/MM/2024          | Presencial | HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| Retrato Falado Online            | Renata                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+
+
+<div align = 'center'>
+    Tabela 1: Cronograma da entrevista executado
+</div>
+
+<div align = 'center'>
+    Fonte - 
+    <a href="https://github.com/rayenealmeida">Rayene Almeida</a>
+</div>
+
 
 ### Tarefas Executads pelos participantes
 1. Navegar pelo storyboard, passando por todas as cenas e transições, para entender o fluxo geral da proposta com objetivo de avaliar a clareza das transições e a coerência do fluxo de navegação.
@@ -81,17 +107,58 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 
 15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
 
-<center>Fonte - [Renata Quadros](https://github.com/Renatinha28) 
 
 
-- as tarefas executadas pelos participantes;
+### Sugestões de Melhorias
+#### Storyboard Pesquisar Procurados
 
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
-- o resultado da etiquetagem, em geral contabilizando as etiquetas por usuá-
-rio e tarefa;
-- os problemas de comunicabilidade encontrados;
-sugestões de melhorias;
-- o perfil semiótico do sistema
+#### Storyboard Solicitar Antecedentes Criminais
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard Validar Antecedentes Criminais
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard 197- Denúncia Online
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard Solicitar Carteira de Identidade
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard Registrar Ocorrência
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard Retrato Falado Online
+
+1. [Sugestão de Melhoria 1]
+
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
 
 ## Bibliografia

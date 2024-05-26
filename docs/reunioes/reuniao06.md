@@ -50,5 +50,5 @@ Tabela 1: Informações sobre a reunião
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  23/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Renata Quadros](https://github.com/Renatinha28) | 25/05|
+| 1.0 |  23/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 25/05|
 

@@ -96,6 +96,7 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
 <div align = 'center'>
 Fonte - Renata Quadros.
 </div>
+
 ## Roteiro das perguntas
 Durante a entrevista, contextualizaremos a importância dos storyboards para a usabilidade de um sistema, explicando detalhadamente o processo ao entrevistado e apresentando o termo de conscentimento antes de iniciar. Vale ressaltar que o entrevistador pode e deve fazer anotações sobre a justificativa de cada resposta sempre que possível. Em seguida, apresentaremos as perguntas da entrevista como mostra a tabela 3.
 
