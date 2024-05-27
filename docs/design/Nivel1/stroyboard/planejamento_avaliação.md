@@ -92,7 +92,8 @@ O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realiza
 | [Lara Juliana](https://github.com/gravelylara) | 26/05/2024 | Presencial |  | Nome do Entrevistado 3 |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 26/05/2024 | Presencial |   | Nome do Entrevistado 4 |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 26/05/2024 | Presencial |  | Nome do Entrevistado 5 |
-| [Renata Quadros](https://github.com/Renatinha28) | 26/05/2024 | Presencial |  | Nome do Entrevistado 6 |
+| [Renata Quadros](https://github.com/Renatinha28) | 27/05/2024 | Casa da entrevistada | 12:00 | Luísa Ataídes |
+| [Renata Quadros](https://github.com/Renatinha28) | 26/05/2024 | Presencial |  | Nome do Entrevistado 7 |
 <div align = 'center'>
 Fonte - Renata Quadros.
 </div>

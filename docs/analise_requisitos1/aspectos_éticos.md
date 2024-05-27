@@ -49,25 +49,23 @@ Declaco que estou ciente de que minha participação é voluntária e que concor
 [ ]Sim [ ]Não
 
 
-## Termo de consentimento da entrevista dos Storyboards e da Análise de Tarefas
-Ao participar desta entrevista, é essencial que você esteja ciente e concorde com algumas diretrizes éticas:
+### Termo de Consentimento Resumido para Entrevista de Storyboards e Análise de Tarefas
 
-* Autonomia: Você tem o direito de participar voluntariamente desta entrevista. Sua participação é completamente opcional, e você pode retirar seu consentimento a qualquer momento sem penalidades.
+Ao participar desta entrevista, você deve estar ciente das seguintes diretrizes éticas:
 
-* Beneficência: Nosso objetivo é conduzir esta entrevista de maneira a beneficiar tanto os entrevistadores quanto os entrevistados. Buscamos entender suas perspectivas para melhorar nossos processos de design e interação humano-computador.
+* Autonomia: Sua participação é voluntária e você pode se retirar a qualquer momento sem penalidades.
 
-* Não-maleficência: Faremos o possível para garantir que sua participação nesta entrevista seja segura e livre de danos. Todas as informações coletadas serão tratadas com confidencialidade e utilizadas apenas para os fins desta pesquisa.
+* Beneficência: A entrevista visa beneficiar os entrevistados e entrevistadores, melhorando nossos processos de design e interação humano-computador.
 
-* Justiça e Equidade: Todos os participantes serão tratados com respeito e imparcialidade, independentemente de sua origem, gênero, raça ou qualquer outra característica. Buscamos garantir que nossas práticas de pesquisa sejam justas e equitativas para todos os envolvidos.
+* Não-maleficência: Garantimos que sua participação será segura e suas informações serão tratadas com confidencialidade.
 
-Além disso, gostaríamos de esclarecer que esta entrevista está sendo conduzida por integrantes do curso de Interação Humano-Computador (IHC), como parte de um projeto acadêmico relacionado a essa disciplina. O objetivo deste projeto é avaliar o site do PCDF com base em princípios de IHC, a fim de melhorar a experiência do usuário em sistemas computacionais.
+* Justiça e Equidade: Todos os participantes serão tratados com respeito e imparcialidade.
 
-Durante a entrevista, solicitamos que você ligue sua câmera, se possível, para facilitar a comunicação e garantir uma interação mais próxima e transparente entre os participantes.
+Esta entrevista faz parte de um projeto acadêmico do curso de Interação Humano-Computador (IHC), com o objetivo de avaliar e melhorar o site do PCDF. Solicitamos sua gravação para facilitar a comunicação.
 
 Você concorda com os termos acima e está disposto a participar desta entrevista?
 
 [ ]Sim [ ]Não
-
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

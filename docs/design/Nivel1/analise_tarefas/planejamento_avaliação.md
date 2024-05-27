@@ -69,6 +69,7 @@ __Tabela 3__ - Cronograma.
 | [Lara Juliana](https://github.com/gravelylara) | 28/05/2024 |  |  |  |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 28/05/2024 |  |  | |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 28/05/2024 |  |  |  |
+| [Renata Quadros](https://github.com/Renatinha28) | 27/05/2024 | Solicitar Antecedentes  | 12:00 | Luísa Ataídes |
 | [Renata Quadros](https://github.com/Renatinha28) | 28/05/2024 |  |  |  |
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
@@ -127,6 +128,6 @@ Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221)  | 16/05 |
-| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida) | 19/05 |
-| 1.2 | Correções  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05 |  [Giovana Barbosa](https://github.com/gio221)  | 26/05 |
+| 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 16/05 |
+| 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28) | 19/05 |
+| 1.2 | Correções  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05 |  [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 26/05 |
