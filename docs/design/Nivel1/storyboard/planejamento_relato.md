@@ -27,10 +27,10 @@ Cronograma de planejamento das entrevistas em Planejamento da Avaliação do Sto
 | Pesquisar Procurados             | Lara                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene | 27/05/2024      |
 | Solicitar Antecedentes Criminais | Renata                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 | Validar Antecedentes Criminais   | Joao                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
-| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 | Solicitar Carteira de Identidade | Raissa                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 | Registrar Ocorrência             | Rayene                 | DD/MM/2024          | Presencial | HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
-| Retrato Falado Online            | Renata                 | 27/25/2024         | Casa da Entrevistada| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| Retrato Falado Online            | Renata                 | 27/05/2024         | Casa da Entrevistada| 12:00-12:10   | Nome do Entrevistado | Rayene  | DD/05/2024      |
 
 
 <div align = 'center'>
