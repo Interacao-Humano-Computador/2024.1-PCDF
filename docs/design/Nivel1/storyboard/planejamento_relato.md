@@ -19,39 +19,18 @@ Os objetivos da avaliação foram definidos no Planejamento da Avaliação do St
 ### Método de Avaliação
 O método de avaliação segue o planejamento da avaliação do storyboard sendo assim serão no total seis entrevistadores que são os integrantes do grupo e sete entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo erá realizar duas entrevista, uma para cada funcionalidade.
 
-### Cronogramas das Entrevistas
-
-
-| Funcionalidade                   | Entrevistador | Entrevistado | Data da entrevista | Horário da entrevista | Local da entrevista         |
-|----------------------------------|---------------|--------------|--------------------|-----------------------|-----------------------------|
-| Pesquisar Procurados             | Lara          |      Nome do Entrevistado        |              00/05/2024      |            HH:MM           |           Presencial                  |
-| Solicitar Antecedentes Criminais | Renata        |       Nome do Entrevistado         |              00/05/2024      |           HH:MM            |       Presencial                      |
-| Validar Antecedentes Criminais   | Joao          |      Nome do Entrevistado          |               00/05/2024     |            HH:MM           |    Presencial                         |
-| 197- Denúncia Online             | Giovana       |      Nome do Entrevistado          |               00/05/2024     |            HH:MM           |     Presencial                        |
-| Solicitar Carteira de Identidade | Raissa        |       Nome do Entrevistado         |               00/05/2024     |              HH:MM         |           Presencial                  |
-| Registrar Ocorrência             | Rayene        |     Adeilto Junior         |         26/05/2024           |        20:00            |      Casa do Entrevistador                   | Casa do Entrevistador | Retrato Falado Online            |
-| Retrato falado Online             | Renata        |     Luisa Ataides         |        00/05/2024            |      HH:MM  |    Presencial |
-
-<div align = 'center'>
-    Tabela 1: Cronograma da entrevista Geral
-</div>
-
-<div align = 'center'>
-    Fonte - 
-    <a href="https://github.com/rayenealmeida">Rayene Almeida</a>
-</div>
-
-
+### Cronogramaa Executado da Entrevista
+Cronograma de planejamento das entrevistas em Planejamento da Avaliação do Storyboard
 
 | Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
 |:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
 | Pesquisar Procurados             | Lara                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene | 27/05/2024      |
 | Solicitar Antecedentes Criminais | Renata                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 | Validar Antecedentes Criminais   | Joao                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
-| 197- Denúncia Online             | Giovana                | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 | Solicitar Carteira de Identidade | Raissa                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 | Registrar Ocorrência             | Rayene                 | DD/MM/2024          | Presencial | HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
-| Retrato Falado Online            | Renata                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
+| Retrato Falado Online            | Renata                 | 27/25/2024         | Casa da Entrevistada| HH:MM   | Nome do Entrevistado | Rayene  | 27/05/2024      |
 
 
 <div align = 'center'>
