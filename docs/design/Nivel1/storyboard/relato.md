@@ -111,8 +111,7 @@ Video
 
 14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? **Resposta:** resposta da pergunta
 
-15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
-
+15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta
 
 ### Registro de Ocorrência
 Video
@@ -122,35 +121,44 @@ Video
 
 **Perguntas e Respostas**
 
-1. Qual seu nome completo? **Resposta:** resposta da pergunta
+1. Qual seu nome completo? **Resposta:** Victor Moreira Almeida
 
-2. Qual sua idade? **Resposta:** resposta da pergunta
+2. Qual sua idade? **Resposta:** 20(vinte) anos de idade
 
-3. Qual sua ocupação? **Resposta:** resposta da pergunta
+3. Qual sua ocupação? **Resposta:** Estudante
 
-4. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** resposta da pergunta
+4. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** Sim 
 
-5. O cenário descrito no storyboard parece realista e relevante para os usuários do sistema **Resposta:** resposta da pergunta
+5. O cenário descrito no storyboard parece realista e relevante para os usuários do sistema **Resposta:** Sim
 
-6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** resposta da pergunta
+6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** Sim
 
-7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** resposta da pergunta
+7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** Sim
 
-8. O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários **Resposta:** resposta da pergunta
+8. O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários **Resposta:** Sim
 
-9. Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? **Resposta:** resposta da pergunta
+9. Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? **Resposta:** Sim
 
-10. As informações fornecidas no storyboard são fáceis de entender para os usuários? **Resposta:** resposta da pergunta
+10. As informações fornecidas no storyboard são fáceis de entender para os usuários? **Resposta:** Sim
 
-11. Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? **Resposta:** resposta da pergunta
+11. Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? **Resposta:** Não
 
-12. O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? **Resposta:** resposta da pergunta
+12. O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? **Resposta:** Sim
 
-13. O storyboard destaca os principais benefícios e vantagens do produto para os usuários? **Resposta:** resposta da pergunta
+13. O storyboard destaca os principais benefícios e vantagens do produto para os usuários? **Resposta:** Sim
 
-14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? **Resposta:** resposta da pergunta
+14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? **Resposta:** resposta da pergunta: Sim
 
-15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
+15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** Sim, na finalização 
+
+## Sugestões de Melhorias
+
+### Pesquisar procurados
+
+### Solicitar carteira de identidade
+
+### Registro de Ocorrência
+1. Melhorar detalhando mais a finalização do registro de ocorrência mostrando melhor com é no site PCDF para ter uma visão mais próxima de como é finalizado uma ocorrência no site.
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
