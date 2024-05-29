@@ -101,7 +101,7 @@ Esse é um storyboard que relata o uso do site da PCDF para fazer denúncia onli
 Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 <div align="center">
-    <p> Figura 7: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 7: Storyboard de Solicitar carteira de identidade . Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>

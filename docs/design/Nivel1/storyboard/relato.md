@@ -21,11 +21,11 @@ A figura 1 é o storyboard do Pesquisar procurados feito pela integrante [Lara G
     </p> 
 </div>
 
-A figura 2 é o storyboard do Retrato Falado feito pela integrante [Raissa Andrade](https://github.com/RaissaAndradeS)
+A figura 2 é o storyboard do Solicitar Carteira de Identidade o feito pela integrante [Raissa Andrade](https://github.com/RaissaAndradeS)
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 
 <div align="center">
-    <p> Figura 2: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 2: Storyboard de Solicitar Carteira de Identidade  . Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>
@@ -41,3 +41,127 @@ A figura 3 é o storyboard do Registro de Ocorrência feito pela integrante [Ray
 </div>
 
 ## Gravações
+### Pesquisar procurados
+Video
+
+**Perguntas e Respostas**
+
+1. Qual seu nome completo? **Resposta:** resposta da pergunta
+
+2. Qual sua idade? **Resposta:** resposta da pergunta
+
+3. Qual sua ocupação? **Resposta:** resposta da pergunta
+
+4. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** resposta da pergunta
+
+5. O cenário descrito no storyboard parece realista e relevante para os usuários do sistema **Resposta:** resposta da pergunta
+
+6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** resposta da pergunta
+
+7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** resposta da pergunta
+
+8. O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários **Resposta:** resposta da pergunta
+
+9. Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? **Resposta:** resposta da pergunta
+
+10. As informações fornecidas no storyboard são fáceis de entender para os usuários? **Resposta:** resposta da pergunta
+
+11. Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? **Resposta:** resposta da pergunta
+
+12. O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? **Resposta:** resposta da pergunta
+
+13. O storyboard destaca os principais benefícios e vantagens do produto para os usuários? **Resposta:** resposta da pergunta
+
+14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? **Resposta:** resposta da pergunta
+
+15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
+
+
+
+### Solicitar carteira de identidade
+Video
+
+**Perguntas e Respostas**
+
+1. Qual seu nome completo? **Resposta:** resposta da pergunta
+
+2. Qual sua idade? **Resposta:** resposta da pergunta
+
+3. Qual sua ocupação? **Resposta:** resposta da pergunta
+
+4. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** resposta da pergunta
+
+5. O cenário descrito no storyboard parece realista e relevante para os usuários do sistema **Resposta:** resposta da pergunta
+
+6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** resposta da pergunta
+
+7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** resposta da pergunta
+
+8. O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários **Resposta:** resposta da pergunta
+
+9. Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? **Resposta:** resposta da pergunta
+
+10. As informações fornecidas no storyboard são fáceis de entender para os usuários? **Resposta:** resposta da pergunta
+
+11. Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? **Resposta:** resposta da pergunta
+
+12. O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? **Resposta:** resposta da pergunta
+
+13. O storyboard destaca os principais benefícios e vantagens do produto para os usuários? **Resposta:** resposta da pergunta
+
+14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? **Resposta:** resposta da pergunta
+
+15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
+
+
+### Registro de Ocorrência
+Video
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5vc8x5rF0Ms " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/5vc8x5rF0Ms " target="blanket">Vídeo da Entrevista da funcionalidade Registro de Ocorrência</a></p>
+
+**Perguntas e Respostas**
+
+1. Qual seu nome completo? **Resposta:** resposta da pergunta
+
+2. Qual sua idade? **Resposta:** resposta da pergunta
+
+3. Qual sua ocupação? **Resposta:** resposta da pergunta
+
+4. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** resposta da pergunta
+
+5. O cenário descrito no storyboard parece realista e relevante para os usuários do sistema **Resposta:** resposta da pergunta
+
+6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** resposta da pergunta
+
+7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** resposta da pergunta
+
+8. O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários **Resposta:** resposta da pergunta
+
+9. Os usuários conseguiram alcançar seus objetivos ao interagir com o storyboard? **Resposta:** resposta da pergunta
+
+10. As informações fornecidas no storyboard são fáceis de entender para os usuários? **Resposta:** resposta da pergunta
+
+11. Os usuários enfrentaram alguma dificuldade durante a interação com o storyboard? **Resposta:** resposta da pergunta
+
+12. O storyboard fornece todas as informações necessárias para os usuários completarem suas tarefas? **Resposta:** resposta da pergunta
+
+13. O storyboard destaca os principais benefícios e vantagens do produto para os usuários? **Resposta:** resposta da pergunta
+
+14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica? **Resposta:** resposta da pergunta
+
+15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** resposta da pergunta
+
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+> PCDF. Disponível em: [PCDF](https://www.pcdf.df.gov.br). Acesso em 11 de maio de 2024. 
+
+
+## **Histórico de Versões**
+
+|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 | Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |     |  | 
+
+
+
