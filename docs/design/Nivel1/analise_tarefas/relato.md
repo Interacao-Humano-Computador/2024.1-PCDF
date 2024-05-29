@@ -90,27 +90,29 @@ Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo s
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
- ### Aspéctos Éticos
+### Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
 ### Questionário
-- 1-Qual é seu nome? |Questão aberta |
-- 2-Qual seu grau de experiência com tecnologias? | 
-- 3-Você já utilizou o site da PCDF?  | 
-- 4-Você acha essa funcionalidade importante? | 
-- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| 
-- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  
-- 7-Tem alguma parte que ficou confusa? | 
-- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| 
-- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|
-- 10-Sugestões de melhorias?|
+|Pergunta|Resposta|
+|--------|--------|
+- 1-Qual é seu nome? | Luisa Miranda
+- 2-Qual seu grau de experiência com tecnologias? | Médio
+- 3-Você já utilizou o site da PCDF?  | não
+- 4-Você acha essa funcionalidade importante? | sim
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Importante para saber os dados das pessoas, para ter o antecedente
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  sim
+- 7-Tem alguma parte que ficou confusa? | não, está bem completo
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
+- 10-Sugestões de melhorias?|não tenho sugestões
 
 ### Gravação
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/frSFkkrWemk?si=O-rETQ07iw109nR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/frSFkkrWemk?si=O-rETQ07iw109nR6" target="blanket">Vídeo da Gravação</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OGm32woEJZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/OGm32woEJZA" target="blanket">Vídeo da Gravação</a></p>
 
-### 197- Denúncia Online
+## 197- Denúncia Online
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
 
 * GOAL 0: Fazer uma denuncia Online
@@ -125,7 +127,30 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
         * OP 3.1: Colocar as informações
         * OP 3.2: Clicar no botão denunciar 
 
-# Retrato Falado Online: Descreva e Identifique
+### Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
+### Questionário
+|Pergunta|Resposta|
+|--------|--------|
+- 1-Qual é seu nome? | Débora
+- 2-Qual seu grau de experiência com tecnologias? | Médio
+- 3-Você já utilizou o site da PCDF?  | sim
+- 4-Você acha essa funcionalidade importante? | sim
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Para denunciar algum crime
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  sim
+- 7-Tem alguma parte que ficou confusa? | não
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
+- 10-Sugestões de melhorias?|detalhar mais
+
+### Gravação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1LI6OhgQMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/T1LI6OhgQMg" target="blanket">Vídeo da Gravação</a></p>
+
+
+## Retrato Falado Online: Descreva e Identifique
 Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). 
 
 * GOAL 0: Acessar a funcionalidade de Denúncia Online:
@@ -166,6 +191,30 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 * GOAL 4: Receber confirmação da denúncia:
     * METHOD 4.A: Verificar a mensagem informativa e aguardar a confirmação por e-mail da recepção da denúncia.
     * METHOD 4.B: Aguardar atualizações dentro do prazo estipulado.
+
+### Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
+### Questionário
+|Pergunta|Resposta|
+|--------|--------|
+- 1-Qual é seu nome? | Heder Cardoso
+- 2-Qual seu grau de experiência com tecnologias? |Alto
+- 3-Você já utilizou o site da PCDF?  | não
+- 4-Você acha essa funcionalidade importante? | sim
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Para descrever os fugitivos
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  sim
+- 7-Tem alguma parte que ficou confusa? | não
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
+- 10-Sugestões de melhorias?|não
+
+### Gravação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VHNANJqYZ9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/VHNANJqYZ9w" target="blanket">Vídeo da Gravação</a></p>
+
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
