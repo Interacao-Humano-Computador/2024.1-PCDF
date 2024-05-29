@@ -1,4 +1,4 @@
-# Introdução 
+## Introdução 
 O autor Norman (1988) ressalta a importância de projetar sistemas com um modelo conceitual claro, que os usuários possam entender facilmente. Esse modelo deve ajudar a entender como as ações e informações do sistema se relacionam com o conhecimento do mundo. Ele enfatiza que o design deve facilitar a determinação das ações possíveis em cada momento, tornar as coisas visíveis, permitir a avaliação do estado atual do sistema e seguir mapeamentos naturais entre intenções, ações e resultados.
 
 As diretrizes comuns em Interação Humano-Computador (IHC) incluem corresponder às expectativas dos usuários, simplificar as tarefas, equilibrar controle e liberdade do usuário, manter consistência e padronização, promover eficiência, antecipar necessidades do usuário, garantir visibilidade e reconhecimento, fornecer conteúdo relevante e expressão adequada, e projetar para erros. Essas diretrizes são essenciais para o design de interação e interface eficazes.
@@ -14,7 +14,7 @@ Segundo Nielsen (1994), o projetista deve seguir as convenções do mundo real, 
 Para corresponder às expectativas dos usuários, é essencial projetar sistemas que sigam mapeamentos naturais entre variáveis mentais e físicas, permitindo que os usuários entendam facilmente os relacionamentos entre intenções, ações possíveis e resultados.
 
 ### Violação
-A violação que vemos no site da PCDF, e que o agendamento de Reuniões ela fica em informações, violando a Correspondência com as Expectativas dos Usuários, pois essa informção deveria ficar na aba de serviços. Como monstra na figura 1
+A violação que vemos no site da PCDF, e que o agendamento de Reuniões ela fica em informações, violando a Correspondência com as Expectativas dos Usuários, pois essa informção deveria ficar na aba de serviços. Como mostra na figura 1
 
 ![Página Seleção do Crime](../assets/Analise_Requisitos/Correspondência%20com%20as%20Expectativas%20dos%20Usuários.png)
 <div align="center">
