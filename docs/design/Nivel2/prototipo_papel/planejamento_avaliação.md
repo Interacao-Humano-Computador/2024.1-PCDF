@@ -99,13 +99,13 @@ A seguir, na tabela 5, o cronograma de como será documentado.
     Tabela 2: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | /05/2024 | Presencial | | x | Nome do Entrevistado 1 |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | /05/2024 | Presencial | | x | Nome do Entrevistado 2 |    
-| [Lara Juliana](https://github.com/gravelylara) | /05/2024 | Presencial | | x | Nome do Entrevistado 3 |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | /05/2024 | Presencial | | x | Nome do Entrevistado 4 |
-| [Rayene Almeida](https://github.com/rayenealmeida) | /05/2024 | Presencial | | x | Nome do Entrevistado 5 |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 | Presencial | | x | Nome do Entrevistado 6 |
-| [Renata Quadros](https://github.com/Renatinha28) | /05/2024 | Presencial | | x | Nome do Entrevistado 7 |
+| [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online | Nome do Entrevistado 1 |                 
+| [João Pedro](https://github.com/JoaoODragonborn) | 05/06/2024 | Presencial | 19:00 | Validar certidão de antecentes | Nome do Entrevistado 2 |    
+| [Lara Juliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Nome do Entrevistado 3 |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade | Nome do Entrevistado 4 |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência | Nome do Entrevistado 5 |
+| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
+| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 |  Retrato Falado | Lara Geovanna |
 
 Fonte - Renata Quadros.
 
@@ -138,6 +138,21 @@ A tabela 6 descreve o roteiro das perguntas:
 
 Fonte - BARBOSA e SILVA (2010).
 
+A tabela 7 descreve o roteiro das perguntas para os integrantes que mostrarão mais de uma comparação de interfaces:
+
+    Tabela 7: roteiro para as perguntas da comparação de interfaces
+| Número | Pergunta | Resposta |
+| :------: | ------------------------------------------------------- | --------------------------------------- |
+| 1 | Qual das interfaces você achou mais intuitiva e por quê? | Aberta |
+| 2 | Você teve dificuldades em encontrar certas funcionalidades em alguma das interfaces? Se sim, quais? | Aberta |
+| 3 | Qual das alternativas de design permitiu que você completasse as tarefas mais rapidamente? | Aberta |
+| 4 | Houve algum elemento específico em uma das interfaces que facilitou ou dificultou a sua experiência? Qual? | Aberta |
+| 5 | Se tivesse que escolher uma das interfaces para usar regularmente, qual escolheria e por quê? | Aberta |
+| 6 | Existem aspectos de uma interface que você gostaria de ver implementados na outra? Se sim, quais? | Aberta |
+| 7 | Qual interface proporcionou uma experiência de usuário mais agradável no geral? | Aberta |
+
+Fonte - BARBOSA e SILVA (2010).
+
 ## D - Decidir como lidar com as questões éticas.
 Antes de prosseguir com a entrevista, é importante abordar questões éticas que regem nosso processo. Nossa abordagem ética é fundamentada nos princípios estabelecidos pelo Conselho Nacional de Saúde, especialmente nos pilares da autonomia, beneficência, não-maleficência e justiça e equidade. Esses princípios orientam nossas práticas para garantir que a pesquisa seja conduzida de forma ética e respeitosa. O termo de consentimento está presente no artefato [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
@@ -161,3 +176,4 @@ Após essa fase de análise, os dados serão compartilhados com a equipe. A apre
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento |[Giovana Barbosa](https://github.com/gio221)| 27/05 | [Renata Quadros](https://github.com/Renatinha28)  | 27/05 |
 | 1.1 | Planejamento da avaliação | [Renata Quadros](https://github.com/Renatinha28) | 27/05 | | |
+| 1.1 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | | |
