@@ -154,7 +154,7 @@ Video
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
-> PCDF. Disponível em: [PCDF](https://www.pcdf.df.gov.br). Acesso em 11 de maio de 2024. 
+> Planejamento do relato dos resultados da avaliação 
 
 
 ## **Histórico de Versões**
