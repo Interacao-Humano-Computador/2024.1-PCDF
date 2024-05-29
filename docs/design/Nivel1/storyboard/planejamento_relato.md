@@ -24,13 +24,12 @@ Cronograma de planejamento das entrevistas em Planejamento da Avaliação do Sto
 
 | Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
 |:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
-| Pesquisar Procurados             | Lara                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene | DD/05/2024      |
-| Solicitar Antecedentes Criminais | Renata                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | DD/05/2024      |
-| Validar Antecedentes Criminais   | Joao                   | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | DD/05/2024      |
-| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Nome do Entrevistado | Rayene  | DD/05/2024      |
-| Solicitar Carteira de Identidade | Raissa                 | DD/MM/2024         | Presencial| HH:MM   | Nome do Entrevistado | Rayene  | DD/05/2024      |
-| Registrar Ocorrência             | Rayene                 | DD/MM/2024          | Presencial | HH:MM   | Nome do Entrevistado | Rayene  | DD/05/2024      |
-| Retrato Falado Online            | Renata                 | 27/05/2024         | Casa da Entrevistada| 12:00-12:10   | Nome do Entrevistado | Rayene  | DD/05/2024      |
+| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   | Nome do Entrevistado | Lara | 29/05/2024      |
+| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistada| 12:00-12:10    | Luísa Ataídes | Giovana | DD/05/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Giovana | DD/05/2024      |
+| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | DD/05/2024      |
+| Registrar Ocorrência             | Rayene                 | 28/05/2024          | FGA | 10:07-10:17   | Victor Moreira | Rayene  | 29/05/2024      |
+| Retrato Falado Online            | Renata                 | DD/MM/2024         | Presencial | HH:MM  | Nome do Entrevistado | Giovana  | DD/05/2024      |
 
 
 <div align = 'center'>
