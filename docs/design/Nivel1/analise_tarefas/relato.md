@@ -8,7 +8,7 @@ A avaliação do projeto foi conduzida através de entrevistas, storyboards e an
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. Neste Documento abordaremos as funcionalidades: Solicitar Antecedentes Criminais, 197-Denúncia Online, Retrato Falado
 
 # Analise de Tarefas(GOMS)
-### Solicitar Antecedentes Criminais 
+## Solicitar Antecedentes Criminais 
 Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
 
 
@@ -89,3 +89,93 @@ Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo s
     * METHOD 4.B: Entrar em contato com a PCDF para solicitar o código de acompanhamento, caso não seja recebido dentro do prazo esperado.
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
+
+ ### Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
+### Questionário
+- 1-Qual é seu nome? |Questão aberta |
+- 2-Qual seu grau de experiência com tecnologias? | 
+- 3-Você já utilizou o site da PCDF?  | 
+- 4-Você acha essa funcionalidade importante? | 
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| 
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  
+- 7-Tem alguma parte que ficou confusa? | 
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| 
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|
+- 10-Sugestões de melhorias?|
+
+### Gravação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/frSFkkrWemk?si=O-rETQ07iw109nR6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/frSFkkrWemk?si=O-rETQ07iw109nR6" target="blanket">Vídeo da Gravação</a></p>
+
+### 197- Denúncia Online
+Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
+
+* GOAL 0: Fazer uma denuncia Online
+    * GOAL 1: Entrar na parte de Denúncia Online
+        * OP 1.1: Guiar o mouse para a aba de denuncia online
+        * 0P 1.2: Pressionar o botão
+    * GOAL 2: Selecionar a opção denuncia por meios de comunicação
+        * OP 2.1: Guiar o mouse para a opção 'Denuncia de meios de comunicação'
+        * OP 2.2: Pressionar o botão
+        * OP 2.3: fazer a denuncia 
+    * GOAL 3: Selecionar denucia Online
+        * OP 3.1: Colocar as informações
+        * OP 3.2: Clicar no botão denunciar 
+
+# Retrato Falado Online: Descreva e Identifique
+Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). 
+
+* GOAL 0: Acessar a funcionalidade de Denúncia Online:
+    * METHOD 0.A: Navegar até o site da Polícia Civil do Distrito Federal (PCDF).
+    
+    (SEL. RULE: O usuário sabe que pode fazer denúncias online.)
+
+* GOAL 1: Selecionar a opção de Retrato Falado Online:
+    * METHOD 1.A: Identificar e clicar na seção "Denúncia Online".
+        * OP. 1.A.1: Escanear visualmente a página inicial em busca da seção "Denúncia Online".
+        * OP. 1.A.2: Clicar na seção identificada como "Denúncia Online".
+    * METHOD 1.B: Escolher "Retrato Falado Online" dentre as opções disponíveis.
+        * OP. 1.B.1: Procurar por opções de denúncia específicas, como "Retrato Falado Online".
+        * OP. 1.B.2: Clicar na opção encontrada para selecioná-la.
+    
+    (SEL. RULE: O usuário procura a opção que corresponde à sua necessidade específica.)
+
+* GOAL 2: Preencher o formulário de Retrato Falado Online:
+    * METHOD 2.A: Fornecer os dados pessoais solicitados (nome, e-mail, CPF).
+        * OP. 2.A.1: Digitar nome completo da pessoa. 
+        * OP. 2.A.2: Digitar o CPF.
+        * OP. 2.A.3: Digitar o e-mail.  
+    * METHOD 2.B: Selecionar o tipo de denúncia (ex: Assalto/Roubo).
+    * METHOD 2.C: Descrever detalhadamente o incidente e as características do suspeito.
+        * OP. 2.C.1: Descrever detalhadamente o incidente. 
+        * OP. 2.C.2: Descrever detalhadamente as características do suspeito.
+    * METHOD 2.D: Criar o retrato falado do suspeito.
+        * OP. 2.D.1: Apertar o botão de criar avatar. 
+        * OP. 2.D.2: Selecionar um avatar criado. 
+    * METHOD 2.E: Avaliar o avatar selecionado
+        * OP. 2.E.1: Descrever a fidelidade do avatar de acordo com a lembrança do suspeito. 
+    
+    (SEL. RULE: O usuário segue o fluxo natural do formulário, preenchendo campos conforme necessário.)
+
+* GOAL 3: Enviar a denúncia:
+    * METHOD 3.A: Clicar no botão de envio após revisão completa dos dados fornecidos.
+
+* GOAL 4: Receber confirmação da denúncia:
+    * METHOD 4.A: Verificar a mensagem informativa e aguardar a confirmação por e-mail da recepção da denúncia.
+    * METHOD 4.B: Aguardar atualizações dentro do prazo estipulado.
+
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+
+## Referências bibliograficas
+
+> Polícia Civil do Distrito Federal. Polícia Civil do Distrito Federal. Disponível em: [https://www.pcdf.df.gov.br/](https://www.pcdf.df.gov.br/). Acesso em: 14 abr 2024.
+
+## Histórico de Versões
+
+| Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
+|:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
+|  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     |        |

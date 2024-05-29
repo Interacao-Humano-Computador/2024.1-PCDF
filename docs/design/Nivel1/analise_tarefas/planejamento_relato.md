@@ -65,21 +65,7 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 
 # Sugestões de melhoria
-#### Storyboard Pesquisar Procurados
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
 #### Storyboard Solicitar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard Validar Antecedentes Criminais
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
@@ -93,20 +79,6 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Solicitar Carteira de Identidade
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard Registrar Ocorrência
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
 #### Storyboard Retrato Falado Online
 
 1. [Sugestão de Melhoria 1]
@@ -114,32 +86,6 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 3. [Sugestão de Melhoria 3]
 ...
 
-
-# Análise e interpretação dos resultados
-
-
-#### Storyboard Solicitar Antecedentes Criminais
-
-
-1. [Video da Entrevista]
-2. [Respostas do entrevistado]
-3. [Reajuste ]
-...
-
-#### Storyboard 197- Denúncia Online
-
-
-1. [Video da Entrevista]
-2. [Respostas do entrevistado]
-3. [Reajuste ]
-...
-
-#### Storyboard Retrato Falado Online
-
-1. [Video da Entrevista]
-2. [Respostas do entrevistado]
-3. [Reajuste ]
-...
 
 # Referências Bibliográficas    
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
