@@ -114,10 +114,12 @@ Video
 15. Você tem alguma sugestão ou feedback para melhorar o storyboard? **Resposta:** Não
 
 ### Registro de Ocorrência
-Video
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/5vc8x5rF0Ms " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/5vc8x5rF0Ms " target="blanket">Vídeo da Entrevista da funcionalidade Registro de Ocorrência</a></p>
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/p-WfgB0TgAE" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Perguntas e Respostas**
 
