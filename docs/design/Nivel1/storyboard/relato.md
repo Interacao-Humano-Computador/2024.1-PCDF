@@ -42,7 +42,10 @@ A figura 3 é o storyboard do Registro de Ocorrência feito pela integrante [Ray
 
 ## Gravações
 ### Pesquisar procurados
-Video
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Z1azj2d348" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Perguntas e Respostas**
 
@@ -79,7 +82,10 @@ Video
 
 
 ### Solicitar carteira de identidade
-Video
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/hKgmDzaR6K4" frameborder="0" allowfullscreen></iframe>
+</div>
+
 
 **Perguntas e Respostas**
 
@@ -156,8 +162,10 @@ Video
 ## Sugestões de Melhorias
 
 ### Pesquisar procurados
+1. Melhorar de forma que fique mais objetivo
 
 ### Solicitar carteira de identidade
+Não há sugestão de melhoria. 
 
 ### Registro de Ocorrência
 1. Melhorar detalhando mais a finalização do registro de ocorrência mostrando melhor com é no site PCDF para ter uma visão mais próxima de como é finalizado uma ocorrência no site.
