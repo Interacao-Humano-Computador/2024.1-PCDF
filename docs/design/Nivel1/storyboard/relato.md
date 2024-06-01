@@ -43,9 +43,8 @@ A figura 3 é o storyboard do Registro de Ocorrência feito pela integrante [Ray
 ## Gravações
 ### Pesquisar procurados
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/6Z1azj2d348" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KwaRsg9lFoI" frameborder="0" allowfullscreen></iframe>
 </div>
-
 
 **Perguntas e Respostas**
 
@@ -179,7 +178,7 @@ Não há sugestão de melhoria.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |     |  | 
+| 1.0 | Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
 
 
 

@@ -227,4 +227,4 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     |        |
+|  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28)| 01/06 |

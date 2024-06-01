@@ -29,7 +29,7 @@ Além das funcionalidades acima, o site da PCDF tabém contém notícias relacio
 * Não possui nenhum recurso de acessibilidade como por exemplo, contraste de cores
 
 ## Tecnologias Utilizadas
-Sem acesso a equipe de desenvolvimento do site e qualquer documentação da sua construção, não é possível aferir quais ferramentas foram utilizadas na construção do site, porém ao inspecionar a página com ferramentas de inspeção disponíveis em navegadores, é possível analisar a construção e estilização do site através das linguagens HTML e CSS, além dos arquivos escritos em javascript.
+Sem acesso a equipe de desenvolvimento do site e qualquer documentação da sua construção, não é possível aferir quais ferramentas foram utilizadas na construção do site, porém ao inspecionar a página com ferramentas de inspeção disponíveis em navegadores, é possível analisar a construção e estilização do site através das linguagens de marcação HTML e CSS, além dos arquivos escritos em javascript.
 
 ## Bibliografia
 

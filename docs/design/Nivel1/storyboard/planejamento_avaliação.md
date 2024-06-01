@@ -85,15 +85,15 @@ Confira o resultado do teste piloto
 O cronograma descrito na tabela 2 diz respeito as entrevistas que serão realizadas por cada integrante.
 
     Tabela 2: cronograma 
-| Integrante responsável | Data       | Local | Horário | Entrevistado |
-|:----------------------:|------------|-------|---------|--------------| 
-| [Giovana Silva](https://github.com/gio221) | 26/05/2024 | Presencial |  | Nome do Entrevistado 1 |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | 26/05/2024 | Presencial |  | Nome do Entrevistado 2 |    
-| [Lara Juliana](https://github.com/gravelylara) | 26/05/2024 | Presencial |  | Nome do Entrevistado 3 |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 26/05/2024 | Presencial |   | Nome do Entrevistado 4 |
-| [Rayene Almeida](https://github.com/rayenealmeida) | 26/05/2024 | Presencial |  | Nome do Entrevistado 5 |
-| [Renata Quadros](https://github.com/Renatinha28) | 27/05/2024 | Casa da entrevistada | 12:00 | Luísa Ataídes |
-| [Renata Quadros](https://github.com/Renatinha28) | 26/05/2024 | Presencial |  | Nome do Entrevistado 7 |
+| Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
+|:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
+| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   |Nicolas | Lara | 29/05/2024      |
+| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistadora| 12:00-12:10    | Luísa Ataídes | Giovana | 29/05/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Giovana | 29/05/2024      |
+| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | 29/05/2024      |
+| Registrar Ocorrência             | Rayene                 | 28/05/2024          | FGA | 10:07-10:17   | Victor Moreira | Rayene  | 29/05/2024      |
+| Retrato Falado Online            | Renata                 | 29/05/2024        | Casa da Entrevistadora | 14:10 a 14:20  | Heder Cardoso | Giovana  | 29/05/2024      |
+
 <div align = 'center'>
 Fonte - Renata Quadros.
 </div>
