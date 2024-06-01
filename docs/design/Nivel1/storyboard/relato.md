@@ -11,31 +11,38 @@ A avaliação foi realizada por meio de entrevistas, utilizando storyboards e a 
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 participantes entrevistadores no total com locais das entrevistas presenciais. Neste Documento apresentasse as entrevistas das funcionalidades de Pesquisar procurados, Retrato falado e Registro de Ocorrência.
 
 ## Storyboards utilizados
-Aqui estão os storys boards referentes às gravações das entrevistas abaixo.
-A figura 1 é o storyboard do Pesquisar procurados feito pela integrante [Lara Giuliana](https://github.com/gravelylara)
+Aqui estão os storyboards referentes às gravações das entrevistas abaixo.
+As figuras 1 e 2 são o storyboard de pesquisa de Procurados feito pela integrante [Lara Giuliana](https://github.com/gravelylara).
 
-![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados.jpg)
+![Quadrinho de Procurados](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados1.jpeg)
 <div align="center">
-    <p> Figura 1: Stroryboard de Pesquisar procurados  . Fonte: 
+    <p> Figura 1: Stroryboard de Pesquisar procurados. Fonte: 
         <a href="https://github.com/gravelylara">Lara</a>
     </p> 
 </div>
 
-A figura 2 é o storyboard do Solicitar Carteira de Identidade o feito pela integrante [Raissa Andrade](https://github.com/RaissaAndradeS)
+![Quadrinho de Procurados](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados2.jpeg)
+<div align="center">
+    <p> Figura 2: Stroryboard de Pesquisar procurados. Fonte: 
+        <a href="https://github.com/gravelylara">Lara</a>
+    </p> 
+</div>
+
+A figura 3 é o storyboard do Solicitar Carteira de Identidade o feito pela integrante [Raissa Andrade](https://github.com/RaissaAndradeS).
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 
 <div align="center">
-    <p> Figura 2: Storyboard de Solicitar Carteira de Identidade  . Fonte: 
+    <p> Figura 3: Storyboard de Solicitar Carteira de Identidade. Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>
 
 
-A figura 3 é o storyboard do Registro de Ocorrência feito pela integrante [Rayene Almeida](https://github.com/rayenealmeida)
+A figura 4 é o storyboard do Registro de Ocorrência feito pela integrante [Rayene Almeida](https://github.com/rayenealmeida).
 
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/Storyboard_RegistroOcorrencia.jpeg)
 <div align="center">
-    <p> Figura 3: Storyboard de Registro de Ocorrência . Fonte: 
+    <p> Figura 3: Storyboard de Registro de Ocorrência. Fonte: 
         <a href="https://github.com/rayenealmeida">Rayene</a>
     </p> 
 </div>
@@ -48,19 +55,19 @@ A figura 3 é o storyboard do Registro de Ocorrência feito pela integrante [Ray
 
 **Perguntas e Respostas**
 
-1. Qual seu nome completo? **Resposta:** Nícolas Yuri
+1. Qual seu nome completo? **Resposta:** Clara Ismênia
 
-2. Qual sua idade? **Resposta:** 20 anos
+2. Qual sua idade? **Resposta:** 24 anos
 
-3. Qual sua ocupação? **Resposta:** Estudante
+3. Qual sua ocupação? **Resposta:** Estudante de graduação
 
 4. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** Sim
 
 5. O cenário descrito no storyboard parece realista e relevante para os usuários do sistema **Resposta:** Sim
 
-6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** Não
+6. Os estímulos apresentados no storyboard parecem adequados para incentivar os usuários a realizar ações? **Resposta:** Sim
 
-7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** Não sei responder
+7. O storyboard parece ser apropriado para o público-alvo do produto? **Resposta:** Sim
 
 8. O storyboard demonstra claramente como o produto resolve os problemas ou necessidades dos usuários **Resposta:** Sim
 
@@ -178,7 +185,9 @@ Não há sugestão de melhoria.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
+| 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
+| 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221)   | 01/06 | 
+
 
 
 
