@@ -26,24 +26,29 @@ e regras de seleção (selection rules).
 
 ### Pesquisar Procurados 
 #### Introdução 
-No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. Para isso foi escolhida a GOMS.
-O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
-como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
-e regras de seleção (selection rules).
+No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. 
+* Goal 1: Listar todos os procurados pela PCDF
+    * Method 1: Inserir dados- deixar os espaços sem preencher e nao opção "nome" selecionar "todos"
+    * Method 2: Selecionar a região "DF"
 
-Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denúncia rápida de um crime, ainda na mesma página, os elementos seriam:
+* Goal 2: Procurar um nome específico 
+    * Method 1: Ir até o endereço da PCDF (ou real ou eletrônico) e informar os seguintes dados
+        * Operation 1: Informar nome a ser buscado
+        * Operation 2: Informar crime cometido (opcional)
+        * Operation 3: Informar região de atuação (opcional)
+        * Operation 4: Informar gênero (opcional)
+        * Operation 5: submeter dados
 
-- Objetivos: denunciar delito
-- Operadores: Inserir, via teclado, os seguintes dados:
-    - Local
-    - UF
-    - Cidade
-    - Bairro
-    - Crimes
-    - Histórico
-    - O Autor é menor de idade? (Sim/Não)
-- Métodos: Inserir dados via teclado, ou copiar essas informações de alguma outro local e colar na página presente.
-- Regras de exeção: Enviar o formulário sem todas as partes preenchidas.
+* Goal 3: Denunciar pessoa procurada
+    * Method 1: Ir até o endereço da PCDF (ou real ou eletrônico) e informar os seguintes dados
+        * Operation 1: Informar local do ocorrido (opcional)
+        * Operation 2: Informar UF, cidade e bairro (opcional)
+        * Operation 3: Informar tipo de crime (opcional)
+        * Operation 4: Informar histórico: todo o relato da sua denúncia 
+        * Operation 5: Selecionar se o indivíduo é menor de idade (opcional)
+        * Operation 6: Anexar algum arquivo (como boletim de ocorrência, vídeos, filmagens) (opcional)
+        * Operation 7: Comprovar identidade respondendo captcha no meio eletrônico ou informando documento numa delegacia
+        * Operation 8: Submeter dados
 
 ### Solicitar Antecedentes Criminais 
 Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
@@ -314,3 +319,4 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 | 1.7 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa](https://github.com/gio221)   |10/05 |
 | 1.8 | Correções da Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |   [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 |  1.9   | Correção de link               |   [Giovana Barbosa](https://github.com/gio221)        |   15/05   |   [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)   |  15/05              |
+|  2.0   | Correção Procurados    |  [Lara Giuliana](https://github.com/gravelylara)   | 01/06  |   [Giovana Barbosa](https://github.com/gio221)  | 01/06    |
