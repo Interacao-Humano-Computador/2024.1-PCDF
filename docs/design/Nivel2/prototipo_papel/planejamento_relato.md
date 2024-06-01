@@ -140,11 +140,7 @@ Fonte - BARBOSA e SILVA (2010).
 3. [Sugestão de Melhoria 3]
 ...
 
-## Perguntas a serem respondidas depois da avaliação
-|Perguntas|Respostas|
-|---------|---------|
-|Os diagramas representam de forma precisa as tarefas esperadas para as funcionalidades do site?|Sim
-| As entrevistas fornecem informações que possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?|Sim
+
 
 ## Referências Bibliográficas 
 
