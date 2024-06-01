@@ -61,8 +61,7 @@ Para a realização da avaliação, será utilizada uma combinação de métodos
         Tabela 4: artefatos a serem avaliados
 | Integrante responsável | Artefato |
 | :------------------------------------------------------: | ------------------------------------------- |
-| [Giovana Silva](https://github.com/gio221) | Denuncia Online |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | Validar certidão de antecentes |       
+| [Giovana Silva](https://github.com/gio221) | Denuncia Online |                  
 | [Lara Juliana](https://github.com/gravelylara) | Pesquisar Procurados  |            
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | Carteira de identidade  | 
 | [Rayene Almeida](https://github.com/rayenealmeida) | Registra Ocorrência |    
@@ -90,7 +89,10 @@ As entrevistas serão conduzidas presencialmente, utilizando a câmera do celula
 
 * Teste piloto
 
-O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante ...
+O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante Renata 
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1yyfp6XTy6k " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/1yyfp6XTy6k " target="blanket">Vídeo do teste piloto</a></p>
 
 
 ## Cronograma 
@@ -99,11 +101,10 @@ A seguir, na tabela 5, o cronograma de como será documentado.
     Tabela 2: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online | Nome do Entrevistado 1 |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | 05/06/2024 | Presencial | 19:00 | Validar certidão de antecentes | Nome do Entrevistado 2 |    
-| [Lara Juliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Nome do Entrevistado 3 |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade | Nome do Entrevistado 4 |
-| [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência | Nome do Entrevistado 5 |
+| [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online |Kaio|                 
+| [Lara Juliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Marcos |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade |Luis|
+| [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência |Heber|
 | [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
 | [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 |  Retrato Falado | Lara Geovanna |
 
@@ -175,5 +176,5 @@ Após essa fase de análise, os dados serão compartilhados com a equipe. A apre
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento |[Giovana Barbosa](https://github.com/gio221)| 27/05 | [Renata Quadros](https://github.com/Renatinha28)  | 27/05 |
-| 1.1 | Planejamento da avaliação | [Renata Quadros](https://github.com/Renatinha28) | 27/05 | | |
-| 1.1 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | | |
+| 1.1 | Planejamento da avaliação | [Renata Quadros](https://github.com/Renatinha28) | 27/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
+| 1.1 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|

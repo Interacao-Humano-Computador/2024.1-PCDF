@@ -95,27 +95,6 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Solicitar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard Validar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard 197- Denúncia Online
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
 #### Storyboard Solicitar Carteira de Identidade
 
 1. [Sugestão de Melhoria 1]
@@ -129,15 +108,6 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
-
-#### Storyboard Retrato Falado Online
-
-1. [Sugestão de Melhoria 1]
-
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
