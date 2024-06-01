@@ -114,8 +114,14 @@ O teste piloto foi realizado no dia 18/05/2024, pela parte da manhã.
 |18/05/2024|Microsoft Teams|11:30 am | [Raissa Andrade](https://github.com/RaissaAndradeS)| [Renata Quadros](https://github.com/Renatinha28)|
 
 ### Resultado do Teste piloto 
-Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto, durou cerca de 8 minutos. A participante [Renata Quadros](https://github.com/Renatinha28) fez o papel do usuário e [Raissa Andrade](https://github.com/RaissaAndradeS) fez o papel de entrevistadora. No roteiro, apresento o Termo de Consentimento, peço para realizar uma atividade no site da PCDF, apresento o diagrama que foi feito no HTA e por último peço para ela comparar o site da PCDF com PCGO.
-Para ter acesso ao teste piloto, [Clique Aqui.](https://www.youtube.com/watch?v=tM17vB1zjOw)
+Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto, durou cerca de 8 minutos. O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante [Renata Quadros](https://github.com/Renatinha28)
+
+Confira o resultado do teste piloto 
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YSvD6ehyKpg " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/YSvD6ehyKpg " target="blanket">Resultado do teste piloto</a></p>
+
 
 ## Referências Bibliográficas
 
