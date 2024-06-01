@@ -30,7 +30,7 @@ Tabela 1: Informações sobre a reunião
 ## Horário das reuniões
 Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma de review e uma daily, também separamos o que falta para cada um fazer e definimos o cronograma 
 
-## metodologia qu evamos ultilizar
+## metodologia que vamos ultilizar
 definimos que vamos ultilizar o scrum e o kanban adaptado
 
 ## Histórico de versão

@@ -89,57 +89,64 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Verificação e Relato artefatos etapa 1 | Início: 03/06 Fim: 07/06 | Raissa              | Início: 07/06 Fim: 07/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Verificação e Relato artefatos etapa 2 | Início: 03/06 Fim: 07/06 | Giovana   | Início: 07/06 Fim: 07/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Verificação e Relato artefatos etapa 3 | Início: 03/06 Fim: 07/06 | Renata              | Início: 07/06 Fim: 07/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Verificação e Relato artefatos etapa 4 | Início: 03/06 Fim: 07/06 | Rayene             | Início: 07/06 Fim: 07/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Verificação e Relato artefatos etapa 5 | Início: 03/06 Fim: 07/06 | João e Lara           | Início: 07/06 Fim: 07/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Ajustes artefatos etapa 1              |Início: 07/06 Fim: 09/06 |   Raissa              | Início: 09/06 Fim: 09/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Ajustes artefatos etapa 2              | Início: 07/06 Fim: 09/065 | Giovana  | Início: 09/06 Fim: 09/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Ajustes artefatos etapa 3              |Início: 07/06 Fim: 09/06 |  Renata              | Início: 09/06 Fim: 09/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Ajustes artefatos etapa 4              | Início: 07/06 Fim: 09/06| Rayene             | Início: 09/06 Fim: 09/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Ajustes artefatos etapa 5              | Início: 07/06 Fim: 09/06 | João e Lara            | Início: 09/06 Fim: 09/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Responder Perguntas finais             | Início: 09/06 Fim: 09/06 | Giovana, João, Lara, Raissa, Rayene e Renata           |Início: 09/06 Fim: 09/06| Giovana, João, Lara, Raissa, Rayene e Renata          |
-| Gravação da apresentação               | Início: 09/06 Fim: 10/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 10/06 Fim: 10/06  | Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Correção pós entrega                   | Início: 12/06 Fim: 14/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 14/06 Fim: 14/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |
+| Planejamento da Avaliação da etapa 1 | Início: 03/06 Fim: 06/06 | Raissa e Rayene     | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|Planejamento da Avaliação da etapa 2 | Início: 03/06 Fim: 06/06 | Giovana e Renata | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 3 | Início: 03/06 Fim: 06/06 | Lara e Giovana    | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 4 | Início: 03/06 Fim: 06/06 | Raissa e Rayene      | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 5 | Início: 03/06 Fim: 06/06 |  Giovana e Renata      | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Relato da etapa 1              |Início: 06/06 Fim: 09/06 |    Lara e Giovana         | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 2              | Início: 06/06 Fim: 09/065 |Raissa e Rayene  | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 3              |Início: 06/06 Fim: 09/06 |  Renata  e Raissa            | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 4              | Início: 06/06 Fim: 09/06|   Rayene e Lara          | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 5              | Início: 06/06 Fim: 09/06 | Lara e Renata          | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
+| Responder Perguntas finais             | Início: 09/06 Fim: 09/06 | Giovana     |Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
+| Gravação da apresentação               | Início: 09/06 Fim: 10/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 10/06 Fim: 10/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega                   | Início: 12/06 Fim: 14/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 14/06 Fim: 14/06 | Giovana, Lara, Raissa, Rayene e Renata              |
  
+## Etapa 7: Relato dos resultados do Protótipo de Papel
+    Esta tabela descreve as atividades planejadas da etapa 7
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Protótipo de papel     | Início: 05/06 Fim: 10/06  |  Giovana,  Lara, Raissa, Rayene e Renata     | Início: 12/06 Fim: 14/06 | Giovana,  Lara, Raissa, Rayene e Renata  |
+| Relato dos resultados do Protótipo de Papel  | Início: 10/06 Fim: 12/06  | Giovana          | Início: 12/06 Fim: 14/06  | Giovana,  Lara, Raissa, Rayene e Renata  |
+| Planejamento da avaliação do protótipo de alta fidelidade  | Início: 12/06 Fim: 14/06 |Renata e Raissa  |  Início: 14/06 Fim: 16/06  | Giovana,  Lara, Raissa, Rayene e Renata   |
+| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Início: 14/06 Fim: 16/06  | Rayene e Lara|  Início: 14/06 Fim: 16/06  |Giovana,  Lara, Raissa, Rayene e Renata  |
+| Perguntas finais                                                           |  Início: 16/06 Fim: 16/06 |Giovana         | Início: 16/06 Fim: 16/06| Giovana,  Lara, Raissa, Rayene e Renata   |
+| Gravação da apresentação                                                           | Início: 16/06 Fim: 17/06 | Giovana,  Lara, Raissa, Rayene e Renata       | Início: 16/06 Fim: 17/06|Giovana,  Lara, Raissa, Rayene e Renata |
+| Correção pós entrega           | Início: 19/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata             | Início: 21/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata   |
 
 ## Etapa 6.2:  Verificação dos artefatos
     Esta tabela descreve as atividades planejadas da etapa 6.2
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Verificação e Relato artefatos etapa 1, 2 e 3 | Início: 19/06 Fim: 21/06 |Giovana e renata  | Início: 19/06 Fim: 21/06| Giovana, João, Lara, Raissa, Rayene e Renata    |
-| Verificação e Relato artefatos etapa 4, 5 e 6 |Início: 21/06 Fim: 21/06  | Raissa e João Pedro    | Início: 21/06 Fim: 21/06 |Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Responder perguntas finais    | Início: 21/06 Fim: 21/06  | Lara |Início: 21/06 Fim: 21/06 | Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Gravação    | Início: 21/06 Fim: 21/06 | Giovana, João, Lara, Raissa, Rayene e Renata | Início: 21/06 Fim: 21/06 | Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Correção pós entrega                   | Início: 24/06 Fim: 26/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |  Início: 24/06 Fim: 26/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |
-
-## Etapa 7: Relato dos resultados do Protótipo de Papel
-    Esta tabela descreve as atividades planejadas da etapa 7
-
-| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
-| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Protótipo de papel                                                                 | Início: 12/06 Fim: 14/06  | Renata       | Início: 12/06 Fim: 14/06 | João Pedro   |
-| Relato dos resultados do Protótipo de Papel                                        | Início: 12/06 Fim: 14/06  | Giovana          | Início: 12/06 Fim: 14/06  | Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Planejamento da avaliação do protótipo de alta fidelidade                          | Início: 14/06 Fim: 16/06 |Lara e Rayene  |  Início: 14/06 Fim: 16/06  | Giovana, João, Lara, Raissa, Rayene e Renata    |
-| Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Início: 14/06 Fim: 16/06  | Raissa |  Início: 14/06 Fim: 16/06  |Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Perguntas finais                                                           |  Início: 16/06 Fim: 16/06 | João Pedro           | Início: 16/06 Fim: 16/06| Giovana, João, Lara, Raissa, Rayene e Renata     |
-| Gravação da apresentação                                                           | Início: 16/06 Fim: 16/06 | Giovana, João, Lara, Raissa, Rayene e Renata             | Início: 16/06 Fim: 16/06| Giovana, João, Lara, Raissa, Rayene e Renata     |
-| Correção pós entrega                                                               | Início: 19/06 Fim: 21/06 | Giovana, João, Lara, Raissa, Rayene e Renata             | Início: 21/06 Fim: 21/06 | Giovana, João, Lara, Raissa, Rayene e Renata     |
-
+| Planejamento da Avaliação da etapa 1 | Início: 17/06 Fim: 20/06 | Raissa e Rayene     | Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+|Planejamento da Avaliação da etapa 2 | Início: 17/06 Fim: 20/06  | Giovana e Renata |Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 3 | Início: 17/06 Fim: 20/06  | Lara e Giovana    | Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 4 | Início: 17/06 Fim: 20/06  | Raissa e Rayene      | Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 5 | Início: 17/06 Fim: 20/06  |  Giovana e Renata      | Início: 17/06 Fim: 20/06  Giovana,  Lara, Raissa, Rayene e Renata          |
+| Relato da etapa 1              |Início: 20/06 Fim: 22/06 |    Lara e Giovana         |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 2              |Início: 20/06 Fim: 22/06 |Raissa e Rayene  |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 3              |Início: 20/06 Fim: 22/06 | Renata  e Raissa            |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 4              |Início: 20/06 Fim: 22/06 |   Rayene e Lara          |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 5              |Início: 20/06 Fim: 22/06 |Lara e Renata         |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
+| Responder Perguntas finais             |Início: 20/06 Fim: 22/06 | Giovana    |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
+| Gravação da apresentação               | Início: 23/06 Fim: 23/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 23/06 Fim: 23/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega                   | Início: 24/06 Fim: 26/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 24/06 Fim: 26/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+ 
 
 ## Etapa 8: Relato dos resultados do Protótipo de alta fidelidade.
     Esta tabela descreve as atividades planejadas da etapa 8
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 22/06 Fim: 24/06 | Raissa e Rayene| Início: 22/06 Fim: 24/06 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Planejamento de verificação dos artefatos da entrega 7             |Início: 22/06 Fim: 24/06| João    | Início: 22/06 Fim: 24/06 | Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 24/06 Fim: 25/06 | Lara | Início: 24/06 Fim: 25/06| Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Responder perguntas finais                                           | Início: 24/06 Fim: 25/06 | Giovana | Início: 24/06 Fim: 25/06| Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Gravação da apresentação                                           | Início: 24/06 Fim: 25/06 | Giovana, João, Lara, Raissa, Rayene e Renata             | Início: 24/06 Fim: 25/06 | Giovana, João, Lara, Raissa, Rayene e Renata     |
-| Correção pós entrega                                               | Início: 26/06 Fim: 28/06 | Giovana, João, Lara, Raissa, Rayene e Renata             | Início: 26/06 Fim: 28/06 | Giovana, João, Lara, Raissa, Rayene e Renata     |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 22/06 Fim: 24/06 |Giovana| Início: 22/06 Fim: 24/06 |Giovana, Lara, Raissa, Rayene e Renata         |
+| Planejamento de verificação dos artefatos da entrega 7             |Início: 22/06 Fim: 23/06| Renata e Raissa    | Início: 22/06 Fim: 24/06 | Giovana, Lara, Raissa, Rayene e Renata        |
+| Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 23/06 Fim: 24/06 | Lara e Rayene| Início: 24/06 Fim: 25/06| Giovana, Lara, Raissa, Rayene e Renata         |
+| Responder perguntas finais                                           | Início: 24/06 Fim: 25/06 | Giovana | Início: 24/06 Fim: 25/06| Giovana, Lara, Raissa, Rayene e Renata        |
+| Gravação da apresentação                                           | Início: 25/06 Fim: 26/06 | Giovana, Lara, Raissa, Rayene e Renata     | Início: 24/06 Fim: 25/06 | Giovana, Lara, Raissa, Rayene e Renata  |
+| Correção pós entrega                                               | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata           | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata    |
 
 ## Etapa Final :Entrega Final 
     Esta tabela descreve as atividades planejadas da etapa final
