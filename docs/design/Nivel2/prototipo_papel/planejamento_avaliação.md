@@ -62,7 +62,7 @@ Para a realização da avaliação, será utilizada uma combinação de métodos
 | Integrante responsável | Artefato |
 | :------------------------------------------------------: | ------------------------------------------- |
 | [Giovana Silva](https://github.com/gio221) | Denuncia Online |                  
-| [Lara Juliana](https://github.com/gravelylara) | Pesquisar Procurados  |            
+| [Lara Giuliana](https://github.com/gravelylara) | Pesquisar Procurados  |            
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | Carteira de identidade  | 
 | [Rayene Almeida](https://github.com/rayenealmeida) | Registra Ocorrência |    
 | [Renata Quadros](https://github.com/Renatinha28) |  Solicitar Antecedentes | 
@@ -102,7 +102,7 @@ A seguir, na tabela 5, o cronograma de como será documentado.
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
 | [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online |Kaio|                 
-| [Lara Juliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Marcos |              
+| [Lara Giuliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Marcos |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade |Luis|
 | [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência |Heber|
 | [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
