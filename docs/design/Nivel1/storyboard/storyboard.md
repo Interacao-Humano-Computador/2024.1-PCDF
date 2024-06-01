@@ -40,29 +40,36 @@ A metodologia adotada consiste na elaboração de storyboards feitos pelos integ
 
 
 ## Tarefa 1: Pesquisar procurados 
-A figura 1 é o storyboard feito pela integrante [Lara Giuliana](https://github.com/gravelylara)
+As figuras 1 e 2 são referentes ao storyboard feito pela integrante [Lara Giuliana](https://github.com/gravelylara).
 
-![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados.jpg)
+![Quadrinho de Procurados](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados1.jpeg)
 <div align="center">
-    <p> Figura 1: Stroryboard de Pesquisar procurados  . Fonte: 
+    <p> Figura 1: Stroryboard de Pesquisar procurados. Fonte: 
+        <a href="https://github.com/gravelylara">Lara</a>
+    </p> 
+</div>
+
+![Quadrinho de Procurados](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados2.jpeg)
+<div align="center">
+    <p> Figura 2: Stroryboard de Pesquisar procurados. Fonte: 
         <a href="https://github.com/gravelylara">Lara</a>
     </p> 
 </div>
 
 ## Tarefa 2: Solicitar Antecedentes Criminais
-As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, na qual foi processada injustamente. 
+As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, a qual foi processada injustamente. 
 
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant1.png)
 <div align="center">
-    <p> Figura 2: Stroryboard de Solicitar antecedentes. Fonte: 
+    <p> Figura 3: Stroryboard de Solicitar antecedentes. Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant2.png)
 <div align="center">
-    <p> Figura 3: Stroryboard de Solicitar antecedentes . Fonte: 
+    <p> Figura 4: Stroryboard de Solicitar antecedentes. Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
@@ -70,72 +77,72 @@ As figuras 2, 3 e 4 são um storyboard feitos pela integrante [Renata Quadros](h
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant3.png)
 <div align="center">
-    <p> Figura 4: Stroryboard de Solicitar antecedentes . Fonte: 
+    <p> Figura 5: Stroryboard de Solicitar antecedentes. Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 
 ## Tarefa 3: Validar certidão de antecedentes criminais 
-Esse é um storyboard que relata o uso do site da PCDF para validar uma certidão de antecedente criminal;
+A Figura 6 é um storyboard que relata o uso do site da PCDF para validar uma certidão de antecedente criminal.
 ![Quadrinho da validação de antecedentes criminais](../../../assets/design/Nivel1/storyboards/Storyboard_validacao_ant.jpg)
 <br>
 <div align="center">
-    <p> Figura 5: Storyboard sobre a validação de antecedentes criminais. Fonte: 
+    <p> Figura 6: Storyboard sobre a validação de antecedentes criminais. Fonte: 
         <a href="https://github.com/JoaoODragonborn">João Pedro</a>
     </p> 
 </div>
 
 
 ## Tarefa 4: Denúncia Online
-Esse é um storyboard que relata o uso do site da PCDF para fazer denúncia onlines feito pela integrante [Giovana](https://github.com/gio221)
+A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúncia online feito pela integrante [Giovana](https://github.com/gio221).
 <br> <br>
 ![Quadrinho da 197](../../../assets/design/Nivel1/storyboards/Stroryboard_197.png)
 <div align="center">
-    <p> Figura 6: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 7: Storyboard de Retrato Falado. Fonte: 
         <a href="https://github.com/gio221">Giovana</a>
     </p> 
 </div>
 
 ## Tarefa 5: Solicitar carteira de identidade 
-Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
+A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 <div align="center">
-    <p> Figura 7: Storyboard de Solicitar carteira de identidade . Fonte: 
+    <p> Figura 8: Storyboard de Solicitar carteira de identidade. Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>
 
 ## Tarefa 6: Registrar Ocorrência 
-Esse é um Storyboard de uma pessoa que sofreu um acidente de carroe o infrator fugio do local, então ele teve que registrar uma ocorrêcnia.<br> <br>
+A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o infrator fugio do local, então ele teve que registrar uma ocorrêcnia.<br> <br>
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/Storyboard_RegistroOcorrencia.jpeg)
 <div align="center">
-    <p> Figura 8: Storyboard de Registro de Ocorrência . Fonte: 
+    <p> Figura 9: Storyboard de Registro de Ocorrência. Fonte: 
         <a href="https://github.com/rayenealmeida">Rayene</a>
     </p> 
 </div>
 
 ## Tarefa 7: Fazer um retrato falado de forma online
-As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) e se baseia na Ana Silva, uma médica que foi assaltada e está sem tempo de ir até a delegacia para registrar sua denúncia e seu retrato falado.
+As figuras 10, 11 e 12 representam o storyboard da funcionalidade sugerida. Foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) e se baseia na Ana Silva, uma médica que foi assaltada e está sem tempo de ir até a delegacia para registrar sua denúncia e seu retrato falado.
 
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado1.png)
 <div align="center">
-    <p> Figura 9: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 10: Storyboard de Retrato Falado. Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado2.png)
 <div align="center">
-    <p> Figura 10: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 11: Storyboard de Retrato Falado. Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado3.png)
 <div align="center">
-    <p> Figura 11: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 12: Storyboard de Retrato Falado. Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
@@ -155,3 +162,4 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 | 1.2 | Storyboard da tarefa 2 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
 | 1.3 | Storyboard da tarefa 2 | [Rayene Almeida](https://github.com/rayenealmeida) | 16/05 | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221) | 16/05 |  
 | 1.4 | Storyboard da tarefa 3 | [João Pedro](https://github.com/JoaoODragonborn) | 17/05 | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/05 | 
+| 2.0 | Atualização da página e do storyboard da tarefa 3 | [Lara Giuliana](https://github.com/gravelylara) | 01/06 | [Giovana Barbosa ](https://github.com/gio221)  | 01/06 | 
