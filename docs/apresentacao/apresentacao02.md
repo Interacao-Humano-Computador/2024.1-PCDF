@@ -48,5 +48,5 @@ Tabela 2: Histórico de versões da página de apresentação
 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  06/04  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28) |14/04|
-| 1.1 |  20/04  | Adicionando video da apresentação |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28)  |06/05|
+| 1.0 |  06/04  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) |14/04|
+| 1.1 |  20/04  | Adicionando video da apresentação |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |06/05|

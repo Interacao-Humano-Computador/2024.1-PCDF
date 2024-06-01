@@ -63,8 +63,8 @@ Pelo detalhamento do processo de design de Mayhew, a equipe optou por utilizá-l
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de processos de design                   |   [Lara Giuliana](https://github.com/gravelylara)     |   07/04   |      [João Pedro](https://github.com/...)    |     08/04                 |
-|  1.1   | Revisão e adição de legendas                 |   [João Pedro](https://github.com/...)     |   08/04   |  [Lara Giuliana](https://github.com/gravelylara)        |       08/04               |
-|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221)         |        12/04              |
+|  1.0   | Criação do documento de processos de design                   |   [Lara Giuliana](https://github.com/gravelylara)     |   07/04   |      [João Pedro](https://github.com/...) , [Renata Quadros](https://github.com/Renatinha28)   |     08/04                 |
+|  1.1   | Revisão e adição de legendas                 |   [João Pedro](https://github.com/...)     |   08/04   | [Renata Quadros](https://github.com/Renatinha28), [Lara Giuliana](https://github.com/gravelylara)        |       08/04               |
+|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |     [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221)         |        12/04              |
 |  1.3   | Correção das imagens                   |  [Giovana Barbosa ](https://github.com/gio221)    |   12/04   |        [Renata Quadros](https://github.com/Renatinha28)        |            17/04       |
 |  1.4   | Chamando imagens no texto                 |  [Giovana Barbosa ](https://github.com/gio221)    |   17/04   |      [Renata Quadros](https://github.com/Renatinha28)          |        17/04           |

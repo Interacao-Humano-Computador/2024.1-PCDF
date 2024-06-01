@@ -10,12 +10,14 @@ nav:
     - Apresentação 2: apresentacao/apresentacao02.md
     - Apresentação 3: apresentacao/apresentacao03.md
     - Apresentação 4: apresentacao/apresentacao04.md
+    - Apresentação 5: apresentacao/apresentacao04.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
       - Reunião 3: reunioes/reuniao03.md
       - Reunião 4: reunioes/reuniao04.md
       - Reunião 5: reunioes/reuniao05.md
+      - Reunião 6: reunioes/reuniao06.md
   - Planejamento:
     - Metodologia: planejamento/metodologia.md
     - Cronograma: planejamento/cronograma.md
@@ -47,11 +49,16 @@ nav:
       - Análise de tarefas:
         - Planejamento da Avaliação da Análise de Tarefas : design/Nivel1/analise_tarefas/planejamento_avaliação.md
         - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/analise_tarefas/planejamento_relato.md
+        - Relato dos Resultados: design/Nivel1/analise_tarefas/relato.md
       - Storyboard:
-        - Planejamento da Avaliação do Storyboard : design/Nivel1/stroyboard/planejamento_avaliação.md
-        - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/stroyboard/planejamento_relato.md
-        - Storyboards: design/Nivel1/stroyboard/stroryboar.md
-
+        - Planejamento da Avaliação do Storyboard : design/Nivel1/storyboard/planejamento_avaliação.md
+        - Planejamento do Relato dos Resultados da Avaliação: design/Nivel1/storyboard/planejamento_relato.md
+        - Relato dos Resultados: design/Nivel1/storyboard/relato.md
+        - Storyboards: design/Nivel1/storyboard/storyboard.md
+    - Nivel 2:
+      - Protótipo de Papel:
+        - Planejamento da Avaliação do Protótipo de Papel : design/Nivel2/prototipo_papel/planejamento_avaliação.md
+        - Planejamento do Relato do Protótipo de Papel: design/Nivel2/prototipo_papel/planejamento_relato.md
    
 
 theme:

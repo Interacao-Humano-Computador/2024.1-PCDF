@@ -23,7 +23,6 @@ Tabela 1: Informações sobre a reunião
 - Definir o que falta fazer para a entrega
 - Definir o site escolhido
 - Definir metodologia que vamos ultilizar no projeto
-- Definir cronograma completo
 
 ## Site que escolhemos
  O site que escolhemos foi o avaliado pela integrante Rayene Almeida o site do INSS
@@ -31,7 +30,10 @@ Tabela 1: Informações sobre a reunião
 ## Horário das reuniões
 Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma de review e uma daily, também separamos o que falta para cada um fazer e definimos o cronograma 
 
+## metodologia que vamos ultilizar
+definimos que vamos ultilizar o scrum e o kanban adaptado
+
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida)|
+| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|

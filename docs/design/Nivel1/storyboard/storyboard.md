@@ -101,7 +101,7 @@ Esse é um storyboard que relata o uso do site da PCDF para fazer denúncia onli
 Esse é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.<br> <br>
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 <div align="center">
-    <p> Figura 7: Storyboard de Retrato Falado  . Fonte: 
+    <p> Figura 7: Storyboard de Solicitar carteira de identidade . Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>
@@ -152,6 +152,6 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Renata Quadros](https://github.com/Renatinha28) | 16/05 |[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 16/05  | 
 | 1.1 | Storyboard da tarefa 2 | [Renata Quadros](https://github.com/Renatinha28) | 16/05 | [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 16/05 | 
-| 1.2 | Storyboard da tarefa 2 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
-| 1.3 | Storyboard da tarefa 2 | [Rayene Almeida](https://github.com/rayenealmeida) | 16/05 | [Giovana Barbosa ](https://github.com/gio221) | 16/05 |  
-| 1.4 | Storyboard da tarefa 3 | [João Pedro](https://github.com/JoaoODragonborn) | 17/05 | [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/05 | 
+| 1.2 | Storyboard da tarefa 2 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
+| 1.3 | Storyboard da tarefa 2 | [Rayene Almeida](https://github.com/rayenealmeida) | 16/05 | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221) | 16/05 |  
+| 1.4 | Storyboard da tarefa 3 | [João Pedro](https://github.com/JoaoODragonborn) | 17/05 | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/05 | 

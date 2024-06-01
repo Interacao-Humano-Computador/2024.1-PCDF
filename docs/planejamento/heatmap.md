@@ -34,6 +34,6 @@ O método escolhido para gerenciar nosso projeto é o Scrum. O Scrum é uma estr
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Versão Inicial                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   06/04   |       [Giovana Barbosa ](https://github.com/gio221)        |     06/04                 |
-|  1.1   | Mudança das datas das reuniões                   |   [Giovana Barbosa ](https://github.com/gio221)      |   06/04   |  [Raissa Andrade ](https://github.com/RaissaAndradeS)            |       07/04               |
-|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Giovana Barbosa ](https://github.com/gio221)            |      13/04/2024                |
+|  1.0   | Versão Inicial                    |   [Rayene Almeida](https://github.com/rayenealmeida)      |   06/04   |       [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)        |     06/04                 |
+|  1.1   | Mudança das datas das reuniões                   |   [Giovana Barbosa ](https://github.com/gio221)      |   06/04   |  [Raissa Andrade ](https://github.com/RaissaAndradeS) , [Renata Quadros](https://github.com/Renatinha28)           |       07/04               |
+|  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |    [Giovana Barbosa ](https://github.com/gio221) , [Renata Quadros](https://github.com/Renatinha28)           |      13/04/2024                |

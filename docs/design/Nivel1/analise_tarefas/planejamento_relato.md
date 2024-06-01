@@ -1,12 +1,8 @@
-# Introdução
+## Introdução
 Este documento tem como objetivo descrever o planejamento do relato da análise de tarefas que é um documento que será ultilizado como base para escrever o relato e conclusões da avaliação. O relato será baseado no planejamento da avaliação da análise de tarefas. Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema do site da PCDF e fornecer sugestões de redesign pelo grupo
 
-# Metodologia 
-A escolha da metodologia varia de acordo com os resultados que devm ser alcançados:
-
-- 1.Observação: a pessoa deve observar enquanto o usuário realiza a prática de alguma funcionalidade do sistema, se atentando as dificuldades que os usuários podem vir a ter
-- 2.Entrevistas: Realizar entrevistas com o usuário em dupla ou em grupo.As entrevistas podem ser estruturadas, semiestruturadas ou não estruturadas, dependendo das necessidades do estudo
-- 3.Questionários: Utilizar questionários padronizados para coletar dados quantitativos e qualitativos sobre as tarefas. 
+## Metodologia 
+Ultilizamos o método de entrevista , em que apresentamos a analise de tarefas GOMS e os storyboard de cada funcionalidade. Assim foi possivel coletar os dados dos usuários e os feedbacks.
 
 É sempre importante resaltar que a metodologia deve se adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. Neste projeto ultilizamos o framework DECIDE
 
@@ -26,88 +22,70 @@ A documentação do relato deve conter as seguintes informações:
 
 ## Objetivo da Avaliação
 
-Nesta etapa, o redator do documento deve abordar diversos pontos fundamentais para a compreensão completa da avaliação. Primeiramente, é essencial explicar a razão pela qual a avaliação está sendo realizada. Isso pode incluir identificar necessidades específicas, solucionar problemas detectados ou melhorar processos existentes. Em seguida, deve-se descrever claramente o objetivo que o grupo pretende alcançar com a análise de tarefas.
-
-Justificar a importância da avaliação é um aspecto crucial, pois ajuda a todos os envolvidos a entenderem o valor e a relevância do processo. Isso pode envolver demonstrar como a avaliação pode levar a melhorias significativas, aumentar a eficiência ou garantir a conformidade com padrões e regulamentos.
-
-Além disso, é importante esclarecer as expectativas e as metas estabelecidas. Isso significa definir o que se espera alcançar com a avaliação, quais resultados são desejados e como esses resultados beneficiarão a organização ou o grupo.
-
-Por fim, fornecer uma visão geral do propósito e do contexto da avaliação ajuda a situar o leitor, fornecendo um pano de fundo que contextualiza a análise de tarefas dentro de um quadro mais amplo. Isso inclui descrever o ambiente em que a avaliação ocorrerá, as circunstâncias que a motivaram e como ela se alinha com os objetivos estratégicos da organização.
-
-Em resumo, o redator deve detalhar a razão da avaliação, os objetivos almejados, a importância da avaliação, as expectativas e metas, além de fornecer uma visão geral do contexto. Isso garante que todos os envolvidos compreendam a finalidade e o valor do processo de avaliação.
+O objetivo da avaliação assim como mencionado no planejamento de avaliação é  assegurar que as funcionalidades criadas durante a Análise de Tarefas atendam aos padrões exigidos e explorar possíveis alternativas de design para a aplicação. 
 
 ## Método de Avaliação
-O método de Avaliação a ser ultilizado é a entrevista aos usuários, portanto segue-se o modelo. O entrevistador deve seguir o seguinte cronograma para as entrevistas
+O método de Avaliação a ser ultilizado é a entrevista aos usuários, portanto segue-se o modelo. Serão no total seis entrevistadores que são os integrantes do grupo e sete entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo terá que realizar duas entrevista, uma para cada funcionalidade. O entrevistador deve seguir o seguinte cronograma para as entrevistas
 
-    Tabela 2- Cronograma da Avaliação
+    Tabela 2- Cronograma executado da Avaliação
+Cronograma de planejamento das entrevistas em Planejamento da Avaliação do Storyboard
 
-| Integrante responsável | Data       | Artefato | 
-|:----------------------:|------------|-------|
-| [Giovana Silva](https://github.com/gio221) | 17/05/2024 | Denuncia Online |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | 20/05/2024 | Validar certidão de antecentes |       
-| [Lara Juliana](https://github.com/gravelylara) | 20/05/2024 |Pesquisar Procurados  |            
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 19/05/2024 | Carteira de identidade  | 
-| [Rayene Almeida](https://github.com/rayenealmeida) | 20/05/2024 | Registra Ocorrência |    
-| [Renata Quadros](https://github.com/Renatinha28) | 17/05/2024 | Solicitar Antecedentes |  
+| Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
+|:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
+| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   |Nicolas | Lara | 29/05/2024      |
+| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistadora| 12:00-12:10    | Luísa Ataídes | Giovana | 29/05/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Giovana | 29/05/2024      |
+| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | 29/05/2024      |
+| Registrar Ocorrência             | Rayene                 | 28/05/2024          | FGA | 10:07-10:17   | Victor Moreira | Rayene  | 29/05/2024      |
+| Retrato Falado Online            | Renata                 | 29/05/2024        | Casa da Entrevistadora | 14:10 a 14:20  | Heder Cardoso | Giovana  | 29/05/2024      |
 
 Fonte: [Giovana Barbosa](https://github.com/gio221)
 
-## Perguntas que deveriam ser respondidas com a avaliação
-- 1- De qual delas se espera que tenha um impacto negativo menor ao ser adotada?
-- 2- Qual delas os usuários preferem? Por que?
-- 4- Ele entende o que significa cada elemento ?
-- 5- Ele vai entender o que deve ser feito logo em seguida?
-- 6- Ele tem acesso a todas as informações oferecidas pelo sistema?
+## Tarefas Executadas pelos participantes
+1. Navegar pelo storyboard, passando por todas as cenas e transições, para entender o fluxo geral da proposta com objetivo de avaliar a clareza das transições e a coerência do fluxo de navegação.
+2. Observar a GOMS, e ver os passos para executar a funcionalidade
+3. Responder ao questionário de forma clara e sincera.
 
-# Mão-de-obra necessária para conduzir a avaliação,  os prazos e a preparação e o uso dos equipamentos necessários.
 
-## Mão-de-obra necessária
-É necessário um integrante do grupo para fazer as perguntas e modelar a entrevista, o entrevistado como usuário
 
-## Preparação 
-Para poder fazer a entrevista, primeiro é necessário realizar o teste piloto, e marca com o usuário a realização da entrevista  
+## Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
-## Prazo
-A entrevista deve ser realizado até 22/05/2024 para a realização da entrega do relato dentro da matéria. 
+## Questionário
+- 1-Qual é seu nome? |Questão aberta |
+- 2-Qual seu grau de experiência com tecnologias? | 
+- 3-Você já utilizou o site da PCDF?  | 
+- 4-Você acha essa funcionalidade importante? | 
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| 
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  
+- 7-Tem alguma parte que ficou confusa? | 
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| 
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|
+- 10-Sugestões de melhorias?|
 
-## Equipamento
-Apresentar todos os equipamento utilizados para a realização com sucesso das entrevistas com os usuários. 
-
-# Número e Perfil dos Usuários e Avaliadores
-Deve ser relato qual foi o motivo da escolha dos intrevistados com base no perfil do usuário do site
 
 # Sugestões de melhoria
-É fundamental que o entrevistador documente de maneira completa as sugestões e melhorias baseadas nos problemas identificados durante a avaliação. Isso envolve registrar de forma clara e objetiva cada problema encontrado, descrevendo o contexto em que ocorreu, as ações realizadas pelo usuário, o resultado esperado e o resultado observado. Além disso, o entrevistador deve propor soluções ou sugestões para corrigir os problemas identificados, oferecendo ideias para ajustes de design, melhorias na interface do usuário ou alterações nas funcionalidades.
+#### Storyboard Solicitar Antecedentes Criminais
 
-# Feedback dos usuários
-É essencial que o entrevistador capte o feedback dos usuários durante a avaliação de tarefas. Isso envolve ouvir atentamente as opiniões, sugestões e comentários expressos pelos usuários ao interagir com o sistema ou produto avaliado. O entrevistador deve registrar de forma completa e precisa o feedback fornecido, considerando as percepções, experiências e necessidades dos usuários. Essas informações são valiosas para compreender as expectativas dos usuários, identificar os pontos fortes e fracos do sistema e obter insights sobre possíveis melhorias.
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
-# Análise e interpretação dos resultados
-## Sumário dos principais resultados
-Serão apresentados de forma resumida e objetiva os dados obtidos com avaliação de cada tarefa, contendo uma descrição breve se os participantes conseguiram realizá-la com êxito ou não. 
+#### Storyboard 197- Denúncia Online
 
-## Interpretação e Análise dos Dados
-Após a coleta de dados dos participantes, o próximo passo é interpretá-los, dando significado às informações obtidas. Isso é feito por meio de anotações feitas durante as entrevistas, onde as respostas e orientações dos usuários são registradas, especialmente aquelas relacionadas aos questionamentos específicos de cada funcionalidade. Cada avaliador responsável pela sua respectiva tarefa analisará individualmente os feedbacks dos participantes que entrevistou.
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
-Nesta fase do processo, o relatório deve conter as interpretações derivadas dos dados coletados, onde serão analisados e discutidos os insights e observações obtidos durante as entrevistas
+#### Storyboard Retrato Falado Online
 
-## Lista dos Problemas Encontrados
-Nessa parte do relato o entrevistador deve realatar as dificuldades que os usuários encontraram durante a entrevista
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
-## Planejamento de Reprojeto
-No encerramento da atividade, a validação com um usuário real é crucial. As mudanças sugeridas e outras questões encontradas durante a análise do artefato devem ser consideradas para um eventual reprojetar. No entanto, é fundamental manter a base do projeto original e fazer apenas as alterações necessárias. Nesse sentido, a Tabela 2 apresenta um cronograma de reprojeto, agendado para ocorrer um dia após a entrevista. O horário é flexível e não deve ser seguido rigidamente.
-
-
-    Tabela 3- Cronograma de Reprojeto
-
-| Integrante responsável | Data       | Artefato | 
-|:----------------------:|------------|-------|
-| [Giovana Silva](https://github.com/gio221) | 24/05/2024 | Denuncia Online |                 
-| [João Pedro](https://github.com/JoaoODragonborn) | 24/05/2024 | Validar certidão de antecentes |       
-| [Lara Juliana](https://github.com/gravelylara) | 24/05/2024 |Pesquisar Procurados  |            
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05/2024 | Carteira de identidade  | 
-| [Rayene Almeida](https://github.com/rayenealmeida) | 24/05/2024 | Registra Ocorrência |    
-| [Renata Quadros](https://github.com/Renatinha28) | 24/05/2024 | Solicitar Antecedentes |  
 
 # Referências Bibliográficas    
 >Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021);Interação Humano-Computador e Experiência do usuário.
@@ -118,3 +96,5 @@ No encerramento da atividade, a validação com um usuário real é crucial. As 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Giovana Barbosa](https://github.com/gio221)  | 17/05 |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/05 |
+| 1.1 | Planejamento do Relato | [Giovana Barbosa](https://github.com/gio221)  | 27/05 |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 27/05 |
+

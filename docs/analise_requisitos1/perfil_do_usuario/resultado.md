@@ -51,5 +51,5 @@ De forma resumida classificamos assim:
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|1.0| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221)  | 13/04|
-| 2.0 | Analise do perfil do usuário | [Giovana Barbosa ](https://github.com/gio221)  |15/04 |[Raissa Andrade](https://github.com/RaissaAndradeS)| 18/04|
+|1.0| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 13/04|
+| 2.0 | Analise do perfil do usuário | [Giovana Barbosa ](https://github.com/gio221)  |15/04 |[Raissa Andrade](https://github.com/RaissaAndradeS), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)| 18/04|

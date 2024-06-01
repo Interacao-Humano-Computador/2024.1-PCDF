@@ -25,7 +25,7 @@ Tabela 1: Informações sobre a reunião
 - Ver os sites avaliados por cada integrante
 - Definir horário das reuniões
 - Definir ferramentas para o projeto
-- Definir Cronograma das atividades
+
 
 ## Sites que cada um avaliou individualmente
 
@@ -43,10 +43,14 @@ Tabela 2: Membros da equipe e sites avaliados individualmente
 ## Horário das reuniões
 Ficou definido que vamos fazer três reuniões semanais uma na segunda as 21:00, uma na quarta as 21:00 e uma na sexta as 10:00
 
+## Ferramentas que definimos
+Definimos que iamos fazer as gravações das reuniões e apresentações pelo teams, whatssap para mensagens , youtube para postar as gravações, vscode e github para os codigos
+
+
 ## Histórico de versão
 
 Tabela 3: Histórico de versões da página da primeira reunião
 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara)|
+| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|
