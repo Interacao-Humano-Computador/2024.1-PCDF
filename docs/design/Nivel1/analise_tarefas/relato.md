@@ -8,6 +8,48 @@ A avaliação do projeto foi conduzida através de entrevistas, storyboards e an
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. Neste Documento abordaremos as funcionalidades: Solicitar Antecedentes Criminais, 197-Denúncia Online, Retrato Falado
 
 # Analise de Tarefas(GOMS)
+### Pesquisar procurados
+No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. Para isso foi escolhida a GOMS.
+O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
+como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
+e regras de seleção (selection rules).
+
+Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denúncia rápida de um crime, ainda na mesma página, os elementos seriam:
+
+- Objetivos: denunciar delito
+- Operadores: Inserir, via teclado, os seguintes dados:
+    - Local
+    - UF
+    - Cidade
+    - Bairro
+    - Crimes
+    - Histórico
+    - O Autor é menor de idade? (Sim/Não)
+- Métodos: Inserir dados via teclado, ou copiar essas informações de alguma outro local e colar na página presente.
+- Regras de exeção: Enviar o formulário sem todas as partes preenchidas.
+
+### Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
+### Questionário
+|Pergunta|Resposta|
+|--------|--------|
+- 1-Qual é seu nome? | Clarismenia
+- 2-Qual seu grau de experiência com tecnologias? | Médio
+- 3-Você já utilizou o site da PCDF?  | não
+- 4-Você acha essa funcionalidade importante? | sim
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| se eu tiver preocupada com algo na minha região
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  sim
+- 7-Tem alguma parte que ficou confusa? | não
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
+- 10-Sugestões de melhorias?|não tenho sugestões
+
+
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/KwaRsg9lFoI" frameborder="0" allowfullscreen></iframe>
+</div>
+
 ## Solicitar Antecedentes Criminais 
 Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
 
