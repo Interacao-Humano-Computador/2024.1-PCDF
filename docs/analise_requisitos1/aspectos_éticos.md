@@ -49,7 +49,7 @@ Declaco que estou ciente de que minha participação é voluntária e que concor
 [ ]Sim [ ]Não
 
 
-### Termo de Consentimento Resumido para Entrevista de Storyboards e Análise de Tarefas
+### Termo de Consentimento Resumido para Entrevista de Storyboards, Análise de Tarefas e Prototipo de Papel
 
 Ao participar desta entrevista, você deve estar ciente das seguintes diretrizes éticas:
 
