@@ -214,6 +214,11 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VHNANJqYZ9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/VHNANJqYZ9w" target="blanket">Vídeo da Gravação</a></p>
 
+## Perguntas Finais
+|Perguntas|Respostas|
+|---------|---------|
+|Os diagramas representam de forma precisa as tarefas esperadas para as funcionalidades do site?|Sim
+| As entrevistas fornecem informações que possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?|Sim
 
 
 ## Bibliografia
