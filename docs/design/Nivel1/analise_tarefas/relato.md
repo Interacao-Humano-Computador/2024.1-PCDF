@@ -7,29 +7,34 @@ A avaliação do projeto foi conduzida através de entrevistas, storyboards e an
 # Participantes
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. Neste Documento abordaremos as funcionalidades: Solicitar Antecedentes Criminais, 197-Denúncia Online, Retrato Falado
 
+# Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
 # Analise de Tarefas(GOMS)
 ### Pesquisar procurados
-No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. Para isso foi escolhida a GOMS.
-O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
-como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
-e regras de seleção (selection rules).
+No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. 
+* Goal 1: Listar todos os procurados pela PCDF
+    * Method 1: Inserir dados- deixar os espaços sem preencher e nao opção "nome" selecionar "todos"
+    * Method 2: Selecionar a região "DF"
 
-Assim, na funcionalidade de _Procurados_ da PCDF, agora para realizar uma denúncia rápida de um crime, ainda na mesma página, os elementos seriam:
+* Goal 2: Procurar um nome específico 
+    * Method 1: Ir até o endereço da PCDF (ou real ou eletrônico) e informar os seguintes dados
+        * Operation 1: Informar nome a ser buscado
+        * Operation 2: Informar crime cometido (opcional)
+        * Operation 3: Informar região de atuação (opcional)
+        * Operation 4: Informar gênero (opcional)
+        * Operation 5: submeter dados
 
-- Objetivos: denunciar delito
-- Operadores: Inserir, via teclado, os seguintes dados:
-    - Local
-    - UF
-    - Cidade
-    - Bairro
-    - Crimes
-    - Histórico
-    - O Autor é menor de idade? (Sim/Não)
-- Métodos: Inserir dados via teclado, ou copiar essas informações de alguma outro local e colar na página presente.
-- Regras de exeção: Enviar o formulário sem todas as partes preenchidas.
-
-### Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+* Goal 3: Denunciar pessoa procurada
+    * Method 1: Ir até o endereço da PCDF (ou real ou eletrônico) e informar os seguintes dados
+        * Operation 1: Informar local do ocorrido (opcional)
+        * Operation 2: Informar UF, cidade e bairro (opcional)
+        * Operation 3: Informar tipo de crime (opcional)
+        * Operation 4: Informar histórico: todo o relato da sua denúncia 
+        * Operation 5: Selecionar se o indivíduo é menor de idade (opcional)
+        * Operation 6: Anexar algum arquivo (como boletim de ocorrência, vídeos, filmagens) (opcional)
+        * Operation 7: Comprovar identidade respondendo captcha no meio eletrônico ou informando documento numa delegacia
+        * Operation 8: Submeter dados
 
 ### Questionário
 |Pergunta|Resposta|
@@ -45,37 +50,40 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 - 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
 - 10-Sugestões de melhorias?|não tenho sugestões
 
+### Sugestão de Melhoria
+O usuário intrevistado não tem sugestões de melhoria
 
+### Gravação 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/KwaRsg9lFoI" frameborder="0" allowfullscreen></iframe>
    <p>Video da Entrevista</p>
 </div>
 
 ## Solicitar Antecedentes Criminais 
-Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 4, em seguida pede-se o código de verificação como mostra na Figura 5 e o preenchimento do formulário como mostra na figura 6.
+Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 1, em seguida pede-se o código de verificação como mostra na Figura 2 e o preenchimento do formulário como mostra na figura 3.
 
 
 ![Página inicial para ocorrência](../../../assets/Analise_Requisitos/paginainicialsolicitarantecedentes.png)
 <div align="center">
-<p> Figura 2 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
+<p> Figura 1 - Página inicial de Antecedentes criminais. Fonte: Site PCDF  </p> 
 </div>
 
 
 ![Página Seleção do Crime](../../../assets/Analise_Requisitos/codigosolicitarantecedentes.png)
 <div align="center">
-<p> Figura 3 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
+<p> Figura 2 - Código de verificação de Solicitação de Antecedentes. Fonte: Site PCDF  </p> 
 </div>
 
 
 ![Página de Formulário para Ocorrência](../../../assets/Analise_Requisitos/formulariosolicitarantecedentes1.png)
 <div align="center">
-<p> Figura 4 - Formulário 1. Fonte: Site PCDF  </p> 
+<p> Figura 3 - Formulário 1. Fonte: Site PCDF  </p> 
 </div>
 
 
 ![Página de Formulário para Ocorrência](../../../assets/Analise_Requisitos/formulariosolicitarantecedentes2.png)
 <div align="center">
-<p> Figura 5 - Formulário 2. Fonte: Site PCDF  </p> 
+<p> Figura 4 - Formulário 2. Fonte: Site PCDF  </p> 
 </div>
 
 * GOAL 0: Descobrir se a pessoa possui antecedentes criminais.
@@ -133,9 +141,6 @@ Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo s
 
     (SEL.RULE: O usuário prefere confirmar pessoalmente.)
 
-### Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
-
 ### Questionário
 |Pergunta|Resposta|
 |--------|--------|
@@ -150,12 +155,16 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 - 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
 - 10-Sugestões de melhorias?|não tenho sugestões
 
+### Sugestão de Melhoria
+O usuário intrevistado não tem sugestões de melhoria
+
 ### Gravação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OGm32woEJZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/OGm32woEJZA" target="blanket">Vídeo da Gravação</a></p>
 
 ## 197- Denúncia Online
+
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
 
 * GOAL 0: Fazer uma denuncia Online
@@ -170,8 +179,7 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
         * OP 3.1: Colocar as informações
         * OP 3.2: Clicar no botão denunciar 
 
-### Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
 
 ### Questionário
 |Pergunta|Resposta|
@@ -186,6 +194,9 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 - 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
 - 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
 - 10-Sugestões de melhorias?|detalhar mais
+
+### Sugestão de Melhoria
+O usuário intrevistado sugere mais detalhamento
 
 ### Gravação
 
@@ -227,8 +238,6 @@ Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de mar
         * OP 4.3: Colar na página da PCDF
         * OP 4.4: Finalizar 
 
-### Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
 ### Questionário
 |Pergunta|Resposta|
@@ -244,6 +253,10 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 - 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
 - 10-Sugestões de melhorias?|não
 
+### Sugestão de Melhoria
+O usuário intrevistado não tem sugestões de melhoria
+
+### Gravação
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hKgmDzaR6K4" frameborder="0" allowfullscreen></iframe>
   <p>Video da Entrevista</p>
@@ -289,22 +302,22 @@ Meta: Registrar uma ocorrência no site da PCDF
 
 ![Página inicial para ocorrência](../../../assets/Analise_Requisitos/registraocorrencia.png)
 <div align="center">
-<p> Figura 6 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
+<p> Figura 5 - Página inicial do Registro de Ocorrência. Fonte: Site PCDF  </p> 
 </div>
 
 
 ![Página Seleção do Crime](../../../assets/Analise_Requisitos/registraocorrencia2.png)
 <div align="center">
-<p> Figura 7 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
+<p> Figura 6 - Seleção de Natureza para a Ocorrência. Fonte: Site PCDF  </p> 
 </div>
 
 
 ![Página de Formulário para Ocorrência](../../../assets/Analise_Requisitos/registraocorrencia3.png)
 <div align="center">
-<p> Figura 8 - Formulário de Ocorrência 3. Fonte: Site PCDF  </p> 
+<p> Figura 7 - Formulário de Ocorrência 3. Fonte: Site PCDF  </p> 
 </div>
-### Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
+
 
 ### Questionário
 |Pergunta|Resposta|
@@ -320,6 +333,11 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 - 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
 - 10-Sugestões de melhorias?|não
 
+### Sugestão de Melhoria
+O usuário intrevistado não tem sugestões de melhoria
+
+
+### Gravação
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/p-WfgB0TgAE" frameborder="0" allowfullscreen></iframe>
   <p>Video da Entrevista</p>
@@ -367,8 +385,7 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
     * METHOD 4.A: Verificar a mensagem informativa e aguardar a confirmação por e-mail da recepção da denúncia.
     * METHOD 4.B: Aguardar atualizações dentro do prazo estipulado.
 
-### Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
 
 ### Questionário
 |Pergunta|Resposta|
@@ -383,6 +400,9 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 - 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
 - 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
 - 10-Sugestões de melhorias?|não
+
+### Sugestão de Melhoria
+O usuário intrevistado não tem sugestões de melhoria
 
 ### Gravação
 
