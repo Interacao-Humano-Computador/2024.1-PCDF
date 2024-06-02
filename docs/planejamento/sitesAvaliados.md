@@ -9,7 +9,7 @@ Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planeja
 | --------------------------------------------------- | ------------------ | ---------------------------------------------- |
 | [Giovana Silva](https://github.com/gio221)         | [IFB](#ifb)        | [IFB](https://www.ifb.edu.br/)                |
 | [João Pedro](https://github.com/JoaoODragonborn)    | [Codeforces](#codeforces) | [Codeforces](https://codeforces.com/)    |
-| [Lara Juliana](https://github.com/gravelylara)     | [MPF](#mpf)        | [MPF](https://www.mpf.mp.br/)                  |
+| [Lara Giuliana](https://github.com/gravelylara)     | [MPF](#mpf)        | [MPF](https://www.mpf.mp.br/)                  |
 | [Raissa Andrade](https://github.com/RaissaAndradeS)| [FioCruz](#fiocruz)| [FioCruz](https://portal.fiocruz.br/)         |
 | [Rayene Almeida](https://github.com/rayenealmeida) | [INSS](#inss)       | [INSS](https://www.gov.br/inss/pt-br)         |
 | [Renata Quadros](https://github.com/Renatinha28)   | [BRB mobilidade](#brb-mobilidade) | [BRB mobilidade](https://mobilidade.brb.com.br/passelivre/pages/index.xhtml)|

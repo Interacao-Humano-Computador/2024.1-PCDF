@@ -24,12 +24,12 @@ Cronograma de planejamento das entrevistas em Planejamento da Avaliação do Sto
 
 | Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
 |:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
-| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   | Nome do Entrevistado | Lara | 29/05/2024      |
-| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistada| 12:00-12:10    | Luísa Ataídes | Giovana | DD/05/2024      |
-| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Giovana | DD/05/2024      |
-| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | DD/05/2024      |
+| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   | Clarismenia | Lara | 31/05/2024      |
+| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistada| 12:00-12:10    | Luísa Ataídes | Rayene | 02/06/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Rayene | 02/06/2024      |
+| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | 31/05/2024      |
 | Registrar Ocorrência             | Rayene                 | 28/05/2024          | FGA | 10:07-10:17   | Victor Moreira | Rayene  | 29/05/2024      |
-| Retrato Falado Online            | Renata                 | DD/MM/2024         | Presencial | HH:MM  | Nome do Entrevistado | Giovana  | DD/05/2024      |
+| Retrato Falado Online            | Renata                 | 29/05/2024         | Presencial | 14:10-14:20  | Heder Cardoso | Rayene  | 02/06/2024      |
 
 
 <div align = 'center'>
@@ -93,7 +93,6 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
-...
 
 #### Storyboard Solicitar Carteira de Identidade
 
@@ -107,7 +106,15 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
-...
+
+## Perguntas a serem respondidas com a avaliação.
+
+1. As representações visuais no storyboard refletem adequadamente as tarefas e o contexto de uso do sistema? **Resposta:** 
+2. As sequências de interação mostradas no storyboard são claras e correspondem ao fluxo de trabalho real dos usuários? **Resposta:** 
+3. O storyboard é visualmente atraente e está alinhado com os objetivos gerais do projeto? **Resposta:** 
+4. O storyboard representa fielmente o ambiente e as condições reais onde o sistema será utilizado? **Resposta:** 
+5. Existem partes do storyboard que precisam de modificações para melhorar sua clareza ou fidelidade? Se sim, quais seriam essas modificações? **Resposta:** 
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
