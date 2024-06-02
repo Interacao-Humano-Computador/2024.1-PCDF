@@ -93,7 +93,10 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
+<<<<<<< HEAD
 ...
+=======
+>>>>>>> 3963d5e (planejamento)
 
 #### Storyboard Solicitar Carteira de Identidade
 
@@ -109,6 +112,11 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 3. [Sugestão de Melhoria 3]
 ...
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 3963d5e (planejamento)
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 > PCDF. Disponível em: [PCDF](https://www.pcdf.df.gov.br). Acesso em 11 de maio de 2024. 
