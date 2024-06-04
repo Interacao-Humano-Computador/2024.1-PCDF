@@ -80,13 +80,13 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Relato dos resultados do Storyboard    | Início: 25/05 Fim: 29/05 |    Rayene e Lara  |  Início: 25/05 Fim: 29/05 |  Giovana, João, Lara, Raissa, Rayene e Renata           |
-| Relato dos resultados da Análise de tarefas                             |  Início: 25/05 Fim: 29/05 |Giovana  |  Início: 25/05 Fim: 29/05  |Giovana, João, Lara, Raissa, Rayene e Renata  |
-| Planejamento da avaliação do protótipo de papel                         | Início: 23/05 Fim: 27/05 |Renata  |  Início: 23/05 Fim: 27/05  |Giovana, João, Lara, Raissa, Rayene e Renata   |
-| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 25/05 Fim: 29/05 |    Raissa    | Início: 25/05 Fim: 29/05 | Giovana, João, Lara, Raissa, Rayene e Renata            |
-| Responder Perguntas Finais   |  Início: 29/05 Fim: 01/06 |       Giovana  e Renata     |  Início: 01/06 Fim: 01/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |
-| Gravação da apresentação                                                | Início: 01/06 Fim: 01/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 01/06 Fim: 01/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |
-|Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | 
+| Relato dos resultados do Storyboard    | Início: 25/05 Fim: 29/05 |    Rayene e Lara  |  Início: 25/05 Fim: 29/05 |  Giovana, Lara, Raissa, Rayene e Renata           |
+| Relato dos resultados da Análise de tarefas                             |  Início: 25/05 Fim: 29/05 |Giovana  |  Início: 25/05 Fim: 29/05  |Giovana, Lara, Raissa, Rayene e Renata  |
+| Planejamento da avaliação do protótipo de papel                         | Início: 23/05 Fim: 27/05 |Renata  |  Início: 23/05 Fim: 27/05  |Giovana, Lara, Raissa, Rayene e Renata   |
+| Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 25/05 Fim: 29/05 |    Raissa    | Início: 25/05 Fim: 29/05 | Giovana, Lara, Raissa, Rayene e Renata            |
+| Responder Perguntas Finais   |  Início: 29/05 Fim: 01/06 |       Giovana  e Renata     |  Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+| Gravação da apresentação                                                | Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              | Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+|Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana,  Lara, Raissa, Rayene e Renata              | 
 
 
 ## Bibliografia 
