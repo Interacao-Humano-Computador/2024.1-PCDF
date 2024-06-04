@@ -27,6 +27,7 @@ Tabela 1: Informações sobre a reunião
 ### Oque precisa ser corrigido
 * Padronizar os relatos do storyboard e analise de tarefas
 * Padronizar os planejamentos de avaliação
+* Histórico de versões
 
 
 ## Histórico de versão
