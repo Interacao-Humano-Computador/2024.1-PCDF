@@ -1,7 +1,7 @@
 # Ata da reunião - 06/04/2024
 
 ## Introdução
-Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com o objetivo de nos organizar para a entrega da primeira atividade em grupo 
+Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com o objetivo de nos organizar para a entrega da primeira atividade em grupo.
 
 #
 
