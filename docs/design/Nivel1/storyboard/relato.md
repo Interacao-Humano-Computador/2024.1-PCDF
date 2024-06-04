@@ -212,7 +212,7 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 
 **Perguntas e Respostas**
 
-1. Qual seu nome? **Resposta:** Hugo
+1. Qual seu nome? **Resposta:** Júlio
 
 2. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** Não sei responder
 
