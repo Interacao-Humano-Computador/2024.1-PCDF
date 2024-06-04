@@ -153,10 +153,10 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Planejamento de verificação dos artefatos anteriores     | Início: 26/06 Fim: 28/06 | Raissa e Lara   | Início: 26/06 Fim: 28/06|Giovana, João, Lara, Raissa, Rayene e Renata |
-| Relato da verificação das estapas anteriores e ajustes nos artefatos |Início: 26/06 Fim: 28/06 | Renata e Giovana | Início: 26/06 Fim: 28/06| Giovana, João, Lara, Raissa, Rayene e Renata   |
-|Responder perguntas finais                             |Início: 26/06 Fim: 28/06 | Giovana, João, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, João, Lara, Raissa, Rayene e Renata                      |
-| Gravação da apresentação                                 | Início: 26/06 Fim: 28/06  | Giovana, João, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, João, Lara, Raissa, Rayene e Renata                      |
+| Planejamento de verificação dos artefatos anteriores     | Início: 26/06 Fim: 28/06 | Raissa e Lara   | Início: 26/06 Fim: 28/06|Giovana, Lara, Raissa, Rayene e Renata |
+| Relato da verificação das estapas anteriores e ajustes nos artefatos |Início: 26/06 Fim: 28/06 | Renata e Giovana | Início: 26/06 Fim: 28/06| Giovana, Lara, Raissa, Rayene e Renata   |
+|Responder perguntas finais                             |Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      |
+| Gravação da apresentação                                 | Início: 26/06 Fim: 28/06  | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      |
 
 
 ## Bibliografia 
