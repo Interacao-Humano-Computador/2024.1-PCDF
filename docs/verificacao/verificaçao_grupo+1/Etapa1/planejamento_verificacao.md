@@ -4,8 +4,9 @@ A verificação de artefatos é uma etapa importante no projeto, pois garante qu
 O presente documento tem como objetivo orientar a verificação dos seguintes artefatos produzidos pelo grupo 4, na etapa 1:
 
 - Cronograma
-- Cronograma Realizado
-- Ferramentas do Projeto
-- Metodologias
+- Cronograma Executado
+- Ferramentas 
+- Metodologia
 - Sites Avaliados
+- Site escolhido
 - Processo de Design
