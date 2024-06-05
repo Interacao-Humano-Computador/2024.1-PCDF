@@ -10,3 +10,9 @@ O presente documento tem como objetivo orientar a verificação dos seguintes ar
 - Sites Avaliados
 - Site escolhido
 - Processo de Design
+
+## Histórico de versão
+      Tabela que descreve o Histórico de Versões
+|     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 |  | |
