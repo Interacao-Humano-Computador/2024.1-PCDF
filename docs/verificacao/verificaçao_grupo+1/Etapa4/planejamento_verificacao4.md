@@ -19,7 +19,7 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 
 <center>Tabela 1: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
 
-## Planejamento da Avaliação da Análise de Tarefas
+### Planejamento da Avaliação da Análise de Tarefas
 
 | ID  | Descrição                                                                 | Avaliação | Observações                              |
 |-----|--------------------------------------------------------------------------|-----------|------------------------------------------|
