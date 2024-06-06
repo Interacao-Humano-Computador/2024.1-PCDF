@@ -134,54 +134,6 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
-## Correções e ajustes
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Cronograma
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Cronograma Executado
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Ferramentas 
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Metodologia
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Sites Avaliados
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Site escolhido
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
-### Processo de Design
-
-1. [Correção e ajuste 1]
-2. [Correção e ajuste 2]
-3. [Correção e ajuste 3]
-
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
