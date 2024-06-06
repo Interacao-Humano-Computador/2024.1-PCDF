@@ -130,7 +130,7 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 ### Processo de Design
 
-<center>Tabela 1: Tabela do Processo de Design. </center> 
+<center>Tabela 7: Tabela do Processo de Design. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
