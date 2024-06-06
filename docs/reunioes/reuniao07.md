@@ -31,7 +31,7 @@ Tabela 1: Informações sobre a reunião
 
 
 ## Histórico de versão
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  23/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 25/05|
 

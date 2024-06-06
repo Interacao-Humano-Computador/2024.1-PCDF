@@ -32,6 +32,6 @@ Tabela 1: Informações sobre a reunião
 Definimos que iamos fazer os questionários pelo google forms, montamos o questionário e documentamos sobre ele, também montamos o termo de consentimento
 
 ## Histórico de versão
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  13/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|15/05|

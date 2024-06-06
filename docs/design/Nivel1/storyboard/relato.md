@@ -359,7 +359,7 @@ Não há sugestão de melhoria.
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
 | 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 01/06 | 
-| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |    |  | //
+| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221)  | 06/06 | 
 
 
 

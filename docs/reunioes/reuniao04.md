@@ -32,6 +32,6 @@ Tabela 1: Informações sobre a reunião
 Definimos que iamos realizar a análise dos dados para identificar as porcentagens de acordo com o total de respostas obitidas, montamos então um resumo sobre os resultados.
 
 ## Histórico de versão
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  13/04  | Criação da ATA no documento |[Rayene Almeida ](https://github.com/rayenealmeida)|[Renata Quadros](https://github.com/Renatinha28) |06/05| 
