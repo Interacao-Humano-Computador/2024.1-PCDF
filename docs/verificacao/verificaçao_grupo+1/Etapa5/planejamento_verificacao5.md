@@ -73,7 +73,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
         <td><a href="https://github.com/Renatinha28">Lara</a></td>
         <td>07/06</td>
-        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/planejamento_prototipo/d">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/planejamento_prototipo/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_relato_resultados/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</td>
