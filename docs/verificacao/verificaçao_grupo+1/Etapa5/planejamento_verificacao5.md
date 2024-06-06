@@ -57,7 +57,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/relato_storyboard.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/relato_storyboard/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/relatoresultado_tarefas/">Relato dos resultados da Análise de Tarefas</td>
@@ -65,7 +65,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
         <td><a href="https://github.com/gravelylara">Lara</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/relato_analisetarefas.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/relato_analisetarefas/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_avaliacao/">Planejamento da Avaliação do Protótipo de Papel</td>
@@ -73,7 +73,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
         <td><a href="https://github.com/Renatinha28">Lara</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/planejamento_prototipo.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/planejamento_prototipo/d">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_relato_resultados/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</td>
@@ -81,7 +81,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
         <td><a href="https://github.com/gravelylara">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/planejamento_relatoprototipo.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/planejamento_relatoprototipo/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/termo_consentimento/">Termo de consentimento para Prototipação de Papel</td>
@@ -89,7 +89,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/termo_consentimento.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/termo_consentimento/">Resultado</a></td>
     </tr>
 </table>
 <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
