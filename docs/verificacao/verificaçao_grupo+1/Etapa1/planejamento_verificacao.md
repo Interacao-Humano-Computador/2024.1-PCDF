@@ -99,6 +99,23 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 ### Site escolhido
 
+
+<center>Tabela 6: Tabela do Site Escolhido. </center> 
+
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+| 1 | O artefato possui introdução ?   | Dado  | |
+| 2  | O artefato possui critérios para escolha ?  | Dado  | |
+| 3  | O artefato tem justificativa da escolha do site?  | Dado  | |
+| 4 |  O artefato possui uma funcionalidade para cada membro da equipe? | |
+| 5  | Está detalhado o motivo da escolha do site ?  | Dado | |
+| 6  | Imagens e tabelas presentes no artefato são chamados de forma correta ? | Dado  | |
+| 7  |  Cada site avaliado tem uma descrição ?  | Dado  | |
+| 8  | O artefato possui histórico de versões ?   | Dado  | |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
+
 ### Processo de Design
 
 <center>Tabela 1: Tabela do Processo de Design. </center> 
