@@ -10,15 +10,15 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 O objetivo principal deste documento de planejamento de verificação é assegurar que os artefatos produzidos durante a etapa 1 pelo grupo 4 estejam em conformidade com os requisitos especificados e atendam aos critérios de qualidade estabelecidos para o projeto. 
 
 ## Artefatos
-O presente documento apresenta o planejamento da verificação dos seguintes artefatos produzidos pelo grupo 4, na etapa 1:
+O presente documento apresenta o planejamento da verificação dos seguintes artefatos, na etapa 1:
 
-- [Cronograma](../../../planejamento/cronograma.md)
-- [Cronograma Executado](../../../planejamento/cronograma_executado.md)
-- [Ferramentas](../../../planejamento/ferramentas.md)
-- [Metodologia](../../../planejamento/metodologia.md)
-- [Sites Avaliados](../../../planejamento/sitesAvaliados.md)
-- [Site escolhido](../../../planejamento/siteescolhido.md)
-- [Processo de Design](../../../planejamento/processoDesign.md)
+- Cronograma
+- Cronograma Executado
+- Ferramentas
+- Metodologia
+- Sites Avaliados
+- Site escolhido
+- Processo de Design
 
 ## Checklist de artefato
 
