@@ -15,6 +15,77 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 - Guia de Estilo
 - Características da plataforma
 
+## Participantes
+A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 2
+<center>
+    <p>Tabela 1: Participantes e suas responsabilidades</p>
+    <table>
+        <tr>
+            <th>Integrante responsável</th>
+            <th>Função</th>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/gio221">Giovana Barbosa</a> e <a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+            <td>Planejamento da verificação da etapa 05</td>
+        </tr>
+        <tr>
+            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> e <a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+            <td>Relato dos resultados da verificação da etapa 05</td>
+        </tr>
+    </table>
+    <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p>
+</center>
+
+## Cronograma
+Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verificados, suas versões e responsáveis do grupo 05, juntamente com os membros do grupo 04 encarregados de avaliar cada artefato, as datas de verificação e os links para os resultados correspondentes.
+
+<center>
+    <p>Tabela 2: Cronograma </p>
+    <table>
+    <tr>
+        <th>Artefato</th>
+        <th>Versão</th>
+        <th>Integrante responsável do grupo 05</th>
+        <th>Integrante responsável do meu grupo 04</th>
+        <th>Data da verificação</th>
+        <th>Resultado</th>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/principios_gerais/">Princípios Gerais do Projeto</td>
+        <td>1.1</td>
+        <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
+       <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+        <td>07/06</td>
+        <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/principiosgerais/">Resultado</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/metas-usabilidade/">Metas de Usabilidade</td>
+        <td>2.0</td>
+        <td><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+        <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+        <td>07/06</td>
+        <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/metas_usabilidade/">Resultado</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/guia-de-estilo/">Guia de Estilo</td>
+        <td>1.4</td>
+       <a href="https://github.com/Katuner">Lucas Heler</a></td>
+        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td>07/06</td>
+        <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/guia_estilo/">Resultado</a></td>
+    </tr>
+    <tr>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/caracteristicas/">Características da plataforma</td>
+        <td>2.0</td>
+        <td><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
+        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td>07/06</td>
+        <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/carcteristicas/">Resultado</a></td>
+    </tr>
+</table>
+<p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p>
+</center>
+
 ## Checklist de artefato
 
 ### Princípios Gerais do Projeto
