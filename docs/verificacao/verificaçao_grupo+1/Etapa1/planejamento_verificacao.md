@@ -83,6 +83,20 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 ### Sites Avaliados
 
+<center>Tabela 5: Tabela do Sites Avaliados. </center> 
+
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+| 1 | O artefato possui introdução ?   | Dado  | |
+| 2  | O artefato possui metodologia ?  | Dado  | |
+| 3  | Imagens e tabelas presentes no artefato são chamados de forma correta ?  | Dado  | |
+| 4 |  Os sites avaliados têm pelo menos 3 tipos de violações ?  | Dado  | |
+| 5  | O artefato tem um site para cada membro ? | Dado | |
+| 6  |  O artefato possui histórico de versões ?  | Dado  | |
+| 7  | O artefato possui bibliografia/ referência bibliografica?  | Dado  | |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
 ### Site escolhido
 
 ### Processo de Design
