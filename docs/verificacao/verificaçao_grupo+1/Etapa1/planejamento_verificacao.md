@@ -12,13 +12,13 @@ O objetivo principal deste documento de planejamento de verificação é assegur
 ## Artefatos
 O presente documento apresenta o planejamento da verificação dos seguintes artefatos produzidos pelo grupo 4, na etapa 1:
 
-- [Cronograma](docs/planejamento/cronograma.md)
-- [Cronograma Executado](docs/planejamento/cronograma_executado.md)
-- [Ferramentas](docs/planejamento/ferramentas.md)
-- [Metodologia](docs/planejamento/metodologia.md)
-- [Sites Avaliados](docs/planejamento/sitesAvaliados.md)
-- [Site escolhido](docs/planejamento/siteescolhido.md)
-- [Processo de Design](docs/planejamento/processoDesign.md)
+- [Cronograma](../../../planejamento/cronograma.md)
+- [Cronograma Executado](../../../planejamento/cronograma_executado.md)
+- [Ferramentas](../../../planejamento/ferramentas.md)
+- [Metodologia](../../../planejamento/metodologia.md)
+- [Sites Avaliados](../../../planejamento/sitesAvaliados.md)
+- [Site escolhido](../../../planejamento/siteescolhido.md)
+- [Processo de Design](../../../planejamento/processoDesign.md)
 
 ## Checklist de artefato
 
