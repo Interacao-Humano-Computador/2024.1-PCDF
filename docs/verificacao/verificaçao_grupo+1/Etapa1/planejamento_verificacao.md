@@ -30,11 +30,14 @@ A verificação do cronograma envolve a avaliação de sua completude e clareza.
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
 | 1 | O artefato possui introdução? | Dado | |
-| 2 | As atividades necessárias estão claramente definidas e listadas? | Dado | |
-| 3 | As datas de início e término de cada atividade estão claramente especificadas? | Dado | |
-| 4 | As atividades estão em uma sequência lógica e cronológica? | Dado | |
-| 5 | Cada atividade possui um responsável designado? | Dado | |
-| 6 | Os recursos necessários para cada atividade estão definidos? | Dado | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de 
+| 4 | As atividades necessárias estão claramente definidas e listadas? | Dado | |
+| 5 | As datas de início e término de cada atividade estão claramente especificadas? | Dado | |
+| 6 | As atividades estão em uma sequência lógica e cronológica? | Dado | |
+| 7 | Cada atividade possui um responsável designado? | Dado | |
+| 8 | Os recursos necessários para cada atividade estão definidos? | Dado | |
+
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
@@ -45,10 +48,13 @@ Para o cronograma executado, a verificação foca em confirmar a precisão e atu
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | Todas as atividades realizadas estão atualizadas e refletem o status atual? | Dado | |
-| 2 | Os desvios em relação ao cronograma original estão registrados e justificados? | Dado | |
-| 3 | As atividades concluídas estão marcadas como finalizadas? | Dado | |
-| 4 | Todas as mudanças e replanejamentos estão documentados? | Dado | |
+| 1 | O artefato possui introdução? | Dado | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Dado | |
+| 4 | Todas as atividades realizadas estão atualizadas e refletem o status atual? | Dado | |
+| 5 | Os desvios em relação ao cronograma original estão registrados e justificados? | Dado | |
+| 6 | As atividades concluídas estão marcadas como finalizadas? | Dado | |
+| 7 | Todas as mudanças e replanejamentos estão documentados? | Dado | |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
@@ -59,10 +65,13 @@ A verificação das ferramentas utilizadas no projeto considera:
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | As ferramentas são adequadas para as tarefas previstas? | Dado | |
-| 2 | As ferramentas são compatíveis entre si e com outros sistemas utilizados no projeto? | Dado | |
-| 3 | As ferramentas são fáceis de usar e não apresentam problemas de usabilidade? | Dado | |
-| 4 | Existe documentação adequada para o uso das ferramentas? | Dado | |
+| 1 | O artefato possui introdução? | Dado | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Dado | |
+| 4 | As ferramentas são adequadas para as tarefas previstas? | Dado | |
+| 5 | As ferramentas são compatíveis entre si e com outros sistemas utilizados no projeto? | Dado | |
+| 6 | As ferramentas são fáceis de usar e não apresentam problemas de usabilidade? | Dado | |
+| 7 | Existe documentação adequada para o uso das ferramentas? | Dado | |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
@@ -73,11 +82,14 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | A metodologia está claramente descrita e é compreensível? | Dado | |
-| 2 | A metodologia é adequada para o tipo de projeto e seus objetivos? | Dado | |
-| 3 | As escolhas metodológicas estão bem justificadas? | Dado | |
-| 4 | A metodologia segue as melhores práticas e padrões? | Dado | |
-| 5 | A metodologia permite adaptações e ajustes conforme necessário? | Dado | |
+| 1 | O artefato possui introdução? | Dado | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Dado | |
+| 4 | A metodologia está claramente descrita e é compreensível? | Dado | |
+| 5 | A metodologia é adequada para o tipo de projeto e seus objetivos? | Dado | |
+| 6 | As escolhas metodológicas estão bem justificadas? | Dado | |
+| 7 | A metodologia segue as melhores práticas e padrões? | Dado | |
+| 8 | A metodologia permite adaptações e ajustes conforme necessário? | Dado | |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
