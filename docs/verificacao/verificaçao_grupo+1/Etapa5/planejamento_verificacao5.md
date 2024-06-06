@@ -7,6 +7,13 @@ O objetivo deste documento é planejar e documentar o processo de verificação 
 ## Metodologia
 A metodologia para a verificação dos artefatos do grupo 05 será baseada em uma abordagem estruturada, utilizando checklists detalhados como principal ferramenta de avaliação. Criaremos checklists específicos para cada tipo de artefato, com perguntas claras e objetivas.
 
+## Artefatos
+ - Relato dos resultados do Story Board
+ - Relato dos resultados da Análise de Tarefas
+ - Planejamento da Avaliação do Protótipo de Papel
+ - Planejamento do relato dos resultados da avaliação do Protótipo de Papel
+ - Termo de consentimento para Prototipação de Papel
+
 ## Participantes
 A tabela 1 descreve os integrantes responsáveis com suas respectivas funções nesta verificação.
 
@@ -22,7 +29,7 @@ A tabela 1 descreve os integrantes responsáveis com suas respectivas funções 
             <td>Planejamento da verificação da etapa 05</td>
         </tr>
         <tr>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> e <a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+            <td><a href="https://github.com/Renatinha28">Raissa</a> e <a href="https://github.com/gravelylara">Lara Giuliana</a></td>
             <td>Relato dos resultados da verificação da etapa 05</td>
         </tr>
     </table>
@@ -48,41 +55,41 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/storyboard/relato_resultados_storyboard/">Relato dos resultados do Story Board</td>
         <td>1.0</td>
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
-        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td><a href="https://github.com/Renatinha28">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="#">Resultado</a></td>
+        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/relato_storyboard.md">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/relatoresultado_tarefas/">Relato dos resultados da Análise de Tarefas</td>
         <td>1.1</td>
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
-        <td><a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+        <td><a href="https://github.com/gravelylara">Lara</a></td>
         <td>07/06</td>
-        <td><a href="#">Resultado</a></td>
+        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/relato_analisetarefas.md">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_avaliacao/">Planejamento da Avaliação do Protótipo de Papel</td>
         <td>1.1</td>
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
-        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td><a href="https://github.com/Renatinha28">Lara</a></td>
         <td>07/06</td>
-        <td><a href="#">Resultado</a></td>
+        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/planejamento_prototipo.md">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_relato_resultados/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</td>
         <td>1.0</td>
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
-        <td><a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+        <td><a href="https://github.com/gravelylara">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="#">Resultado</a></td>
+        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/planejamento_relatoprototipo.md">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/termo_consentimento/">Termo de consentimento para Prototipação de Papel</td>
         <td>1.0</td>
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
-        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td><a href="https://github.com/Renatinha28">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="#">Resultado</a></td>
+        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/termo_consentimento.md">Resultado</a></td>
     </tr>
 </table>
 <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>

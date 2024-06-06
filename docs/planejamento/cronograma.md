@@ -96,9 +96,9 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Planejamento da Avaliação da etapa 5 | Início: 03/06 Fim: 06/06 |  Giovana e Renata      | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
 | Relato da etapa 1              |Início: 06/06 Fim: 09/06 |    Lara e Giovana         | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
 |  Relato da etapa 2              | Início: 06/06 Fim: 09/065 |Raissa e Rayene  | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
-|  Relato da etapa 3              |Início: 06/06 Fim: 09/06 |  Renata  e Raissa            | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
-|  Relato da etapa 4              | Início: 06/06 Fim: 09/06|   Rayene e Lara          | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
-|  Relato da etapa 5              | Início: 06/06 Fim: 09/06 | Lara e Renata          | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 3              |Início: 06/06 Fim: 09/06 |  Renata  e Rayene            | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 4              | Início: 06/06 Fim: 09/06|   Giovana e Lara          | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 5              | Início: 06/06 Fim: 09/06 | Lara e Raissa         | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
 | Responder Perguntas finais             | Início: 09/06 Fim: 09/06 | Giovana     |Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
 | Gravação da apresentação               | Início: 09/06 Fim: 10/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 10/06 Fim: 10/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega                   | Início: 12/06 Fim: 14/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 14/06 Fim: 14/06 | Giovana, Lara, Raissa, Rayene e Renata              |
