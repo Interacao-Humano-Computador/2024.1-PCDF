@@ -26,7 +26,36 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 ### Ferramentas 
 ### Metodologia
 ### Sites Avaliados
+
+<center>Tabela 5: Tabela do Sites Avaliados. </center> 
+
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+| 1 | O artefato possui introdução ?   | Dado  | |
+| 2  | O artefato possui metodologia ?  | Dado  | |
+| 3  | Imagens e tabelas presentes no artefato são chamados de forma correta ?  | Dado  | |
+| 4 |  Os sites avaliados têm pelo menos 3 tipos de violações ?  | Dado  | |
+| 5  | O artefato tem um site para cada membro ? | Dado | |
+| 6  |  O artefato possui histórico de versões ?  | Dado  | |
+| 7  | O artefato possui bibliografia/ referência bibliografica?  | Dado  | |
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
 ### Site escolhido
+
+<center>Tabela 6: Tabela do Site Escolhido. </center> 
+
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+| 1 | O artefato possui introdução ?   | Dado  | |
+| 2  | O artefato possui critérios para escolha ?  | Dado  | |
+| 3  | O artefato tem justificativa da escolha do site?  | Dado  | |
+| 4 |  O artefato possui uma funcionalidade para cada membro da equipe? | |
+| 5  | Está detalhado o motivo da escolha do site ?  | Dado | |
+| 6  | Imagens e tabelas presentes no artefato são chamados de forma correta ? | Dado  | |
+| 7  |  Cada site avaliado tem uma descrição ?  | Dado  | |
+| 8  | O artefato possui histórico de versões ?   | Dado  | |
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
 ### Processo de Design
 
 <center>Tabela 7: Tabela do Processo de Design. </center> 
