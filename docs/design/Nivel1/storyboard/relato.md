@@ -1,5 +1,5 @@
 ## Introdução
-O relato desempenha um papel importante em interação humano computadorpois oferece insights sobre o processo do design, implementação e uso interativo das funcionalidades. Elepossui a função de fornecer a compreensão das entrevistas do storyboard.
+O relato desempenha um papel importante em interação humano computador pois oferece insights sobre o processo do design, implementação e uso interativo das funcionalidades. Elepossui a função de fornecer a compreensão das entrevistas do storyboard.
 
 ## Foco do artefato
 O foco do artefato é centrado em relatar os dados e resultados obtidos por meio das entrevistas realizadas com os usuários. Essas informações são essenciais para entender não apenas a eficácia do storyboard em comunicar a narrativa visual, mas também para identificar áreas de melhoruas que podem significar futuras interações com o projeto.
@@ -8,7 +8,7 @@ O foco do artefato é centrado em relatar os dados e resultados obtidos por meio
 A avaliação foi realizada por meio de entrevistas, utilizando storyboards e a análise GOMS para avaliar a funcionalidade. Isso permitiu identificar as necessidades dos usuários através de acompanhamento presencial. A coleta de dados incluiu observação direta, gravação das interações para análise posterior, aplicação de questionários e análise de feedback, proporcionando uma visão abrangente dos resultados.
 
 ## Participantes
-Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 participantes entrevistadores no total com locais das entrevistas presenciais. Neste Documento apresentasse as entrevistas das funcionalidades de Pesquisar procurados, Retrato falado e Registro de Ocorrência.
+Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 participantes entrevistadores no total com locais das entrevistas presenciais. Neste Documento apresentasse as entrevistas de todas as funcionalidades.
 
 ## Storyboards utilizados
 Aqui estão os storyboards referentes às gravações das entrevistas abaixo.
@@ -107,6 +107,9 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
     </p> 
 </div>
 
+
+### Aspéctos Éticos
+Foi passado para o entrevitado de cada entrevista o termo de consentimento e todos os que estão na gravação aceitaram os termos. Termo de consentimento disponível em: [Aspectos Éticos](analise_requisitos1/aspectos_éticos.md).
 
 ## Gravações
 ### Pesquisar procurados
@@ -212,7 +215,7 @@ As figuras 9, 10 e 11 representam o storyboard da funcionalidade sugerida. Foi f
 
 **Perguntas e Respostas**
 
-1. Qual seu nome? **Resposta:** Hugo
+1. Qual seu nome? **Resposta:** Júlio
 
 2. Os usuários representados no storyboard são semelhantes aos usuários reais do sistema? **Resposta:** Não sei responder
 
@@ -356,7 +359,7 @@ Não há sugestão de melhoria.
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
 | 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 01/06 | 
-| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |    |  | //
+| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221)  | 06/06 | 
 
 
 

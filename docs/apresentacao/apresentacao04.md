@@ -40,8 +40,8 @@ Fonte : [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_re
 
 Tabela 2: Histórico de versões da página de apresentação
 
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  16/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 16/05 |
 | 1.1 |  23/05  | Video da apresentação |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28). [Rayene Almeida](https://github.com/rayenealmeida) | 23/05 |
 

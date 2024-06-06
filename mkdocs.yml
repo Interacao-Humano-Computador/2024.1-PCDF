@@ -18,6 +18,7 @@ nav:
       - Reunião 4: reunioes/reuniao04.md
       - Reunião 5: reunioes/reuniao05.md
       - Reunião 6: reunioes/reuniao06.md
+      - Reunião 7: reunioes/reuniao07.md
   - Planejamento:
     - Metodologia: planejamento/metodologia.md
     - Cronograma: planejamento/cronograma.md
@@ -59,6 +60,48 @@ nav:
       - Protótipo de Papel:
         - Planejamento da Avaliação do Protótipo de Papel : design/Nivel2/prototipo_papel/planejamento_avaliação.md
         - Planejamento do Relato do Protótipo de Papel: design/Nivel2/prototipo_papel/planejamento_relato.md
+  - Verificação:
+    - Verificação do Grupo + 1:
+      - Etapa 1:
+        - Planejamento da Verificação da  etapa 1: verificacao/verificaçao_grupo+1/Etapa1/planejamento_verificacao.md
+        - Cronograma: verificacao/verificaçao_grupo+1/Etapa1/Cronograma.md
+        - Cronograma Executado: verificacao/verificaçao_grupo+1/Etapa1/cronograma_executado.md
+        - Ferramentas: verificacao/verificaçao_grupo+1/Etapa1/ferramentas.md
+        - Processo de Design: verificacao/verificaçao_grupo+1/Etapa1/processo_design.md
+        - Site Avaliado: verificacao/verificaçao_grupo+1/Etapa1/site_avaliado.md
+        - Site Escolhido: verificacao/verificaçao_grupo+1/Etapa1/site_escolhido.md
+        - Metodologia: verificacao/verificaçao_grupo+1/Etapa1/metodologia.md
+        - Heatmap: verificacao/verificaçao_grupo+1/Etapa1/heatmap.md
+      - Etapa 2:
+        - Planejamento da Verificação da  etapa 2: verificacao/verificaçao_grupo+1/Etapa2/planejamento_verificacao2.md
+        - Aspectos Éticos: verificacao/verificaçao_grupo+1/Etapa2/apectos_eticos.md
+        - Questionário: verificacao/verificaçao_grupo+1/Etapa2/questionario.md
+        - Entrevista: verificacao/verificaçao_grupo+1/Etapa2/entrevista.md
+        - Perfil do Uusário: verificacao/verificaçao_grupo+1/Etapa2/perfil_usuario.md
+        - Cenários: verificacao/verificaçao_grupo+1/Etapa2/cenarios.md
+        - Personas: verificacao/verificaçao_grupo+1/Etapa2/personas.md
+        - Analise de Tarefas: verificacao/verificaçao_grupo+1/Etapa2/analise_tarefas.md
+      - Etapa 3:
+        - Planejamento da Verificação da  etapa 3: verificacao/verificaçao_grupo+1/Etapa3/planejamento_verificacao3.md
+        - Princípios Gerais do Projeto: verificacao/verificaçao_grupo+1/Etapa3/principiosgerais.md
+        - Metas de Usabilidade: verificacao/verificaçao_grupo+1/Etapa3/metas_usabilidade.md
+        - Guia de Estilo: verificacao/verificaçao_grupo+1/Etapa3/guia_estilo.md
+        - Características da plataforma: verificacao/verificaçao_grupo+1/Etapa3/carcteristicas.md
+      - Etapa 4:
+        - Planejamento da Verificação da  etapa 4: verificacao/verificaçao_grupo+1/Etapa4/planejamento_verificacao4.md
+        - Planejamento da Avaliação de analise de tarefas: verificacao/verificaçao_grupo+1/Etapa4/planejamento_analise_tarefas.md
+        - Planejamento do Relato dos Resultados da analise de tarefas: verificacao/verificaçao_grupo+1/Etapa4/planejamento-relato-tarefas.md
+        - Termo de Consentimento: verificacao/verificaçao_grupo+1/Etapa4/termos_consentimento.md
+        - Planejamento para Storyboards: verificacao/verificaçao_grupo+1/Etapa4/planejamento_storyboard.md
+      - Etapa 5:
+        - Planejamento da Verificação da  etapa 5: verificacao/verificaçao_grupo+1/Etapa5/planejamento_verificacao5.md
+        - Relato da Analise de Tarefas: verificacao/verificaçao_grupo+1/Etapa5/relato_analisetarefas.md
+        - Relato do storyboard: verificacao/verificaçao_grupo+1/Etapa5/relato_storyboard.md
+        - Planejamento da Avaliação de Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/planejamento_prototipo.md
+        - Planejamento do Relato de Resultados da Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/planejamento_relatoprototipo.md
+        - Termo de consentimento para Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/termo_consentimento.md
+        
+      
    
 
 theme:

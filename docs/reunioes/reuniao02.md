@@ -1,7 +1,7 @@
 # Ata da reunião - 06/04/2024
 
 ## Introdução
-Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com o objetivo de nos organizar para a entrega da primeira atividade em grupo 
+Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com o objetivo de nos organizar para a entrega da primeira atividade em grupo.
 
 #
 
@@ -34,6 +34,6 @@ Ficou definido que vamos fazer três reuniões semanais uma de planejamento, uma
 definimos que vamos ultilizar o scrum e o kanban adaptado
 
 ## Histórico de versão
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|06/04

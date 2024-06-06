@@ -1,7 +1,7 @@
 # Ata da reunião - 03/04/2024
 
 ## Introdução
-Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com o objetivo de nos organizar para a entrega da primeira atividade em grupo 
+Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com o objetivo de nos organizar para a entrega da primeira atividade em grupo. 
 
 
 
@@ -22,14 +22,14 @@ Tabela 1: Informações sobre a reunião
 
 ## Objetivos da Reunião
 
-- Ver os sites avaliados por cada integrante
-- Definir horário das reuniões
-- Definir ferramentas para o projeto
+- Ver os sites avaliados por cada integrante;
+- Definir horário das reuniões;
+- Definir ferramentas para o projeto;
 
 
 ## Sites que cada um avaliou individualmente
 
-Tabela 2: Membros da equipe e sites avaliados individualmente
+Tabela 2: Membros da equipe e sites avaliados individualmente.
 
 |                            Integrante                             |              Site avaliado              |        
 | :----------------------------------------------------------: | :-------------------------------: | 
@@ -41,16 +41,16 @@ Tabela 2: Membros da equipe e sites avaliados individualmente
 | [Renata Quadros](https://github.com/Renatinha28) | BRBmobilidade |
    
 ## Horário das reuniões
-Ficou definido que vamos fazer três reuniões semanais uma na segunda as 21:00, uma na quarta as 21:00 e uma na sexta as 10:00
+Definimos três reuniões semanais, sendo nos dias de segunda às 21:00, quarta às 21:00 e sexta às 10:00.
 
 ## Ferramentas que definimos
-Definimos que iamos fazer as gravações das reuniões e apresentações pelo teams, whatssap para mensagens , youtube para postar as gravações, vscode e github para os codigos
+Definimos que iamos fazer as gravações das reuniões e apresentações pelo Teams, Whatsaap para mensagens, Youtube para postar as gravações, VsCode e Github para os códigos
 
 
 ## Histórico de versão
 
 Tabela 3: Histórico de versões da página da primeira reunião
 
-|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |
-| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
-| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|
+|                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          | Data da Revisão|
+| :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+| 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|03/04
