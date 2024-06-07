@@ -10,19 +10,25 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução ?   | Dado  | |
-| 2  | O artefato possui critérios para escolha ?  | Dado  | |
-| 3  | O artefato tem justificativa da escolha do site?  | Dado  | |
-| 4 |  O artefato possui uma funcionalidade para cada membro da equipe? | |
-| 5  | Está detalhado o motivo da escolha do site ?  | Dado | |
-| 6  | Imagens e tabelas presentes no artefato são chamados de forma correta ? | Dado  | |
-| 7  |  Cada site avaliado tem uma descrição ?  | Dado  | |
-| 8  | O artefato possui histórico de versões ?   | Dado  | |
+| 1 | O artefato possui introdução ?   | Sim  | |
+| 2  | O artefato possui critérios para escolha ?  | Sim  | |
+| 3  | O artefato tem justificativa da escolha do site?  | Sim  | |
+| 4 |  O artefato possui uma funcionalidade para cada membro da equipe? | Não |
+| 5  | Está detalhado o motivo da escolha do site ?  | Sim | |
+| 6  | Imagens e tabelas presentes no artefato são chamados de forma correta ? | Não existem  | |
+| 7  |  Cada site avaliado tem uma descrição ?  | Não  | |
+| 8  | O artefato possui histórico de versões ?   | Sim  | |
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Problemas Encontrados
+* ID 4: Não possui uma funcionalidade para cada membro da equipe
+* ID3 6: Não existe imagens nem tabelas
+* ID3 7: Cada site avaliado não tem uma descrição
 
 ## Sugestões
+* ID 4: Adicionar funcionalidade para cada membro da equipe
+* ID3 6: Adicionar imagens nem tabelas
+* ID3 7: Adicionar descrição de cada site avaliado
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
