@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 Esse artefato tem como objetivo documentar os resultados que o grupo 4 de interação humano computador, obteve durante a avaliação das analise de tarefas, nesse artefato vai ser abordado todos os resultados obtidos nessa avaliação
 
 # Metodologia
@@ -430,4 +430,4 @@ O usuário intrevistado não tem sugestões de melhoria
 
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28)| 01/06 |
+|  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 01/06 |
