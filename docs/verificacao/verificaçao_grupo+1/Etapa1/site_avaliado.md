@@ -12,23 +12,29 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 |:----------|:----------|:----------:| --------------------|
 | 1 | O artefato possui introdução ?   | Sim  | |
 | 2  | O artefato possui metodologia ?  | Não  | |
-| 3  | Imagens e tabelas presentes no artefato são chamados de forma correta ?  | Não existe imagens nem tabelas  | |
+| 3  | Imagens e tabelas presentes no artefato são chamados de forma correta ?  | sim  | Não existe imagens nem tabelas|
 | 4 |  Os sites avaliados têm pelo menos 3 tipos de violações ?  | Sim  | |
 | 5  | O artefato tem um site para cada membro ? | Não | |
 | 6  |  O artefato possui histórico de versões ?  | Sim  | |
 | 7  | O artefato possui bibliografia/ referência bibliografica?  | Sim  | |
 
- <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+
+<center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p></center>
 
 ## Problemas Encontrados
 * ID 2: Não possui metodologia
-* ID3 3: Não existe imagens nem tabelas
-* ID3 3: Não existe uma avaliação de site para cada membro
+* ID 2: Não existe imagens nem tabelas
+* ID 3: Não existe uma avaliação de site para cada membro
 
 ## Sugestões
 * ID 2: Inserir metodologia
-* ID3 3: Inserir imagens e tabelas
-* ID3 3: Colocar link para a avaliação do site de cada membro
+* ID 2: Inserir imagens e tabelas
+* ID 3: Colocar link para a avaliação do site de cada membro
+
+## Video da Verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/6mGWaDSlyVs " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/6mGWaDSlyVs " target="blanket">Vídeo da Verificação do cronograma da etapa 1</a></p>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

@@ -33,7 +33,7 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 ## Video da Verificação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KGquW7vsd-0 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/KGquW7vsd-0 " target="blanket">Vídeo da Verificação do cronograma da etapa 1</a></p>
+<p style="text-align: center"><a href="https://youtu.be/KGquW7vsd-0 " target="blanket">Vídeo da Verificação do processo de design da etapa 1</a></p>
 
 
 ## Bibliografia

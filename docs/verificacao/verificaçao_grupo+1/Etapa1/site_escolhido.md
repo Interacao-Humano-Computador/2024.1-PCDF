@@ -18,7 +18,8 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 | 6  | Imagens e tabelas presentes no artefato são chamados de forma correta ? | Não existem  | |
 | 7  |  Cada site avaliado tem uma descrição ?  | Não  | |
 | 8  | O artefato possui histórico de versões ?   | Sim  | |
- <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+
+ <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p></center>
 
 ## Problemas Encontrados
 * ID 4: Não possui uma funcionalidade para cada membro da equipe
@@ -29,6 +30,12 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 * ID 4: Adicionar funcionalidade para cada membro da equipe
 * ID3 6: Adicionar imagens nem tabelas
 * ID3 7: Adicionar descrição de cada site avaliado
+
+
+## Video da Verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/8x8F3T6k2Oc  " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/8x8F3T6k2Oc     " target="blanket">Vídeo da Verificação do site escolhido da etapa 1</a></p>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
