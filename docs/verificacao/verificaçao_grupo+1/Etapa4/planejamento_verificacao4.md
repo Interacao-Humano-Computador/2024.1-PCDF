@@ -61,7 +61,6 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
-### Termo de Consentimento
 
 ### Planejamento para Storyboards
 
