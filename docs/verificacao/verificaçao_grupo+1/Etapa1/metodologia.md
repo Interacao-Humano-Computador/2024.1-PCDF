@@ -9,20 +9,30 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução? | Dado | |
-| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
-| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Dado | |
-| 4 | A metodologia está claramente descrita e é compreensível? | Dado | |
-| 5 | A metodologia é adequada para o tipo de projeto e seus objetivos? | Dado | |
-| 6 | As escolhas metodológicas estão bem justificadas? | Dado | |
-| 7 | A metodologia segue as melhores práticas e padrões? | Dado | |
-| 8 | A metodologia permite adaptações e ajustes conforme necessário? | Dado | |
+| 1 | O artefato possui introdução? | Não | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Sim, lugar errado | |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Incompleto | |
+| 4 | A metodologia está claramente descrita e é compreensível? | Sim | |
+| 5 | A metodologia é adequada para o tipo de projeto e seus objetivos? | Sim | |
+| 6 | As escolhas metodológicas estão bem justificadas? | Não | |
+| 7 | A metodologia segue as melhores práticas e padrões? | Não | |
+| 8 | A metodologia permite adaptações e ajustes conforme necessário? | Sim | |
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Problemas Encontrados
+* ID 1: O artefato não possui introdução
+* ID 2: Bibliografia deve ficar a cima do histórico de versões, que é o último intem
+* ID 3: Tabela de histórico versões está incompleta
+* ID3 6: Não tem justificativas da escolha metodológica
+* ID 7: Não segue melhores práticas
 
 ## Sugestões
+* ID 1: Inserir introdução introdução
+* ID 2: Bibliografia deve ficar a cima do histórico de versões, que é o último intem
+* ID 3: Completar tabela de histórico versões
+* ID3 6: Incluir justificativas da escolha metodológica
+* ID 7: Inserir contexto e objetivos da escolha metodológica
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
