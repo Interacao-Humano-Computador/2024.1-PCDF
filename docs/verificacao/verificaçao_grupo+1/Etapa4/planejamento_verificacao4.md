@@ -1,11 +1,11 @@
 ## Introdução 
 A verificação da Etapa 4 do projeto desempenha um papel fundamental para assegurar a conformidade dos artefatos produzidos com os requisitos definidos. Esta etapa visa garantir que cada artefato atenda aos critérios de qualidade estabelecidos, assegurando a eficácia e o sucesso do projeto.
 
-## Objetivo
-O objetivo deste documento de planejamento de verificação para a Etapa 4 é garantir que todos os artefatos produzidos atendam aos requisitos especificados e aos critérios de qualidade estabelecidos. 
-
 ## Metodologia
 A metodologia escolhida para a verificação da Etapa 4 será a de verificação por checklist. Esta abordagem é reconhecida por sua eficiência e organização ao avaliar artefatos de design. O método emprega listas predefinidas de critérios, que auxiliam os avaliadores a determinar se um artefato atende aos padrões e diretrizes estabelecidos.
+
+## Objetivo
+O objetivo deste documento de planejamento de verificação para a Etapa 4 é garantir que todos os artefatos produzidos atendam aos requisitos especificados e aos critérios de qualidade estabelecidos. 
 
 ## Artefatos
 O presente documento apresenta o planejamento da verificação dos seguintes artefatos, na etapa 4:
@@ -65,7 +65,45 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 
 ### Planejamento para Storyboards
 
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+| 1 |  O artefato tem introdução ?  | Dado  | |
+| 2 | Os objetivos do planejamento são claros e definidos ?   | Dado  | |
+| 3 | O planejamento da avaliação está de acordo com Framework DECIDE?   | Dado  | |
+| 4 | O artefato possui os métodos que serão utilizados na avaliação ?  | Dado  | |
+| 5 |  Os métodos que serão utilizados na avaliação estão descritos com detalhes ? | Dado  | |
+| 6 | O artefato tem a quantidade e a justificativa dos participantes ?  | Dado | |
+| 7 |  Os usuários foram definidos de acordo com o perfil de usuário ? | Dado  | |
+| 8 | No artefato está presente um cronograma com data, local e horário para as estrevistas? | Dado  | |
+| 9 | No artefato tem ferramentas que foram utilizadas na avaliação?  | Dado  | |
+| 10 | No artefato há o custo e mão de obra ?  | Dado  | |
+| 11 |  No artefato tem o termo de consentimento ? | Dado  | |
+| 12 | No artefato está descrito o passo a passo da avaliação ?| Dado | |
+| 13 | No artefato tem o teste piloto ?  | Dado  | |
+| 14| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
+| 15| O artefato possui histórico de versões ?  | Dado  | |
 
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
+
+### Planejamento do Relato dos Resultados dos Storyboards
+
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+| 1 |  O artefato tem introdução ?  | Dado  | |
+| 2 | O planejamento tem os objetivos e escopo de forma clara ?   | Dado  | |
+| 3 | Os perfis dos participantes estão de acordo com o perfil de usuário definido ?   | Dado  | |
+| 4 | O artefato possui sugestões de melhorias ?  | Dado  | |
+| 5 |  No artefato descreve como é a analisada a interação do usuário com o artefato ? | Dado  | |
+| 6 | No artefato possui um tópico para resumir os principais resultados ?  | Dado | |
+| 7 |  No artefato tem um projeto de reprojeto ? | Dado  | |
+| 8 | No artefato segue um padrão imposto no planejamento ? | Dado  | |
+| 9 | No artefato tem objetivo ?  | Dado  | |
+| 10 | No artefato tem o modelo proposto vs apresentado ?  | Dado  | |
+| 11 | No artefato possui o historico de versões ?  | Dado  | |
+
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
