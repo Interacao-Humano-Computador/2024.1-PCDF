@@ -87,12 +87,26 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 
 
 
-### Sugestões de Melhorias
+# Sugestões de melhoria
 #### Storyboard Pesquisar Procurados
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
+
+#### Storyboard Solicitar Antecedentes Criminais
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard 197- Denúncia Online
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
 #### Storyboard Solicitar Carteira de Identidade
 
@@ -106,6 +120,14 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
+
+
+#### Storyboard Retrato Falado Online
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
 ## Perguntas a serem respondidas com a avaliação.
 
