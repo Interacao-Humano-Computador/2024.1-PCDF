@@ -148,9 +148,11 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
+>  https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/
+
 
 ## Histórico de versão
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 |  | |
+| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 |  [Giovana Barbosa](https://github.com/gio221)  | 07/06|

@@ -537,6 +537,11 @@ A tabela 10 descreve o checklist da Análise de Tarefas
   <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p>
 </center>
 
+## Bibliografia
+> 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
+
+> 2. https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/
+
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões
 

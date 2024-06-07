@@ -477,7 +477,10 @@ A tabela 8 descreve o checklist do Termo de consentimento para Prototipação de
     <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
 </center>
 
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
+> https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/
 
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões

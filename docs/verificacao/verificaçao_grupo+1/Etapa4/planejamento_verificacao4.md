@@ -107,6 +107,7 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
+> https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/
 
 ## Histórico de versão
         Tabela que descreve o Histórico de Versões
