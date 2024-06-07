@@ -10,19 +10,25 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução ?   | Dado  | |
-| 2  | O artefato possui metodologia ?  | Dado  | |
-| 3  | Imagens e tabelas presentes no artefato são chamados de forma correta ?  | Dado  | |
-| 4 |  Os sites avaliados têm pelo menos 3 tipos de violações ?  | Dado  | |
-| 5  | O artefato tem um site para cada membro ? | Dado | |
-| 6  |  O artefato possui histórico de versões ?  | Dado  | |
-| 7  | O artefato possui bibliografia/ referência bibliografica?  | Dado  | |
+| 1 | O artefato possui introdução ?   | Sim  | |
+| 2  | O artefato possui metodologia ?  | Não  | |
+| 3  | Imagens e tabelas presentes no artefato são chamados de forma correta ?  | Não existe imagens nem tabelas  | |
+| 4 |  Os sites avaliados têm pelo menos 3 tipos de violações ?  | Sim  | |
+| 5  | O artefato tem um site para cada membro ? | Não | |
+| 6  |  O artefato possui histórico de versões ?  | Sim  | |
+| 7  | O artefato possui bibliografia/ referência bibliografica?  | Sim  | |
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Problemas Encontrados
+* ID 2: Não possui metodologia
+* ID3 3: Não existe imagens nem tabelas
+* ID3 3: Não existe uma avaliação de site para cada membro
 
 ## Sugestões
+* ID 2: Inserir metodologia
+* ID3 3: Inserir imagens e tabelas
+* ID3 3: Colocar link para a avaliação do site de cada membro
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
