@@ -42,6 +42,16 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4sil0MmI4wQ " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/4sil0MmI4wQ " target="blanket">Vídeo da Verificação do cronograma executado etapa 1</a></p>
 
+## Conclusão
+A imagem 1 monstra como ficou as respostas obtidas
+<center>
+![Cronograma executado](../../../assets/verificacao/etapa1/cronograma-executado.png)
+<div align="center">
+<p> Figura 1 - Respostas do Cronograma executado. Fonte: Giovana </p> 
+</div></center>
+
+
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 

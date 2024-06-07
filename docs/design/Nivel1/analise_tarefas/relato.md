@@ -10,6 +10,19 @@ Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrev
 # Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
+# Funcionalidades a serem tratadas
+| Funcionalidade|      Responsáveis      |   
+|:------:|:-------------------------------:|
+|Pesquisar Procurados |  Lara         | 
+| Solicitar Antecedentes|  Renata         |   
+| Validar certidão de antecentes |  João         | 
+| 197- Denúncia Online |  Giovana         | 
+| Solicitar carteira de identidade |  Raissa         | 
+| Registra Ocorrência|  Rayene         |
+|Retrato Falado Online|Renata|
+
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+ 
 # Analise de Tarefas(GOMS)
 ### Pesquisar procurados
 No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. 
