@@ -10,18 +10,21 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução? | Dado | |
-| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
-| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Dado | |
-| 4 | Todas as atividades realizadas estão atualizadas e refletem o status atual? | Dado | |
-| 5 | Os desvios em relação ao cronograma original estão registrados e justificados? | Dado | |
-| 6 | As atividades concluídas estão marcadas como finalizadas? | Dado | |
-| 7 | Todas as mudanças e replanejamentos estão documentados? | Dado | |
+| 1 | O artefato possui introdução? | Não| |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Sim | |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? |Incompleto |Está desatualizado, falta revisores |
+| 4 | Todas as atividades realizadas estão atualizadas e refletem o status atual? | Incompleto|na etapa 5 está incompleto |
+| 5 | Os desvios em relação ao cronograma original estão registrados e justificados? | Não | |
+| 6 | As atividades concluídas estão marcadas como finalizadas? | Não  | |
+| 7 | Todas as mudanças e replanejamentos estão documentados? | Não  | |
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Problemas Encontrados
-
+* ID 1: Não possui introdução
+* ID 3: Está desatualizado, falta revisores
+* ID 4: na etapa 5 está incompleto 
+* ID 5:
 ## Sugestões
 
 ## Bibliografia
