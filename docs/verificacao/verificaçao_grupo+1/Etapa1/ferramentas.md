@@ -10,19 +10,30 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução? | Dado | |
-| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Dado | |
-| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Dado | |
-| 4 | As ferramentas são adequadas para as tarefas previstas? | Dado | |
-| 5 | As ferramentas são compatíveis entre si e com outros sistemas utilizados no projeto? | Dado | |
-| 6 | As ferramentas são fáceis de usar e não apresentam problemas de usabilidade? | Dado | |
-| 7 | Existe documentação adequada para o uso das ferramentas? | Dado | |
+| 1 | O artefato possui introdução? | Sim | |
+| 2 | O artefato possui uma bibliografia/referência bibliográfica?  | Sim  | Incorreto|
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão? | Incompleto| |
+| 4 | As ferramentas são adequadas para as tarefas previstas? | Sim  | |
+| 5 | As ferramentas são compatíveis entre si e com outros sistemas utilizados no projeto? |Sim  | |
+| 6 | As ferramentas são fáceis de usar e não apresentam problemas de usabilidade? | Sim | |
+| 7 | Existe documentação adequada para o uso das ferramentas? | Sim  | |
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Problemas Encontrados
 
+* ID 2: A bibliografia que está na pages é uma referência bibliografica
+* ID3 3: O histório de versões falta revisores
+
 ## Sugestões
+
+* ID 2: mudar a bibliografia
+* ID3 3: Colocar revisores no histórico de versões
+
+## Video da Verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/qm5VgYM-4f4 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/qm5VgYM-4f4 " target="blanket">Vídeo da Verificação do cronograma da etapa 1</a></p>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -34,4 +45,4 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221)  | 07/06|||
+|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221) e [Lara Giuliana](https://github.com/gravelylara)  | 07/06|||

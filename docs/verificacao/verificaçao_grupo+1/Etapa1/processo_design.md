@@ -10,21 +10,31 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução ?   | Dado  | |
-| 2  | O artefato possui metodologia ?  | Dado  | |
-| 3  | As etapas do processo de design estão nitidas e definidas?  | Dado  | |
-| 4 |  artefato inclui o diagrama sugerido pelo método selecionado ?  | Dado  | |
-| 5  | O modo de execução do ciclo de vida está detalhado?  | Dado | |
-| 6  | O artefato inclui o diagrama sugerido pelo método selecionado?  | Dado  | |
-| 7 | A definição do ciclo de vida foi justificado ?  | Dado | |
-| 8  |  O artefato possui histórico de versões ?  | Dado  | |
-| 9  | O artefato possui bibliografia/ referência bibliografica?  | Dado  | |
+| 1 | O artefato possui introdução ?   | Sim  | |
+| 2  | O artefato possui metodologia ?  | Não  | |
+| 3  | As etapas do processo de design estão nitidas e definidas?  | Sim| |
+| 4 |  artefato inclui o diagrama sugerido pelo método selecionado ?  | Sim  | |
+| 5  | O modo de execução do ciclo de vida está detalhado?  | Não | |
+| 6 | A definição do ciclo de vida foi justificado ?  | Sim | |
+| 7  |  O artefato possui histórico de versões ?  | Incompleto | |
+| 8  | O artefato possui bibliografia/ referência bibliografica?  | Sim | |
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Problemas Encontrados
 
+* ID 2: não possui metodologia
+* ID 5: falta revisores
+
 ## Sugestões
+* ID 2: colocar a  metodologia
+* ID 5: colocar os  revisores
+
+## Video da Verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KGquW7vsd-0 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/KGquW7vsd-0 " target="blanket">Vídeo da Verificação do cronograma da etapa 1</a></p>
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -36,4 +46,4 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221)  | 07/06|||
+|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221) e [Lara Giuliana](https://github.com/gravelylara)| 07/06|||

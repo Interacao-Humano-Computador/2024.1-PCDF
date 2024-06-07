@@ -24,8 +24,23 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 * ID 1: Não possui introdução
 * ID 3: Está desatualizado, falta revisores
 * ID 4: na etapa 5 está incompleto 
-* ID 5:
+* ID 5: Não existe esse registro
+* ID 6: Não existe esse registro
+* ID 7: Não existe registro de mudança
+
 ## Sugestões
+
+* ID 1: Fazer introdução
+* ID 3: Colocar os revisores
+* ID 4: Preencher etapa 5
+* ID 5: Colocar um registro das mudanças
+* ID 6: Colocar as atividades já finalizadas
+* ID 7: colocar o replanejamento 
+
+## Video da Verificação
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/4sil0MmI4wQ " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/4sil0MmI4wQ " target="blanket">Vídeo da Verificação do cronograma executado etapa 1</a></p>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -37,4 +52,4 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221)  | 07/06|||
+|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221) e [Lara Giuliana](https://github.com/gravelylara) | 07/06|||
