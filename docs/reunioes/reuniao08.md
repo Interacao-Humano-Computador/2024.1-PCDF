@@ -17,16 +17,17 @@ Tabela 1: Informações sobre a reunião
 <p style="text-align: center"><a href="https://youtu.be/Dj6eqmPgUMI" target="blanket">Vídeo da Reunião 8</a></p>
 
 ## Objetivos da Reunião
-
+Esclarecer a Atividade do planejamento de verificação
 
 
 ## Oque foi definido
-
+Foi definido o esclarecimento que o planejamento de todos os artefatos é em um só arquivo e Raissa ficou com Metodologia, Cronograma e os Checklists de sites avaliados, site escolhido, Processo de Design. Assim a integrante Rayene ficou designada com os seguintes tópico: Introdução, Objetivo, Artefatos, Participantes e os Checklists de Cronograma, Cronograma Executado, Ferramentas e Metodologia.
 
 
 
 ## Histórico de versão
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |07/06 | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) |  | |
+| 1.0 |07/06 | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Rayene Almeida](https://github.com/rayenealmeida) | 08/06 |
+| 1.1 |08/06 | Conteúdo da reunião | [Rayene Almeida](https://github.com/rayenealmeida)  | | |
 
