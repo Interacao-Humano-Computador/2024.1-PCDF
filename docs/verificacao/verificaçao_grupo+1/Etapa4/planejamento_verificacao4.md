@@ -142,4 +142,4 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 |  | |
+| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 | [Renata Quadros](https://github.com/Renatinha28) | 08/06 |

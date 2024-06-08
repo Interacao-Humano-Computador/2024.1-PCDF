@@ -429,12 +429,10 @@ A tabela 7 descvreve o checklist do Planejamento do relato dos resultados da ava
 | 42 | Apresenta os objetivos do relato? | | |
 | 43 | Apresenta um cronograma padronizado com o planejamento da avalização? | | |
 | 44 | Apresenta o roteiro das perguntas padronizado com o planejamento da avalização? | | |
-| 45 | 
-| 46 |
-| 47 |
-| 48 |
-| 49 |
-| 50 |
+| 45 | Apresenta o método que será utilizado? | | |
+| 46 | Apresenta os como será avaliado os problemas encontrados? | | |
+| 47 | Apresenta devidamente os entrivistados? | | | 
+| 48 | Apresenta local e data das avaliações? | | |  
     Fonte: [Renata Quadros](https://github.com/Renatinha28)
 
 
@@ -450,25 +448,25 @@ A tabela 8 descreve o checklist do Termo de consentimento para Prototipação de
             <th>Observações</th>
         </tr>
         <tr>
-            <td>51</td>
+            <td>49</td>
             <td>Apresenta um termo de consentimento para o Protótipo de Papel?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>52</td>
+            <td>50</td>
             <td>O termo de consentimento apresenta as diretrizes éticas necessárias?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>53</td>
+            <td>51</td>
             <td>O termo de consentimento faz sentido?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>54</td>
+            <td>52</td>
             <td>O termo de consentimento é simples e de fácil entendimento?</td>
             <td></td>
             <td></td>
