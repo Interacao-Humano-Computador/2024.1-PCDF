@@ -88,4 +88,4 @@ A Figura 1 monstra como ficou as respostas obtidas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Rayene Almeida](https://github.com/rayenealmeida) e [Renata Quadros](https://github.com/Renatinha28)   | 08/06|  | |
+|1.0|Verificação das Características|[Rayene Almeida](https://github.com/rayenealmeida) e [Renata Quadros](https://github.com/Renatinha28)   | 08/06|  | |

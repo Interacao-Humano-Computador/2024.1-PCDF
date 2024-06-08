@@ -15,13 +15,13 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 
 | ID  | Descrição                                                                                  | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
-| 1   | O artefato possui introdução?     |           |             |
-| 2   | O artefato possui metodologia e objetivo?  |           |             |
-| 3   | O artefato possui uma bibliografia/referência bibliográfica?   |           |             |
-| 4   | As tabelas possuem fontes, títulos e são chamadas no texto?  |         |             |
-| 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |           |             |
-| 6   | Possui histórico de versões?    |           |             |
-| 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? | |             |
+| 1   | O artefato possui introdução?     |        Sim   |             |
+| 2   | O artefato possui metodologia e objetivo?  |  Não         |             |
+| 3   | O artefato possui uma bibliografia/referência bibliográfica?   |   Sim        |             |
+| 4   | As tabelas possuem fontes, títulos e são chamadas no texto?  |     Sim    |             |
+| 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |       Sim    |             |
+| 6   | Possui histórico de versões?    |     Sim      |             |
+| 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? | Sim |             |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
@@ -29,42 +29,46 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 
 <center>Tabela 2: Tabela do Checklist Específico. </center> 
 
+**Tabela 4: Checklist dos Aspectos Éticos**
+
+| ID  | Descrição                                                                                     | Avaliação | Observações |
+| --- | --------------------------------------------------------------------------------------------- | --------- | ----------- |
+| 8  | Possui conclusão? |      Sim     |             |
+| 9   | Possui explicação do termo de consentimento? |     Sim      |             |
+| 10   | Explica como os aspectos éticos serão utilizados no projeto? |      Sim     |             |
+| 11  | O termo de consentimento solicita permissão para gravar voz e vídeo?  |        Sim   |             |
+| 12  | São seguidos os 4 princípios: autonomia, beneficência, maleficência, justiça e equidade?    |     Sim      |             |
 
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
 ## Problemas Encontrados
 
-- ID 4: Não possui chamadas das tabelas/figuras no texto
-- ID 17: Não existe um subtópico de seleção de um estilo, estilos de interação e animações
-- ID 20: Não existe um subtópico de seleção, ativação e preenchimento de campos apenas é mencionado nos objetivos
+- ID 2: O artefato não possui metodologia e objetivo
 
 ## Sugestões
 
-- ID 4: Chamar as tabelas/figuras nos textos de descrição
-- ID 17: Criar subtópico de seleção de um estilo, estilos de interação e animações
-- ID 20: Criar subtópico de seleção, ativação e preenchimento de campos apenas e não apenas mencionar nos objetivos
+- ID 2: Colocar a metodologia e o objetivo
 
 ## Video da Verificação
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/bYZ91_3dcpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=bYZ91_3dcpw" target="blank">Vídeo da Verificação do Guia de Estilo da etapa 3</a>
+    <a href="https://www.youtube.com/" target="blank">Vídeo da Verificação dos Aspetos Éticos </a>
 </p>
 
 
 ## Conclusão
 A Figura 1 monstra como ficou as respostas obtidas 
-
 <center>
-
-![Guia de estilo](../../../assets/verificacao/etapa3/guiadeestilo.png)
-
+![Guia de Estilo](../../../assets/verificacao/etapa2/aspectoseticos.png)
 <div align="center">
-<p> Figura 1 - Respostas da Verificação do Guia de Estilo. Fonte: Rayene Alemida, 2024 </p> 
+<p> Figura 1 - Respostas dos Aspectos Éticos </p> 
+ <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
 </div></center>
+
 
 
 ## Bibliografia
@@ -76,4 +80,4 @@ A Figura 1 monstra como ficou as respostas obtidas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|  | |
+|1.0|Verificação dos Aspectos Éticos|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|  | |
