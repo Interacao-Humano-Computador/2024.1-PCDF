@@ -92,15 +92,15 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 | ID  | Descrição                                                                                                 | Avaliação | Observações  |
 |-----|----------------------------------------------------------------------------------------------------------|-----------|--------------|
-| 21   | O relato segue o framework DECIDE?                                                                       |           |              |
-| 22   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
-| 23   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
-| 24   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
-| 25   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
-| 26   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
-| 27   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
-| 28   | Todas as referências bibliográficas são listadas de forma correta?                                        |           |              |
-| 29  | O histórico de versões do documento está presente e atualizado?                                           |           |              |
+| 06   | O relato segue o framework DECIDE?                                                                       |           |              |
+| 07   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
+| 08   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
+| 09   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
+| 10   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
+| 11   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
+| 12   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
+| 13   | Todas as referências bibliográficas são listadas de forma correta?                                        |           |              |
+| 14  | O histórico de versões do documento está presente e atualizado?                                           |           |              |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
@@ -111,38 +111,35 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 | _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
 |:----------|:----------|:----------:| --------------------|
-| 30 | O planejamento da avaliação está de acordo com Framework DECIDE?   | Dado  | |
-| 31 | O artefato possui os métodos que serão utilizados na avaliação ?  | Dado  | |
-| 32 |  Os métodos que serão utilizados na avaliação estão descritos com detalhes ? | Dado  | |
-| 33 | O artefato tem a quantidade e a justificativa dos participantes ?  | Dado | |
-| 34 |  Os usuários foram definidos de acordo com o perfil de usuário ? | Dado  | |
-| 35 | No artefato está presente um cronograma com data, local e horário para as estrevistas? | Dado  | |
-| 36 | No artefato tem ferramentas que foram utilizadas na avaliação?  | Dado  | |
-| 37 | No artefato há o custo e mão de obra ?  | Dado  | |
-| 38 |  No artefato tem o termo de consentimento ? | Dado  | |
-| 39 | No artefato está descrito o passo a passo da avaliação ?| Dado | |
-| 40 | No artefato tem o teste piloto ?  | Dado  | |
-| 41| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
-| 42| O artefato possui histórico de versões ?  | Dado  | |
+| 06 | O planejamento da avaliação está de acordo com Framework DECIDE?   | Dado  | |
+| 07 | O artefato possui os métodos que serão utilizados na avaliação ?  | Dado  | |
+| 08 |  Os métodos que serão utilizados na avaliação estão descritos com detalhes ? | Dado  | |
+| 09 | O artefato tem a quantidade e a justificativa dos participantes ?  | Dado | |
+| 10 |  Os usuários foram definidos de acordo com o perfil de usuário ? | Dado  | |
+| 11 | No artefato está presente um cronograma com data, local e horário para as estrevistas? | Dado  | |
+| 12 | No artefato tem ferramentas que foram utilizadas na avaliação?  | Dado  | |
+| 13 | No artefato há o custo e mão de obra ?  | Dado  | |
+| 14 |  No artefato tem o termo de consentimento ? | Dado  | |
+| 15 | No artefato está descrito o passo a passo da avaliação ?| Dado | |
+| 16 | No artefato tem o teste piloto ?  | Dado  | |
+| 17| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
+| 18| O artefato possui histórico de versões ?  | Dado  | |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 
-### Planejamento do Relato dos Resultados dos Storyboards
+### Termos de Consentimento
 
 <center>Tabela 7: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
 
 | _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
 |:----------|:----------|:----------:| --------------------|
-| 43 | Os perfis dos participantes estão de acordo com o perfil de usuário definido ?   | Dado  | |
-| 44 | O artefato possui sugestões de melhorias ?  | Dado  | |
-| 45 |  No artefato descreve como é a analisada a interação do usuário com o artefato ? | Dado  | |
-| 46 | No artefato possui um tópico para resumir os principais resultados ?  | Dado | |
-| 47 |  No artefato tem um projeto de reprojeto ? | Dado  | |
-| 48 | No artefato segue um padrão imposto no planejamento ? | Dado  | |
-| 49 | No artefato tem objetivo ?  | Dado  | |
-| 50 | No artefato tem o modelo proposto vs apresentado ?  | Dado  | |
-| 51 | No artefato possui o historico de versões ?  | Dado  | |
+| 06 | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?  | Dado  | |
+| 07 | O documento possui um cuidado ético para que a pessoa entrevistada, entenda?  | Dado  | |
+| 08 | Há a garantia de confidencialidade e a privacidade dos dados brutos?| Dado  | |
+| 09 |Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas? | Dado | |
+| 10 | Há esclarecido um consentimento livre de desistência do participante durante a pesquisa? | Dado  | |
+| 11 | Há local de assinatura do entrevistador e do entrevsitado? | Dado  | |
 
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
