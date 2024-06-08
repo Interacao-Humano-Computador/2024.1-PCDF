@@ -1,8 +1,6 @@
-# Introdução
+## Introdução
 
 Este documento tem objetivo de apresentar o cronograma que planejampos e que o grupo espera ultilizar para entregar os artefatos da disciplina
-
-#
 
 
 ## Etapa 1: Planejamento do Projeto

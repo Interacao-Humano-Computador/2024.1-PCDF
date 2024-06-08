@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 A atividade de design, segundo Lawson(2006) e Lowgren e Stolterman(2007) consiste em três atividades, que envolvem análise da situação atual, síntese de uma intervenção e a avaliação da nova situação. Sendo assim, cada uma dessas atividades podem se organizar de diferentes maneiras, no que chamamos processos de design.
 
 Em "Interação humano-computador", capítulo quatro, são apresentados alguns desses processos. Os autores citam o Ciclo De Vida Em Estrela, Engenharia De Usabilidade De Nielsen, Engenharia De Usabilidade De Mayhew, Design Contextual, Design Baseado Em Cenários e o Design Dirigido Por Objetivos.
@@ -67,4 +67,4 @@ Pelo detalhamento do processo de design de Mayhew, a equipe optou por utilizá-l
 |  1.1   | Revisão e adição de legendas                 |   [João Pedro](https://github.com/...)     |   08/04   | [Renata Quadros](https://github.com/Renatinha28), [Lara Giuliana](https://github.com/gravelylara)        |       08/04               |
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |     [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221)         |        12/04              |
 |  1.3   | Correção das imagens                   |  [Giovana Barbosa ](https://github.com/gio221)    |   12/04   |        [Renata Quadros](https://github.com/Renatinha28)        |            17/04       |
-|  1.4   | Chamando imagens no texto                 |  [Giovana Barbosa ](https://github.com/gio221)    |   17/04   |      [Renata Quadros](https://github.com/Renatinha28)          |        17/04           |
+|  1.4   | Chamando imagens no texto                 |  [Giovana Barbosa ](https://github.com/gio221)    |   17/04   |      [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)          |        17/04           |
