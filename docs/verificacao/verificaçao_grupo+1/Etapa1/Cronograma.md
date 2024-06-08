@@ -1,6 +1,9 @@
 ## Introdução
 Este é o documento de verificação do artefato Cronograma elaborado pelo Grupo 5 da disciplina de Interação Humano-Computador (IHC), que está focado no projeto relacionado ao site da Prefeitua da Lagoa da Prata. Consequentemente, o Cronograma será avaliado à luz da literatura de Interação Humano-Computador de Barbosa e Silva.
 
+## Objetivo 
+Esse artefato tem como objetivo fazer o relato do cronograma 
+
 ## Metodologia
 Para verificar o artefato, responderemos o checklist feito no planejamento da verificação, a integrante Lara e Giovana vão gravar um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 
@@ -9,42 +12,32 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 ### Geral 
 
-<center>Tabela 1: Tabela das perguntas gerais. </center> 
+<center>Tabela 1: Tabela das perguntas  </center> 
+
 
 | ID  | Descrição                                                                                  | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
 | 1   | O artefato possui introdução?      |    Sim     |             |
 | 2   | O artefato possui metodologia e objetivo?          |      Sim     |     Está na Introdução        |
 | 3   | O artefato possui uma bibliografia/referência bibliográfica? |     Sim      |             |
-| 4   | As tabelas possuem fontes, títulos e são chamadas no texto?  |    Sim      |             |
-| 5   | A estrutura do documento possui uma sequência lógica e padronizada? |   Sim      |        |
-| 6   | Possui histórico de versões?  |     Sim      |             |
-| 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? |     Incompleto      |     Está faltando informações        |
+| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de | Incompleto      |     Está faltando informações        |
+| 4 | As atividades necessárias estão claramente definidas e listadas? | Sim | |
+| 5 | As datas de início e término de cada atividade estão claramente especificadas? |Sim | |
+| 6 | As atividades estão em uma sequência lógica e cronológica? | Sim | |
+| 7 | Cada atividade possui um responsável designado? |Sim | |
+| 8 | Os recursos necessários para cada atividade estão definidos? | Sim | |
+  
 
-<center>Fonte: [Giovana Barbosa](https://github.com/gio221) e [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
-
-<center>Tabela 2: Tabela do Cronograma. </center> 
-
-| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
-|:------:|:------------- |:-------------:|:----------------|
-| 1      | As atividades necessárias estão claramente definidas e listadas? | Sim | |
-| 2      | As datas de início e término de cada atividade estão claramente especificadas? | Sim | |
-| 3      | As atividades estão em uma sequência lógica e cronológica? | Sim | |
-| 4      | Cada atividade possui um responsável designado? | Sim | |
-| 5      | Os recursos necessários para cada atividade estão definidos? | Dado | Não | só monstra a pessoa e os revisores reponsáveis para cada artefato |
-| 6    | Todas as tarefas possuem revisor? | Sim | |
-
-
- <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+<center>Fonte: [Giovana Barbosa](https://github.com/gio221) , 2024.</center>
 
 ## Problemas Encontrados
 
-* ID 3: Está faltando informações
+* ID 2: Está faltando informações
 * ID 8: só monstra a pessoa e os revisores reponsáveis para cada artefato
 
 ## Sugestões
 
-* ID 3: Registrar se houveram mudanças
+* ID 2: Registrar se houveram mudanças
 * ID 8: monstrar mais detalhado
 
 ## Video da Verificação

@@ -1,6 +1,9 @@
 ## Introdução
 Este é o documento de verificação do artefato Site Avaliado executado elaborado pelo Grupo 5 da disciplina de Interação Humano-Computador (IHC), que está focado no projeto relacionado ao site da Prefeitua da Lagoa da Prata. Consequentemente, o Site Avaliado será avaliado à luz da literatura de Interação Humano-Computador de Barbosa e Silva.
 
+## Objetivo 
+Esse artefato tem como objetivo fazer o relato do site avaliado
+
 ## Metodologia
 Para verificar o artefato, responderemos o checklist feito no planejamento da verificação, a integrante Lara e Giovana vão gravar um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 

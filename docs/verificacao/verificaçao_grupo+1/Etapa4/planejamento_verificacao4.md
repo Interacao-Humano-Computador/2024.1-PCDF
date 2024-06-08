@@ -44,8 +44,6 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 
-## Checklist de artefato
-
 ## Checklist Geral
 
 <center>Tabela 3: Tabela do Checklist Geral. </center> 
@@ -104,6 +102,21 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
+### Termos de Consentimento
+
+<center>Tabela 7: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
+
+| _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
+|:----------|:----------|:----------:| --------------------|
+| 06 | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?  | Dado  | |
+| 07 | O documento possui um cuidado ético para que a pessoa entrevistada, entenda?  | Dado  | |
+| 08 | Há a garantia de confidencialidade e a privacidade dos dados brutos?| Dado  | |
+| 09 |Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas? | Dado | |
+| 10 | Há esclarecido um consentimento livre de desistência do participante durante a pesquisa? | Dado  | |
+| 11 | Há local de assinatura do entrevistador e do entrevsitado? | Dado  | |
+
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 ### Planejamento para Storyboards
 
@@ -124,23 +137,6 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 | 16 | No artefato tem o teste piloto ?  | Dado  | |
 | 17| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
 | 18| O artefato possui histórico de versões ?  | Dado  | |
-
-<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
-
-
-### Termos de Consentimento
-
-<center>Tabela 7: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
-
-| _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
-|:----------|:----------|:----------:| --------------------|
-| 06 | O documento possui os princípios de autonomia, beneficiência, não maleficiência, justiça e equidade?  | Dado  | |
-| 07 | O documento possui um cuidado ético para que a pessoa entrevistada, entenda?  | Dado  | |
-| 08 | Há a garantia de confidencialidade e a privacidade dos dados brutos?| Dado  | |
-| 09 |Garante o anonimato dos participantes, preservação das suas imagens e a utilização cuidadosa das informações coletadas? | Dado | |
-| 10 | Há esclarecido um consentimento livre de desistência do participante durante a pesquisa? | Dado  | |
-| 11 | Há local de assinatura do entrevistador e do entrevsitado? | Dado  | |
-
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
