@@ -109,7 +109,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 <center>Tabela 6: Tabela do Planejamento dos Storyboards. </center> 
 
-| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+| _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
 |:----------|:----------|:----------:| --------------------|
 | 30 | O planejamento da avaliação está de acordo com Framework DECIDE?   | Dado  | |
 | 31 | O artefato possui os métodos que serão utilizados na avaliação ?  | Dado  | |
@@ -132,7 +132,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 <center>Tabela 7: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
 
-| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+| _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
 |:----------|:----------|:----------:| --------------------|
 | 43 | Os perfis dos participantes estão de acordo com o perfil de usuário definido ?   | Dado  | |
 | 44 | O artefato possui sugestões de melhorias ?  | Dado  | |

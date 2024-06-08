@@ -5,18 +5,35 @@ Este é o documento de verificação do artefato Cronograma elaborado pelo Grupo
 Para verificar o artefato, responderemos o checklist feito no planejamento da verificação, a integrante Lara e Giovana vão gravar um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 
 ## Checklist
-<center>Tabela 1: Tabela do Cronograma. </center> 
+
+
+### Geral 
+
+<center>Tabela 1: Tabela das perguntas gerais. </center> 
+
+| ID  | Descrição                                                                                  | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 1   | O artefato possui introdução?      |    Sim     |             |
+| 2   | O artefato possui metodologia e objetivo?          |      Sim     |     Está na Introdução        |
+| 3   | O artefato possui uma bibliografia/referência bibliográfica? |     Sim      |             |
+| 4   | As tabelas possuem fontes, títulos e são chamadas no texto?  |    Sim      |             |
+| 5   | A estrutura do documento possui uma sequência lógica e padronizada? |   Sim      |        |
+| 6   | Possui histórico de versões?  |     Sim      |             |
+| 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? |     Incompleto      |     Está faltando informações        |
+
+<center>Fonte: [Giovana Barbosa](https://github.com/gio221) e [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
+<center>Tabela 2: Tabela do Cronograma. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
-|:----------|:----------|:----------:| --------------------|
-| 1 | O artefato possui introdução? | Sim| |
-| 2 | O artefato possui uma bibliografia/referência bibliográfica?  |Sim | |
-| 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de revisão|incompleto|Está faltando informações|
-| 4 | As atividades necessárias estão claramente definidas e listadas? | Sim | |
-| 5 | As datas de início e término de cada atividade estão claramente especificadas? | Sim| |
-| 6 | As atividades estão em uma sequência lógica e cronológica? | Sim | |
-| 7 | Cada atividade possui um responsável designado? | Sim | |
-| 8 | Os recursos necessários para cada atividade estão definidos? | Não | só monstra a pessoa e os revisores reponsáveis para cada artefato|
+|:------:|:------------- |:-------------:|:----------------|
+| 1      | As atividades necessárias estão claramente definidas e listadas? | Sim | |
+| 2      | As datas de início e término de cada atividade estão claramente especificadas? | Sim | |
+| 3      | As atividades estão em uma sequência lógica e cronológica? | Sim | |
+| 4      | Cada atividade possui um responsável designado? | Sim | |
+| 5      | Os recursos necessários para cada atividade estão definidos? | Dado | Não | só monstra a pessoa e os revisores reponsáveis para cada artefato |
+| 6    | Todas as tarefas possuem revisor? | Sim | |
+
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 

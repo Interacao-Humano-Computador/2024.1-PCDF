@@ -51,6 +51,7 @@ A verificação do cronograma envolve a avaliação de sua completude e clareza.
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 
+<<<<<<< Updated upstream
 # Checklist
 As listas de verificação foram criadas com base nos critérios esperados para cada item, nas principais atividades durante sua elaboração e nas diretrizes de análise propostas por Simone e Silva.
 
@@ -93,6 +94,30 @@ Com o objetivo de melhorar a organização da verificação, as listas serão di
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
 | 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de 
+=======
+### Geral 
+
+<center>Tabela 3: Tabela das perguntas gerais. </center> 
+
+| ID  | Descrição                                                                                  | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 1   | O artefato possui introdução?                                                              |           |             |
+| 2   | O artefato possui metodologia e objetivo?                                                  |           |             |
+| 3   | O artefato possui uma bibliografia/referência bibliográfica?                               |           |             |
+| 4   | As tabelas possuem fontes, títulos e são chamadas no texto?                                |           |             |
+| 5   | A estrutura do documento possui uma sequência lógica e padronizada?                        |           |             |
+| 6   | Possui histórico de versões?                                                               |           |             |
+| 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? |           |             |
+
+<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
+### Cronograma
+
+<center>Tabela 3: Tabela do Cronograma. </center> 
+
+| __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
+|:----------|:----------|:----------:| --------------------|
+>>>>>>> Stashed changes
 | 4 | As atividades necessárias estão claramente definidas e listadas? | Dado | |
 | 5 | As datas de início e término de cada atividade estão claramente especificadas? | Dado | |
 | 6 | As atividades estão em uma sequência lógica e cronológica? | Dado | |
