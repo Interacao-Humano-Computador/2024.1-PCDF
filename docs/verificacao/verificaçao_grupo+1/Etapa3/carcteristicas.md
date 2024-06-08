@@ -61,20 +61,21 @@ Este documento tem como objetivo o relato da verificação do artefato Caracter�
 ## Video da Verificação
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=uZNJ2vPOAI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/uZNJ2vPOAI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=uZNJ2vPOAI4" target="blank">Vídeo da Verificação da Característica da Plataforma para o Projeto da etapa 3</a>
+    <a href="https://www.youtube.com/watch?v=uZNJ2vPOAI4" target="_blank">Vídeo da Verificação das Características da Plataforma para o Projeto da Etapa 3</a>
 </p>
+
 
 
 ## Conclusão
 A Figura 1 monstra como ficou as respostas obtidas 
 
 <center>
-![Caracteriscas](../../../assets/verificacao/etapa1/caracteristicas.png)
+![Caracteriscas](../../../assets/verificacao/etapa3/caracteristicas.png)
 <div align="center">
-<p> Figura 1 - Respostas da Verificação do Guia de Estilo. Fonte: Rayene Alemida, 2024 </p> 
+<p> Figura 1 - Respostas das Característica da Plataforma para o Projeto. Fonte: Rayene Alemida, 2024 </p> 
 </div></center>
 
 

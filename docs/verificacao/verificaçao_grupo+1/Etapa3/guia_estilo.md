@@ -73,12 +73,13 @@ Este documento tem como objetivo o relato da verificação do Guia de estilo da 
 
 ## Conclusão
 A Figura 1 monstra como ficou as respostas obtidas 
-
 <center>
-![Guia de estilo](../../../assets/verificacao/etapa1/guiadeestilo.png)
+![Guia de Estilo](../../../assets/verificacao/etapa3/guiadeestilo.png)
 <div align="center">
-<p> Figura 1 - Respostas da Verificação do Guia de Estilo. Fonte: Rayene Alemida, 2024 </p> 
+<p> Figura 1 - Respostas do Guia de Estilo </p> 
+ <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
 </div></center>
+
 
 
 ## Bibliografia
