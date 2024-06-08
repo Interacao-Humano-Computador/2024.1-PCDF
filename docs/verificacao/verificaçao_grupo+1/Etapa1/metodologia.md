@@ -47,7 +47,8 @@ A imagem 1 monstra como ficou as respostas obtidas
 <center>
 ![metodologia](../../../assets/verificacao/etapa1/metodologia.png)
 <div align="center">
-<p> Figura 1 - Respostas da metodologia. Fonte: Giovana </p> 
+<p> Figura 1 - Respostas da metodologia</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>  
 </div></center>
 
 

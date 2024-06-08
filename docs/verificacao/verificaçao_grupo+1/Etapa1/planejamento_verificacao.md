@@ -141,10 +141,9 @@ A verificação das ferramentas utilizadas no projeto considera:
 | 3  | As etapas do processo de design estão nitidas e definidas?  | Dado  | |
 | 4 |  artefato inclui o diagrama sugerido pelo método selecionado ?  | Dado  | |
 | 5  | O modo de execução do ciclo de vida está detalhado?  | Dado | |
-| 6  | O artefato inclui o diagrama sugerido pelo método selecionado?  | Dado  | |
-| 7 | A definição do ciclo de vida foi justificado ?  | Dado | |
-| 8  |  O artefato possui histórico de versões ?  | Dado  | |
-| 9  | O artefato possui bibliografia/ referência bibliografica?  | Dado  | |
+| 6 | A definição do ciclo de vida foi justificado ?  | Dado | |
+| 7  |  O artefato possui histórico de versões ?  | Dado | |
+| 8  | O artefato possui bibliografia/ referência bibliografica?  | Dado | |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 

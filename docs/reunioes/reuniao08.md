@@ -29,5 +29,5 @@ Foi definido o esclarecimento que o planejamento de todos os artefatos é em um 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |07/06 | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Rayene Almeida](https://github.com/rayenealmeida) | 08/06 |
-| 1.1 |08/06 | Conteúdo da reunião | [Rayene Almeida](https://github.com/rayenealmeida)  | | |
+| 1.1 |08/06 | Conteúdo da reunião | [Rayene Almeida](https://github.com/rayenealmeida)  | [Giovana Barbosa ](https://github.com/gio221)|08/06 |
 

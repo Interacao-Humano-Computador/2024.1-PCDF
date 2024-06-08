@@ -18,8 +18,7 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 | ID  | Descrição                                                                                  | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
 | 1   | O artefato possui introdução?      |    Sim     |             |
-| 2   | O artefato possui metodologia e objetivo?          |      Sim     |     Está na Introdução        |
-| 3   | O artefato possui uma bibliografia/referência bibliográfica? |     Sim      |             |
+| 2   | O artefato possui uma bibliografia/referência bibliográfica? |     Sim      |             |
 | 3 | O artefato possui um histórico de versões com versão, data, autores, revisores e data de | Incompleto      |     Está faltando informações        |
 | 4 | As atividades necessárias estão claramente definidas e listadas? | Sim | |
 | 5 | As datas de início e término de cada atividade estão claramente especificadas? |Sim | |
@@ -32,12 +31,10 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 ## Problemas Encontrados
 
-* ID 2: Está faltando informações
 * ID 8: só monstra a pessoa e os revisores reponsáveis para cada artefato
 
 ## Sugestões
 
-* ID 2: Registrar se houveram mudanças
 * ID 8: monstrar mais detalhado
 
 ## Video da Verificação
@@ -50,7 +47,8 @@ A imagem 1 monstra como ficou as respostas obtidas
 <center>
 ![Cronograma](../../../assets/verificacao/etapa1/cronograma.png)
 <div align="center">
-<p> Figura 1 - Respostas do Cronograma. Fonte: Giovana </p> 
+<p> Figura 1 - Respostas do Cronograma.</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
 

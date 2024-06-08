@@ -136,7 +136,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 | 15 | No artefato está descrito o passo a passo da avaliação ?| Dado | |
 | 16 | No artefato tem o teste piloto ?  | Dado  | |
 | 17| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
-| 18| O artefato possui histórico de versões ?  | Dado  | |
+
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 

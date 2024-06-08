@@ -26,13 +26,13 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 ## Problemas Encontrados
 * ID 2: Não possui metodologia
-* ID 2: Não existe imagens nem tabelas
-* ID 3: Não existe uma avaliação de site para cada membro
+* ID 3: Não existe imagens nem tabelas
+* ID 5: Não existe uma avaliação de site para cada membro
 
 ## Sugestões
 * ID 2: Inserir metodologia
-* ID 2: Inserir imagens e tabelas
-* ID 3: Colocar link para a avaliação do site de cada membro
+* ID 3: Inserir imagens e tabelas
+* ID 5: Colocar link para a avaliação do site de cada membro
 
 ## Video da Verificação
 
@@ -44,7 +44,8 @@ A imagem 1 monstra como ficou as respostas obtidas
 <center>
 ![site avaliado](../../../assets/verificacao/etapa1/site-avaliado.png)
 <div align="center">
-<p> Figura 1 - Respostas do site avaliado. Fonte: Giovana </p> 
+<p> Figura 1 - Respostas do site avaliado </p> 
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center> 
 </div></center>
 
 

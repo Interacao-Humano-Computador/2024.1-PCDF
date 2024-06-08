@@ -26,13 +26,13 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 
 ## Problemas Encontrados
 * ID 4: Não possui uma funcionalidade para cada membro da equipe
-* ID3 6: Não existe imagens nem tabelas
-* ID3 7: Cada site avaliado não tem uma descrição
+* ID 6: Não existe imagens nem tabelas
+* ID 7: Cada site avaliado não tem uma descrição
 
 ## Sugestões
 * ID 4: Adicionar funcionalidade para cada membro da equipe
-* ID3 6: Adicionar imagens nem tabelas
-* ID3 7: Adicionar descrição de cada site avaliado
+* ID 6: Adicionar imagens nem tabelas
+* ID 7: Adicionar descrição de cada site avaliado
 
 
 ## Video da Verificação
@@ -45,7 +45,9 @@ A imagem 1 monstra como ficou as respostas obtidas
 <center>
 ![site](../../../assets/verificacao/etapa1/site.png)
 <div align="center">
-<p> Figura 1 - Respostas do site . Fonte: Giovana </p> 
+<p> Figura 1 - Respostas do site  </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center> 
+  
 </div></center>
 
 ## Bibliografia

@@ -27,11 +27,13 @@ Para verificar o artefato, responderemos o checklist feito no planejamento da ve
 ## Problemas Encontrados
 
 * ID 2: não possui metodologia
-* ID 5: falta revisores
+* ID 5: não está detalhado
+* ID 7: falta revisores
 
 ## Sugestões
 * ID 2: colocar a  metodologia
-* ID 5: colocar os  revisores
+* ID 5: Detalhar mais o processo de ciclo de vida
+* ID 7: colocar os  revisores
 
 ## Video da Verificação
 
@@ -43,7 +45,8 @@ A imagem 1 monstra como ficou as respostas obtidas
 <center>
 ![processo de design](../../../assets/verificacao/etapa1/processo-design.png)
 <div align="center">
-<p> Figura 1 - Respostas dos processo de design. Fonte: Giovana </p> 
+<p> Figura 1 - Respostas dos processo de design</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center> 
 </div></center>
 
 

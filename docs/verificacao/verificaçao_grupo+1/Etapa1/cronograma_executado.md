@@ -1,6 +1,10 @@
 ## Introdução
 Este é o documento de verificação do artefato Cronograma executado elaborado pelo Grupo 5 da disciplina de Interação Humano-Computador (IHC), que está focado no projeto relacionado ao site da Prefeitua da Lagoa da Prata. Consequentemente, o Cronograma executado será avaliado à luz da literatura de Interação Humano-Computador de Barbosa e Silva.
 
+## Objetivo 
+Esse artefato tem como objetivo fazer o relato do cronograma executado
+
+
 ## Metodologia
 Para verificar o artefato, responderemos o checklist feito no planejamento da verificação, a integrante Lara e Giovana vão gravar um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 
@@ -47,7 +51,8 @@ A imagem 1 monstra como ficou as respostas obtidas
 <center>
 ![Cronograma executado](../../../assets/verificacao/etapa1/cronograma-executado.png)
 <div align="center">
-<p> Figura 1 - Respostas do Cronograma executado. Fonte: Giovana </p> 
+<p> Figura 1 - Respostas do Cronograma executado</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center> 
 </div></center>
 
 
