@@ -46,89 +46,103 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 ## Checklist de artefato
 
-<center>Tabela 1: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
+## Checklist Geral
 
-### Planejamento da Avaliação da Análise de Tarefas
+<center>Tabela 3: Tabela do Checklist Geral. </center> 
 
 | ID  | Descrição                                                                 | Avaliação | Observações                              |
 |-----|--------------------------------------------------------------------------|-----------|------------------------------------------|
-| 1   | O documento possui os objetivos do planejamento?                         |           |                                          |
-| 2   | O planejamento segue o framework DECIDE?                                 |           |                                          |
-| 3   | O documento possui quais são os objetivos da avaliação?                  |           |                                          |
-| 4   | O documento possui quais são as perguntas a serem respondidas com a avaliação? |      |                                          |
-| 5  | O documento possui quais são os métodos a serem utilizados na avaliação? |           |                                          |
-| 6  | O documento possui os participantes da avaliação?                        |           |                                          |
-| 7  | O documento apresenta o papel desempenhado por cada participante?        |           |                                          |
-| 8  | O documento possui um cronograma com data, hora e local da realização da avaliação? | |                                          |
-| 9  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? | |                                          |
-| 10  | O documento apresenta quais são os custos?                               |           |                                          |
-| 11  | O documento possui uma seção sobre como as questões éticas são lidadas?  |           |                                          |
-| 12  | O documento possui uma seção sobre os dados (interpretação e apresentação)? |         |                                          |
-| 13  | O documento apresenta tarefas de como deve ser realizada a avaliação?    |           |                                          |
-| 14  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? | |                                          |
-| 15  | Possui uma gravação do teste piloto?                                     |           |                                          |
-| 16  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           | |
+| 1 |  O artefato tem introdução ?  |   | |
+| 2   | Os objetivos do planejamento são claros e definidos ?                      |           |                                          |
+| 3   | O documento possui referências bibliográficas/bibliográfia?                  |           |                                          |
+| 4   | O documento possui uma ordem lógica?                  |           |                                          |
+| 5   | O documento possui histórico de versão, com versão, descrição, autores e revisores?                  |           |                                          |
+
+
+<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
+
+### Planejamento da Avaliação da Análise de Tarefas
+
+<center>Tabela 4: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
+
+| ID  | Descrição                                                                 | Avaliação | Observações                              |
+|-----|--------------------------------------------------------------------------|-----------|------------------------------------------|
+| 6   | O planejamento segue o framework DECIDE?                                 |           |                                          |
+| 7   | O documento possui quais são os objetivos da avaliação?                  |           |                                          |
+| 8   | O documento possui quais são as perguntas a serem respondidas com a avaliação? |      |                                          |
+| 9  | O documento possui quais são os métodos a serem utilizados na avaliação? |           |                                          |
+| 10  | O documento possui os participantes da avaliação?                        |           |                                          |
+| 11  | O documento apresenta o papel desempenhado por cada participante?        |           |                                          |
+| 12  | O documento possui um cronograma com data, hora e local da realização da avaliação? | |                                          |
+| 13  | O documento apresenta quais as ferramentas e os equipamentos serão utilizados na avaliação? | |                                          |
+| 14  | O documento apresenta quais são os custos?                               |           |                                          |
+| 15  | O documento possui uma seção sobre como as questões éticas são lidadas?  |           |                                          |
+| 16  | O documento possui uma seção sobre os dados (interpretação e apresentação)? |         |                                          |
+| 17  | O documento apresenta tarefas de como deve ser realizada a avaliação?    |           |                                          |
+| 18  | O documento possui uma seção de teste piloto com sua definição, participantes, local, data e horário da realização do teste piloto? | |                                          |
+| 19  | Possui uma gravação do teste piloto?                                     |           |                                          |
+| 20  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |           | |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
 ### Planejamento do Relato dos Resultados da Análise de Tarefas
 
-<center>Tabela 2: Tabela do Planejamento do Relato dos Resultados da Análise de Tarefas. </center> 
+<center>Tabela 5: Tabela do Planejamento do Relato dos Resultados da Análise de Tarefas. </center> 
 
 | ID  | Descrição                                                                                                 | Avaliação | Observações  |
 |-----|----------------------------------------------------------------------------------------------------------|-----------|--------------|
-| 1   | O documento descreve claramente o objetivo da avaliação?                                                 |           |              |
-| 2   | O relato segue o framework DECIDE?                                                                       |           |              |
-| 3   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
-| 4   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
-| 5   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
-| 6   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
-| 7   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
-| 8   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
-| 9   | Todas as referências bibliográficas são listadas de forma correta?                                        |           |              |
-| 10  | O histórico de versões do documento está presente e atualizado?                                           |           |              |
+| 21   | O relato segue o framework DECIDE?                                                                       |           |              |
+| 22   | O método de avaliação utilizado está claramente explicado?                                               |           |              |
+| 23   | A tabela de cronograma das entrevistas está presente e é clara?                                          |           |              |
+| 24   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |           |              |
+| 25   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |           |              |
+| 26   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |           |              |
+| 27   | As sugestões de melhoria para cada storyboard estão detalhadas?                                           |           |              |
+| 28   | Todas as referências bibliográficas são listadas de forma correta?                                        |           |              |
+| 29  | O histórico de versões do documento está presente e atualizado?                                           |           |              |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
 
 ### Planejamento para Storyboards
 
+<center>Tabela 6: Tabela do Planejamento dos Storyboards. </center> 
+
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 |  O artefato tem introdução ?  | Dado  | |
-| 2 | Os objetivos do planejamento são claros e definidos ?   | Dado  | |
-| 3 | O planejamento da avaliação está de acordo com Framework DECIDE?   | Dado  | |
-| 4 | O artefato possui os métodos que serão utilizados na avaliação ?  | Dado  | |
-| 5 |  Os métodos que serão utilizados na avaliação estão descritos com detalhes ? | Dado  | |
-| 6 | O artefato tem a quantidade e a justificativa dos participantes ?  | Dado | |
-| 7 |  Os usuários foram definidos de acordo com o perfil de usuário ? | Dado  | |
-| 8 | No artefato está presente um cronograma com data, local e horário para as estrevistas? | Dado  | |
-| 9 | No artefato tem ferramentas que foram utilizadas na avaliação?  | Dado  | |
-| 10 | No artefato há o custo e mão de obra ?  | Dado  | |
-| 11 |  No artefato tem o termo de consentimento ? | Dado  | |
-| 12 | No artefato está descrito o passo a passo da avaliação ?| Dado | |
-| 13 | No artefato tem o teste piloto ?  | Dado  | |
-| 14| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
-| 15| O artefato possui histórico de versões ?  | Dado  | |
+| 30 | O planejamento da avaliação está de acordo com Framework DECIDE?   | Dado  | |
+| 31 | O artefato possui os métodos que serão utilizados na avaliação ?  | Dado  | |
+| 32 |  Os métodos que serão utilizados na avaliação estão descritos com detalhes ? | Dado  | |
+| 33 | O artefato tem a quantidade e a justificativa dos participantes ?  | Dado | |
+| 34 |  Os usuários foram definidos de acordo com o perfil de usuário ? | Dado  | |
+| 35 | No artefato está presente um cronograma com data, local e horário para as estrevistas? | Dado  | |
+| 36 | No artefato tem ferramentas que foram utilizadas na avaliação?  | Dado  | |
+| 37 | No artefato há o custo e mão de obra ?  | Dado  | |
+| 38 |  No artefato tem o termo de consentimento ? | Dado  | |
+| 39 | No artefato está descrito o passo a passo da avaliação ?| Dado | |
+| 40 | No artefato tem o teste piloto ?  | Dado  | |
+| 41| Os storyboards estão de acordo com o artefato da analise de tarefas ?  | Dado  | |
+| 42| O artefato possui histórico de versões ?  | Dado  | |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 
 ### Planejamento do Relato dos Resultados dos Storyboards
 
+<center>Tabela 7: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
+
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
-| 1 |  O artefato tem introdução ?  | Dado  | |
-| 2 | O planejamento tem os objetivos e escopo de forma clara ?   | Dado  | |
-| 3 | Os perfis dos participantes estão de acordo com o perfil de usuário definido ?   | Dado  | |
-| 4 | O artefato possui sugestões de melhorias ?  | Dado  | |
-| 5 |  No artefato descreve como é a analisada a interação do usuário com o artefato ? | Dado  | |
-| 6 | No artefato possui um tópico para resumir os principais resultados ?  | Dado | |
-| 7 |  No artefato tem um projeto de reprojeto ? | Dado  | |
-| 8 | No artefato segue um padrão imposto no planejamento ? | Dado  | |
-| 9 | No artefato tem objetivo ?  | Dado  | |
-| 10 | No artefato tem o modelo proposto vs apresentado ?  | Dado  | |
-| 11 | No artefato possui o historico de versões ?  | Dado  | |
+| 43 | Os perfis dos participantes estão de acordo com o perfil de usuário definido ?   | Dado  | |
+| 44 | O artefato possui sugestões de melhorias ?  | Dado  | |
+| 45 |  No artefato descreve como é a analisada a interação do usuário com o artefato ? | Dado  | |
+| 46 | No artefato possui um tópico para resumir os principais resultados ?  | Dado | |
+| 47 |  No artefato tem um projeto de reprojeto ? | Dado  | |
+| 48 | No artefato segue um padrão imposto no planejamento ? | Dado  | |
+| 49 | No artefato tem objetivo ?  | Dado  | |
+| 50 | No artefato tem o modelo proposto vs apresentado ?  | Dado  | |
+| 51 | No artefato possui o historico de versões ?  | Dado  | |
 
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
