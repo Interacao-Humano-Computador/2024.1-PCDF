@@ -46,7 +46,24 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 ## Checklist de artefato
 
-<center>Tabela 1: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
+
+### Geral 
+
+<center>Tabela 1: Tabela das perguntas gerais. </center> 
+
+| ID  | Descrição                                                                                  | Avaliação | Observações |
+| --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
+| 1   | O artefato possui introdução?      |      Dado     |             |
+| 2   | O artefato possui metodologia e objetivo? |       Dado    |             |
+| 3   | O artefato possui uma bibliografia/referência bibliográfica?  |      Dado     |             |
+| 4   | As tabelas possuem fontes, títulos e são chamadas no texto?    |     Dado     |             |
+| 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |    Dado      |             |
+| 6   | Possui histórico de versões?        |     Dado      |             |
+| 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? |     Dado      |             |
+
+<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
+<center>Tabela 2: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
 
 ### Planejamento da Avaliação da Análise de Tarefas
 
@@ -73,7 +90,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 ### Planejamento do Relato dos Resultados da Análise de Tarefas
 
-<center>Tabela 2: Tabela do Planejamento do Relato dos Resultados da Análise de Tarefas. </center> 
+<center>Tabela 3: Tabela do Planejamento do Relato dos Resultados da Análise de Tarefas. </center> 
 
 | ID  | Descrição                                                                                                 | Avaliação | Observações  |
 |-----|----------------------------------------------------------------------------------------------------------|-----------|--------------|
@@ -92,6 +109,9 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 
 ### Planejamento para Storyboards
+
+<center>Tabela 4: Tabela do Planejamento para Storyboards. </center> 
+
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
