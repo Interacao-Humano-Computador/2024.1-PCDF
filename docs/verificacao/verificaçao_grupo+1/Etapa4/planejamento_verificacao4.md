@@ -15,6 +15,19 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 - Termo de Consentimento
 - Planejamento para Storyboards
 
+
+## Participantes
+A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
+
+<center>Tabela 1: Tabela dos participantes e suas funções. </center> 
+
+| Integrante Responsável | Função                   |
+|-------------------------|--------------------------|
+| [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)                 | Planejamento da verificação da etapa 04    |
+|  [Giovana Barbosa](https://github.com/gio221) e [Renata Quadros](https://github.com/Renatinha28)            | Relato dos resultados da verificação da etapa 04|
+
+<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
 ## Checklist de artefato
 
 <center>Tabela 1: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
