@@ -56,7 +56,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.2</td>
         <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
        <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/apectos_eticos/">Resultado</a></td>
     </tr>
     <tr>
@@ -64,7 +64,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.1</td>
         <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
         <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/questionario/">Resultado</a></td>
     </tr>
     <tr>
@@ -72,7 +72,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.1</td>
         <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
         <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/entrevista/">Resultado</a></td>
     </tr>
     <tr>
@@ -80,7 +80,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.1</td>
         <td><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
         <td><a href="https://github.com/gravelylara">Raissa</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/perfil_usuario/">Resultado</a></td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.7</td>
         <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/cenarios/">Resultado</a></td>
     </tr>
     <tr>
@@ -96,7 +96,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.5</td>
           <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/personas/">Resultado</a></td>
     </tr>
      <tr>
@@ -104,7 +104,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td>1.8</td>
         <td><a href="https://github.com/joycejdm">Joyce Dionisio</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
-        <td>07/06</td>
+        <td>08/06</td>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa2/analise_tarefas/">Resultado</a></td>
     </tr>
 </table>
