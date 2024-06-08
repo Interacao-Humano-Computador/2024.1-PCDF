@@ -33,12 +33,27 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 1.
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
-## Checklist de artefato
 
 ### Cronograma
 A verificação do cronograma envolve a avaliação de sua completude e clareza. Os itens a serem verificados incluem:
 
-<center>Tabela 3: Tabela do Cronograma. </center> 
+<center>Tabela 2: Tabela do Cronograma. </center> 
+
+| Artefato | Versão | Integrante 4+1 | Meu Grupo | Data de Verificação | Resultado |
+|----------|----------|----------|----------|----------|----------|
+| Cronograma Planejado  | 3.0  | Augusto Campos  | Lara  | 08/06  | Resultado  |
+| Cronograma executado  | 5.1  | Augusto Campos  | Lara  | 08/06  | Resultado   |
+| Ferramentas  | 1.2  | Augusto Campos  | Lara  | 08/06  | Resultado   |
+| Processo de Design  | 1.2  | Augusto Campos  | Lara  | 08/06  | Resultado   |
+| Site Avaliado  |  1.1 | Cainã  | Giovana  | 08/06  | Resultado   |
+| Site Escolhido  | 2.0  | Cainã | Giovana  | 08/06  | Resultado  |
+| Metodologia  | 1.3 | Cainã  | Giovana  | 08/06  | Resultado   |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
+## Checklist de artefato
+
+<center>Tabela 3: Tabela do Checklist. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -54,10 +69,10 @@ A verificação do cronograma envolve a avaliação de sua completude e clareza.
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
-### Cronograma Executado
+### Checklist Executado
 Para o cronograma executado, a verificação foca em confirmar a precisão e atualidade das informações registradas:
 
-<center>Tabela 4: Tabela do Cronograma Executado. </center> 
+<center>Tabela 4: Tabela do Checklist Executado. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|

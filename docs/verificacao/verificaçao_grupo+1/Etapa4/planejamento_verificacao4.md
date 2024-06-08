@@ -28,6 +28,22 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
+
+## Cronograma 
+
+<center>Tabela 2: Tabela do Cronograma. </center> 
+
+| Artefato | Versão | Integrante 4+1 | Meu Grupo | Data de Verificação | Resultado |
+|----------|----------|----------|----------|----------|----------|
+| Planejamento da Análise de tarefas  | 1.1  | Joyce  | Renata  | 09/06  | Resultado  |
+| Planejamento do Relato dos Resultados da analise de tarefas  | 1.0  | Joyce | Renata   | 09/06  | Resultado   |
+| Termo de Consentimento  | 1.0  | Lucas Heler | Giovana  | 09/06  | Resultado   |
+| Planejamento para Storyboards  | 1.1  | Lucas Heler  | Giovana  | 09/06  | Resultado   |
+
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
+
 ## Checklist de artefato
 
 <center>Tabela 1: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
