@@ -19,12 +19,29 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 - Site escolhido
 - Processo de Design
 
+## Participantes
+A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 1.
+
+<center>Tabela 1: Tabela dos participantes e suas funções. </center> 
+
+| Integrante Responsável | Função                   |
+|-------------------------|--------------------------|
+| [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)                 | Planejamento da verificação da etapa 01    |
+|  [Lara Giuliana](https://github.com/gravelylara) e [Giovana Barbosa](https://github.com/gio221)                | Relato dos resultados da verificação da etapa 01|
+
+
+
+<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
+## Cronograma
+
+
 ## Checklist de artefato
 
 ### Cronograma
 A verificação do cronograma envolve a avaliação de sua completude e clareza. Os itens a serem verificados incluem:
 
-<center>Tabela 1: Tabela do Cronograma. </center> 
+<center>Tabela 3: Tabela do Cronograma. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -43,7 +60,7 @@ A verificação do cronograma envolve a avaliação de sua completude e clareza.
 ### Cronograma Executado
 Para o cronograma executado, a verificação foca em confirmar a precisão e atualidade das informações registradas:
 
-<center>Tabela 2: Tabela do Cronograma Executado. </center> 
+<center>Tabela 4: Tabela do Cronograma Executado. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -60,7 +77,7 @@ Para o cronograma executado, a verificação foca em confirmar a precisão e atu
 ### Ferramentas 
 A verificação das ferramentas utilizadas no projeto considera:
 
-<center>Tabela 3: Tabela das Ferramentas. </center> 
+<center>Tabela 5: Tabela das Ferramentas. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -77,7 +94,7 @@ A verificação das ferramentas utilizadas no projeto considera:
 ### Metodologia
 A documentação da metodologia deve assegurar a adequação às melhores práticas e justificar escolhas metodológicas seguindo as seguintes verificações:
 
-<center>Tabela 4: Tabela da Metodologia. </center> 
+<center>Tabela 6: Tabela da Metodologia. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -94,7 +111,7 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 ### Sites Avaliados
 
-<center>Tabela 5: Tabela do Sites Avaliados. </center> 
+<center>Tabela 7: Tabela do Sites Avaliados. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -111,7 +128,7 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 ### Site escolhido
 
 
-<center>Tabela 6: Tabela do Site Escolhido. </center> 
+<center>Tabela 8: Tabela do Site Escolhido. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|
@@ -129,7 +146,7 @@ A documentação da metodologia deve assegurar a adequação às melhores práti
 
 ### Processo de Design
 
-<center>Tabela 7: Tabela do Processo de Design. </center> 
+<center>Tabela 9: Tabela do Processo de Design. </center> 
 
 | __ID__ | __Descrição__ | __Avaliação__ | __Observações__ |
 |:----------|:----------|:----------:| --------------------|

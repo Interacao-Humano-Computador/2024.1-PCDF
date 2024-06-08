@@ -10,6 +10,15 @@ A avaliação foi realizada por meio de entrevistas, utilizando storyboards e a 
 ## Participantes
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 participantes entrevistadores no total com locais das entrevistas presenciais. Neste Documento apresentasse as entrevistas de todas as funcionalidades.
 
+ Funcionalidade    |    Integrante Responsável             |  
+|:------:|:-------------------------------:|
+|Pesquisar Procurados|Lara|  
+| Solicitar Antecedentes Criminais | Renata |
+| 197- Denúncia Online   | Giovana          |
+| Solicitar Carteira de Identidade| Raissa
+| Registrar Ocorrência | Rayene |
+|Retrato Falado Online|Renata|
+
 ## Aspéctos Éticos
 Foi passado para o entrevitado de cada entrevista o termo de consentimento e todos os que estão na gravação aceitaram os termos. Termo de consentimento disponível em: [Aspectos Éticos](analise_requisitos1/aspectos_éticos.md).
 
@@ -19,14 +28,18 @@ As figuras 1 e 2 são referentes ao storyboard feito pela integrante [Lara Giuli
 
 ![Quadrinho de Procurados](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados1.jpeg)
 <div align="center">
-    <p> Figura 1: Stroryboard de Pesquisar procurados. Fonte: 
+    <p> Figura 1: Stroryboard de Pesquisar procurados. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/gravelylara">Lara</a>
     </p> 
 </div>
 
 ![Quadrinho de Procurados](../../../assets/design/Nivel1/storyboards/Storyboard_Procurados2.jpeg)
 <div align="center">
-    <p> Figura 2: Stroryboard de Pesquisar procurados. Fonte: 
+    <p> Figura 2: Stroryboard de Pesquisar procurados. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/gravelylara">Lara</a>
     </p> 
 </div>
@@ -63,14 +76,18 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant1.png)
 <div align="center">
-    <p> Figura 3: Stroryboard de Solicitar antecedentes. Fonte: 
+    <p> Figura 3: Stroryboard de Solicitar antecedentes. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant2.png)
 <div align="center">
-    <p> Figura 4: Stroryboard de Solicitar antecedentes. Fonte: 
+    <p> Figura 4: Stroryboard de Solicitar antecedentes. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
@@ -78,7 +95,9 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant3.png)
 <div align="center">
-    <p> Figura 5: Stroryboard de Solicitar antecedentes. Fonte: 
+    <p> Figura 5: Stroryboard de Solicitar antecedentes. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
@@ -114,7 +133,9 @@ A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúnci
 <br> <br>
 ![Quadrinho da 197](../../../assets/design/Nivel1/storyboards/Stroryboard_197.png)
 <div align="center">
-    <p> Figura 6: Storyboard de Retrato Falado. Fonte: 
+    <p> Figura 6: Storyboard de Retrato Falado
+    </p>
+     <p>Fonte: 
         <a href="https://github.com/gio221">Giovana</a>
     </p> 
 </div>
@@ -146,7 +167,9 @@ A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e 
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 
 <div align="center">
-    <p> Figura 7: Storyboard de Solicitar Carteira de Identidade. Fonte: 
+    <p> Figura 7: Storyboard de Solicitar Carteira de Identidade. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/RaissaAndradeS">Raissa</a>
     </p> 
 </div>
@@ -179,7 +202,9 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/Storyboard_RegistroOcorrencia.jpeg)
 <div align="center">
-    <p> Figura 8: Storyboard de Registro de Ocorrência. Fonte: 
+    <p> Figura 8: Storyboard de Registro de Ocorrência. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/rayenealmeida">Rayene</a>
     </p> 
 </div>
@@ -214,21 +239,27 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado1.png)
 <div align="center">
-    <p> Figura 9: Storyboard de Retrato Falado. Fonte: 
+    <p> Figura 9: Storyboard de Retrato Falado. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado2.png)
 <div align="center">
-    <p> Figura 10: Storyboard de Retrato Falado. Fonte: 
+    <p> Figura 10: Storyboard de Retrato Falado. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado3.png)
 <div align="center">
-    <p> Figura 11: Storyboard de Retrato Falado. Fonte: 
+    <p> Figura 11: Storyboard de Retrato Falado. 
+    </p>
+    <p>Fonte: 
         <a href="https://github.com/Renatinha28">Renata</a>
     </p> 
 </div>
@@ -259,24 +290,14 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Não                                        |
 
 ## Sugestões de Melhorias
-
-### Pesquisar procurados
-Não há sugestões de melhoria.
-
-### Solicitar Antecedentes Criminais
-1. Elaborar uma questão mais realista do motivo de buscar os antecedentes criminais
-
-### 197- Denúncia Online
-1. No quinto quadrante detalhar o site de forma visual
-
-### Solicitar carteira de identidade
-Não há sugestão de melhoria. 
-
-### Registro de Ocorrência
-1. Melhorar detalhando mais a finalização do registro de ocorrência .
-
-### Retrato Falado Online
-Não há sugestão de melhoria.
+| Funcionalidade                      | Sugestão de Melhoria                                                      | Responsável             |
+|-------------------------------------|--------------------------------------------------------------------------|--------------------------|
+| Pesquisar procurados                | Não há sugestões de melhoria.                                             | Lara                     |
+| Solicitar Antecedentes Criminais    | Elaborar uma questão mais realista do motivo de buscar os antecedentes criminais | Renata           |
+| 197 - Denúncia Online               | No quinto quadrante detalhar o site de forma visual                    | Giovana                  |
+| Solicitar carteira de identidade    | Não há sugestão de melhoria.                                              | Raissa                   |
+| Registro de Ocorrência              | Melhorar detalhando mais a finalização do registro de ocorrência       | Rayene                   |
+| Retrato Falado Online               | Não há sugestão de melhoria.                                              | Renata                   |
 
 ## Perguntas a serem respondidas com a avaliação.
 
@@ -301,6 +322,3 @@ Não há sugestão de melhoria.
 | 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
 | 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 01/06 | 
 | 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221)  | 06/06 | 
-
-
-
