@@ -3,7 +3,7 @@ Este é o documento de verificação do artefato Aspectos Éticos da etapa 2 ela
 
 
 ## Metodologia
-Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da estapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 monstra as perguntas ultilizadas para fazer essa verificação.
+Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da etapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 monstra as perguntas ultilizadas para fazer essa verificação.
 
 ## Objetivo
 Este documento tem como objetivo o relato da verificação dos Aspectos Éticos da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
@@ -29,8 +29,6 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 
 <center>Tabela 2: Tabela do Checklist Específico. </center> 
 
-**Tabela 4: Checklist dos Aspectos Éticos**
-
 | ID  | Descrição                                                                                     | Avaliação | Observações |
 | --- | --------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 8  | Possui conclusão? |      Sim     |             |
@@ -53,11 +51,12 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 ## Video da Verificação
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UBg8zq5wVdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/" target="blank">Vídeo da Verificação dos Aspetos Éticos </a>
+    <a href="https://www.youtube.com/embed/UBg8zq5wVdQ" target="_blank">Vídeo da Verificação dos Aspetos Éticos</a>
 </p>
+
 
 
 ## Conclusão
