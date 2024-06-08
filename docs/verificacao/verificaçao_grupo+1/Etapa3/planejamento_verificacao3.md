@@ -441,4 +441,4 @@ A tabela 7 descreve o checklist das Características da plataforma
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação |  [Lara Giuliana](https://github.com/gravelylara) e [Giovana Barbosa](https://github.com/gio221) | 06/06 | [Renata Quadros](https://github.com/Renatinha28)  | 08/06 |
+| 1.0 | Planejamento da verificação |  [Lara Giuliana](https://github.com/gravelylara) e [Giovana Barbosa](https://github.com/gio221) | 06/06 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 08/06 |
