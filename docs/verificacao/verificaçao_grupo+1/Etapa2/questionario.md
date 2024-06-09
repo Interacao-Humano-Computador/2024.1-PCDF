@@ -70,7 +70,7 @@ Este documento tem como objetivo o relato da verificação do Questionário da e
 
 
 ## Conclusão
-A Figura 1 monstra como ficou as respostas obtidas 
+A Figura 1 mostra como ficou as respostas obtidas 
 <center>
 ![Questionário](../../../assets/verificacao/etapa2/questionario.png)
 <div align="center">

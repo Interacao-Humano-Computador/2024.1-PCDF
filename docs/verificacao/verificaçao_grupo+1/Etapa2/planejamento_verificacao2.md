@@ -140,31 +140,31 @@ Com o objetivo de melhorar a organização da verificação, as listas serão di
             <td></td>
         </tr>
         <tr>
-            <td>2</td>
+            <td>3</td>
             <td>O artefato possui uma bibliografia/referência bibliográfica?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>3</td>
+            <td>4</td>
             <td>As tabelas possuem fontes, títulos e são chamadas no texto?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>4</td>
+            <td>5</td>
             <td>A estrutura do documento possui uma sequência lógica e padronizada?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>5</td>
+            <td>6</td>
             <td>Possui histórico de versões?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>6</td>
+            <td>7</td>
             <td>Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores?</td>
             <td></td>
             <td></td>
@@ -448,7 +448,7 @@ A tabela 9 descreve o checklist das Personas
         </tr>
         <tr>
             <td>11</td>
-            <td>As personas possuem elesmentos caracteristicos, como idade, sexo ?</td>
+            <td>As personas possuem elementos caracteristicos, como por exemplo: idade, sexo ?</td>
             <td></td>
             <td></td>
         </tr>

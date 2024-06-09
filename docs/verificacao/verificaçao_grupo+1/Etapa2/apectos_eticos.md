@@ -8,8 +8,7 @@ Para a verificação do artefato foi repondido o checklist feito no planejamento
 ## Objetivo
 Este documento tem como objetivo o relato da verificação dos Aspectos Éticos da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
 
-## Checklist
-### Geral
+## Checklist Geral
 
 <center>Tabela 1: Tabela do Checklist Geral. </center> 
 
@@ -25,7 +24,7 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
-### Específico
+## Checklist Específico
 
 <center>Tabela 2: Tabela do Checklist Específico. </center> 
 
@@ -56,8 +55,6 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 <p style="text-align: center">
     <a href="https://www.youtube.com/embed/UBg8zq5wVdQ" target="_blank">Vídeo da Verificação dos Aspetos Éticos</a>
 </p>
-
-
 
 ## Conclusão
 A Figura 1 monstra como ficou as respostas obtidas 
