@@ -110,11 +110,11 @@ A tabela 2 descreve o Checklist do Perfil do Usuário.
 
 ## Problemas Encontrados
 
-Nenhum problema foi encontrado.
+Apenas correção do objetivo.
 
 ## Sugestões 
 
-Não se aplica nesse artefato.
+Colocar Objetivo no artefato.
 
 ## Vídeo da Verificação 
 
@@ -127,7 +127,17 @@ Não se aplica nesse artefato.
 
 ## Conclusão 
 
-Parabéns para o grupo 05, nessa análise de artefato todos os requistos solicitados foram cumpridos.
+Parabéns para o grupo 05, nessa análise de artefato quase todos os requistos solicitados foram cumpridos.
+
+
+Gráfico 1 do Perfil do Usuário
+
+![alt text](<../../../assets/verificacao/etapa2/grafico de perfil de usuario.png>)
+
+<img src="../../../assets/verificacao/etapa2/grafico de personas.png" alt="Analise de Tarefas" width="300">
+
+<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+
 
 ## Bibliografia 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

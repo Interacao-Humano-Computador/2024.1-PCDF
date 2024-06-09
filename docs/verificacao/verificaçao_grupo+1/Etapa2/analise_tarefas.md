@@ -154,10 +154,19 @@ Primeiramente, parabéns pelo documento, está bem estruturado, de acordo com um
 </p>
 
 ## Conclusão 
-O artefato está ótimo, falta apenas alguns detalhes que podem ter passado despercebido pelos autores.
+O artefato está ótimo, falta apenas alguns detalhes que podem ter passado despercebido pelos autores. O gráfico 1, evidência o resultado obtido.
+
+Gráfico 1 da Análise de Tarefas
+
+<img src="../../../assets/verificacao/etapa2/grafico de analise de tarefas.png" alt="Analise de Tarefas" width="300">
+
+<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+
+
 ## Bibliografia 
 > 1. BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 > 2. Grupo 5 - Disponível em: https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas/?h=. Acesso no dia 08/06/2024
+
 
 ## Histórico de versão 
 

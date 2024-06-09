@@ -153,6 +153,13 @@ De sugestão seria apenas arrumar a chamada das tabelas no texto e revisar e atu
 O grupo 05 está muito bom, novamente, alguns detalhes estão ausentes mas que podem ser corrigidos facilmente.
 
 
+Gráfico 1 das personas
+
+<img src="../../../assets/verificacao/etapa2/grafico de personas.png" alt="Analise de Tarefas" width="300">
+
+<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+
+
 ## Bibliografia 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 

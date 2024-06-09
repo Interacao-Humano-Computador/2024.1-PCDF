@@ -134,6 +134,13 @@ Sugiro que arrume esses detalhes que foram mencionados acima, ID 3 e ID 7.
 
 O Grupo está de parabéns, o artefato está quase completo, falta apenas alguns detalhes que podem ter passado despercebido.
 
+Gráfico 1 dos Cenários
+
+<img src="../../../assets/verificacao/etapa2/grafico de cenarios.png" alt="Analise de Tarefas" width="300">
+
+<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+
+
 ## Bibliografia 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
