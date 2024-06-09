@@ -58,48 +58,32 @@ A tabela 1 descreve o Checklist Geral.
             <td>Sim</td>
             <td></td>
         </tr>
-    </table>
-<p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
-</center>
-
-## Checklis Específico
-
-A tabela 2 descreve o Checklist do Perfil do Usuário.
-<center>
-    <p><strong>Tabela 2: Checklist do Perfil do Usuário</strong></p>
-    <table>
         <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
-        <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?</td>
             <td>Sim</td>
             <td>Por ambos</td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui uma analise de resultados?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Com o questionário conseguimos obter os dados demográficos como: idade, sexo, status socioeconômico, cargo que ocupa, educação, experiência com um produto específico ou ferramentas semelhantes?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>foi definido perfis com as características priorizadas?</td>
             <td>Sim</td>
             <td></td>
         </tr>
          <tr>
-            <td>10</td>
+            <td>12</td>
             <td>foi usado mais de uma maneira para coletar os dados?</td>
             <td>Sim</td>
             <td></td>
@@ -116,14 +100,11 @@ Apenas correção do objetivo.
 
 Colocar Objetivo no artefato.
 
-## Vídeo da Verificação 
+## Video da Verificação
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=nUIKoxvgL1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=nUIKoxvgL1A" target="blank">Vídeo da Verificação do Questionário </a>
-</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed//nUIKoxvgL1A " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be//nUIKoxvgL1A " target="blanket">Vídeo da Verificação do perfil do usuário</a></p>
+
 
 ## Conclusão 
 
@@ -147,4 +128,4 @@ Gráfico 1 do Perfil do Usuário
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|  | |
+|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|   [Giovana Barbosa](https://github.com/gio221) | 09/06 |

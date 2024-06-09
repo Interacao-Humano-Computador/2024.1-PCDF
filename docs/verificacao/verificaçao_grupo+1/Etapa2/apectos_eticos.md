@@ -8,7 +8,7 @@ Para a verificação do artefato foi repondido o checklist feito no planejamento
 ## Objetivo
 Este documento tem como objetivo o relato da verificação dos Aspectos Éticos da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
 
-## Checklist Geral
+## Checklist 
 
 <center>Tabela 1: Tabela do Checklist Geral. </center> 
 
@@ -21,15 +21,6 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 | 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |       Sim    |             |
 | 6   | Possui histórico de versões?    |     Sim      |             |
 | 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? | Sim |             |
-
-<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
-
-## Checklist Específico
-
-<center>Tabela 2: Tabela do Checklist Específico. </center> 
-
-| ID  | Descrição                                                                                     | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 8  | Possui conclusão? |      Sim     |             |
 | 9   | Possui explicação do termo de consentimento? |     Sim      |             |
 | 10   | Explica como os aspectos éticos serão utilizados no projeto? |      Sim     |             |
@@ -76,4 +67,4 @@ A Figura 1 monstra como ficou as respostas obtidas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|  | |
+|1.0|Verificação dos Aspectos Éticos|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|   [Giovana Barbosa](https://github.com/gio221) | 09/06 |

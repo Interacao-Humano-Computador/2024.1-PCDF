@@ -9,7 +9,7 @@ Para a verificação do artefato foi repondido o checklist feito no planejamento
 Este documento tem como objetivo o relato da verificação do Questionário da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
 
 ## Checklist
-### Geral
+
 
 <center>Tabela 1: Tabela do Checklist Geral. </center> 
 
@@ -22,16 +22,6 @@ Este documento tem como objetivo o relato da verificação do Questionário da e
 | 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |       Sim    |             |
 | 6   | Possui histórico de versões?    |     Sim      |             |
 | 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? | Incompleto |      A versão 1.1 não possui revisores     |
-
-<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
-
-### Específico
-
-<center>Tabela 2: Tabela do Checklist Específico. </center> 
-**Tabela 3: Checklist de Questionários**
-
-| ID  | Descrição                                                                                     | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 8  | Mostra as perguntas dos questionários? |    Sim       |             |
 | 9   | Possui termo de consentimento? |     Não      |             |
 | 10   | Com o questionário conseguimos obter os dados demográficos: idade, sexo, status socioeconômico; cargo que ocupa, educação, experiência com um produto específico ou ferramentas semelhantes? | Sim | |
@@ -89,4 +79,4 @@ A Figura 1 mostra como ficou as respostas obtidas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação do Questionário|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|  | |
+|1.0|Verificação do Questionário|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|   [Giovana Barbosa](https://github.com/gio221) | 09/06 |

@@ -59,49 +59,32 @@ A tabela 1 descreve o Checklist Geral.
             <td>Incompleto</td>
             <td>Falta revisão da última versão, na 2.0</td>
         </tr>
-    </table>
-<p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
-</center>
-
-## Checklist Específico
-
-A tabela 2 descreve o Checklist dos cenários.
-
-<center>
-    <p><strong>Tabela 2: Checklist dos Cenários</strong></p>
-    <table>
         <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
-        <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Possui introdução de como vai ser os modelos de cenários?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui uma tabela descrevendo as funcionalidade que terão um cenário?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>Os cenários respresentam de forma real algo que pode ser vivido pelo usuário?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>Os cenários são descritos de uma forma clara?</td>
             <td>Sim</td>
             <td></td>
@@ -120,14 +103,13 @@ Os problemas encontrados são do Checklist geral, presentes nos IDs 3 e 7.
 
 Sugiro que arrume esses detalhes que foram mencionados acima, ID 3 e ID 7.
 
-
-## Vídeo da Verificação 
+## Video da Verificação
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=OXLHk_iXPeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/OXLHk_iXPeE " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=OXLHk_iXPeE" target="blank">Vídeo da Verificação do Questionário </a>
+    <a href="https://www.youtube.com/embed/OXLHk_iXPeE " target="_blank">Vídeo da Verificação dos Aspetos Éticos</a>
 </p>
 
 ## Conclusão 
@@ -136,9 +118,14 @@ O Grupo está de parabéns, o artefato está quase completo, falta apenas alguns
 
 Gráfico 1 dos Cenários
 
-<img src="../../../assets/verificacao/etapa2/grafico de cenarios.png" alt="Analise de Tarefas" width="300">
 
-<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+<center>
+![Cronograma](../../../assets/verificacao/etapa2/grafico%20de%20cenarios.png)
+<div align="center">
+<p> Grafico 1 </p>
+ <center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p></center>     
+</div></center>
+
 
 
 ## Bibliografia 
@@ -149,4 +136,4 @@ Gráfico 1 dos Cenários
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|  | |
+|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|    [Giovana Barbosa](https://github.com/gio221) | 09/06 |

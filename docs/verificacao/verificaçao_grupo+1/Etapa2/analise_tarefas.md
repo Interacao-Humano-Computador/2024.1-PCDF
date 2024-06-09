@@ -62,65 +62,50 @@ A tabela 1 descreve o Checklist Geral.
             <td>Incompleto</td>
             <td>Falta a revisão da 1.0 e 1.1</td>
         </tr>
-    </table>
-   <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
-</center>
-
-## Checklist Específico
-A tabela 2 descreve o checklist da Análise de Tarefas.
-<center>
-    <p><strong>Tabela 2: Checklist da Análise de Tarefas</strong></p>
-    <table>
         <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
-        <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Foi utilizada ao menos 2 técnicas para especificar as tarefas?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>As tarefas são apresentadas de forma clara?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>O diagrama possui os elementos de um diagrama HTA?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>O diagrama HTA possui legenda?</td>
             <td>Não</td>
             <td>Nenhum diagrama possui legenda</td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>Os objetivos, operadores, métodos e regras de seleção estão claros?</td>
             <td>Sim</td>
             <td></td>
         </tr>
          <tr>
-            <td>12</td>
+            <td>13</td>
             <td>As tarefas foram formuladas de maneira conceitual e orientada ao usuário?</td>
             <td>Sim</td>
             <td></td>
         </tr>
          <tr>
-            <td>13</td>
+            <td>14</td>
             <td>A analise HTA é apresentada em um diagrama em forma de tabela</td>
             <td>Sim</td>
             <td></td>
         </tr>
          <tr>
-            <td>14</td>
+            <td>15</td>
             <td>O usuário consegue entender cada parte dos operadores?</td>
             <td>Sim</td>
             <td></td>
@@ -147,10 +132,10 @@ Primeiramente, parabéns pelo documento, está bem estruturado, de acordo com um
 ## Video da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=ME-pWrgqsp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ME-pWrgqsp8  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=ME-pWrgqsp8" target="blank">Vídeo da Verificação do Questionário </a>
+    <a href="https://www.youtube.com/embed/ME-pWrgqsp8 " target="blank">Vídeo da Verificação do Questionário </a>
 </p>
 
 ## Conclusão 
@@ -158,9 +143,12 @@ O artefato está ótimo, falta apenas alguns detalhes que podem ter passado desp
 
 Gráfico 1 da Análise de Tarefas
 
-<img src="../../../assets/verificacao/etapa2/grafico de analise de tarefas.png" alt="Analise de Tarefas" width="300">
-
-<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+<center>
+![Cronograma](../../../assets/verificacao/etapa2/grafico%20de%20analise%20de%20tarefas.png)
+<div align="center">
+<p> Grafico 1 </p>
+ <center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p></center>     
+</div></center>
 
 
 ## Bibliografia 
@@ -172,4 +160,4 @@ Gráfico 1 da Análise de Tarefas
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação da Análise de Tarefas| Verificação do Questionário|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)  | 08/06 |   |  |
+| 1.0 | Verificação da Análise de Tarefas| Verificação do Questionário|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)  | 08/06 |     [Giovana Barbosa](https://github.com/gio221) | 09/06 |

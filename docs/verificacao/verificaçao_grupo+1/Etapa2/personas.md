@@ -59,67 +59,50 @@ A tabela 1 descreve o Checklist Geral.
             <td>Incompleto</td>
             <td>Falta revisões das versões 1.4, 1.5 e 2.0.</td>
         </tr>
-    </table>
-<p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
-</center>
-
-## Checklist Específico
-
-A tabela 2 descreve o Checklist de personas.
-
-<center>
-    <p><strong>Tabela 2: Checklist das Personas</strong></p>
-    <table>
         <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
-        <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Tem um texto explicando oque são as personas?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>As personas são criadas a partir do perfil do usuário?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Foram criadas de 3 a 12 personas?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>A quantidade e o elenco de personas é justificado?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>As personas possuem elementos caracteristicos, como por exemplo: idade, sexo ?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>13</td>
             <td>Possui uma antipersona definida?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>14</td>
             <td>A persona primária possui elasticidade?</td>
             <td>Sim</td>
             <td></td>
         </tr>
     <tr>
-            <td>14</td>
+            <td>15</td>
             <td>As personas foram apresentadas com todas as cracteristicas?</td>
             <td>Sim</td>
             <td></td>
@@ -142,10 +125,10 @@ De sugestão seria apenas arrumar a chamada das tabelas no texto e revisar e atu
 ## Vídeo da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=k2PvPgstIAo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/k2PvPgstIAo " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=k2PvPgstIAo" target="blank">Vídeo da Verificação do Questionário </a>
+    <a href="https://www.youtube.com/embed/k2PvPgstIAo " target="blank">Vídeo da Verificação do Questionário </a>
 </p>
 
 ## Conclusão 
@@ -155,10 +138,12 @@ O grupo 05 está muito bom, novamente, alguns detalhes estão ausentes mas que p
 
 Gráfico 1 das personas
 
-<img src="../../../assets/verificacao/etapa2/grafico de personas.png" alt="Analise de Tarefas" width="300">
-
-<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
-
+<center>
+![Cronograma](../../../assets/verificacao/etapa2/grafico%20de%20personas.png)
+<div align="center">
+<p> Grafico 1 </p>
+ <center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p></center>     
+</div></center>
 
 ## Bibliografia 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -168,5 +153,5 @@ Gráfico 1 das personas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|  | |
+|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|    [Giovana Barbosa](https://github.com/gio221) | 09/06 |
 
