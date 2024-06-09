@@ -31,8 +31,8 @@ A tabela 1 mostra os integrantes responsáveis pela verificações do artefado "
     <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
 </center>
 
-## Cronograma Execultado
-A tabela 2 mostra o cronograma execultado da verificação da etapa 3.
+## Cronograma Executado
+A tabela 2 mostra o cronograma executado da verificação da etapa 3.
 <center>
     <p>Tabela 2: Participantes e suas responsabilidades</p>
     <table>

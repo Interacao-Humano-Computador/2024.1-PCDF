@@ -28,8 +28,8 @@ A tabela 1 mostra os integrantes responsáveis pela verificações do artefado "
     <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
 </center>
 
-## Cronograma Execultado
-A tabela 2 descreve o cronograma execultado da verificação dos "Princípios Gerais".
+## Cronograma Executado
+A tabela 2 descreve o cronograma executado da verificação dos "Princípios Gerais".
 
 <center>
     <p>Tabela 2: Cronograma Execultado</p>

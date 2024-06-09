@@ -40,12 +40,12 @@ A verificação do cronograma envolve a avaliação de sua completude e clareza.
 
 | Artefato | Versão | Integrante 4+1 | Meu Grupo | Data de Verificação | Resultado |
 |----------|----------|----------|----------|----------|----------|
-| Cronograma Planejado  | 3.0  | Augusto Campos  | Lara  | 08/06  | Resultado  |
-| Cronograma executado  | 5.1  | Augusto Campos  | Lara  | 08/06  | Resultado   |
-| Ferramentas  | 1.2  | Augusto Campos  | Lara  | 08/06  | Resultado   |
-| Processo de Design  | 1.2  | Augusto Campos  | Lara  | 08/06  | Resultado   |
-| Site Avaliado  |  1.1 | Cainã  | Giovana  | 08/06  | Resultado   |
-| Site Escolhido  | 2.0  | Cainã | Giovana  | 08/06  | Resultado  |
+| Cronograma Planejado  | 3.0  | Augusto Campos  | Giovana  | 08/06  | Resultado  |
+| Cronograma executado  | 5.1  | Augusto Campos  | Giovana   | 08/06  | Resultado   |
+| Ferramentas  | 1.2  | Augusto Campos  | Giovana   | 08/06  | Resultado   |
+| Processo de Design  | 1.2  | Augusto Campos  | Giovana   | 08/06  | Resultado   |
+| Site Avaliado  |  1.1 | Cainã  | Lara  | 08/06  | Resultado   |
+| Site Escolhido  | 2.0  | Cainã | Lara  | 08/06  | Resultado  |
 | Metodologia  | 1.3 | Cainã  | Giovana  | 08/06  | Resultado   |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>

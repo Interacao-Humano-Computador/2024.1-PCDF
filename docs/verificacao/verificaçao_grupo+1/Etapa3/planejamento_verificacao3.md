@@ -54,7 +54,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/principios_gerais/">Princípios Gerais do Projeto</td>
         <td>1.1</td>
         <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
-       <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+       <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         <td>07/06</td>
         <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/principiosgerais/">Resultado</a></td>
     </tr>
@@ -62,7 +62,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/metas-usabilidade/">Metas de Usabilidade</td>
         <td>2.0</td>
         <td><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
-        <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
         <td>07/06</td>
         <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/metas_usabilidade/">Resultado</a></td>
     </tr>
@@ -70,7 +70,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/guia-de-estilo/">Guia de Estilo</td>
         <td>1.4</td>
        <td><a href="https://github.com/Katuner">Lucas Heler</a></td>
-        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
         <td>07/06</td>
         <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/guia_estilo/">Resultado</a></td>
     </tr>
@@ -78,7 +78,7 @@ Na Tabela 2, encontramos o cronograma que lista todos os artefatos a serem verif
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/caracteristicas/">Características da plataforma</td>
         <td>2.0</td>
         <td><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
-        <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+        <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
         <td>07/06</td>
         <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/carcteristicas/">Resultado</a></td>
     </tr>
@@ -235,31 +235,31 @@ A tabela 5 descreve o checklist das Metas de Usabilidade
             <th>Observações</th>
         </tr>
         <tr>
-            <td>18</td>
+            <td>8</td>
             <td>Apresenta quais fatores serão ultilizados no projeto?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>9</td>
             <td>As metas foram definidas através do perfil de usuário?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>10</td>
             <td>Foram definidas as usabilidades em 6 metas?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>21</td>
+            <td>11</td>
             <td>é monstrado como as metas se aplicam no sistema?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>22</td>
+            <td>12</td>
             <td>Possui conclusão?</td>
             <td></td>
             <td></td>
@@ -280,92 +280,92 @@ A tabela 6 descreve o checklist da Guia de Estilo
             <th>Observações</th>
         </tr>
         <tr>
-            <td>23</td>
+            <td>8</td>
             <td>Possui uma explicação do público-alvo?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>24</td>
+            <td>9</td>
             <td>Possui uma explicação de como ultilizar o guia?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>25</td>
+            <td>10</td>
             <td>Possui uma explicação de como manter o guia?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>26</td>
+            <td>11</td>
             <td>Possui os resultados ultilizando as 6 metas?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>27</td>
+            <td>12</td>
             <td>Possui uma explicação de descrição do ambiente de trabalho do usuário?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>28</td>
+            <td>13</td>
             <td>Existe um tópico de Elementos de interface?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>29</td>
+            <td>14</td>
             <td>Existe um subtopico de cores e tipografia?</td>
             <td></td>
             <td></td>
         </tr>
           <tr>
-            <td>30</td>
+            <td>15</td>
             <td>Existe um subtopico de formularios, botões,layout e grid?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>31</td>
+            <td>16</td>
             <td>Existe um subtópico de janelas?</td>
             <td></td>
             <td></td>
         </tr>
            <tr>
-            <td>32</td>
+            <td>17</td>
             <td>Existe um subtópico de seleção de um estilo, estilos de interação e  animações?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>33</td>
+            <td>18</td>
             <td>Existe um tópico de Elementos de interação?	</td>
             <td></td>
             <td></td>
         </tr>
           <tr>
-            <td>34</td>
+            <td>19</td>
             <td>Existe um tópico de Elementos de ação?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>35</td>
+            <td>20</td>
             <td>Existe um subtópico de seleção,ativação e preenchimento de campos?</td>
             <td></td>
             <td></td>
         </tr>
          </tr>
            <tr>
-            <td>36</td>
+            <td>21</td>
             <td>Existe um tópico de Vocabulário e padrões?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>37</td>
+            <td>22</td>
             <td>Existe um subtópico de terminologia, de tipos de tela e sequências de diálogos?</td>
             <td></td>
             <td></td>
@@ -386,43 +386,43 @@ A tabela 7 descreve o checklist das Características da plataforma
             <th>Observações</th>
         </tr>
         <tr>
-            <td>38</td>
+            <td>8</td>
             <td>Possui descrição da plataforma?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>39</td>
+            <td>9</td>
             <td>Possui as funcionalidades da plataforma?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>40</td>
+            <td>10</td>
             <td>Monstra se o site possui acessibilidade?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>41</td>
+            <td>11</td>
             <td>Descreve as carcteristicas possitivas e negativas do site?</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>42</td>
+            <td>12</td>
             <td>Decreve as limitações do site?</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>43</td>
+            <td>13</td>
             <td>Descreve as tecnologias ultilizadas?</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>44</td>
+            <td>14</td>
             <td>Verifica se o site oferece suporte mobile?</td>
             <td></td>
             <td></td>

@@ -30,8 +30,8 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 </center>
 
 
-## Cronograma Execultado
-A tabela 2 descreve o cronograma execultado da verificação. 
+## Cronograma Executado
+A tabela 2 descreve o cronograma executado da verificação. 
 <center>
     <p>Tabela 2: Tabela do Cronograma.</p>
     <table>
