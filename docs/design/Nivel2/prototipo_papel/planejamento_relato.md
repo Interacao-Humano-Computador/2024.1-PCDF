@@ -40,6 +40,14 @@ O método de Avaliação a ser ultilizado é a entrevista aos usuários, portant
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
+## Tarefas pospostas
+ Após selecionar os candidatos para fazer parte da entrevista e ler o termo de consentimento, explicar de forma clara como será conduzida a entrevista,  o entrevistador deverá:
+
+1. Mostrar o protótipo de papel.
+2. Responder as perguntas presentes
+3. Durante a entrevista pedir para que ele fale o que estiver pensando.
+
+
 ## Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
