@@ -3,7 +3,7 @@ Este é o documento de verificação do artefato Questionário da etapa 2 elabor
 
 
 ## Metodologia
-Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da etapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 monstra as perguntas ultilizadas para fazer essa verificação.
+Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da etapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 mostra as perguntas ultilizadas para fazer essa verificação.
 
 ## Objetivo
 Este documento tem como objetivo o relato da verificação do Questionário da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.

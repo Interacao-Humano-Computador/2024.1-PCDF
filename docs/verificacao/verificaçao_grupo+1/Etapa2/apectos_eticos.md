@@ -3,7 +3,7 @@ Este é o documento de verificação do artefato Aspectos Éticos da etapa 2 ela
 
 
 ## Metodologia
-Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da etapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 monstra as perguntas ultilizadas para fazer essa verificação.
+Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da etapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 mostra as perguntas ultilizadas para fazer essa verificação.
 
 ## Objetivo
 Este documento tem como objetivo o relato da verificação dos Aspectos Éticos da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
@@ -59,7 +59,7 @@ Este documento tem como objetivo o relato da verificação dos Aspectos Éticos 
 ## Conclusão
 A Figura 1 monstra como ficou as respostas obtidas 
 <center>
-![Guia de Estilo](../../../assets/verificacao/etapa2/aspectoseticos.png)
+![Aspectos Éticos](../../../assets/verificacao/etapa2/aspectoseticos.png)
 <div align="center">
 <p> Figura 1 - Respostas dos Aspectos Éticos </p> 
  <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
