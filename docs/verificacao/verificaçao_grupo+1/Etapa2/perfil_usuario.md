@@ -94,11 +94,11 @@ A tabela 1 descreve o Checklist Geral.
 
 ## Problemas Encontrados
 
-Apenas correção do objetivo.
+Apenas correção do objetivo, no ID 2.
 
 ## Sugestões 
 
-Colocar Objetivo no artefato.
+Colocar Objetivo no artefato, no ID 2.
 
 ## Video da Verificação
 
