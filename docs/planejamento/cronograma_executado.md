@@ -85,6 +85,24 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação                                                | Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              | Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 |Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana,  Lara, Raissa, Rayene e Renata              | 
 
+## Etapa 6.1:  Verificação dos artefatos
+    Esta tabela descreve as atividades planejadas da etapa 6.1
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Planejamento da Avaliação da etapa 1 | Início: 03/06 Fim: 06/06 | Raissa e Rayene     | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|Planejamento da Avaliação da etapa 2 | Início: 03/06 Fim: 06/06 | Giovana e Renata | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 3 | Início: 03/06 Fim: 06/06 | Lara e Giovana    | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 4 | Início: 03/06 Fim: 06/06 | Raissa e Rayene      | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 5 | Início: 03/06 Fim: 06/06 |  Giovana e Renata      | Início: 07/06 Fim: 07/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+| Relato da etapa 1              |Início: 06/06 Fim: 09/06 |    Lara e Giovana         | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 2              | Início: 06/06 Fim: 09/065 |Raissa e Rayene  | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 3              |Início: 06/06 Fim: 09/06 |  Renata e Rayene         | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 4              | Início: 06/06 Fim: 09/06|    Renata e Giovana        | Início: 09/06 Fim: 09/06| Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 5              | Início: 06/06 Fim: 09/06 | Lara e Raissa         | Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
+| Responder Perguntas finais             | Início: 09/06 Fim: 09/06 | Giovana     |Início: 09/06 Fim: 10/06| Giovana, Lara, Raissa, Rayene e Renata          |
+| Gravação da apresentação               | Início: 09/06 Fim: 11/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 11/06 Fim: 11/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega                   | Início: 12/06 Fim: 14/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 14/06 Fim: 14/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 
 ## Bibliografia 
 [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
@@ -99,3 +117,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | 1.2 | tabela da etapa 3 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)   |11/05|
 | 1.3 | tabela da etapa 4 executada  | [Giovana Barbosa ](https://github.com/gio221) | 16/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)   |16/05|
 | 1.4 | tabela da etapa 5 executada  | [Giovana Barbosa ](https://github.com/gio221) | 27/05 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |01/06|
+| 1.5 | tabela da etapa 6.1 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |10/06|
