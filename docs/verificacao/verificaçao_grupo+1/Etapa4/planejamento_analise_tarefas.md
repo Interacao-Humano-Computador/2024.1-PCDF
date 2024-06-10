@@ -70,4 +70,4 @@ A tabela 1 descreve o Checklist avaliação.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação |  [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221) | 09/06 |  |  |
+| 1.0 | Verificação |  [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221) | 09/06 |  [Rayene Almeida ](https://github.com/rayenealmeida)|10/06|

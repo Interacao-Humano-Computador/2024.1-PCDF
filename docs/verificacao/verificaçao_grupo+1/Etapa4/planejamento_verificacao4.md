@@ -49,7 +49,7 @@ A tabela 2 descreve o cronograma planejado da verificação.
 |----------|----------|----------|----------|----------|----------|
 | [Planejamento da Análise de tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas/)  | 1.1  | [Cainã Freitas](https://github.com/freitasc)  | [Renata Quadros](https://github.com/Renatinha28)  | 09/06  | [Resultado]()  |
 | [Planejamento do Relato dos Resultados da analise de tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas/)  | 1.1  | [Cainã Freitas](https://github.com/freitasc)  | [Renata Quadros](https://github.com/Renatinha28)  | 09/06  | [Resultado]()   |
-| ]Termo de Consentimento](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/termo_consentimento/)  | 1.0  | [Cainã Freitas](https://github.com/freitasc)  |  [Giovana Barbosa](https://github.com/gio221) | 09/06  | [Resultado]()   |
+| [Termo de Consentimento](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/termo_consentimento/)  | 1.0  | [Cainã Freitas](https://github.com/freitasc)  |  [Giovana Barbosa](https://github.com/gio221) | 09/06  | [Resultado]()   |
 | [Planejamento da avaliação dos Storyboards](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/storyboard/Pl_storyboard/)  | 1.1  | [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner) |  [Giovana Barbosa](https://github.com/gio221) | 09/06  | [Resultado]()   |
 
 
@@ -166,4 +166,4 @@ A tabela 7 descreve o Checklist do Planejamento dos Storyboards.
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 | [Renata Quadros](https://github.com/Renatinha28) | 08/06 |
+| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 05/06 | [Renata Quadros](https://github.com/Renatinha28),  [Giovana Barbosa](https://github.com/gio221)|10/06|

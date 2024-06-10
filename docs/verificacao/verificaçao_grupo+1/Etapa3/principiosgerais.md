@@ -144,6 +144,16 @@ A tabela 1 apresenta o Checklist Geral junto com o Checklisr Específico da veri
 
 ## Conclusão
 
+
+Gráfico 1 dos principios gerais
+<center>
+![principios gerais](../../../assets/verificacao/etapa3/principios-gerais.png)
+<div align="center">
+<p> Grafico 1 </p>
+ <center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros. 2024</a></p></center>     
+</div></center>
+
+
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
@@ -154,4 +164,4 @@ A tabela 1 apresenta o Checklist Geral junto com o Checklisr Específico da veri
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 09/06 |  |  |
+| 1.0 | Verificação |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 09/06 |  [Giovana Barbosa](https://github.com/gio221)|10/06|

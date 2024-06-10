@@ -547,4 +547,4 @@ A tabela 10 descreve o checklist da Análise de Tarefas
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 06/06 |   |  |
+| 1.0 | Planejamento da verificação | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 06/06 |   [Rayene Almeida](https://github.com/rayenealmeida) | 10/06|

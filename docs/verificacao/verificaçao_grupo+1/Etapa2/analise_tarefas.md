@@ -131,10 +131,10 @@ Primeiramente, parabéns pelo documento, está bem estruturado, de acordo com um
 ## Video da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/ME-pWrgqsp8  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ME-pWrgqsp8"  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/embed/ME-pWrgqsp8 " target="blank">Vídeo da Verificação do Questionário </a>
+    <a href="https://www.youtube.com/embed/ME-pWrgqsp8" target="blank">Vídeo da Verificação do Questionário </a>
 </p>
 
 ## Conclusão 

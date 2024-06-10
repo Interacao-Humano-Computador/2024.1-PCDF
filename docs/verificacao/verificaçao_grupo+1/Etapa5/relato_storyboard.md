@@ -153,8 +153,8 @@ Como sugestão, arrumar os IDs listados acima, ID 2, ID 3, ID 6, ID 7, ID 10, ID
 ## Conclusão 
 
 No gráfico 1, está presente a análise desse artefato.
-
-![alt text](<../../../assets/verificacao/etapa5/relato storyboard.png>)
+<center>
+![alt text](<../../../assets/verificacao/etapa5/relato storyboard.png>)</center>
 <center>
  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
 </center>

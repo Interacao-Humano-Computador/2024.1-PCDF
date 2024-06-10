@@ -86,4 +86,4 @@ A imagem 1 monstra como ficou as respostas obtidas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221) e [Renata Quadros](https://github.com/Renatinha28) | 08/06| |  |
+|1.0|Criação do documento|[Giovana Barbosa](https://github.com/gio221) e [Renata Quadros](https://github.com/Renatinha28) | 08/06| [Rayene Almeida ](https://github.com/rayenealmeida)|10/06|

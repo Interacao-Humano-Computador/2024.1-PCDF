@@ -146,8 +146,8 @@ Como sugestão de melhoria, revisar e adicionar no histórico de revisão, no ID
 O trabalho está muito bom, de acordo com a nossa pesquisa, esse é o gráfico gerado conforme a avaliação.
 
 Gráfico 1
-
-![alt text](<../../../assets/verificacao/etapa5/plan, relato prototipo.png>)
+<center>
+![alt text](<../../../assets/verificacao/etapa5/plan, relato prototipo.png>)</center>
 
 <center><p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
 </center>

@@ -132,8 +132,8 @@ As sugestões de melhorias para o artefato:
 Parabéns ao Grupo 05 pelo trabalho, falta alguns detalhes que foram citados acima e de acordo com a avaliação, esse é o resultado.
 
 Gráfico 1 do termo de consentimento
-
-![Termo](<../../../assets/verificacao/etapa5/termo de consentimento.png>)
+<center>
+![Termo](<../../../assets/verificacao/etapa5/termo de consentimento.png>)</center>
 
 <center><p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
 </center>
