@@ -115,12 +115,17 @@ Parabéns para o grupo 05, nessa análise de artefato quase todos os requistos s
 
 
 Gráfico 1 do Perfil do Usuário
+<center>
+    <p><strong>Imagens de Verificação</strong></p>
+    <p>
+        <img src="../../../assets/verificacao/etapa2/grafico%20de%20perfil%20de%20usuario.png" alt="Gráfico de Perfil de Usuário" width="600">
+    </p>
+    <p>
+        <img src="../../../assets/verificacao/etapa2/grafico%20de%20personas.png" alt="Gráfico de Personas" width="300">
+    </p>
+    <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
+</center>
 
-![alt text](<../../../assets/verificacao/etapa2/grafico de perfil de usuario.png>)
-
-<img src="../../../assets/verificacao/etapa2/grafico de personas.png" alt="Analise de Tarefas" width="300">
-
-<p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p>
 
 
 ## Bibliografia 

@@ -46,7 +46,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 1.
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
 ### Cronograma
-A verificação do cronograma envolve a avaliação de sua completude e clareza. Os itens a serem verificados incluem:
+A verificação do cronograma envolve a avaliação de sua completude e clareza. Os itens a serem verificados estão descritos na tabela 2:
 
 <center>Tabela 2: Tabela do Cronograma. </center> 
 

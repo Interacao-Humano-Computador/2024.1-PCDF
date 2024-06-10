@@ -423,17 +423,61 @@ A tabela 6 descvreve o checklist do Planejamento da Avaliação do Protótipo de
 ## Planejamento do relato dos resultados da avaliação do Protótipo de Papel
 A tabela 7 descvreve o checklist do Planejamento do relato dos resultados da avaliação do Protótipo de Papel.
 
-    Tabela 7: Checklist Planejamento do relato dos resultados da avaliação do Protótipo de Papel
-| ID | Descrição | Avaliação | Observações |
-| : ------- : | ---------- | ------------- | ------------ |
-| 42 | Apresenta os objetivos do relato? | | |
-| 43 | Apresenta um cronograma padronizado com o planejamento da avalização? | | |
-| 44 | Apresenta o roteiro das perguntas padronizado com o planejamento da avalização? | | |
-| 45 | Apresenta o método que será utilizado? | | |
-| 46 | Apresenta os como será avaliado os problemas encontrados? | | |
-| 47 | Apresenta devidamente os entrivistados? | | | 
-| 48 | Apresenta local e data das avaliações? | | |  
-    Fonte: [Renata Quadros](https://github.com/Renatinha28)
+<center>
+    <p><strong>Tabela 7: Checklist Planejamento do relato dos resultados da avaliação do Protótipo de Papel</strong></p>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Descrição</th>
+            <th>Avaliação</th>
+            <th>Observações</th>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>Apresenta os objetivos do relato?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Apresenta um cronograma padronizado com o planejamento da avaliação?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Apresenta o roteiro das perguntas padronizado com o planejamento da avaliação?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>Apresenta o método que será utilizado?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>Apresenta como serão avaliados os problemas encontrados?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>Apresenta devidamente os entrevistados?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>Apresenta local e data das avaliações?</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+</center>
+
 
 
 ## Termo de consentimento para Prototipação de Papel
