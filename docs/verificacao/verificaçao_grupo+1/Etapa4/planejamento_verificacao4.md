@@ -19,32 +19,45 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 ## Participantes
 A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
-<center>Tabela 1: Tabela dos participantes e suas funções. </center> 
+<center>Tabela 1: Tabela dos participantes e suas funções.</center>
 
-| Integrante Responsável | Função                   |
-|-------------------------|--------------------------|
-| [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)                 | Planejamento da verificação da etapa 04    |
-|  [Giovana Barbosa](https://github.com/gio221) e [Renata Quadros](https://github.com/Renatinha28)            | Relato dos resultados da verificação da etapa 04|
+<div style="display: flex; justify-content: center;">
+  <table>
+    <tr>
+      <th>Integrante Responsável</th>
+      <th>Função</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a> e <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
+      <td>Planejamento da verificação da etapa 04</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gio221">Giovana Barbosa</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+      <td>Relato dos resultados da verificação da etapa 04</td>
+    </tr>
+  </table>
+</div>
 
-<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
-
+<center>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>, 2024.</center>
 
 ## Cronograma 
+A tabela 2 descreve o cronograma planejado da verificação.
 
 <center>Tabela 2: Tabela do Cronograma. </center> 
 
 | Artefato | Versão | Integrante 4+1 | Meu Grupo | Data de Verificação | Resultado |
 |----------|----------|----------|----------|----------|----------|
-| Planejamento da Análise de tarefas  | 1.1  | Joyce  | Renata  | 09/06  | Resultado  |
-| Planejamento do Relato dos Resultados da analise de tarefas  | 1.0  | Joyce | Renata   | 09/06  | Resultado   |
-| Termo de Consentimento  | 1.0  | Lucas Heler | Giovana  | 09/06  | Resultado   |
-| Planejamento para Storyboards  | 1.1  | Lucas Heler  | Giovana  | 09/06  | Resultado   |
+| [Planejamento da Análise de tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/Pl_avaliacao_tarefas/)  | 1.1  | [Cainã Freitas](https://github.com/freitasc)  | [Renata Quadros](https://github.com/Renatinha28)  | 09/06  | [Resultado]()  |
+| [Planejamento do Relato dos Resultados da analise de tarefas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/Pl_relatoresultado_tarefas/)  | 1.1  | [Cainã Freitas](https://github.com/freitasc)  | [Renata Quadros](https://github.com/Renatinha28)  | 09/06  | [Resultado]()   |
+| ]Termo de Consentimento](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/termo_consentimento/)  | 1.0  | [Cainã Freitas](https://github.com/freitasc)  |  [Giovana Barbosa](https://github.com/gio221) | 09/06  | [Resultado]()   |
+| [Planejamento da avaliação dos Storyboards](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/storyboard/Pl_storyboard/)  | 1.1  | [Cainã Freitas](https://github.com/freitasc), [Lucas Meireles](https://github.com/Katuner) |  [Giovana Barbosa](https://github.com/gio221) | 09/06  | [Resultado]()   |
 
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 
 ## Checklist Geral
+A tabela 3 descreve o Checklist Geral da avaliação.
 
 <center>Tabela 3: Tabela do Checklist Geral. </center> 
 
@@ -61,6 +74,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
 
 ### Planejamento da Avaliação da Análise de Tarefas
+A tabela 4 descreve o Checklist do Planejamento da Avaliação da Análise de Tarefas.
 
 <center>Tabela 4: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
 
@@ -85,6 +99,7 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
 ### Planejamento do Relato dos Resultados da Análise de Tarefas
+A tabela 5 descreve o Checklist do Planejamento do Relato dos Resultados da Análise de Tarefas.
 
 <center>Tabela 5: Tabela do Planejamento do Relato dos Resultados da Análise de Tarefas. </center> 
 
@@ -103,8 +118,9 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
 
 ### Termos de Consentimento
+A tabela 6 descreve o Checklist do Planejamento do Relato dos Resultados dos Storyboards.
 
-<center>Tabela 7: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
+<center>Tabela 6: Tabela do Planejamento do Relato dos Resultados dos Storyboards. </center> 
 
 | _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
 |:----------|:----------|:----------:| --------------------|
@@ -119,8 +135,9 @@ A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 ### Planejamento para Storyboards
+A tabela 7 descreve o Checklist do Planejamento dos Storyboards.
 
-<center>Tabela 6: Tabela do Planejamento dos Storyboards. </center> 
+<center>Tabela 7: Tabela do Planejamento dos Storyboards. </center> 
 
 | _ID_ | _Descrição_ | _Avaliação_ | _Observações_ |
 |:----------|:----------|:----------:| --------------------|

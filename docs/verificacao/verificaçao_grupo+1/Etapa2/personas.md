@@ -109,7 +109,7 @@ A tabela 1 descreve o Checklist.
             <td></td>
         </tr>
     </table>
-<p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
+<p>Fonte:  <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
 </center>
 
 

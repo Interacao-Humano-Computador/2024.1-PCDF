@@ -17,7 +17,7 @@ A tabela 1 descreve o Checklist.
 
 <center>
     <p><strong>Tabela 3: Checklist </strong></p>
-    <table
+    <table>
         <tr>
             <th>ID</th>
             <th>Descrição</th>
@@ -62,7 +62,7 @@ A tabela 1 descreve o Checklist.
         </tr>
         <tr>
             <td>7</td>
-            <td>Possuí referências bibliográficas ou bibliografia?</td>
+            <td>Possui referências bibliográficas ou bibliografia?</td>
             <td>Sim</td>
             <td></td>
         </tr>
@@ -110,9 +110,11 @@ A tabela 1 descreve o Checklist.
         </tr>
     </table>
 </center>
+
 <center>
-<p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
+    <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a>, 2024</p>
 </center>
+
 
 
 
@@ -129,13 +131,15 @@ Como sugestão de melhoria, revisar e adicionar no histórico de revisão, no ID
 ## Vídeo da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=u9QzA6umUTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/u9QzA6umUTI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=u9QzA6umUTI" target="blank">Vídeo da Verificação do Questionário </a>
+    <a href="https://www.youtube.com/watch?v=u9QzA6umUTI" target="_blank">Vídeo da Verificação do Questionário</a>
 </p>
-<center><p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
+<center>
+    <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a>, 2024</p> 
 </center>
+
 
 ## Conclusão 
 

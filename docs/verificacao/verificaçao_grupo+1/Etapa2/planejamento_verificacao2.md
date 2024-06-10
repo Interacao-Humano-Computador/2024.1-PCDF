@@ -185,31 +185,31 @@ A tabela 4 descreve o checklist dos Aspectos Éticos.
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Possui conlusão?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui explicação do termo de consentimento?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Explica como os aspectos éticos vão ser ultilizados no projeto?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>O termo de consentimento solicita permissão para gravar voz e video?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>É seguido os 4 princípios: autonomia, beneficência, maleficência e justiça e equidade?s?</td>
             <td></td>
             <td></td>
@@ -230,31 +230,31 @@ A tabela 5 descreve o checklist do Questionário
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Monstra as perguntas dos questionários?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui termo de consentimento?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Com o questionário conseguimos obter os Dados demográficos: idade, sexo, status socioeconômico;Cargo que ocupa, Educação, Experiência com um produto específico ou ferramentas semelhantes??</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>Foi realizado um teste piloto?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>Com o questionário conseguimos definir o perfil de usuário?</td>
             <td></td>
             <td></td>
@@ -275,43 +275,43 @@ A tabela 6 descreve o checklist da Entrevista
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Possui uma introdução dos participamtes da entrevista?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui termo de consentimento da entrevista?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Com a entrevista conseguimos obter os Dados demográficos: idade, sexo, status socioeconômico;Cargo que ocupa, Educação, Experiência com um produto específico ou ferramentas semelhantes??</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>Foi realizado um teste piloto?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>Com a entrevista conseguimos definir o perfil de usuário?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>13</td>
             <td>Possui o video da entrevista?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>14</td>
             <td>Possui uma conclusão?</td>
             <td></td>
             <td></td>
@@ -332,31 +332,31 @@ A tabela 7 descreve o checklist do Perfil do Usuário
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Os dados para o perfil de usuário foram coletados por meio de algum estudo, como entrevistas ou questionários?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui uma analise de resultados?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Com o questionário conseguimos obter os Dados demográficos: idade, sexo, status socioeconômico;Cargo que ocupa, Educação, Experiência com um produto específico ou ferramentas semelhantes?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>foi definido perfis com as características priorizadas?</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>10</td>
+            <td>12</td>
             <td>foi usado mais de uma maneira para coletar os dados?</td>
             <td></td>
             <td></td>
@@ -378,31 +378,31 @@ A tabela 8 descreve o checklist dos Cenários
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Possui introdução de como vai ser os modelos de cenários?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>Possui uma tabela descrevendo as funcionalidade que terão um cenário?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Os cenários possuem título, objetivo, contexto, atores, recursos, epsódios, retrição e exceção?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>Os cenários respresentam de forma real algo que pode ser vivido pelo usuário?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>Os cenários são descritos de uma forma clara?</td>
             <td></td>
             <td></td>
@@ -423,49 +423,49 @@ A tabela 9 descreve o checklist das Personas
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Tem um texto explicando oque são as personas?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>As personas são criadas a partir do perfil do usuário?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>Foram criadas de 3 a 12 personas?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>A quantidade e o elenco de personas é justificado?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>As personas possuem elementos caracteristicos, como por exemplo: idade, sexo ?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>12</td>
+            <td>13</td>
             <td>Possui uma antipersona definida?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>13</td>
+            <td>14</td>
             <td>A persona primária possui elasticidade?</td>
             <td></td>
             <td></td>
         </tr>
     <tr>
-            <td>14</td>
+            <td>15</td>
             <td>As personas foram apresentadas com todas as cracteristicas?</td>
             <td></td>
             <td></td>
@@ -486,49 +486,49 @@ A tabela 10 descreve o checklist da Análise de Tarefas
             <th>Observações</th>
         </tr>
         <tr>
-            <td>7</td>
+            <td>8</td>
             <td>Foi utilizada ao menos 2 técnicas para especificar as tarefas?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>8</td>
+            <td>9</td>
             <td>As tarefas são apresentadas de forma clara?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>9</td>
+            <td>10</td>
             <td>O diagrama possui os elementos de um diagrama HTA?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>10</td>
+            <td>11</td>
             <td>O diagrama HTA possui legenda?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>11</td>
+            <td>12</td>
             <td>Os objetivos, operadores, métodos e regras de seleção estão claros?</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>12</td>
+            <td>13</td>
             <td>As tarefas foram formuladas de maneira conceitual e orientada ao usuário?</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>13</td>
+            <td>14</td>
             <td>A analise HTA, e apresentada em um diagram em forma de tabela</td>
             <td></td>
             <td></td>
         </tr>
          <tr>
-            <td>14</td>
+            <td>15</td>
             <td>O usuário consegue entender cada parte dos operadores?</td>
             <td></td>
             <td></td>

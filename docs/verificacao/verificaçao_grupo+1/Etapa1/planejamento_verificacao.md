@@ -22,12 +22,24 @@ O presente documento apresenta o planejamento da verificação dos seguintes art
 ## Participantes
 A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 1.
 
-<center>Tabela 1: Tabela dos participantes e suas funções. </center> 
+<center>
+  <h3>Tabela 1: Tabela dos participantes e suas funções.</h3>
+  <table>
+    <tr>
+      <th>Integrante Responsável</th>
+      <th>Função</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a> e <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
+      <td>Planejamento da verificação da etapa 01</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/gravelylara">Lara Giuliana</a> e <a href="https://github.com/gio221">Giovana Barbosa</a></td>
+      <td>Relato dos resultados da verificação da etapa 01</td>
+    </tr>
+  </table>
+</center>
 
-| Integrante Responsável | Função                   |
-|-------------------------|--------------------------|
-| [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)                 | Planejamento da verificação da etapa 01    |
-|  [Lara Giuliana](https://github.com/gravelylara) e [Giovana Barbosa](https://github.com/gio221)                | Relato dos resultados da verificação da etapa 01|
 
 
 
@@ -38,15 +50,15 @@ A verificação do cronograma envolve a avaliação de sua completude e clareza.
 
 <center>Tabela 2: Tabela do Cronograma. </center> 
 
-| Artefato | Versão | Integrante 4+1 | Meu Grupo | Data de Verificação | Resultado |
+| Artefato | Versão | Integrante responsável do grupo 05 | Integrante responsável do meu grupo 04 | Data de Verificação | Resultado |
 |----------|----------|----------|----------|----------|----------|
-| Cronograma Planejado  | 3.0  | Augusto Campos  | Giovana  | 08/06  | Resultado  |
-| Cronograma executado  | 5.1  | Augusto Campos  | Giovana   | 08/06  | Resultado   |
-| Ferramentas  | 1.2  | Augusto Campos  | Giovana   | 08/06  | Resultado   |
-| Processo de Design  | 1.2  | Augusto Campos  | Giovana   | 08/06  | Resultado   |
-| Site Avaliado  |  1.1 | Cainã  | Lara  | 08/06  | Resultado   |
-| Site Escolhido  | 2.0  | Cainã | Lara  | 08/06  | Resultado  |
-| Metodologia  | 1.3 | Cainã  | Giovana  | 08/06  | Resultado   |
+| [Cronograma Planejado](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/planejamento/cronograma_planejado/)  | 3.0  | [Pedro Lucas](https://github.com/lucasdray)  | [Giovana Barbosa](https://github.com/gio221)  | 08/06  | [Resultado]()  |
+| [Cronograma executado]()  | 5.1  | [Pedro Lucas](https://github.com/lucasdray) , [Cainã Valença](https://github.com/freitasc), [Joyce Dionizio](https://github.com/joycejdm), [Lucas Meireles](https://github.com/Katuner)  | [Giovana Barbosa](https://github.com/gio221)  | 08/06  | [Resultado]()    |
+| [Ferramentas](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/planejamento/ferramentas_do_projeto/)  | 1.2  | [Pedro Lucas](https://github.com/lucasdray), [Joyce Dionizio](https://github.com/joycejdm), [Lucas Meireles](https://github.com/Katuner)   | [Giovana Barbosa](https://github.com/gio221)  | 08/06  | [Resultado]()   |
+| [Processo de Design](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/planejamento/processos_de_design/)  | 1.2  | [Pedro Lucas](https://github.com/lucasdray)  | [Giovana Barbosa](https://github.com/gio221)  | 08/06  | [Resultado]()    |
+| [Site Avaliado](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/planejamento/sites_avaliados/)  |  1.1 | [Augusto](https://github.com/Augcamp)  | [Lara Giuliana](https://github.com/gravelylara) | 08/06  | [Resultado]()   |
+| [Site Escolhido](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/planejamento/site_escolhido/)  | 2.0  | [Lucas Heler](https://github.com/Akaeboshi) | [Lara Giuliana](https://github.com/gravelylara) | 08/06  | [Resultado]()  |
+| [Metodologia](https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/planejamento/metodologia/)  | 1.3 | [Joyce Dionizio](https://github.com/joycejdm)  | [Giovana Barbosa](https://github.com/gio221) | 08/06  | [Resultado]()   |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 

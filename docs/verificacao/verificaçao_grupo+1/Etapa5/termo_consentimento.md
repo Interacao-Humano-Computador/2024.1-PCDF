@@ -95,7 +95,7 @@ A tabela 1 descreve o Checklist.
 
 </center>
 <center>
-<p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros, <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
+<p>Fonte:  <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
 </center>
 
 ## Problemas Encontrados
@@ -117,13 +117,15 @@ As sugestões de melhorias para o artefato:
 ## Vídeo da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=bvGqNpTmjaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bvGqNpTmjaE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="hhttps://www.youtube.com/watch?v=bvGqNpTmjaE" target="blank">Vídeo da Verificação do Questionário </a>
+    <a href="https://www.youtube.com/watch?v=bvGqNpTmjaE" target="_blank">Vídeo da Verificação do Questionário</a>
 </p>
-<center><p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade. 2024</a></p> 
+<center>
+    <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a>, 2024</p>
 </center>
+
 
 ## Conclusão 
 
