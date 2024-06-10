@@ -1,17 +1,16 @@
 ## Introdução
 Este é o documento de verificação do artefato Guia de Estilo elaborado pelas integrantes [Rayene Almeida](https://github.com/rayenealmeida) e [Renata Quadros](https://github.com/Renatinha28) do grupo 04 da disciplina de Interação Humano-Computador (IHC). 
 
-
-## Metodologia
-Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da estapa 3, as integrantes Rayene e Renata gravaram um video monstrando a verificação, a tabela 1 e 2 monstra as perguntas ultilizadas para fazer essa verificação.
-
 ## Objetivo
 Este documento tem como objetivo o relato da verificação do Guia de estilo da etapa 3 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
 
-## Checklist
-### Geral
+## Metodologia
+Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da estapa 3, as integrantes Rayene e Renata gravaram um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 
-<center>Tabela 1: Tabela do Checklist Geral. </center> 
+
+## Checklist
+
+<center>Tabela 1: Tabela do Checklist. </center> 
 
 | ID  | Descrição                                                                                  | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
@@ -22,15 +21,6 @@ Este documento tem como objetivo o relato da verificação do Guia de estilo da 
 | 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |       Sim    |             |
 | 6   | Possui histórico de versões?    |       Sim    |             |
 | 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? |Sim |             |
-
-<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
-
-### Específico
-
-<center>Tabela 2: Tabela do Checklist Específico. </center> 
-
-| ID  | Descrição                                                                                  | Avaliação | Observações |
-| --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
 | 8 | Possui uma explicação do público-alvo?  |    Sim   |             |
 | 9  | Possui uma explicação de como utilizar o guia?  | Sim          |             |
 | 10  | Possui uma explicação de como manter o guia? |       Sim    |             |
@@ -48,6 +38,7 @@ Este documento tem como objetivo o relato da verificação do Guia de estilo da 
 | 22  | Existe um subtópico de terminologia, de tipos de tela e sequências de diálogos?            |     Sim      |             |
 
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
 
 ## Problemas Encontrados
 
@@ -73,12 +64,7 @@ Este documento tem como objetivo o relato da verificação do Guia de estilo da 
 
 ## Conclusão
 A Figura 1 monstra como ficou as respostas obtidas 
-<center>
-![Guia de Estilo](../../../assets/verificacao/etapa3/guiadeestilo.png)
-<div align="center">
-<p> Figura 1 - Respostas do Guia de Estilo </p> 
- <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
-</div></center>
+
 
 
 

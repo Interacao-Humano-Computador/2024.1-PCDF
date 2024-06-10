@@ -1,63 +1,16 @@
 ## Introdução
-Este documento detalha a verificação do artefato "Planejamento da Avaliação da Análise de Tarefas" desenvolvido pelo grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi realizada pelo grupo 04 - Polícia Civil do Distrito Federal, com o intuito de garantir que o planejamento esteja alinhado com os objetivos do projeto, além de ser exequível e abrangente.
+Este documento detalha a verificação do artefato "Planejamento da Avaliação da Análise de Tarefas" desenvolvido pelo grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi realizada pelo grupo 04 - Polícia Civil do Distrito Federal, com o intuito de garantir que o planejamento esteja alinhado com os objetivos do projeto, além de ser exequível e abrangente. A verificação foi conduzida pelas interagentes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221).
 
-## Objetivos 
+## Objetivo
 O objetivo deste documento é relatar de forma abrangente a verificação realizada pelo grupo 04 sobre o "Planejamento da Avaliação da Análise de Tarefas" do grupo 05. Esta verificação visa identificar possíveis lacunas, assegurar a aderência às metodologias estabelecidas e garantir que o planejamento esteja bem estruturado para a análise de tarefas, contemplando todos os aspectos necessários para uma avaliação eficaz.
 
 ## Metodologia 
 A verificação foi conduzida utilizando um checklist detalhado, previamente elaborado durante o Planejamento da Verificação da Etapa 4. Este checklist inclui uma série de perguntas e critérios.
 
-## Participantes 
-A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
-<center>
-    <p>Tabela 1: Tabela dos participantes e suas funções.</p>
-    <table>
-        <tr>
-            <th>Integrante Responsável</th>
-            <th>Função</th>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a> e <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
-            <td>Planejamento da verificação da etapa 04</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/gio221">Giovana Barbosa</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td>Relato dos resultados da verificação da etapa 04</td>
-        </tr>
-    </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-
-## Cronograma Executado
-A tabela 2 descreve o cronograma executado da verificação. 
-<center>
-    <p>Tabela 2: Tabela do Cronograma.</p>
-    <table>
-        <tr>
-            <th>Artefato</th>
-            <th>Versão</th>
-            <th>Integrante responsável do grupo 5</th>
-            <th>Integrante responsável do Meu Grupo 04</th>
-            <th>Data de Verificação</th>
-            <th>Resultado</th>
-        </tr>
-        <tr>
-            <td>Planejamento da Análise de tarefas</td>
-            <td>1.1</td>
-            <td>Joyce</td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td>09/06</td>
-            <td>Resultado</td>
-        </tr>
-    </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-## Checklist Geral
-A tabela 3 descreve o Checklist Geral avaliação. 
-<center>Tabela 3: Tabela do Checklist Geral. </center> 
+## Checklist 
+A tabela 1 descreve o Checklist avaliação. 
+<center>Tabela 3: Tabela do Checklist. </center> 
 
 | ID  | Descrição                                                                 | Avaliação | Observações                              |
 |-----|--------------------------------------------------------------------------|-----------|------------------------------------------|
@@ -66,16 +19,6 @@ A tabela 3 descreve o Checklist Geral avaliação.
 | 3   | O documento possui referências bibliográficas/bibliográfia?                  | Sim.          |                                          |
 | 4   | O documento possui uma ordem lógica?                  |      Sim.     |                                          |
 | 5   | O documento possui histórico de versão, com versão, descrição, autores e revisores?                  |     Incompleto.      |                                       Falta a revisão.   |
-
-
-<center>Fonte: [Renata Quadros](https://github.com/Renatinha28)</center>
-
-## Checklist Específico
-A tabela 4 descreve o Checklist Específico da avaliação.
-<center>Tabela 4: Tabela do Planejamento da Avaliação da Análise de Tarefas. </center> 
-
-| ID  | Descrição                                                                 | Avaliação | Observações                              |
-|-----|--------------------------------------------------------------------------|-----------|------------------------------------------|
 | 6   | O planejamento segue o framework DECIDE?                                 |   Sim.        |                                         |
 | 7   | O documento possui quais são os objetivos da avaliação?                  |        Sim.   |                                          |
 | 8   | O documento possui quais são as perguntas a serem respondidas com a avaliação? |    Sim.  |                                          |
@@ -92,7 +35,9 @@ A tabela 4 descreve o Checklist Específico da avaliação.
 | 19  | Possui uma gravação do teste piloto?                                     |          Não. | Não consta.                                         |
 | 20  | O planejamento apresenta como serão documentados e tratados os dados obtidos durante o processo de avaliação? (Grau de confiabilidade das respostas, contexto em que as respostas foram produzidas e se os dados obtidos estão em conformidade com o perfil de usuário traçado.) |    Incompleto.       | Falta algumas informações. |
 
+
 <center>Fonte: [Renata Quadros](https://github.com/Renatinha28)</center>
+
 
 ## Problemas Encontrados
 - ID 5: Não contém a revisão do histórico de versão.

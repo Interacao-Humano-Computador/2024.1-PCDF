@@ -1,64 +1,17 @@
 ## Introdução
-Este documento detalha a verificação do artefato "Princípios Gerais" desenvolvido pelo grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi conduzida pelo grupo 04 - Polícia Civil do Distrito Federal, com o intuito de assegurar a conformidade e a qualidade dos princípios estabelecidos no artefato.
+Este documento detalha a verificação do artefato "Princípios Gerais" desenvolvido pelo grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi conduzida pelo grupo 04 - Polícia Civil do Distrito Federal, pelas integrantes [Renata Quadros]() e [Rayene Almeida](https://github.com/rayenealmeida).
 
-## Objetivos 
+## Objetivo 
 O objetivo deste documento é fornecer um relato abrangente da verificação realizada pelo grupo 04 sobre os "Princípios Gerais" do grupo 05. Esta verificação busca identificar eventuais inconsistências, assegurar a aderência às diretrizes estabelecidas e garantir que o artefato atende aos critérios de qualidade e usabilidade definidos.
 
 ## Metodologia 
-A verificação foi realizada através de um checklist detalhado, previamente elaborado durante o Planejamento da Verificação da Etapa 3. s
+A verificação foi realizada através de um checklist detalhado, previamente elaborado durante o Planejamento da Verificação da Etapa 3. 
 
-## Participantes 
-A tabela 1 mostra os integrantes responsáveis pela verificações do artefado "Princípios Gerais" da etapa 3.
+
+## Checklist 
+A tabela 1 apresenta o Checklist Geral junto com o Checklisr Específico da verificação do artefato "Princípios Gerais" do grupo 05. 
 <center>
-    <p>Tabela 1: Integrantes responsáveis pela verificação do grupo 05</p>
-    <table>
-        <tr>
-            <th>Integrante responsável</th>
-            <th>Função</th>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/gio221">Giovana Barbosa</a> e <a href="https://github.com/gravelylara">Lara Giuliana</a></td>
-            <td>Planejamento da verificação da etapa 05</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> e <a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
-            <td>Relato dos resultados da verificação da etapa 05</td>
-        </tr>
-    </table>
-    <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-## Cronograma Executado
-A tabela 2 descreve o cronograma executado da verificação dos "Princípios Gerais".
-
-<center>
-    <p>Tabela 2: Cronograma Execultado</p>
-    <table border="1" cellpadding="5" cellspacing="0">
-        <tr>
-            <th>Artefato</th>
-            <th>Versão</th>
-            <th>Integrante responsável do grupo 05</th>
-            <th>Integrante responsável do meu grupo 04</th>
-            <th>Data da verificação</th>
-            <th>Resultado</th>
-        </tr>
-        <tr>
-            <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/principios_gerais/">Princípios Gerais do Projeto</a></td>
-            <td>1.1</td>
-            <td><a href="https://github.com/Katuner">Lucas Meireles</a></td>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td>07/06</td>
-            <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/principiosgerais/">Resultado</a></td>
-        </tr>
-    </table>
-    <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-
-## Checklist Geral
-A tabela 3 apresenta o Checklist Geral da verificação do artefato "Princípios Gerais" do grupo 05. 
-<center>
-    <p><strong>Tabela 3: Checklist Geral</strong></p>
+    <p><strong>Tabela 1: Checklist</strong></p>
     <table>
         <tr>
             <th>ID</th>
@@ -107,22 +60,6 @@ A tabela 3 apresenta o Checklist Geral da verificação do artefato "Princípios
             <td>Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores?</td>
             <td>Sim.</td>
             <td></td>
-        </tr>
-    </table>
-   <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-## Checklist Específico
-A tabela 4 descreve o checklist específico do artefato "Princípios Gerais do Projeto" do grupo 05.
-
-<center>
-    <p><strong>Tabela 4: Checklist dos Princípios Gerais do Projeto</strong></p>
-    <table>
-        <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
         </tr>
         <tr>
             <td>8</td>
@@ -185,8 +122,10 @@ A tabela 4 descreve o checklist específico do artefato "Princípios Gerais do P
             <td></td>
         </tr>
     </table>
-       <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
+   <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
 </center>
+
+
 
 ## Problemas Encontrados
 - ID 2: Não contém os objetivos do documento e nem a metodologia utilizada. 

@@ -1,17 +1,16 @@
 ## Introdução
 Este é o documento de verificação do artefato Características da Plataforma para o Projeto realizado pelas integrantes [Rayene Almeida](https://github.com/rayenealmeida) e [Renata Quadros](https://github.com/Renatinha28) do grupo 04 da disciplina de Interação Humano-Computador (IHC). 
 
-
-## Metodologia
-Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da estapa 3, as integrantes Rayene e Renata gravaram um video monstrando a verificação, a tabela 1 e 2 monstra as perguntas ultilizadas para fazer essa verificação.
-
 ## Objetivo
 Este documento tem como objetivo o relato da verificação do artefato Características da Plataforma para o Projeto da etapa 3 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
 
-## Checklist
-### Geral
+## Metodologia
+Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da estapa 3, as integrantes Rayene e Renata gravaram um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 
-<center>Tabela 1: Tabela do Checklist Geral. </center> 
+
+## Checklist
+
+<center>Tabela 1: Tabela do Checklist. </center> 
 
 | ID  | Descrição                                                                                  | Avaliação | Observações |
 | --- | ------------------------------------------------------------------------------------------ | --------- | ----------- |
@@ -22,15 +21,6 @@ Este documento tem como objetivo o relato da verificação do artefato Caracter�
 | 5   | A estrutura do documento possui uma sequência lógica e padronizada?  |       Sim    |             |
 | 6   | Possui histórico de versões?    |       Sim    |             |
 | 7   | Os históricos de versões possuem a versão do documento, descrição, autores, datas e revisores? |Incompleto |     Na versão 2.0 não possui revisores    |
-
-<center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
-
-### Específico
-
-<center>Tabela 2: Tabela do Checklist Específico. </center> 
-
-| ID  | Descrição                                                                                     | Avaliação | Observações |
-| --- | --------------------------------------------------------------------------------------------- | --------- | ----------- |
 | 8  | Possui descrição da plataforma?       |     Não      |             |
 | 9  | Possui as funcionalidades da plataforma?     |      Não     |             |
 | 10  | Mostra se o site possui acessibilidade?                      |     Sim      |             |
@@ -39,8 +29,8 @@ Este documento tem como objetivo o relato da verificação do artefato Caracter�
 | 13  | Descreve as tecnologias utilizadas?                   |      Sim     |             |
 | 14  | Verifica se o site oferece suporte mobile?                    |       Sim    |             |
 
-
 <center>Fonte: [Rayene Almeida](https://github.com/rayenealmeida), 2024.</center>
+
 
 ## Problemas Encontrados
 

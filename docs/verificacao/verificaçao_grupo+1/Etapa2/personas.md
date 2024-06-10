@@ -1,15 +1,16 @@
 ## Introdução 
 Esse documento de verificação do artefato de personas, feito pelo Grupo 5 da disciplina de IHC. O grupo escolheu o site da Prefeitura da Lagoa da Prata. Com base no livro de Barbosa e Silva, será feita a verificação de personas.
-## Metodologia 
-Para fazer a verificação desse artefato, utilizaremos o checklist realizado no Planejamento da verificação, Raissa e Rayene conduzirão a análise feita por um vídeo, na tabela a seguir, apresenta as questões a serem utilizadas para a nossa avaliação.
 ## Objetivo 
 Este documento tem como objetivo o relato da verificação de personas da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
+## Metodologia 
+Para fazer a verificação desse artefato, utilizaremos o checklist realizado no Planejamento da verificação, Raissa e Rayene conduzirão a análise feita por um vídeo, na tabela a seguir, apresenta as questões a serem utilizadas para a nossa avaliação.
 
-## Checklist Geral 
 
-A tabela 1 descreve o Checklist Geral.
+## Checklist 
+
+A tabela 1 descreve o Checklist.
 <center>
-    <p><strong>Tabela 1: Checklist Geral</strong></p>
+    <p><strong>Tabela 1: Checklist</strong></p>
     <table>
         <tr>
             <th>ID</th>
@@ -153,5 +154,5 @@ Gráfico 1 das personas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|    [Giovana Barbosa](https://github.com/gio221) | 09/06 |
+|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|    [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 09/06 |
 

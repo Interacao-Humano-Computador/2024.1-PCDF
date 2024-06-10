@@ -1,47 +1,15 @@
 ## Introdução
-Este documento aborda a verificação do artefato "Planejamento do Relato da Avaliação da Análise de Tarefas" desenvolvido pelo grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi realizada pelo grupo 04 - Polícia Civil do Distrito Federal, com o propósito de garantir que o planejamento do relato esteja alinhado com os objetivos do projeto, seja claro e abrangente.
+Este documento aborda a verificação do artefato "Planejamento do Relato da Avaliação da Análise de Tarefas" desenvolvido pelo grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi realizada pelo grupo 04 - Polícia Civil do Distrito Federal, com o propósito de garantir que o planejamento do relato esteja alinhado com os objetivos do projeto, seja claro e abrangente. A verificação foi conduzida pelas interagentes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221).
 
-## Objetivos 
+## Objetivo
 O objetivo deste documento é fornecer uma visão abrangente da verificação conduzida pelo grupo 04 sobre o "Planejamento do Relato da Avaliação da Análise de Tarefas" do grupo 05. Essa verificação busca identificar possíveis lacunas no planejamento, assegurar a conformidade com as metodologias estabelecidas e garantir que o relato esteja bem estruturado para a análise das tarefas, contemplando todos os aspectos necessários para uma avaliação eficaz.
 
 ## Metodologia 
 A verificação foi realizada utilizando um checklist detalhado, previamente elaborado durante o Planejamento da Verificação da Etapa 3. Esse checklist inclui uma série de perguntas.
 
-## Participantes 
-A tabela 1 monstra os integrantes responsáveis pelas verificações da etapa 4.
 
-<center>
-    <p>Tabela 1: Tabela dos participantes e suas funções.</p>
-    <table>
-        <tr>
-            <th>Integrante Responsável</th>
-            <th>Função</th>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/rayenealmeida">Rayene Almeida</a> e <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
-            <td>Planejamento da verificação da etapa 04</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/gio221">Giovana Barbosa</a> e <a href="https://github.com/Renatinha28">Renata Quadros</a></td>
-            <td>Relato dos resultados da verificação da etapa 04</td>
-        </tr>
-    </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-## Cronograma Executado
-A tabela 2 descreve o cronograma executado da verificação.
-
-<center>Tabela 2: Tabela do Cronograma executado. </center> 
-
-| Artefato | Versão | Integrante 4+1 | Meu Grupo | Data de Verificação | Resultado |
-|----------|----------|----------|----------|----------|----------|
-| Planejamento do Relato dos Resultados da analise de tarefas  | 1.0  | Joyce | [Renata Quadros](https://github.com/Renatinha28)   | 09/06  | Resultado |
-
-<center>Fonte: [Renata Quadros](https://github.com/Renatinha28)</center>
-
-## Checklist Geral
-A tabela 3 descreve o Checklist Geral da verificação.
+## Checklist 
+A tabela 3 descreve o Checklist da verificação.
 
 <center>Tabela 3: Tabela do Checklist Geral. </center> 
 
@@ -52,25 +20,16 @@ A tabela 3 descreve o Checklist Geral da verificação.
 | 3   | O documento possui referências bibliográficas/bibliográfia?                  |   Sim.        |                                          |
 | 4   | O documento possui uma ordem lógica?                  |      Sim.     |                                          |
 | 5   | O documento possui histórico de versão, com versão, descrição, autores e revisores?                  |      Incompleto.     |     Falta os revisores.                                     |
-
-<center>Fonte: [Renata Quadros](https://github.com/Renatinha28)</center>
-
-## Checklist Específico
-A tabela 4 descreve o Checklist Específico da avaliação.
-
-<center>Tabela 4: Tabela do Checklist Planejamento do Relato dos Resultados da Análise de Tarefas. </center> 
-
-| ID  | Descrição                                                                                                 | Avaliação | Observações  |
-|-----|----------------------------------------------------------------------------------------------------------|-----------|--------------|
-| 06   | O relato segue o framework DECIDE?                                                                       |    Não.       |              |
-| 07   | O método de avaliação utilizado está claramente explicado?                                               |      Sim.     |              |
-| 08   | A tabela de cronograma das entrevistas está presente e é clara?                                          |          Não |      Não é clara.        |  
-| 09   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |     Não.      |              |
+| 6   | O relato segue o framework DECIDE?                                                                       |    Não.       |              |
+| 7   | O método de avaliação utilizado está claramente explicado?                                               |      Sim.     |              |
+| 8   | A tabela de cronograma das entrevistas está presente e é clara?                                          |          Não |      Não é clara.        |  
+| 9   | As tarefas executadas pelos participantes estão descritas de forma detalhada?                            |     Não.      |              |
 | 10   | As questões éticas, como o consentimento dos participantes, são mencionadas e tratadas adequadamente?    |       Sim.    |              |
 | 11   | O questionário utilizado nas entrevistas está completo e é relevante para os objetivos da avaliação?    |   Sim.        |              |
 | 12   | As sugestões de melhoria para cada Análise de tarefas estão detalhadas?                                           |        Não.   |    Não apresenta.          |
 
 <center>Fonte: [Renata Quadros](https://github.com/Renatinha28)</center>
+
 
 ## Problemas Encontrados
 - ID 2: Não apresenta os objetivos.

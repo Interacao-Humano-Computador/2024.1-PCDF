@@ -7,7 +7,7 @@ Esse artefato tem como objetivo fazer o relato do cronograma
 ## Metodologia
 Para verificar o artefato, responderemos o checklist feito no planejamento da verificação, a integrante Lara e Giovana vão gravar um video monstrando a verificação, a tabela 1 monstra as perguntas ultilizadas para fazer essa verificação.
 
-## Checklist Geral 
+## Checklist  
 
 <center>Tabela 1: Tabela das perguntas  </center> 
 

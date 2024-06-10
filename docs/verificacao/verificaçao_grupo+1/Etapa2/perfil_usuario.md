@@ -1,10 +1,13 @@
 ## Introdução 
 Esse documento de verificação do artefato do Perfil do Usuário, feito pelo Grupo 5 da disciplina de IHC. O grupo escolheu o site da Prefeitura da Lagoa da Prata. Com base no livro de Barbosa e Silva, será feita a verificação do Perfil do Usuário.
-## Metodologia 
-Para fazer a verificação desse artefato, utilizaremos o checklist realizado no Planejamento da verificação, Raissa e Rayene conduzirão a análise feita por um vídeo, na tabela a seguir, apresenta as questões a serem utilizadas para a nossa avaliação.
+
 ## Objetivo 
 Este documento tem como objetivo o relato da verificação do Perfil do Usuário da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
-## Checklist Geral 
+
+## Metodologia 
+Para fazer a verificação desse artefato, utilizaremos o checklist realizado no Planejamento da verificação, Raissa e Rayene conduzirão a análise feita por um vídeo, na tabela a seguir, apresenta as questões a serem utilizadas para a nossa avaliação.
+
+## Checklist 
 
 A tabela 1 descreve o Checklist Geral.
 <center>
@@ -128,4 +131,4 @@ Gráfico 1 do Perfil do Usuário
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|   [Giovana Barbosa](https://github.com/gio221) | 09/06 |
+|1.0|Verificação dos Aspectos Éticos|[Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)    | 08/06|   [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 09/06 |

@@ -2,11 +2,12 @@
 Este é o documento de verificação do artefato Aspectos Éticos da etapa 2 elaborado pelas integrantes [Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS) do grupo 04 da disciplina de Interação Humano-Computador (IHC). 
 
 
+## Objetivo
+Este documento tem como objetivo o relato da verificação dos Aspectos Éticos da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
+
 ## Metodologia
 Para a verificação do artefato foi repondido o checklist feito no planejamento da verificação da etapa 2, as integrantes Rayene e Raissa gravaram um video monstrando a verificação, a tabela 1 e 2 mostra as perguntas ultilizadas para fazer essa verificação.
 
-## Objetivo
-Este documento tem como objetivo o relato da verificação dos Aspectos Éticos da etapa 2 feita pelo grupo 05 do sistema da Prefeitura Municipal de Lagoa da Prata.
 
 ## Checklist 
 
@@ -67,4 +68,4 @@ A Figura 1 monstra como ficou as respostas obtidas
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Verificação dos Aspectos Éticos|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|   [Giovana Barbosa](https://github.com/gio221) | 09/06 |
+|1.0|Verificação dos Aspectos Éticos|[Rayene Almeida](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)   | 08/06|   [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 09/06 |

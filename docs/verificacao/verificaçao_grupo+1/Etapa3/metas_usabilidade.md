@@ -1,8 +1,8 @@
 ## Introdução
 
-Este documento aborda a verificação do artefato "Metas de Usabilidade" do grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi conduzida pelo grupo 04 - Polícia Civil do Distrito Federal.
+Este documento aborda a verificação do artefato "Metas de Usabilidade" do grupo 05 - Prefeitura Municipal de Lagoa da Prata. A verificação foi conduzida pelo grupo 04 - Polícia Civil do Distrito Federal, pelas integrantes [Renata Quadros]() e [Rayene Almeida](https://github.com/rayenealmeida).
 
-## Objetivos
+## Objetivo
 
 O objetivo deste documento é relatar a verificação realizada pelo grupo 04 no artefato "Metas de Usabilidade" do grupo 05.
 
@@ -10,56 +10,11 @@ O objetivo deste documento é relatar a verificação realizada pelo grupo 04 no
 
 A verificação foi realizada através de checklists previamente elaborados no Planejamento da Verificação da Etapa 3.
 
-## Participantes 
-A tabela 1 mostra os integrantes responsáveis pela verificações do artefado "Metas de Usabilidade" da etapa 3
-<center>
-    <p>Tabela 1: Integrantes responsáveis pela verificação do grupo 05</p>
-    <table>
-        <tr>
-            <th>Integrante responsável</th>
-            <th>Função</th>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/gio221">Giovana Barbosa</a> e <a href="https://github.com/gravelylara">Lara Giuliana</a></td>
-            <td>Planejamento da verificação da etapa 05</td>
-        </tr>
-        <tr>
-            <td><a href="https://github.com/Renatinha28">Renata Quadros</a> e <a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
-            <td>Relato dos resultados da verificação da etapa 05</td>
-        </tr>
-    </table>
-    <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
 
-## Cronograma Executado
-A tabela 2 mostra o cronograma executado da verificação da etapa 3.
+## Checklist 
+A tabela 1 apresenta o Checklist Geral junto com o Checklist Específico da verificação do artefato "Metas de Usabilidade" do grupo 05. 
 <center>
-    <p>Tabela 2: Participantes e suas responsabilidades</p>
-    <table>
-        <tr>
-        <th>Artefato</th>
-        <th>Versão</th>
-        <th>Integrante responsável do grupo 05</th>
-        <th>Integrante responsável do meu grupo 04</th>
-        <th>Data da verificação</th>
-        <th>Resultado</th>
-    </tr>
-            <tr>
-        <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/requisitos2/metas-usabilidade/">Metas de Usabilidade</td>
-        <td>2.0</td>
-        <td><a href="https://github.com/lucasdray">Pedro Lucas</a></td>
-        <td><a "https://github.com/Renatinha28">Renata Quadros</a></td>
-        <td>07/06</td>
-        <td><a href="http://127.0.0.1:8080/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa3/metas_usabilidade/">Resultado</a></td>
-    </tr>
-    </table>
-    <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-## Checklist Geral
-A tabela 3 apresenta o Checklist Geral da verificação do artefato "Metas de Usabilidade" do grupo 05. 
-<center>
-    <p><strong>Tabela 3: Checklist Geral</strong></p>
+    <p><strong>Tabela 1: Checklist</strong></p>
     <table>
         <tr>
             <th>ID</th>
@@ -109,21 +64,6 @@ A tabela 3 apresenta o Checklist Geral da verificação do artefato "Metas de Us
             <td>Sim.</td>
             <td></td>
         </tr>
-    </table>
-   <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-## Checklist Específico
-A tabela 4 descreve o Checklist específico das "Metas de Usabilidade" do grupo 05.
-<center>
-    <p><strong>Tabela 4: Checklist das Metas de Usabilidade</strong></p>
-    <table>
-        <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
         <tr>
             <td>8</td>
             <td>Apresenta quais fatores serão ultilizados no projeto?</td>
@@ -157,6 +97,7 @@ A tabela 4 descreve o Checklist específico das "Metas de Usabilidade" do grupo 
     </table>
    <p>Fonte: <a "https://github.com/Renatinha28">Renata Quadros</a></p>
 </center>
+
 
 ## Problemas Encontrados
 
