@@ -6,16 +6,6 @@ Ultilizamos o método de entrevista , em que apresentamos a analise de tarefas G
 
 É sempre importante resaltar que a metodologia deve se adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. Neste projeto ultilizamos o framework DECIDE
 
-    Tabela 1: descreve framework DECIDE
-
-| Letra    | Significado |
-| :--------: | :----: | 
-D|Determinar os objetivos gerais da avaliação|
-E|Explorar perguntas a serem feitas na avaliação|
-C|(Choose) Escolher os métodos de avaliação|
-I|Identificar e administrar as questões práticas da avaliação|
-D|Decidir como lidar com as questões éticas|
-E|(Evaluate) Avaliar, interpretar e apresentar os dados|
 
 # Tópicos 
 A documentação do relato deve conter as seguintes informações:
@@ -32,19 +22,20 @@ Cronograma de planejamento das entrevistas em Planejamento da Avaliação do Sto
 
 | Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
 |:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
-| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   |Nicolas | Lara | 29/05/2024      |
-| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistadora| 12:00-12:10    | Luísa Ataídes | Giovana | 29/05/2024      |
-| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Giovana | 29/05/2024      |
-| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | 29/05/2024      |
+| Pesquisar Procurados             | Lara                   | 28/05/2024         | Presencial| 16:00-16:10   | Clarismenia | Lara | 31/05/2024      |
+| Solicitar Antecedentes Criminais | Renata                 | 27/05/2024         | Casa da Entrevistada| 12:00-12:10    | Luísa Ataídes | Rayene | 02/06/2024      |
+| 197- Denúncia Online             | Giovana                | 27/05/2024         | Casa da Entrevistadora| 16:00-16:10   | Débora | Rayene | 02/06/2024      |
+| Solicitar Carteira de Identidade | Raissa                 | 28/05/2024         | Ministério| 13:20-13:30   | Júlio | Rayene  | 31/05/2024      |
 | Registrar Ocorrência             | Rayene                 | 28/05/2024          | FGA | 10:07-10:17   | Victor Moreira | Rayene  | 29/05/2024      |
-| Retrato Falado Online            | Renata                 | 29/05/2024        | Casa da Entrevistadora | 14:10 a 14:20  | Heder Cardoso | Giovana  | 29/05/2024      |
+| Retrato Falado Online            | Renata                 | 29/05/2024         | Presencial | 14:10-14:20  | Heder Cardoso | Rayene  | 02/06/2024      |
 
 Fonte: [Giovana Barbosa](https://github.com/gio221)
 
 ## Tarefas Executadas pelos participantes
 1. Navegar pelo storyboard, passando por todas as cenas e transições, para entender o fluxo geral da proposta com objetivo de avaliar a clareza das transições e a coerência do fluxo de navegação.
-2. Observar a GOMS, e ver os passos para executar a funcionalidade
-3. Responder ao questionário de forma clara e sincera.
+2. Responder ao questionário de forma clara e sincera.
+3. Observar a GOMS, e ver os passos para executar a funcionalidade
+4. Responder ao questionário de forma clara e sincera.
 
 
 
@@ -52,19 +43,25 @@ Fonte: [Giovana Barbosa](https://github.com/gio221)
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
 ## Questionário
-- 1-Qual é seu nome? |Questão aberta |
-- 2-Qual seu grau de experiência com tecnologias? | 
-- 3-Você já utilizou o site da PCDF?  | 
-- 4-Você acha essa funcionalidade importante? | 
-- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| 
-- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  
-- 7-Tem alguma parte que ficou confusa? | 
-- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| 
-- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|
-- 10-Sugestões de melhorias?|
+- 1-Qual é seu nome?
+- 2-Qual seu grau de experiência com tecnologias? 
+- 3-Você já utilizou o site da PCDF?  
+- 4-Você acha essa funcionalidade importante? 
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  
+- 7-Tem alguma parte que ficou confusa? 
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?
+- 10-Sugestões de melhorias?
 
 
 # Sugestões de melhoria
+#### Storyboard Pesquisar Procurados
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+
 #### Storyboard Solicitar Antecedentes Criminais
 
 1. [Sugestão de Melhoria 1]
@@ -78,6 +75,20 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
+
+#### Storyboard Solicitar Carteira de Identidade
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+#### Storyboard Registrar Ocorrência
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+
 
 #### Storyboard Retrato Falado Online
 

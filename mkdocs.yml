@@ -11,6 +11,7 @@ nav:
     - Apresentação 3: apresentacao/apresentacao03.md
     - Apresentação 4: apresentacao/apresentacao04.md
     - Apresentação 5: apresentacao/apresentacao05.md
+    - Apresentação 6: apresentacao/apresentacao06.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
@@ -19,6 +20,8 @@ nav:
       - Reunião 5: reunioes/reuniao05.md
       - Reunião 6: reunioes/reuniao06.md
       - Reunião 7: reunioes/reuniao07.md
+      - Reunião 8: reunioes/reuniao08.md
+      - Reunião 9: reunioes/reuniao09.md
   - Planejamento:
     - Metodologia: planejamento/metodologia.md
     - Cronograma: planejamento/cronograma.md
@@ -71,7 +74,6 @@ nav:
         - Site Avaliado: verificacao/verificaçao_grupo+1/Etapa1/site_avaliado.md
         - Site Escolhido: verificacao/verificaçao_grupo+1/Etapa1/site_escolhido.md
         - Metodologia: verificacao/verificaçao_grupo+1/Etapa1/metodologia.md
-        - Heatmap: verificacao/verificaçao_grupo+1/Etapa1/heatmap.md
       - Etapa 2:
         - Planejamento da Verificação da  etapa 2: verificacao/verificaçao_grupo+1/Etapa2/planejamento_verificacao2.md
         - Aspectos Éticos: verificacao/verificaçao_grupo+1/Etapa2/apectos_eticos.md

@@ -57,7 +57,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/relato_storyboard.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/relato_storyboard/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_1/analise_tarefas/relatoresultado_tarefas/">Relato dos resultados da Análise de Tarefas</td>
@@ -65,7 +65,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
         <td><a href="https://github.com/gravelylara">Lara</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/relato_analisetarefas.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/relato_analisetarefas/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_avaliacao/">Planejamento da Avaliação do Protótipo de Papel</td>
@@ -73,7 +73,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a>, <a href="https://github.com/Katuner">Lucas Heler</a></td>
         <td><a href="https://github.com/Renatinha28">Lara</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/planejamento_prototipo.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/planejamento_prototipo/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/Pl_relato_resultados/">Planejamento do relato dos resultados da avaliação do Protótipo de Papel</td>
@@ -81,7 +81,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
         <td><a href="https://github.com/gravelylara">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/planejamento_relatoprototipo.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/planejamento_relatoprototipo/">Resultado</a></td>
     </tr>
     <tr>
         <td><a href="https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/design/Nivel_2/prototipo_papel/termo_consentimento/">Termo de consentimento para Prototipação de Papel</td>
@@ -89,7 +89,7 @@ A tabela 2 descreve o cronograma com todos os artefatos que serão verificados, 
         <td><a href="https://github.com/freitasc">Cainã Valença</a></td>
         <td><a href="https://github.com/Renatinha28">Raissa</a></td>
         <td>07/06</td>
-        <td><a href="docs/verificacao/verificaçao_grupo+1/Etapa5/termo_consentimento.md">Resultado</a></td>
+        <td><a href="https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verifica%C3%A7ao_grupo%2B1/Etapa5/termo_consentimento/">Resultado</a></td>
     </tr>
 </table>
 <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
@@ -423,19 +423,61 @@ A tabela 6 descvreve o checklist do Planejamento da Avaliação do Protótipo de
 ## Planejamento do relato dos resultados da avaliação do Protótipo de Papel
 A tabela 7 descvreve o checklist do Planejamento do relato dos resultados da avaliação do Protótipo de Papel.
 
-    Tabela 7: Checklist Planejamento do relato dos resultados da avaliação do Protótipo de Papel
-| ID | Descrição | Avaliação | Observações |
-| : ------- : | ---------- | ------------- | ------------ |
-| 42 | Apresenta os objetivos do relato? | | |
-| 43 | Apresenta um cronograma padronizado com o planejamento da avalização? | | |
-| 44 | Apresenta o roteiro das perguntas padronizado com o planejamento da avalização? | | |
-| 45 | 
-| 46 |
-| 47 |
-| 48 |
-| 49 |
-| 50 |
-    Fonte: [Renata Quadros](https://github.com/Renatinha28)
+<center>
+    <p><strong>Tabela 7: Checklist Planejamento do relato dos resultados da avaliação do Protótipo de Papel</strong></p>
+    <table>
+        <tr>
+            <th>ID</th>
+            <th>Descrição</th>
+            <th>Avaliação</th>
+            <th>Observações</th>
+        </tr>
+        <tr>
+            <td>42</td>
+            <td>Apresenta os objetivos do relato?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>43</td>
+            <td>Apresenta um cronograma padronizado com o planejamento da avaliação?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>44</td>
+            <td>Apresenta o roteiro das perguntas padronizado com o planejamento da avaliação?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>45</td>
+            <td>Apresenta o método que será utilizado?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>46</td>
+            <td>Apresenta como serão avaliados os problemas encontrados?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>47</td>
+            <td>Apresenta devidamente os entrevistados?</td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>48</td>
+            <td>Apresenta local e data das avaliações?</td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+</center>
+
 
 
 ## Termo de consentimento para Prototipação de Papel
@@ -450,25 +492,25 @@ A tabela 8 descreve o checklist do Termo de consentimento para Prototipação de
             <th>Observações</th>
         </tr>
         <tr>
-            <td>51</td>
+            <td>49</td>
             <td>Apresenta um termo de consentimento para o Protótipo de Papel?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>52</td>
+            <td>50</td>
             <td>O termo de consentimento apresenta as diretrizes éticas necessárias?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>53</td>
+            <td>51</td>
             <td>O termo de consentimento faz sentido?</td>
             <td></td>
             <td></td>
         </tr>
         <tr>
-            <td>54</td>
+            <td>52</td>
             <td>O termo de consentimento é simples e de fácil entendimento?</td>
             <td></td>
             <td></td>
@@ -477,11 +519,14 @@ A tabela 8 descreve o checklist do Termo de consentimento para Prototipação de
     <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
 </center>
 
+## Bibliografia
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
+> https://interacao-humano-computador.github.io/2024.1-Prefeitura-Lagoa-da-Prata/
 
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 06/06 |   |  |
+| 1.0 | Planejamento da verificação | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 06/06 |  [Rayene Almeida ](https://github.com/rayenealmeida)|10/06|

@@ -15,7 +15,7 @@ Tabela 1: Informações sobre a reunião
 ## Link da gravação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/PqNxb31MQCc " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/PqNxb31MQCc " target="blanket">Vídeo da Reunião 6</a></p>
+<p style="text-align: center"><a href="https://youtu.be/PqNxb31MQCc " target="blanket">Vídeo da Reunião 7</a></p>
 
 ## Objetivos da Reunião
 
