@@ -67,19 +67,6 @@ A Tabela 1 descreve o Checklist Geral, enquanto a Tabela 2 se refere às pergunt
             <td>Sim</td>
             <td>Título deve ser alterado para Bibliografia e/ou Referências Bibliográficas</td>
         </tr>
-    </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-<center>
-    <p><strong>Tabela 2: Planejamento da Avaliação do Protótipo de Papel</strong></p>
-    <table>
-        <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
         <tr>
             <td>8</td>
             <td>Apresenta o objetivo do planejamento?</td>
@@ -207,21 +194,47 @@ A Tabela 1 descreve o Checklist Geral, enquanto a Tabela 2 se refere às pergunt
             <td></td>
         </tr>
     </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+    <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p>
 </center>
 
 ## Problemas Encontrados
 Nesse artefato contém algum problemas, sendo eles:
-- ID 1...
 
+- ID 1: Não tem especificação em um tópico
+- ID 2: Não possui video
+- ID 6 : Falta revisores
+- ID 7: Titulo errado
+- ID 8 : Não possui objetivo
+- ID 10 : Não tem objetivo claro
+- ID 12: Não tem todas as perguntas
+- ID 14: Não tem métodos escolhidos
+- ID 16: Não descreve o recrutamento
+- ID 17 :A preparação não ficou tão clara no texto
+- ID 19: Não tem ferramentas
+- ID 20: Não tem teste piloto
+- ID 23: Não tem cronograma 
+- ID 26: Não tem perguntas 
 
 ## Sugestões 
 
+- ID 1: Colocar especificação em um tópico
+- ID 2: Colocar  video
+- ID 6 : Colocar  revisores
+- ID 7: Colocar Titulo 
+- ID 8 : Colocar objetivo
+- ID 12: Colocar  todas as perguntas
+- ID 14: Colocar  métodos escolhidos
+- ID 16: Colocar  o recrutamento
+- ID 17 : Colocar a preparação 
+- ID 19: Colocar  ferramentas
+- ID 20: Colocar  teste piloto
+- ID 23: Colocar  cronograma 
+- ID 26: Colocar  perguntas 
 
 ## Vídeo da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=fmrOJ8AZdC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/fmrOJ8AZdC4 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=fmrOJ8AZdC4" target="blank">Vídeo da verificação do artefato </a>
@@ -230,6 +243,15 @@ Nesse artefato contém algum problemas, sendo eles:
 </center>
 
 ## Conclusão
+
+Gráfico 1
+<center>
+![alt text](../../../assets/verificacao/etapa5/planejamento_avaliação.png)</center>
+
+<center><p>Fonte:  <a href="https://github.com/gravelylara">Lara Giuliana. 2024</a></p> 
+</center>
+
+
 
 ## Bibliografia 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -240,4 +262,4 @@ Nesse artefato contém algum problemas, sendo eles:
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Lara Giuliana](https://github.com/gravelylara)     | 10/06|    |  |
+|1.0|Criação do documento|[Lara Giuliana](https://github.com/gravelylara)     | 10/06|    [Giovana Barbosa](https://github.com/gio221)|11/06|

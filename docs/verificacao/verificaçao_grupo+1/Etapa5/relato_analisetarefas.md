@@ -10,14 +10,12 @@ Para fazer a verificação desse artefato, utilizaremos o checklist realizado no
 Este documento tem como objetivo relatar a verificação do artefato Planejamento da Avaliação do Protótipo de Papel da etapa 5 feita pelo grupo 05, cujo sistema é o da Prefeitura Municipal de Lagoa da Prata.
 
 
-## Checklist Geral 
+## Checklist 
 
-A Tabela 1 descreve o Checklist Geral, enquanto a Tabela 2 se refere às perguntas específicas para a verificação desse artefato.
-
-## Geral 
+A Tabela 1 descreve o Checklist, para a verificação desse artefato.
 
 <center>
-    <p><strong>Tabela 1: Checklist Geral</strong></p>
+    <p><strong>Tabela 1: Checklist</strong></p>
     <table>
         <tr>
             <th>ID</th>
@@ -67,86 +65,85 @@ A Tabela 1 descreve o Checklist Geral, enquanto a Tabela 2 se refere às pergunt
             <td>Não</td>
             <td></td>
         </tr>
-    </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
-</center>
-
-<center>
-    <p><strong>Tabela 2: Checklist Relato dos resultados da Análise de Tarefas</strong></p>
-    <table>
         <tr>
-            <th>ID</th>
-            <th>Descrição</th>
-            <th>Avaliação</th>
-            <th>Observações</th>
-        </tr>
-        <tr>
-            <td>15</td>
+            <td>6</td>
             <td>O relato é padronizado com o planejamento?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>16</td>
+            <td>7</td>
             <td>Apresenta os objetivos do relato?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>17</td>
+            <td>8</td>
             <td>Os participantes são documentados?</td>
             <td>Sim</td>
             <td></td>
         </tr>
         <tr>
-            <td>18</td>
+            <td>9</td>
             <td>Apresenta as análises de tarefas utilizadas?</td>
             <td>Não</td>
             <td></td>
         </tr>
         <tr>
-            <td>19</td>
+            <td>10</td>
             <td>Apresenta os vídeos de cada entrevista ou da metodologia utilizada?</td>
             <td>Incompleto</td>
             <td>Tem apenas um vídeo</td>
         </tr>
         <tr>
-            <td>20</td>
+            <td>11</td>
             <td>Apresenta uma interpretação e análise dos dados obtidos?</td>
             <td>Não</td>
             <td></td>
         </tr>
         <tr>
-            <td>21</td>
+            <td>12</td>
             <td>Apresenta uma lista com os problemas encontrados?</td>
             <td>Não</td>
             <td></td>
         </tr>
     </table>
-    <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p>
+    <p>Fonte:  <a href="https://github.com/gravelylara">Lara Giuliana</a></p>
 </center>
 
 
 ## Problemas Encontrados
 Nesse artefato contém algum problemas, sendo eles:
-- ID 1...
-
+- ID 2: Não tem fonte nem titulo
+- ID 6: Está faltando alguns revisores
+- ID 10: Tem apenas um video
 
 ## Sugestões 
-
+- ID 2: Colocar fonte e titulo
+- ID 6: Completar os  revisores
+- ID 10: Colocar os outros vídeos
 
 ## Vídeo da Verificação 
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=DKZfcgy1TU4&t=117s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/DKZfcgy1TU4 " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=DKZfcgy1TU4&t=117s" target="blank">Vídeo da verificação do artefato </a>
+    <a href="https://www.youtube.com/watch?v=DKZfcgy1TU4" target="blank">Vídeo da verificação do artefato </a>
 </p>
 <center><p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana. 2024</a></p> 
 </center>
 
 ## Conclusão
+
+Gráfico 1
+<center>
+![alt text](<../../../assets/verificacao/etapa5/relato-analise-tarefas.png>)</center>
+
+<center><p>Fonte:  <a href="https://github.com/gravelylara">Lara Giuliana. 2024</a></p> 
+</center>
+
+
 
 ## Bibliografia 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -157,4 +154,4 @@ Nesse artefato contém algum problemas, sendo eles:
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-|1.0|Criação do documento|[Lara Giuliana](https://github.com/gravelylara)     | 10/06|    |  |
+|1.0|Criação do documento|[Lara Giuliana](https://github.com/gravelylara)     | 10/06|    [Giovana Barbosa](https://github.com/gio221)|11/06|
