@@ -66,6 +66,12 @@ Para a verificação do artefato foi repondido o checklist feito no planejamento
 A Figura 1 monstra como ficou as respostas obtidas 
 
 
+<center>
+![principios gerais](../../../assets/verificacao/etapa3/guiadeestilo.png)
+<div align="center">
+<p> Grafico 1 </p>
+ <center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros. 2024</a></p></center>     
+</div></center>
 
 
 ## Bibliografia
