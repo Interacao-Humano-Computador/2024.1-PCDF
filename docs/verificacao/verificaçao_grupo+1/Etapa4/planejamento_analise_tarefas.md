@@ -60,6 +60,14 @@ A tabela 1 descreve o Checklist avaliação.
 
 ## Conclusão
 
+
+<center>
+![principios gerais](../../../assets/verificacao/etapa4/planejamento-relato.png)
+<div align="center">
+<p> Grafico 1 </p>
+ <center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros. 2024</a></p></center>     
+</div></center>
+
 ## Bibliografia
 > BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. Rio de Janeiro: Elsevier, 2011.
 
