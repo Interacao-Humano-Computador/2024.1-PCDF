@@ -6,6 +6,8 @@ Este documento tem objetivo de armanezar conteúdos da apresentação seis ponto
 
 # Vídeo de apresentação 
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ZzvC6JSP2OM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/ZzvC6JSP2OM" target="blanket">Vídeo da Apresentação 6.1</a></p>
 
 
 
