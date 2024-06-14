@@ -1,10 +1,12 @@
 ## Introdução
+Para garantir que os artefatos elaborados estejam de acordo com os critérios que se esperam, a verificação de artefatos é essencial, assegurando que as interfaces e interações previstas atendem às necessidades dos usuários e seguem os princípios de usabilidade, acessibilidade e design centrado no usuário.
+Assim, esse documento visa planejar a avaliação dos protótipos de alta fidelidade produzidos pelo presente grupo.
 
 ## Objetivo
-O objetivo deste documento é documentar o planejamento da avaliação do protótipo de alta fidelidade.
+O objetivo deste documento é documentar o planejamento da avaliação do protótipo de alta fidelidade, para inspeção por parte dos avaliadores dos protótipos produzidos. E assim, verificar se estão em conformidade com os requisitos especificados e atendem aos critérios de qualidade estabelecidos para o projeto. 
 
 ## Metodologia
-A metodologia utilizada é o framework DECIDE, onde cada letra se refere a uma atividade. A tabela 1 descreve essa metodologia.
+A metodologia utilizada é o framework DECIDE, onde cada letra se refere a uma atividade. A tabela 1 descreve essa metodologia. Mais especificamente a letra *E* traça uma lista de perguntas que será utilizada como apoio à verificação dos protótipos.
 
     Tabela 1: framework DECIDE
 | Letra | Descrição |
