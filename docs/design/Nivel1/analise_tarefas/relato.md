@@ -5,7 +5,7 @@ Esse artefato tem como objetivo documentar os resultados que o grupo 4 de intera
 A avaliação do projeto foi conduzida através de entrevistas, storyboards e análise GOMS, permitindo uma compreensão das necessidades dos usuários. Utilizou-se acompanhamento presencial, observação direta, gravação das interações, questionários e análise de feedback para obter uma visão completa dos resultados.
 
 # Participantes
-Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. Neste Documento abordaremos as funcionalidades: Solicitar Antecedentes Criminais, 197-Denúncia Online, Retrato Falado
+Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. 
 
 # Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
@@ -15,7 +15,6 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 |:------:|:-------------------------------:|
 |Pesquisar Procurados |  Lara         | 
 | Solicitar Antecedentes|  Renata         |   
-| Validar certidão de antecentes |  João         | 
 | 197- Denúncia Online |  Giovana         | 
 | Solicitar carteira de identidade |  Raissa         | 
 | Registra Ocorrência|  Rayene         |

@@ -101,7 +101,7 @@ A seguir, na tabela 5, o cronograma de como será documentado.
     Tabela 2: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online |Kaio|                 
+| [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online |Adriana|                 
 | [Lara Giuliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Marcos |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade |Luis|
 | [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência |Heber|

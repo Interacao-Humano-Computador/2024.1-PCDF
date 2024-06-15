@@ -83,6 +83,10 @@ As tarefas são definidas conforme a tabela 5:
 
 1 - Denúncia On-line
 
+Nesta tarefa o participante tem o objetivo fazer uma denuncia online
+
+Para fazer essa tarefas, o usuário deve ir sem serviços na página inicial do site da Polícia Civíl do Distrito Federal, e selecionar a opção de "Denúncia Online- 197" , assim irá ser levado para página em que deve escolher o tipo de denúncia, após a aescolha, o usuário deve responder um formulário da sua localização e descrever a denúncia
+
 2 - Pesquisar Procurados
 
 3 -Carteira de identidade
