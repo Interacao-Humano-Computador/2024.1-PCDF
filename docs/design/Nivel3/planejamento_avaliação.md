@@ -111,7 +111,7 @@ O perfil dos participantes escolhidos foram baseados no artefato Perfil de Usuá
     Tabela 6: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) | |                 
+| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |João |                 
 | [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | |
@@ -198,4 +198,4 @@ Após essa análise, os dados serão compartilhados com a equipe. A apresentaç�
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) e [Lara Giuliana](https://github.com/gravelylara) | 13/06 |   |  |
+| 1.0 | Planejamento da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) e [Lara Giuliana](https://github.com/gravelylara) | 13/06 |  [Giovana Barbosa ](https://github.com/gio221)| 15/06|

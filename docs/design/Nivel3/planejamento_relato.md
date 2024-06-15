@@ -24,12 +24,12 @@ A metodologia Definida pelo Planejamento da Avaliação do Protótipo de Alta Fi
 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | DD/MM/2024 | Presencial | HH:MM | Denuncia Online |Kaio|                 
-| [Lara Giuliana](https://github.com/gravelylara) | DD/MM/2024 | Presencial | HH:MM | Pesquisar Procurados | Nome do Entrevistado |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | DD/MM/2024 | Presencial | HH:MM | Carteira de identidade | Nome do Entrevistado |
-| [Rayene Almeida](https://github.com/rayenealmeida) | DD/MM/2024 | Presencial | HH:MM | Registra Ocorrência | Nome do Entrevistado |
-| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial | HH:MM | Solicitar Antecedentes |   Nome do Entrevistado |
-| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial | HH:MM |  Retrato Falado | Nome do Entrevistado |
+| [Giovana Silva](https://github.com/gio221) | DD/MM/2024 | Presencial | 19:00 | Denuncia Online |João                 
+| [Lara Giuliana](https://github.com/gravelylara) | DD/MM/2024 | Presencial | 19:00  | Pesquisar Procurados | Nome do Entrevistado |              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | DD/MM/2024 | Presencial |19:00  | Carteira de identidade | Nome do Entrevistado |
+| [Rayene Almeida](https://github.com/rayenealmeida) | DD/MM/2024 | Presencial | 19:00  | Registra Ocorrência | Nome do Entrevistado |
+| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial | 19:00  | Solicitar Antecedentes |   Nome do Entrevistado |
+| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial |19:00  |  Retrato Falado | Nome do Entrevistado |
 
 <center> Fonte - [Rayene Almeida](https://github.com/rayenealmeida) (2024).</center> <br>
 
@@ -73,4 +73,4 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 15/06 |   |  |
+| 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 15/06 |     [Giovana Barbosa ](https://github.com/gio221)| 15/06|
