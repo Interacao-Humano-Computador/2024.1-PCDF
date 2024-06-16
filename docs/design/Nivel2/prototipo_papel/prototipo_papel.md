@@ -145,6 +145,17 @@ Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços cl
 
 ## Tarefa 5: Registrar Ocorrência 
 
+Neste protótipo de registro de ocorrência online, onde o site é acessado pelo celular,  o usuário começa na tela inicial e encontra o serviço, após isso é redirtecionado para diferentes telas de termo de consentimento, natureza dos crimes e uma para cada formulario de dados tanto de envolvidos como de acontecimento até a fase final em que recebe um comprovante do registro realizado que possui um código e um QRcode.
+
+![Registrar Ocorrência](../../../assets/design/Nivel2/registrarocorrencia.jpeg)
+<div align="center">
+    <p> Figura 8: Telas Registro de Ocorrência.Fonte:
+        <a href="https://github.com/rayenealmeida">Rayene Almeida</a>
+    </p> 
+</div>
+
+
+
 ## Tarefa 6: Fazer um retrato falado de forma online
 Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviços” e selecionar a opção de “Retrato falado on-line”. Feito isto, irá aparecer uma mensagem explicando o porquê são pedidas algumas informações pessoas e o entrevistado deve inserir seus dados pessoais como nome, cpf e e-mail, além das informações da denúncia e descrição do suspeito. Com isso, o usuário deve escolher um avatar, ajusta-lo como necessário e salvar as alterações. Logo, deve abrir uma página com o avatar selecionado com um texto para o usuário descrevê-lo de acordo com sua lembrança. Após o envio, uma mensagem de confirmação com as informações necessárias aparecerá.
 

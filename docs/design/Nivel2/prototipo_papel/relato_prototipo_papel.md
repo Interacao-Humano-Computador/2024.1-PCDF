@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 Esse artefato tem como objetivo documentar os resultados que o grupo 4 de interação humano computador, obteve durante a avaliação do prototipo de papel, nesse artefato vai ser abordado todos os resultados obtidos nessa avaliação
 
 # Metodologia
