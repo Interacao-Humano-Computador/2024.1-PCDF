@@ -24,12 +24,12 @@ A metodologia Definida pelo Planejamento da Avaliação do Protótipo de Alta Fi
 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | DD/MM/2024 | Presencial | 19:00 | Denuncia Online |João                 
-| [Lara Giuliana](https://github.com/gravelylara) | DD/MM/2024 | Presencial | 19:00  | Pesquisar Procurados | Nome do Entrevistado |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | DD/MM/2024 | Presencial |19:00  | Carteira de identidade | Nome do Entrevistado |
-| [Rayene Almeida](https://github.com/rayenealmeida) | DD/MM/2024 | Presencial | 19:00  | Registra Ocorrência | Nome do Entrevistado |
-| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial | 19:00  | Solicitar Antecedentes |   Nome do Entrevistado |
-| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial |19:00  |  Retrato Falado | Nome do Entrevistado |
+| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |João |                 
+| [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | Maria Eduarda|              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | Raphael |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | Lara|
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Samara |
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado |Angela |
 
 <center> Fonte - [Rayene Almeida](https://github.com/rayenealmeida) (2024).</center> <br>
 
@@ -38,14 +38,14 @@ A seguir na Tabela 2 está o template para o cronograma executado que será apre
 
 <center>Tabela 2: Tabela do Cronograma Executado das entrevistas. </center> 
 
-| Integrante responsável | Data da entrevista     | Local da entrevista | Horário Início/Fim | Artefato | Entrevistado |
+| Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | DD/MM/2024 | Presencial | HH:MM/HH:MM | Denuncia Online |Nome do Entrevistado|                 
-| [Lara Giuliana](https://github.com/gravelylara) | DD/MM/2024 | Presencial | HH:MM/HH:MM | Pesquisar Procurados | Nome do Entrevistado |              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | DD/MM/2024 | Presencial | HH:MM/HH:MM | Carteira de identidade | Nome do Entrevistado |
-| [Rayene Almeida](https://github.com/rayenealmeida) | DD/MM/2024 | Presencial | HH:MM/HH:MM | Registra Ocorrência | Nome do Entrevistado |
-| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial | HH:MM/HH:MM | Solicitar Antecedentes |   Nome do Entrevistado |
-| [Renata Quadros](https://github.com/Renatinha28) | DD/MM/2024 | Presencial | HH:MM/HH:MM |  Retrato Falado | Nome do Entrevistado |
+| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |João |                 
+| [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | Maria Eduarda|              
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | Raphael |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | Lara|
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Samara |
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado |Angela |
 
 <center> Fonte - [Rayene Almeida](https://github.com/rayenealmeida) (2024).</center> <br>
 
