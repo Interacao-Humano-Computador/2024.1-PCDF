@@ -11,6 +11,7 @@ Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrev
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
 # Funcionalidades a serem tratadas
+      Tabela descrevendo quais funcionalidade temos
 | Funcionalidade|      Responsáveis      |   
 |:------:|:-------------------------------:|
 |Pesquisar Procurados |  Lara         | 
@@ -27,6 +28,7 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 
 ### Questionário
+      Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Aberta |
@@ -49,6 +51,8 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 | 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
+
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Sugestão de Melhoria
 
@@ -62,79 +66,56 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11
 
-[Prototipo de pape](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/) 
+[Prototipo de papel de  Solicitar Antecedentes Criminais  ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-2-solicitar-antecedentes-criminais) 
 
 
 ### Questionário
+      Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Aberta |
-| 2 | Qual sua idade? | Aberta |
-| 3 | Qual a sua ocupação? | Aberta |
-| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> []Alto |
-| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
-| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Aberta |
-| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Aberta | 
-| 8 |Qual elemento da interface causou maior dificuldade na interação? | Aberta |
-| 9 | A navegação pelo sistema foi intuitiva? | [] Sim <br> [] Não <br> [] Não sei responder |
-| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Aberta |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Aberta |
-| 12 | O que você mais gostou na interface? | Aberta |
-| 13 | O que você menos gostou ou achou mais difícil na interface? | Aberta |
-| 14 | Que sugestões você tem para melhorar a interface? | Aberta |
-| 15 | Quanto tempo você levou para completar cada tarefa? | Aberta |
-| 16 | Quais tarefas você encontrou mais difíceis de completar? | Aberta |
-| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Aberta |
-| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
-| 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
-| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
+| 1 | Qual seu nome completo? | Raissa|
+| 2 | Qual sua idade? | 25 |
+| 3 | Qual a sua ocupação? | estudante|
+| 4 | Qual seu grau de experiência com tecnologias? | Baixo  |
+| 5 | Você já utilizou o site da PCDF? | Não |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | nenhum |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | nenhum  |
+| 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 2 minutos |
+| 12 | O que você mais gostou na interface? | praticidade|
+| 13 | O que você menos gostou ou achou mais difícil na interface |pediu muitas informações |
+| 14 | Que sugestões você tem para melhorar a interface? | pedir menos informações |
+| 15 | Quanto tempo você levou para completar cada tarefa? | minutos |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhum  |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? |pedir menos informações|
+
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Sugestão de Melhoria
-
+A sugestão do usuário é pedir menos informações
 
 ### Gravação
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/0XqfzSFWmKI " frameborder="0" allowfullscreen></iframe>
+   <p>Video da Entrevista</p>
+</div>
+
 ### Interpretação de Dados
+De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
 
 ## 197- Denúncia Online
 Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços clicar em "197-Denúncia Online", que vai ser levado para uma nova aba onde deve escolher o tipo de denúncia, depois você deve preencher o formulário como explicado nas imagens 3 a 7.
 
-![197](../../../assets/design/Nivel2/denuncia1.jpg)
-<div align="center">
-    <p> Figura 3: Inicio do site da PCDF.
-        <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
-    </p> 
-</div>
-
-![197](../../../assets/design/Nivel2/denuncia2.jpg)
-<div align="center">
-    <p> Figura 4: Aba de serviços. 
-         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
-    </p> 
-</div>
-
-![197](../../../assets/design/Nivel2/denuncia3.jpg)
-<div align="center">
-    <p> Figura 5: Aba de denuncia online. 
-         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
-    </p> 
-</div>
-
-![197](../../../assets/design/Nivel2/denuncia4.jpg)
-<div align="center">
-    <p> Figura 6: Aba de formularios. 
-         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
-    </p> 
-</div>
-
-![197](../../../assets/design/Nivel2/denuncia5.jpg)
-<div align="center">
-    <p> Figura 7: Aba de formularios. 
-         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
-    </p> 
-</div>
+[Prototipo de papel de Denúncia Online ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-3-denuncia-online) 
 
 ### Questionário
+     Tabela descrevendo as eprguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Adriana |
@@ -157,6 +138,8 @@ Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços cl
 | 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
+
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Sugestão de Melhoria
 A entrevista acredita que o prototipo não precisa de melhorias
@@ -173,66 +156,69 @@ Com base na entrevista da entrevistada, o prototipo ficou em intuiitivo e com ba
 
 ## Solicitar carteira de identidade
  
- ![alt text](../../../assets/Nivel2/prototipo/prototipo1-raissa.jpg) 
-![alt text](../../../assets/Nivel2/prototipo/prototipo2-raissa.jpg) 
-![alt text](../../../assets/Nivel2/prototipo/prototipo3-raissa.jpg) 
-![alt text](../../../assets/Nivel2/prototipo/prototipo4-raissa.jpg) 
-![alt text](../../../assets/Nivel2/prototipo/prototipo5-raissa.jpg) 
-![alt text](../../../assets/Nivel2/prototipo/prototipo6-raissa.jpg) 
-![alt text](../../../assets/Nivel2/prototipo/prototipo7-raissa.jpg)
+
+[Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-4-solicitar-carteira-de-identidade) 
 
 ### Questionário
+      Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Adriana |
-| 2 | Qual sua idade? | 46 |
-| 3 | Qual a sua ocupação? | servidora pública|
-| 4 | Qual seu grau de experiência com tecnologias? | Médio  |
+| 1 | Qual seu nome completo? | Rafael|
+| 2 | Qual sua idade? | 25 |
+| 3 | Qual a sua ocupação? | Assitente social|
+| 4 | Qual seu grau de experiência com tecnologias? | Alta  |
 | 5 | Você já utilizou o site da PCDF? | Sim  |
-| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | no inicio, tem vários serviços |
 | 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
-| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | nas perguntas  |
 | 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
 | 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
-| 12 | O que você mais gostou na interface? | rapidez|
-| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | rápido |
+| 12 | O que você mais gostou na interface? | simplicidade|
+| 13 | O que você menos gostou ou achou mais difícil na interface |ter uma linguagem muito formal |
 | 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
-| 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
-| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
+| 15 | Quanto tempo você levou para completar cada tarefa? | segundos |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | preenchimento dos dados  |
 | 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
 | 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
-### Sugestão de Melhoria
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
+### Sugestão de Melhoria
+A sugestão do usuário é ter menos perguntas, ter uma linguagem mais informal, para que o usuário entende melhor
 
 ### Gravação
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/pmOmGhhbGPk " frameborder="0" allowfullscreen></iframe>
+   <p>Video da Entrevista</p>
+</div>
 
 ### Interpretação de Dados
-
+De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
 
 ### Registro de Ocorrência
-
+[Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-5-registrar-ocorrencia) 
 
 ### Questionário
+      Tabela descrevendoa as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Adriana |
-| 2 | Qual sua idade? | 46 |
-| 3 | Qual a sua ocupação? | servidora pública|
+| 1 | Qual seu nome completo? | Adeilton |
+| 2 | Qual sua idade? | 23 |
+| 3 | Qual a sua ocupação? | CLT|
 | 4 | Qual seu grau de experiência com tecnologias? | Médio  |
-| 5 | Você já utilizou o site da PCDF? | Sim  |
-| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
-| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
-| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 5 | Você já utilizou o site da PCDF? | Não  |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Questionário |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Questionário | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Questionário  |
 | 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
 | 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
-| 12 | O que você mais gostou na interface? | rapidez|
-| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
-| 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | segundos |
+| 12 | O que você mais gostou na interface? | bem intuitiva|
+| 13 | O que você menos gostou ou achou mais difícil na interface |nada |
+| 14 | Que sugestões você tem para melhorar a interface? | ter uma opção anônima |
 | 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
 | 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
 | 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
@@ -240,44 +226,53 @@ Com base na entrevista da entrevistada, o prototipo ficou em intuiitivo e com ba
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+
 ### Sugestão de Melhoria
-
-
+O usuário sugeriu que na parte do questionário fosse mais automático, pois está muito confuso, e ele também sugeriu que tivesse uma opção de ocorrência anônima.
 
 ### Gravação
 
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/wW2HqGS6SzM" frameborder="0" allowfullscreen></iframe>
+   <p>Video da Entrevista</p>
+</div>
+
 ### Interpretação de Dados
+De acorod com a entrevista e os dados coletados, essa funcionalidade é bem intutiva e fácil de usar, mais precisa de algumas mudanças para dar mais confiança ao usuário, como a denúnica anônima
 
 ## Retrato Falado Online: Descreva e Identifique
-
-
+[Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-6-fazer-um-retrato-falado-de-forma-online) 
 
 ### Questionário
+       Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Adriana |
-| 2 | Qual sua idade? | 46 |
-| 3 | Qual a sua ocupação? | servidora pública|
-| 4 | Qual seu grau de experiência com tecnologias? | Médio  |
-| 5 | Você já utilizou o site da PCDF? | Sim  |
+| 1 | Qual seu nome completo? | Maria Eduarda |
+| 2 | Qual sua idade? | 24 |
+| 3 | Qual a sua ocupação? | farmacêuitca|
+| 4 | Qual seu grau de experiência com tecnologias? | Alta |
+| 5 | Você já utilizou o site da PCDF? | Não  |
 | 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
 | 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
-| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Nenhum|
 | 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
 | 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
-| 12 | O que você mais gostou na interface? | rapidez|
-| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
-| 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | rápidos |
+| 12 | O que você mais gostou na interface? | fácil de usar|
+| 13 | O que você menos gostou ou achou mais difícil na interface |nada |
+| 14 | Que sugestões você tem para melhorar a interface? | não |
 | 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
-| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | achar o avatar certo |
 | 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
 | 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
-### Sugestão de Melhoria
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
+### Sugestão de Melhoria
+A usuária não teve sugestão de melhoria
 
 ### Gravação
 <div align="center">
@@ -286,15 +281,19 @@ Com base na entrevista da entrevistada, o prototipo ficou em intuiitivo e com ba
 </div>
 
 ### Interpretação de Dados
+Com base na entrevista essa fucnionalide sugerida, é muito importante e bem auto explicativa para o usuário
 
 ## Perguntas Finais
+       Tabela descrevendo perguntas finais
 |Perguntas|Respostas|
 |---------|---------|
-| 1  De que maneira os usuários utilizam o sistema? Em que difere do planejado? <br> Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? <br> Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? <br> Quais problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |
-| 2  Qual das alternativas é a mais eficiente? Mais fácil de aprender? <br> Qual delas os usuários preferem? Por quê? <br> Qual delas torna mais evidente os diferenciais da solução projetada? |
-| 3  O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? <br> O quanto eles são motivados a explorar novas funcionalidades? <br> Quais necessidades e desejos foram ou não atendidos? |
-| 4  Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Quais barreiras o usuário encontra para atingir seus objetivos? |
-| 5  Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
+| 1  De que maneira os usuários utilizam o sistema? Em que difere do planejado? <br> Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? <br> Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? <br> Quais problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? | Os usuário usam o sistema de maneira intuitiva, o número de erros dos usuários vária de nenhum a pelo menos um erro, os pontos fortes do sistema é que as fucnionalidades são intuitivas e auto explicativas, alguns problemas e a quantidade de informação que o usuário deve repassar para o sistema
+| 2  Qual das alternativas é a mais eficiente? Mais fácil de aprender? <br> Qual delas os usuários preferem? Por quê? <br> Qual delas torna mais evidente os diferenciais da solução projetada? | As alternativas mais fáceis do usuário aprender são aquelas funcionalidades que demandam menos tempo
+| 3  O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? <br> O quanto eles são motivados a explorar novas funcionalidades? <br> Quais necessidades e desejos foram ou não atendidos? | mediano, mas os usuários não são motivados a explorar novas funcionalidades, eles só utlilizam a funcionalidade que vai atender seu problema
+| 4  Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Quais barreiras o usuário encontra para atingir seus objetivos? | Sim, com muita eficiência e em pouco tempo, quase não cometendo erros
+| 5  Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |Os probelmas se manifestam na maioria das vezes na quantidade de informações que o sistema solicita do usuário, tentar diminuir essas informações solicitadas.
+
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 
 ## Bibliografia
