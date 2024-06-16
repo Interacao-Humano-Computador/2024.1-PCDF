@@ -40,18 +40,17 @@ O método de Avaliação a ser ultilizado é a entrevista aos usuários, portant
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
+
+
+## Aspéctos Éticos
+Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
+
 ## Tarefas pospostas
  Após selecionar os candidatos para fazer parte da entrevista e ler o termo de consentimento, explicar de forma clara como será conduzida a entrevista,  o entrevistador deverá:
 
 1. Mostrar o protótipo de papel.
 2. Responder as perguntas presentes
 3. Durante a entrevista pedir para que ele fale o que estiver pensando.
-
-
-## Aspéctos Éticos
-Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
-
-## Questionário
 
 ## Roteiro das perguntas
 A tabela 6 descreve o roteiro das perguntas:
@@ -97,50 +96,50 @@ A tabela 7 descreve o roteiro das perguntas para os integrantes que mostrarão m
 
 Fonte - BARBOSA e SILVA (2010).
 
-### Sugestões de Melhorias
-#### Storyboard Pesquisar Procurados
+## Sugestões de Melhorias
+### Storyboard Pesquisar Procurados
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Solicitar Antecedentes Criminais
+### Storyboard Solicitar Antecedentes Criminais
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Validar Antecedentes Criminais
+### Storyboard Validar Antecedentes Criminais
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard 197- Denúncia Online
+### Storyboard 197- Denúncia Online
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Solicitar Carteira de Identidade
+### Storyboard Solicitar Carteira de Identidade
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Registrar Ocorrência
+### Storyboard Registrar Ocorrência
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
 ...
 
-#### Storyboard Retrato Falado Online
+### Storyboard Retrato Falado Online
 
 1. [Sugestão de Melhoria 1]
 
