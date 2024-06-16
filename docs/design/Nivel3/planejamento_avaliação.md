@@ -91,7 +91,11 @@ Para fazer essa tarefas, o usuário deve ir sem serviços na página inicial do 
 
 3 -Carteira de identidade
 
-4 -Registrar Ocorrência
+4 - Registrar Ocorrência
+
+Nesta Tarefa o usuário tem como objetivo registrar uma ocorrência na delegacia online
+
+Para completar essa tarefa na página inicial o usúario deve encontrar o serviço de registro de ocorrência que acompanha a delegacio eletrônica. Ao selecionar será levado para escolher a natureza do crime, assim é redirecionado para aceitar os termos pra depois selecionar os dados do ocorrido e dos envolvidos até está completo o registro. Dessa forma o usuário receberá um email e um comprovante com código e QRcode da ocorrência realizada.
 
 5 - Solicitar Antecedentes Criminais
 
@@ -111,7 +115,7 @@ O perfil dos participantes escolhidos foram baseados no artefato Perfil de Usuá
     Tabela 6: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |João |                 
+| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) | |                 
 | [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | |
@@ -198,4 +202,4 @@ Após essa análise, os dados serão compartilhados com a equipe. A apresentaç�
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) e [Lara Giuliana](https://github.com/gravelylara) | 13/06 |  [Giovana Barbosa ](https://github.com/gio221)| 15/06|
+| 1.0 | Planejamento da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) e [Lara Giuliana](https://github.com/gravelylara) | 13/06 | [Rayene Almeida ](https://github.com/rayenealmeida)  | 15/06 |
