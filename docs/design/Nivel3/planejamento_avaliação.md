@@ -91,6 +91,9 @@ Para fazer essa tarefas, o usuário deve ir sem serviços na página inicial do 
 
 3 -Carteira de identidade
 
+Nessa tarefa, o usuário tem o propósito de solicitar a carteira de identidade.
+Para realizar essa tarefa, o usuário deve ir a página inicial da PCDF, buscar por "serviços", clicar em solicitar carteira de identidade e na proxima página, deverá solicitar CIN, haverá instruções de como prosseguir. Agora aparecerá serviços e locais de atendimento desejado, depois uma confirmação, e colocar os dados da pessoa que está solicitando o serviço, outra confirmação novamente e por último um código de confirmação que chegará pelo e-mail. 
+
 4 - Registrar Ocorrência
 
 Nesta Tarefa o usuário tem como objetivo registrar uma ocorrência na delegacia online
