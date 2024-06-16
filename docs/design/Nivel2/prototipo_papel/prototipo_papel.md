@@ -134,6 +134,15 @@ Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços cl
 
 ## Tarefa 4: Solicitar carteira de identidade 
 
+![alt text](../../../assets/Nivel2/prototipo/prototipo1-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo2-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo3-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo4-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo5-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo6-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo7-raissa.jpg)
+
+
 ## Tarefa 5: Registrar Ocorrência 
 
 ## Tarefa 6: Fazer um retrato falado de forma online

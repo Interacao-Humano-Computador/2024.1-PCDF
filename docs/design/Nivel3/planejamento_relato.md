@@ -63,7 +63,73 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 ## Roteiro das perguntas
 
+| ID | Pergunta                                                                                   | Resposta |
+|--------|--------------------------------------------------------------------------------------------|----------|
+| 1      | Você encontrou alguma dificuldade ao navegar pela interface? Se sim, pode nos descrever?    | Aberta   |
+| 2      | Foi fácil encontrar o que você estava procurando na interface? Houve alguma parte onde você se perdeu? | Aberta   |
+| 3      | Alguma parte do layout ou design distraiu você ou dificultou a conclusão das tarefas?       | Aberta   |
+| 4      | O que você mais gostou na interface? E o que menos gostou?                                  | Aberta   |
+| 5      | Você conseguiu concluir a tarefa? Foi fácil, na sua opinião?                               | Aberta   |
+| 6      | Se pudesse mudar uma coisa na interface, o que seria e por quê?                            | Aberta   |
+
+
+| ID | Pergunta | Resposta |
+|--------|---------------------------------------------------------------------------------------------------------------------|----------|
+| 1      | Durante o teste, você viu diferentes soluções de design para [específico componente/funcionalidade]. Qual delas você achou mais intuitiva e por quê? | Aberta   |
+| 2      | Havia alguma alternativa de design que se destacou para você como particularmente eficaz ou ineficaz? Pode nos dizer o motivo? | Aberta   |
+
+
 ## Sugestões de Melhorias
+Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problemas e dificuldades que o usuário possa ter encontrado durante a entrevista. É de extrema importância que os registros sejam feitos de forma clara e objetiva para que possamos idetificar o problema, o que causou, o resultado esperado e o resultado que foi observado.
+
+### Pesquisar Procurados
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+### Solicitar Antecedentes Criminais
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+### Validar Antecedentes Criminais
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+###  197- Denúncia Online
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+###  Solicitar Carteira de Identidade
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+###  Registrar Ocorrência
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
+
+### Retrato Falado Online
+
+1. [Sugestão de Melhoria 1]
+2. [Sugestão de Melhoria 2]
+3. [Sugestão de Melhoria 3]
+...
 
 # Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

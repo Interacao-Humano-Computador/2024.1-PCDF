@@ -202,4 +202,4 @@ Após essa análise, os dados serão compartilhados com a equipe. A apresentaç�
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) e [Lara Giuliana](https://github.com/gravelylara) | 13/06 | [Rayene Almeida ](https://github.com/rayenealmeida)  | 15/06 |
+| 1.0 | Planejamento da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) e [Lara Giuliana](https://github.com/gravelylara) | 13/06 | [Rayene Almeida ](https://github.com/rayenealmeida) , [Raissa Andrade](https://github.com/RaissaAndradeS)  | 15/06 |
