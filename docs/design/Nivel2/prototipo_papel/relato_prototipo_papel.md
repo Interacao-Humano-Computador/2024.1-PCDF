@@ -27,6 +27,28 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 
 ### Questionário
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Aberta |
+| 2 | Qual sua idade? | Aberta |
+| 3 | Qual a sua ocupação? | Aberta |
+| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> []Alto |
+| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Aberta |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Aberta | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Aberta |
+| 9 | A navegação pelo sistema foi intuitiva? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Aberta |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Aberta |
+| 12 | O que você mais gostou na interface? | Aberta |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | Aberta |
+| 14 | Que sugestões você tem para melhorar a interface? | Aberta |
+| 15 | Quanto tempo você levou para completar cada tarefa? | Aberta |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | Aberta |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Aberta |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
 
 ### Sugestão de Melhoria
 
@@ -38,20 +60,106 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 ## Solicitar Antecedentes Criminais 
 
+No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11
+
+[Prototipo de pape](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/) 
+
+
 ### Questionário
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Aberta |
+| 2 | Qual sua idade? | Aberta |
+| 3 | Qual a sua ocupação? | Aberta |
+| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> []Alto |
+| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Aberta |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Aberta | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Aberta |
+| 9 | A navegação pelo sistema foi intuitiva? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Aberta |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Aberta |
+| 12 | O que você mais gostou na interface? | Aberta |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | Aberta |
+| 14 | Que sugestões você tem para melhorar a interface? | Aberta |
+| 15 | Quanto tempo você levou para completar cada tarefa? | Aberta |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | Aberta |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Aberta |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
 
 ### Sugestão de Melhoria
 
 
 ### Gravação
+
 ### Interpretação de Dados
 
 ## 197- Denúncia Online
+Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços clicar em "197-Denúncia Online", que vai ser levado para uma nova aba onde deve escolher o tipo de denúncia, depois você deve preencher o formulário como explicado nas imagens 3 a 7.
+
+![197](../../../assets/design/Nivel2/denuncia1.jpg)
+<div align="center">
+    <p> Figura 3: Inicio do site da PCDF.
+        <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+    </p> 
+</div>
+
+![197](../../../assets/design/Nivel2/denuncia2.jpg)
+<div align="center">
+    <p> Figura 4: Aba de serviços. 
+         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+    </p> 
+</div>
+
+![197](../../../assets/design/Nivel2/denuncia3.jpg)
+<div align="center">
+    <p> Figura 5: Aba de denuncia online. 
+         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+    </p> 
+</div>
+
+![197](../../../assets/design/Nivel2/denuncia4.jpg)
+<div align="center">
+    <p> Figura 6: Aba de formularios. 
+         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+    </p> 
+</div>
+
+![197](../../../assets/design/Nivel2/denuncia5.jpg)
+<div align="center">
+    <p> Figura 7: Aba de formularios. 
+         <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+    </p> 
+</div>
 
 ### Questionário
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Adriana |
+| 2 | Qual sua idade? | 46 |
+| 3 | Qual a sua ocupação? | servidora pública|
+| 4 | Qual seu grau de experiência com tecnologias? | Médio  |
+| 5 | Você já utilizou o site da PCDF? | Sim  |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
+| 12 | O que você mais gostou na interface? | rapidez|
+| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
+| 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
+| 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
 ### Sugestão de Melhoria
-
+A entrevista acredita que o prototipo não precisa de melhorias
 
 ### Gravação
 
@@ -61,25 +169,76 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 </div>
 
 ### Interpretação de Dados
+Com base na entrevista da entrevistada, o prototipo ficou em intuiitivo e com base nele o usuário iria conseguir realizar a funcionalidade corretamente
 
 ## Solicitar carteira de identidade
+ 
+ ![alt text](../../../assets/Nivel2/prototipo/prototipo1-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo2-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo3-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo4-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo5-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo6-raissa.jpg) 
+![alt text](../../../assets/Nivel2/prototipo/prototipo7-raissa.jpg)
 
 ### Questionário
-
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Adriana |
+| 2 | Qual sua idade? | 46 |
+| 3 | Qual a sua ocupação? | servidora pública|
+| 4 | Qual seu grau de experiência com tecnologias? | Médio  |
+| 5 | Você já utilizou o site da PCDF? | Sim  |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
+| 12 | O que você mais gostou na interface? | rapidez|
+| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
+| 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
+| 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
 ### Sugestão de Melhoria
 
 
 ### Gravação
+
 ### Interpretação de Dados
 
 
 ### Registro de Ocorrência
 
-#### Modelo Goals, Operators, Methods, and Selection rules (GOMS)
-
 
 ### Questionário
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Adriana |
+| 2 | Qual sua idade? | 46 |
+| 3 | Qual a sua ocupação? | servidora pública|
+| 4 | Qual seu grau de experiência com tecnologias? | Médio  |
+| 5 | Você já utilizou o site da PCDF? | Sim  |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
+| 12 | O que você mais gostou na interface? | rapidez|
+| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
+| 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
+| 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
 ### Sugestão de Melhoria
 
@@ -94,7 +253,28 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 
 ### Questionário
-
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Adriana |
+| 2 | Qual sua idade? | 46 |
+| 3 | Qual a sua ocupação? | servidora pública|
+| 4 | Qual seu grau de experiência com tecnologias? | Médio  |
+| 5 | Você já utilizou o site da PCDF? | Sim  |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve  |
+| 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 3 minutos |
+| 12 | O que você mais gostou na interface? | rapidez|
+| 13 | O que você menos gostou ou achou mais difícil na interface |rapidez |
+| 14 | Que sugestões você tem para melhorar a interface? | nenhuma |
+| 15 | Quanto tempo você levou para completar cada tarefa? | 1 minuto |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhuma |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
 ### Sugestão de Melhoria
 
