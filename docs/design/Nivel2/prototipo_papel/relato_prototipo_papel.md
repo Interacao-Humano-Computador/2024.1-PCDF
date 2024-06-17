@@ -1,4 +1,4 @@
-## Introdução
+#  Introdução
 Esse artefato tem como objetivo documentar os resultados que o grupo 4 de interação humano computador, obteve durante a avaliação do prototipo de papel, nesse artefato vai ser abordado todos os resultados obtidos nessa avaliação
 
 # Metodologia
@@ -97,7 +97,7 @@ No protótipo em papel de solicitar antecedentes criminais o entrevistado deve s
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Sugestão de Melhoria
-A sugestão do usuário é pedir menos informações
+A sugestão do usuário é que o site pessa menos informações pessoais
 
 ### Gravação
 
@@ -152,7 +152,7 @@ A entrevista acredita que o prototipo não precisa de melhorias
 </div>
 
 ### Interpretação de Dados
-Com base na entrevista da entrevistada, o prototipo ficou em intuiitivo e com base nele o usuário iria conseguir realizar a funcionalidade corretamente
+Com base na entrevista da entrevistada, o prototipo ficou bem intuitivo e com base nele o usuário iria conseguir realizar a funcionalidade corretamente
 
 ## Solicitar carteira de identidade
  
@@ -187,7 +187,7 @@ Com base na entrevista da entrevistada, o prototipo ficou em intuiitivo e com ba
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Sugestão de Melhoria
-A sugestão do usuário é ter menos perguntas, ter uma linguagem mais informal, para que o usuário entende melhor
+A sugestão do usuário é ter menos perguntas, ter uma linguagem mais informal, para que o usuário possa entender melhor
 
 ### Gravação
 <div align="center">

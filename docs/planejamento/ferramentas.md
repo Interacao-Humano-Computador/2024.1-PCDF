@@ -64,9 +64,7 @@ Detalhamento das ferramentas utilizadas durante o projeto.
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Ferramentas utilizadas                 |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   05/04   |       [Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida ](https://github.com/rayenealmeida)        |     06/04                 |
 |  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221)        |        13/04              |
-|  1.2   | Atualizando Ferramentas                 |  [Giovana Barbosa ](https://github.com/gio221)    |   13/04   |   [Renata Quadros](https://github.com/Renatinha28)       |        17/04         |
-|  1.3   | Atualizando Ferramentas com o Miro                |  [Giovana Barbosa ](https://github.com/gio221)    |   18/04   |     [Renata Quadros](https://github.com/Renatinha28)     |      17/04           |
-|  1.4   |  Inserção de novas ferramentas |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   18/05   |   [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 26/05 |
+|  1.3  |  Inserção de novas ferramentas |  [Raissa Andrade ](https://github.com/RaissaAndradeS)      |   18/05   |   [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 26/05 |
    
 
 
