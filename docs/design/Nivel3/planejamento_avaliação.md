@@ -30,8 +30,7 @@ Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA
 | Número | Objetivo | Descrição |
 | :-----: | --------------------------------------------- | -------------------------------------------------------------------------------------|
 | 1 | Identificar problemas na interação e interface | Detectar elementos da interface que dificultam a interação do usuário ou que são mal compreendidos. <br > Avaliar a eficácia dos componentes de navegação e dos widgets da interface. |
-| 2 | Comparar ideias e alternativas de design | Testar diferentes soluções de design para determinar quais são mais intuitivas e fáceis de usar. |
-| 3 | Obter Feedback dos Usuários | Coletar opiniões e sugestões dos usuários sobre a interface, permitindo ajustes e melhorias baseados em suas experiências. |
+| 2 | Obter Feedback dos Usuários | Coletar opiniões e sugestões dos usuários sobre a interface, permitindo ajustes e melhorias baseados em suas experiências. |
 
 <center>  Fonte - BARBOSA e SILVA (2010). </center>
 
@@ -43,8 +42,7 @@ De acordo com os objetivos determinados, a seguir, na tabela 3 são descritas as
 | Número | Perguntas |
 | :-----: | ---------------------------------------------------------------------------------------------------------------- |
 | 1 | O usuário consegue operar o sistema? <br> Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Que parte da interface e da interação o deixa insatisfeito?<br> Ele entende o que significa e para que serve cada elemento de interface? <br> Quais barreiras o usuário encontra para atingir seus objetivos? <br>  |
-| 2 | Qual das alternativas é a mais eficiente? Mais fácil de aprender? <br> Qual delas os usuários preferem? Por quê? <br> Qual delas pode ser construída em menos tempo? <br> Que parte da interface e da interação o deixa insatisfeito? <br> Que parte da interface o desmotiva a explorar novas funcionalidades? <br> |
-| 3 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
+| 2 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
 
@@ -133,9 +131,11 @@ Cada integrante foi responsável por criar seu protótipo de alta fidelidade na 
 Além disso fizemos o Termo de consentimento, que se encontra no artefato [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/), preparamos o <a href="#roteiro">roteiro das perguntas</a> e o <a href="#teste-piloto">teste piloto</a>
 
 <h2 id="teste-piloto">Executar um teste-piloto</h2>
-O teste piloto é uma etapa crucial destinado a validar suas funcionalidades e a usabilidade geral antes da implementação final da avaliação. Este processo visa identificar e corrigir potenciais problemas de design e interação, garantindo que o produto final, que no nosso caso é o protótipo, atenda às expectativas dos usuários. O teste piloto foi conduzido pela integrante .... e é encontrado logo abaixo:
+O teste piloto é uma etapa crucial destinado a validar suas funcionalidades e a usabilidade geral antes da implementação final da avaliação. Este processo visa identificar e corrigir potenciais problemas de design e interação, garantindo que o produto final, que no nosso caso é o protótipo, atenda às expectativas dos usuários. O teste piloto foi conduzido pela integrante [Renata Quadros](https://github.com/Renatinha28) e é encontrado logo abaixo:
 
-TESTE PILOTO
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=uVxrM-Ak83o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=uVxrM-Ak83o" target="blanket">Vídeo do teste piloto</a></p>
+
 
 ## I - Identificar e administrar as questões práticas da avaliação
 
@@ -168,27 +168,24 @@ TESTE PILOTO
     Após o teste de usabilidade, o usuário responderá a algumas perguntas conforme o roteiro estabelecido. O avaliador será responsável por anotar todas as considerações, expressões e opiniões do usuário, além de incentivá-lo a fornecer detalhes adicionais.
 
 <h2 id="roteiro">Roteiro das Perguntas</h2>
-O roteiro das perguntas foi dividido em dois, a tabela 7 descreve o roteiro para todos os integrantes do grupo e a tabela 8 descreve o roteiro apenas para os integrantes que irão comparar alternativas de interface.
+O roteiro das perguntas que deve ser seguido nas entrevistas está descrito na tabela 7.
 
     Tabela 7: roteiro da entrevista
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Você encontrou alguma dificuldade ao navegar pela interface? Se sim, pode nos descrever? | Aberta |
-| 2 | Foi fácil encontrar o que você estava procurando na interface? Houve alguma parte onde você se perdeu? | Aberta |
-| 3 | Alguma parte do layout ou design distraiu você ou dificultou a conclusão das tarefas? | Aberta |
-| 4 | O que você mais gostou na interface? E o que menos gostou? | Aberta |
-| 5 | Você conseguiu concluir a tarefa? foi fácil, na sua opinião? | Aberta |
-| 6 | Se pudesse mudar uma coisa na interface, o que seria e por quê? | Aberta |
+| 1 | Qual seu nome completo?| Aberta |
+| 2 | Qual sua idade? | Aberta |
+| 3 | Qual seu grau de experiência com tecnologias? | [ ] Alto <br> [ ] Médio <br> [ ] Baixo <br> |
+| 4 | Você já utilizou o site do PCDF? | Aberta |
+| 5 | Você encontrou alguma dificuldade ao navegar pela interface? Se sim, pode nos descrever? | Aberta |
+| 6 | Foi fácil encontrar o que você estava procurando na interface? Houve alguma parte onde você se perdeu? | Aberta |
+| 7 | Alguma parte do layout ou design distraiu você ou dificultou a conclusão das tarefas? | Aberta |
+| 8 | O que você mais gostou na interface? E o que menos gostou? | Aberta |
+| 9 | Você conseguiu concluir a tarefa? foi fácil, na sua opinião? | Aberta |
+| 10 | Se pudesse mudar uma coisa na interface, o que seria e por quê? | Aberta |
 
 <center>  Fonte - Renata Quadros. </center>
 
-    Tabela 8: roteiro da entrevista para comparação de interfaces
-| Número | Pergunta | Resposta |
-| :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Durante o teste, você viu diferentes soluções de design para [específico componente/funcionalidade]. Qual delas você achou mais intuitiva e por quê? | Aberta |
-| 2 | Havia alguma alternativa de design que se destacou para você como particularmente eficaz ou ineficaz? Pode nos dizer o motivo? | Aberta | 
-
-<center>  Fonte - Renata Quadros. </center>
 
 ## D - Decidir como lidar com as questões éticas.
 Assegurar a observância de questões éticas na avaliação é essencial. Para garantir o respeito e a proteção dos participantes, seguimos as diretrizes estabelecidas em [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md), que orientam a condução da pesquisa. Os participantes devem ser informados e conscientizados sobre todos os detalhes da pesquisa por meio do termo de consentimento, disponível na mesma seção de Aspectos Éticos.

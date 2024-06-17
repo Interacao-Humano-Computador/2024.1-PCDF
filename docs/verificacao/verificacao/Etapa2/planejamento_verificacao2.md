@@ -153,7 +153,7 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 | 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
 | 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
 | 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
 
   <center> <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>, 2024</p>
 </center>
