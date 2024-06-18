@@ -13,7 +13,6 @@ A documentação do relato deve conter:
 Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e foram apresentados no Planejamento da Avaliação do Protótipo de Alta Fidelidade:
 
 - Identificar problemas na interação e interface
-- Comparar ideias e alternativas de design
 - Obter Feedback dos Usuários
 
 ## Metodologia
@@ -63,20 +62,24 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 ## Roteiro das perguntas
 
+O roteiro das perguntas que deve ser seguido está descrito na tabela 3.
+
+<center>Tabela 3: Tabela do Roteiro das perguntas das Entrevistas. </center> 
+
 | ID | Pergunta                                                                                   | Resposta |
 |--------|--------------------------------------------------------------------------------------------|----------|
-| 1      | Você encontrou alguma dificuldade ao navegar pela interface? Se sim, pode nos descrever?    | Aberta   |
-| 2      | Foi fácil encontrar o que você estava procurando na interface? Houve alguma parte onde você se perdeu? | Aberta   |
-| 3      | Alguma parte do layout ou design distraiu você ou dificultou a conclusão das tarefas?       | Aberta   |
-| 4      | O que você mais gostou na interface? E o que menos gostou?                                  | Aberta   |
-| 5      | Você conseguiu concluir a tarefa? Foi fácil, na sua opinião?                               | Aberta   |
-| 6      | Se pudesse mudar uma coisa na interface, o que seria e por quê?                            | Aberta   |
+| 1 | Qual seu nome completo?| Aberta |
+| 2 | Qual sua idade? | Aberta |
+| 3 | Qual seu grau de experiência com tecnologias? | [ ] Alto <br> [ ] Médio <br> [ ] Baixo <br> |
+| 4 | Você já utilizou o site do PCDF? | Aberta |
+| 5 | Você encontrou alguma dificuldade ao navegar pela interface? Se sim, pode nos descrever? | Aberta |
+| 6 | Foi fácil encontrar o que você estava procurando na interface? Houve alguma parte onde você se perdeu? | Aberta |
+| 7 | Alguma parte do layout ou design distraiu você ou dificultou a conclusão das tarefas? | Aberta |
+| 8 | O que você mais gostou na interface? E o que menos gostou? | Aberta |
+| 9 | Você conseguiu concluir a tarefa? foi fácil, na sua opinião? | Aberta |
+| 10 | Se pudesse mudar uma coisa na interface, o que seria e por quê? | Aberta |
 
-
-| ID | Pergunta | Resposta |
-|--------|---------------------------------------------------------------------------------------------------------------------|----------|
-| 1      | Durante o teste, você viu diferentes soluções de design para [específico componente/funcionalidade]. Qual delas você achou mais intuitiva e por quê? | Aberta   |
-| 2      | Havia alguma alternativa de design que se destacou para você como particularmente eficaz ou ineficaz? Pode nos dizer o motivo? | Aberta   |
+<center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
 
 ## Sugestões de Melhorias
@@ -139,4 +142,4 @@ Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problem
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 15/06 |     [Giovana Barbosa ](https://github.com/gio221)| 15/06|
+| 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 15/06 |     [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)| 15/06|
