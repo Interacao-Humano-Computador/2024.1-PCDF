@@ -87,6 +87,9 @@ Para fazer essa tarefas, o usuário deve ir sem serviços na página inicial do 
 
 2 - Pesquisar Procurados
 
+Procurados: serviço onde o usuário pode, sem precisar se identificar no sistema, buscar por um nome específico de algum indivíduo para obter mais informações sobre ele, por exemplo se está foragido, qual região de atuação ou crime cometido.
+Também é possível realizar uma denúncia rápida e anônima caso a pessoa tenha visto algum indivíduo foragido ou tenha presenciado algum crime
+
 3 -Carteira de identidade
 
 Nessa tarefa, o usuário tem o propósito de solicitar a carteira de identidade.
@@ -133,8 +136,8 @@ Além disso fizemos o Termo de consentimento, que se encontra no artefato [Aspec
 <h2 id="teste-piloto">Executar um teste-piloto</h2>
 O teste piloto é uma etapa crucial destinado a validar suas funcionalidades e a usabilidade geral antes da implementação final da avaliação. Este processo visa identificar e corrigir potenciais problemas de design e interação, garantindo que o produto final, que no nosso caso é o protótipo, atenda às expectativas dos usuários. O teste piloto foi conduzido pela integrante [Renata Quadros](https://github.com/Renatinha28) e é encontrado logo abaixo:
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=uVxrM-Ak83o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://www.youtube.com/watch?v=uVxrM-Ak83o" target="blanket">Vídeo do teste piloto</a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/uVxrM-Ak83o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/uVxrM-Ak83o" target="blanket">Vídeo do teste piloto</a></p>
 
 
 ## I - Identificar e administrar as questões práticas da avaliação

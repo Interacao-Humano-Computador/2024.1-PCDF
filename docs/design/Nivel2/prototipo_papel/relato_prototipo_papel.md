@@ -23,46 +23,51 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
  
-# Prototipos de Papel
-### Pesquisar procurados
 
+# Pesquisar procurados
+
+[Pesquisar procurados ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-1-pesquisar-procurados) 
 
 ### Questionário
       Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Aberta |
-| 2 | Qual sua idade? | Aberta |
-| 3 | Qual a sua ocupação? | Aberta |
-| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> []Alto |
-| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
-| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Aberta |
-| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Aberta | 
-| 8 |Qual elemento da interface causou maior dificuldade na interação? | Aberta |
-| 9 | A navegação pelo sistema foi intuitiva? | [] Sim <br> [] Não <br> [] Não sei responder |
-| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Aberta |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Aberta |
-| 12 | O que você mais gostou na interface? | Aberta |
-| 13 | O que você menos gostou ou achou mais difícil na interface? | Aberta |
-| 14 | Que sugestões você tem para melhorar a interface? | Aberta |
-| 15 | Quanto tempo você levou para completar cada tarefa? | Aberta |
-| 16 | Quais tarefas você encontrou mais difíceis de completar? | Aberta |
-| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Aberta |
-| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
-| 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
-| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
+| 1 | Qual seu nome completo? | Luisa |
+| 2 | Qual sua idade? | 28|
+| 3 | Qual a sua ocupação? | engenheira eletrônica|
+| 4 | Qual seu grau de experiência com tecnologias? |   Médio |
+| 5 | Você já utilizou o site da PCDF? | Não  |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | questão do cadastro de endereço |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? |iformulário| 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? |informações no formulário |
+| 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | dois minutos |
+| 12 | O que você mais gostou na interface? | objetividade |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | validação antes do envio |
+| 14 | Que sugestões você tem para melhorar a interface? | deixar uma mnesagem na interface nos passos |
+| 15 | Quanto tempo você levou para completar cada tarefa? | segundos |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | cadastro da denuncia |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | cadastro de endereços |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | informativso na interface |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | boa |
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Sugestão de Melhoria
-
+Melhora as informações que são obrigatorias no formulário, deixar uma mnesagem na interface nos passos como avisos.
 
 ### Gravação 
-
+<div align="center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/EQSbtvS2InM" frameborder="0" allowfullscreen></iframe>
+   <p>Video da Entrevista</p>
+</div>
 
 ### Interpretação de Dados
+O entrevistado achou que o formulário é confuso e que o site deveria ter mais informações como avisos do que deve ser feito em cada etapa
 
-## Solicitar Antecedentes Criminais 
+# Solicitar Antecedentes Criminais 
 
 No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11
 
@@ -106,7 +111,7 @@ A sugestão do usuário é que o site pessa menos informações pessoais
    <p>Video da Entrevista</p>
 </div>
 
-### Interpretação de Dados
+# Interpretação de Dados
 De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
 
 ## 197- Denúncia Online
@@ -154,7 +159,7 @@ A entrevista acredita que o prototipo não precisa de melhorias
 ### Interpretação de Dados
 Com base na entrevista da entrevistada, o prototipo ficou bem intuitivo e com base nele o usuário iria conseguir realizar a funcionalidade corretamente
 
-## Solicitar carteira de identidade
+# Solicitar carteira de identidade
  
 
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-4-solicitar-carteira-de-identidade) 
@@ -198,7 +203,7 @@ A sugestão do usuário é ter menos perguntas, ter uma linguagem mais informal,
 ### Interpretação de Dados
 De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
 
-### Registro de Ocorrência
+# Registro de Ocorrência
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-5-registrar-ocorrencia) 
 
 ### Questionário
@@ -241,7 +246,7 @@ O usuário sugeriu que na parte do questionário fosse mais automático, pois es
 ### Interpretação de Dados
 De acorod com a entrevista e os dados coletados, essa funcionalidade é bem intutiva e fácil de usar, mais precisa de algumas mudanças para dar mais confiança ao usuário, como a denúnica anônima
 
-## Retrato Falado Online: Descreva e Identifique
+# Retrato Falado Online: Descreva e Identifique
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-6-fazer-um-retrato-falado-de-forma-online) 
 
 ### Questionário
