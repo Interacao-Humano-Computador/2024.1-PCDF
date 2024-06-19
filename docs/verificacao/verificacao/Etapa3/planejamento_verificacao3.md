@@ -52,6 +52,16 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
+|1|No documento a uma descrição das metas de usabilidade que devem ser alcançadas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|2|é apresentado o motivo da escolha dessas metas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|3|É apresentado a meta segurança no  uso?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|4|A meta segurança no uso é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|5|É apresentada a meta eficiência?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|6|A meta eficiência é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|7|É apresentada a meta facilidade de aprendizado?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|8|A meta facilidade de aprendizado é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|9|É apresentada a meta facilidade de recordação?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|10|A meta facilidade de recordação é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
 
   <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
@@ -60,6 +70,22 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
+|1| Temos an guia de estilo os 6 elementos principais? (layout, tipografia, simbolismo, cores, visualização de informação e design de telas e elementos de interface)||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|2|Possui explicação do publico alvo?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|3|Possui um guia de como ultilizar a guia de estilo?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|4|Possui uma explicação de como manter o guia?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|5|Temos os Elementos da Interface?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|6|Nos elementos da interface temos a tipografia? ||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|7|Nos elementos da interface temos as Cores?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|8|Nos elementos da interface temos os Botôes e Icones?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|9|Nos elementos de interface, temos as animações?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|10|Nos elementos de interface, temos os símbolos não tipográficos?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|11|Nos elementos de interação, temos a seleção de um estilo?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|12|Nos elementos de interação, temos os aceleradores?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|13|Nos elementos de ação, temos o preenchimento de campos?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|14|Nos elementos de ação, temos a seleção?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|15|Nos elementos de ação, temos a ativação?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|16|No vocabulário e padrões, temos a terminologia?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
 
   <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
@@ -68,6 +94,11 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
+|1|Possui as cracterisitcas negativas?||Página 1|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/caracteristicas.png)|
+|2|Possui uma metodologia?||Página 1|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/caracteristicas.png)|
+|3|Possui as tecnologias ultilizadas?||Página 1|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/caracteristicas.png)|
+|4|Possui uma introdução?||Página 1|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/caracteristicas.png)|
+|5|Possui as funcionalidades da plataforma ?||Página 1|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/caracteristicas.png)|
 
   <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 

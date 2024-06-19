@@ -36,6 +36,21 @@ A metodologia adotada para a elaboração deste relatório baseia-se em técnica
 
 ## Checklist do Relato do Protótipo de Alta Fidelidade
 
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+|1|Está descrito o obejtivo da avaliação?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|2|Está descrito os métodos empregados na avaliação?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|3|Foi apresentado o número de participantes?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|4|Foi apresentado o cronograma das entrevista?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|5| Foi apresentado os aspectos éticos?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| é monstrado as tarefas propostas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|7| Foi apresentado o roteiro de perguntas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|8| é apresentado como será a interpretação de dados||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|9| é apresentado com será o reprojeto?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
