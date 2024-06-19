@@ -254,10 +254,9 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 
 ## Bibliografia
-> 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
-> 2.  ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: Além da interação humano-computador. Bookman Editora, 2013.
-> 3. O que é Storyboard? Como fazer? Veja modelos e exemplos. Disponível em: [https://miro.com/pt/storyboard/o-que-e-storyboard/](https://miro.com/pt/storyboard/o-que-e-storyboard/)
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
+> https://interacao-humano-computador.github.io/2024.1-PCDF/
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões
 
