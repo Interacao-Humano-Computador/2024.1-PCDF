@@ -1,6 +1,7 @@
 ## Introdução
 
 Este documento foi feito pelas integrantes [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221), a verificação é uma parte importante em todo projeto, ela ajuda a corrigir erros que acontecem ao decorrer do projeto, nesse documento vamos verificar a etapa 5 do projeto de Interação Humano Compuador(IHC)
+
 ## Objetivo
 
 O obejtivo desse documento é veriicar se o grupo 4 realizou todos osartefatos de maneira correta
@@ -111,4 +112,4 @@ A metodologia escolhida para esta verificação é a inspeção,é realizada atr
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação da etapa 5 | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 17/06 | | |
+| 1.0 | Planejamento da verificação da etapa 5 | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Rayene Almeida ](https://github.com/rayenealmeida) | 19/06 |
