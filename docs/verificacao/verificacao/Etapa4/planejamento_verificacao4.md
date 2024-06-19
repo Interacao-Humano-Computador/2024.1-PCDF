@@ -62,10 +62,10 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 | ID | Descrição | Avaliação | Referência | Print |
 |----------|----------|----------|--------|--------|
 |  1  |    No planejamento é apresentada ferramentas utilizadas?       |          |    "11.7.2 Preparação"       | [Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275.png>)|
-|  2  |    O artefato possui perguntas que serão realizadas?      |          |          |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>) |
-|  3  |   No planejamento explica sobre aspectos éticos?       |          |          |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>) |
-|  4  |     No planejamento é definido como será a avaliado os dados coletados?     |          |          |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
-|  5  |     O planejamento está de acordo com Framework DECIDE?     |          |          |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
+|  2  |    O artefato possui perguntas que serão realizadas?      |          |    "11.8 O Framework DECIDE"       |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>) |
+|  3  |   No planejamento explica sobre aspectos éticos?       |          |      "11.8 O Framework DECIDE"     |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>) |
+|  4  |     No planejamento é definido como será a avaliado os dados coletados?     |          |     "11.8 O Framework DECIDE"      |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
+|  5  |     O planejamento está de acordo com Framework DECIDE?     |          |    "11.8 O Framework DECIDE"       |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
 |  6  |  A quantidade de participantes estão de acordo com a pesquisa?    |          |    "11.7.2 Preparação"      |[Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275.png>)|
 
 
