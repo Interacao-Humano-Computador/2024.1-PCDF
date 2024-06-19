@@ -57,11 +57,11 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 - ID 7 - adaptar o cenário para incluir uma persona sendo o ator princípal.
 
 ### Conclusão
-Como monstrado na imagem 1, o cenário está bom, mas ainda precisa de algumas correções.
+Como monstrado na figura 1, o cenário está muito bom, mas ainda precisa de uma correção.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenários-lara.png)
 <div align="center">
-<p> Figura 1 - Respostas da verificação do cenário.</p>
+<p> Figura 1 - Conclusão da verificação do cenário: Lara.</p>
 <center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> </center>    
 </div></center>
 
@@ -69,9 +69,9 @@ Como monstrado na imagem 1, o cenário está bom, mas ainda precisa de algumas c
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
       Tabela 3: cronograma do reprojeto
-| Artefato | Integrante responsável pelas correções | O que corrigir | Data da correção |
+| Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| [Cenário](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/) | [Lara Giuliana](https://github.com/gravelylara) | ID 7 | 21/06 |
+| 21/06 | Adaptar para o cenário se basear em uma persona | [Lara Giuliana](https://github.com/gravelylara) | |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -183,11 +183,11 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 - ID 7: Adaptar para uma persona previamente elaborada ser utilizada.
 
 ### Conclusão
-Como monstrado na imagem 1, o cenário está bom, mas ainda precisa de algumas correções.
+Como monstrado na figura 5, o cenário está bom, mas ainda precisa de algumas correções.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-raissa.png)
 <div align="center">
-<p> Figura 1 - Respostas da verificação do cenário.</p>
+<p> Figura 5 - conclusão verificação do cenário: Raissa.</p>
 <center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> </center>    
 </div></center>
 
@@ -197,9 +197,9 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 
       Tabela 11: cronograma do reprojeto
-| Artefato | Integrante responsável pelas correções | O que corrigir | Data da correção |
+| Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| [Cenário](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/cenario/) | [Raissa Andrade](https://github.com/RaissaAndradeS)  | ID 3, ID 5 e ID 7 | 21/06 |
+|21/06| Detalhar a descrição de experiências dos autores, colocar todos os elementos característicos e adaptar para se basear em uma persona |[Raissa Andrade](https://github.com/RaissaAndradeS)  | |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
