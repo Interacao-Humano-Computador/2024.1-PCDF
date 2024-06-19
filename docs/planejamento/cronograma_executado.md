@@ -111,7 +111,7 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
 | Protótipo de papel     | Início: 05/06 Fim: 15/06  |  Giovana,  Lara, Raissa, Rayene e Renata     | Início: 12/06 Fim: 15/06 | Giovana,  Lara, Raissa, Rayene e Renata  |
 | Relato dos resultados do Protótipo de Papel  | Início: 16/06 Fim: 16/06  | Giovana          | Início: 16/06 Fim: 16/06  | Giovana,  Lara, Raissa, Rayene e Renata  |
-| Planejamento da avaliação do protótipo de alta fidelidade  | Início: 12/06 Fim: 14/06 |Renata e Lar/a  |  Início: 14/06 Fim: 16/06  | Giovana,  Lara, Raissa, Rayene e Renata   |
+| Planejamento da avaliação do protótipo de alta fidelidade  | Início: 12/06 Fim: 14/06 |Renata e Lara  |  Início: 14/06 Fim: 16/06  | Giovana,  Lara, Raissa, Rayene e Renata   |
 | Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade |  Início: 14/06 Fim: 16/06  | Rayene e Raissa|  Início: 14/06 Fim: 16/06  |Giovana,  Lara, Raissa, Rayene e Renata  |
 | Perguntas finais                                                           |  Início: 16/06 Fim: 16/06 |Giovana         | Início: 16/06 Fim: 16/06| Giovana,  Lara, Raissa, Rayene e Renata   |
 | Gravação da apresentação                                                           | Início: 16/06 Fim: 18/06 | Giovana,  Lara, Raissa, Rayene e Renata       | Início: 18/06 Fim: 18/06|Giovana,  Lara, Raissa, Rayene e Renata |
