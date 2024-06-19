@@ -43,67 +43,61 @@ No protótipo em papel de solicitar antecedentes criminais o entrevistado deve s
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes1.jpg)
 <div align="center">
-    <p> Figura 3: Inicio do site da PCDF.Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 3: Inicio do site da PCDF.
+        <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes2.jpg)
 <div align="center">
-    <p> Figura 4: Aba serviços.Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 4: Aba serviços.
+         <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 
-![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes3.jpg)
+![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes5.jpg)
 <div align="center">
-    <p> Figura 5:email .Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 7: e-mail.
+         <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes4.jpg)
 <div align="center">
-    <p> Figura 6:codigo.Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 6: código de confirmação.
+         <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
-![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes5.jpg)
-<div align="center">
-    <p> Figura 7:confirmação .Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
-    </p> 
-</div>
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes6.jpg)
 <div align="center">
-    <p> Figura 8:orientação .Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 8: orientação.
+         <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes7.jpg)
 <div align="center">
-    <p> Figura 9: formulario.Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 9: formulário.
+         <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes8.jpg)
 <div align="center">
-    <p> Figura 10: formulario.Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 10: formulário preenchido.
+        <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes9.jpg)
 <div align="center">
-    <p> Figura 11: formulario.Fonte:
-        <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 11: confirmação do envio.
+         <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
@@ -170,96 +164,96 @@ Neste protótipo de registro de ocorrência online, onde o site é acessado pelo
 
 
 ## Tarefa 6: Fazer um retrato falado de forma online
-Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviços” e selecionar a opção de “Retrato falado on-line”. Feito isto, irá aparecer uma mensagem explicando o porquê são pedidas algumas informações pessoas e o entrevistado deve inserir seus dados pessoais como nome, cpf e e-mail, além das informações da denúncia e descrição do suspeito. Com isso, o usuário deve escolher um avatar, ajusta-lo como necessário e salvar as alterações. Logo, deve abrir uma página com o avatar selecionado com um texto para o usuário descrevê-lo de acordo com sua lembrança. Após o envio, uma mensagem de confirmação com as informações necessárias aparecerá.
+Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviços” e selecionar a opção de “Retrato falado on-line”. Feito isto, irá aparecer uma mensagem explicando o porquê são pedidas algumas informações pessoas e o entrevistado deve inserir seus dados pessoais como nome, cpf e e-mail, além das informações da denúncia e descrição do suspeito. Com isso, o usuário deve escolher um avatar, ajusta-lo como necessário e salvar as alterações. Logo, deve abrir uma página com o avatar selecionado com um texto para o usuário descrevê-lo de acordo com sua lembrança. Após o envio, uma mensagem de confirmação com as informações necessárias aparecerá. O protótipo desta tarefa está na figura 25 a 37.
 
 ![retrato falado](../../../assets/design/Nivel2/retrato1.jpg)
 <div align="center">
-    <p> Figura 25: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 25: Aba inicial do PCDF. 
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato2.jpg)
 <div align="center">
-    <p> Figura 26: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 26: Aba de "serviços". 
+             <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato3.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 27: Aba do Retrato Falado on-line - informações pessoais. 
+          <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato4.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 28: Aba do Retrato Falado on-line preenchido - informações pessoais. 
+          <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato5.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 29: Aba do Retrato Falado on-line - informações da denúncia. 
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato6.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 30: Aba do Retrato Falado on-line preenchido - informações da denúncia.
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato7.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 31: Aba do Retrato Falado on-line - informações do suspeito.
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato8.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 32: Aba do Retrato Falado on-line preenchido - informações do suspeito.
+          <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato9.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 33: Aba do Retrato Falado on-line - seleção do retrato falado.
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato10.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 34: Aba do Retrato Falado on-line - alteração no retrato selecionado.
+          <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato11.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 35:  Aba do Retrato Falado on-line - seleção do retrato falado.
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato12.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 36: Aba do Retrato Falado on-line preenchido - seleção do retrato falado.
+           <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato13.jpg)
 <div align="center">
-    <p> Figura 10: Aba de formularios. 
-             <a href="https://github.com/Renatinha28">Renata</a>
+    <p> Figura 37: Aba do Retrato Falado On-line - confirmação. 
+            <center>  <p>Fonte:  <a href="https://github.com/Renatinha28">Renata</a></p></center>
     </p> 
 </div>
 
