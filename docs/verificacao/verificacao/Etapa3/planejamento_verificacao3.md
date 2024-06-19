@@ -31,8 +31,19 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1| Os Principios gerais foram baseados em algum desse autores(Norman, Tognazzini, Nielsen ou Shneiderman)||pagina 230|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)
-
+|1| Os Principios gerais foram baseados em algum desse autores?(Norman, Tognazzini, Nielsen ou Shneiderman)||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|2|Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|3|Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|4|	Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|5|Os princípios gerais do projeto contém consistência e padronização ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|6|Os princípios gerais do projeto contém promoção da eficiência do usuário ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|7|Os princípios gerais do projeto contém antecipação das necessidades do usuário ?	||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|8|Os princípios gerais do projeto contém visibilidade e reconhecimento ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|9|Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?	||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|10|Os princípios gerais do projeto contém projeto para erros ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|11|O artefato possui uma explicação da metodologia?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|12|O artefato possui uma explicação do objetivo?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|13|Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
 
 <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
