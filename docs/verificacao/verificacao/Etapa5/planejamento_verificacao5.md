@@ -79,6 +79,10 @@ A metodologia escolhida para esta verificação é a inspeção,é realizada atr
 |1|Foi definido a quantidade de participantes?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
 |2| Foi executado um teste piloto?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
 |3| Foram feitas perguntas, para se responder na avaliação?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
+|4| O planejamento segue o framework DECIDE?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
+|5|Está descrito o obejtivo da avaliação?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6|Foi apresentado os aspectos éticos?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+
 
 <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
@@ -91,6 +95,9 @@ A metodologia escolhida para esta verificação é a inspeção,é realizada atr
 |3|Foi apresentado o número de participantes?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |4|Foi apresentado o cronograma das entrevista?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |5| Foi apresentado os aspectos éticos?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| é monstrado as tarefas propostas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|7| Foi apresentado o roteiro de perguntas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|8| é apresentado como será a interpretação de dados||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 
 <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
