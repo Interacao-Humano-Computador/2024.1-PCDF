@@ -1,13 +1,13 @@
 ## Introdução
 No contexto de Interação Humano-Computador, conforme descrito por Barbosa e Silva, o planejamento do relato dos resultados de um protótipo de alta fidelidade é crucial para garantir uma avaliação eficaz do sistema. O planejamento detalhado permite identificar problemas de usabilidade, avaliar a eficácia das funcionalidades e coletar feedback valioso dos usuários. 
 
-# Objetivo
+## Objetivo
 O objetivo deste documento é  definir a estrutura e organização dos dados obtidos durante a avaliação de um protótipo de alta fidelidade, tomando como base o planejamento inicial. Os resultados dessa avaliação serão apresentados em um relatório detalhado.
 
-# Metodologia
+## Metodologia
 A metodologia empregada neste documento segue os princípios estabelecidos por Barbosa e Silva em Interação Humano-Computador, focando em uma abordagem estruturada para a avaliação de protótipos de alta fidelidade. 
 
-# Tópicos
+## Tópicos
 A documentação do relato deve conter:
 ## Objetivos 
 Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e foram apresentados no Planejamento da Avaliação do Protótipo de Alta Fidelidade:
