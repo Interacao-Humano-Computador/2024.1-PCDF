@@ -131,7 +131,7 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 |  Relato da etapa 5              |Início: 20/06 Fim: 22/06 |Lara e Renata         |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
 | Responder Perguntas finais             |Início: 20/06 Fim: 22/06 | Giovana    |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
 | Gravação da apresentação               | Início: 23/06 Fim: 23/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 23/06 Fim: 23/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
-| Correção pós entrega                   | Início: 24/06 Fim: 26/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 24/06 Fim: 26/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega                   | Início: 26/06 Fim: 29/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 29/06 Fim: 29/06 | Giovana, Lara, Raissa, Rayene e Renata              |
  
 
 ## Etapa 8: Relato dos resultados do Protótipo de alta fidelidade.
@@ -144,7 +144,7 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Relato da verificação da Etapa 7 e ajustes nos artefatos           | Início: 23/06 Fim: 24/06 | Lara e Rayene| Início: 24/06 Fim: 25/06| Giovana, Lara, Raissa, Rayene e Renata         |
 | Responder perguntas finais                                           | Início: 24/06 Fim: 25/06 | Giovana | Início: 24/06 Fim: 25/06| Giovana, Lara, Raissa, Rayene e Renata        |
 | Gravação da apresentação                                           | Início: 25/06 Fim: 26/06 | Giovana, Lara, Raissa, Rayene e Renata     | Início: 24/06 Fim: 25/06 | Giovana, Lara, Raissa, Rayene e Renata  |
-| Correção pós entrega                                               | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata           | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata    |
+| Correção pós entrega                                               | Início: 03/07 Fim: 05/07| Giovana, Lara, Raissa, Rayene e Renata           | Início: 05/07 Fim: 05/07 | Giovana, Lara, Raissa, Rayene e Renata    |
 
 ## Etapa Final :Entrega Final 
     Esta tabela descreve as atividades planejadas da etapa final
@@ -154,7 +154,7 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Planejamento de verificação dos artefatos anteriores     | Início: 26/06 Fim: 28/06 | Raissa e Lara   | Início: 26/06 Fim: 28/06|Giovana, Lara, Raissa, Rayene e Renata |
 | Relato da verificação das estapas anteriores e ajustes nos artefatos |Início: 26/06 Fim: 28/06 | Renata e Giovana | Início: 26/06 Fim: 28/06| Giovana, Lara, Raissa, Rayene e Renata   |
 |Responder perguntas finais                             |Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      |
-| Gravação da apresentação                                 | Início: 26/06 Fim: 28/06  | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      |
+| Gravação da apresentação                                 | Início: 08/07 Fim:10/07  | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 10/07 Fim: 10/07 | Giovana, Lara, Raissa, Rayene e Renata                      |
 
 
 ## Bibliografia 

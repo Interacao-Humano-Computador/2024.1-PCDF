@@ -13,26 +13,10 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 
 | Artefato | Versão | Data | Autores| Quem vai verificar |
 |----------|----------|----------|----------|----------|
-| Planejamento da Análise de Tarefas  |      1.2    |      19/06    |    [Raissa Andrade](https://github.com/RaissaAndradeS)      |          |
-| Planejamento do Storyboard  |    1.3      |    19/06      |  [Renata Quadros](https://github.com/Renatinha28)        |          |
-| Planejamento do Relato de Tarefas  |       1.1   |  19/06        |   [Giovana Barbosa](https://github.com/gio221)       |          |
-| Planejamento do Relato do Storyboard  |   2.0       |    19/06      |   [Rayene Almeida ](https://github.com/rayenealmeida)       |          |
-
-<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
-
-
-## Checklist Geral 
-
-<center>Tabela 2: Checklist Geral. </center> 
-
-
-| ID | Descrição | Avaliação | Referência |
-|----------|----------|----------|--------|
-|  1  | O Framework DECIDE foi referência para elaborar o planejamento?     |          |          |
-|  2  |          |          |          |
-|  3  |          |          |          |
-|  4  |          |          |          |
-|  5  |          |          |          |
+| Planejamento da Análise de Tarefas  |      1.2    |      22/06    |    [Raissa Andrade](https://github.com/RaissaAndradeS)      |    [Renata Quadros](https://github.com/Renatinha28)       |
+| Planejamento do Storyboard  |    1.3      |    22/06      |  [Renata Quadros](https://github.com/Renatinha28)        |     [Giovana Barbosa](https://github.com/gio221)       |
+| Planejamento do Relato de Tarefas  |       1.1   |  22/06        |   [Giovana Barbosa](https://github.com/gio221)       |      [Renata Quadros](https://github.com/Renatinha28)     |
+| Planejamento do Relato do Storyboard  |   2.0       |    22/06      |   [Rayene Almeida ](https://github.com/rayenealmeida)       |     [Giovana Barbosa](https://github.com/gio221)       |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
@@ -41,13 +25,14 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 <center>Tabela 3: Checklist do Planejamento do Relato do storyboard. </center> 
 
 
-| ID | Descrição | Avaliação | Referência |
-|----------|----------|----------|--------|
-|  6  |          |          |          |
-|  7  |          |          |          |
-|  8  |          |          |          |
-|  9  |          |          |          |
-|  10  |          |          |          |
+| ID | Descrição | Avaliação | Referência | Print |
+|----------|----------|----------|--------|--------|
+|  1  |   O artefato explica a metodologia da avaliação utilizada?    |          |       "11.5.7 Consolidação e Relato dos Resultados"   | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  2  |  O artefato possui gráficos, tabelas ou relatório?     |          |    "11.5.7 Consolidação e Relato dos Resultados"      | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  3  |    No artefato está presente como serão analisados os dados coletados?      |          |        "11.5.7 Consolidação e Relato dos Resultados"  |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  4  |    No artefato tem uma lista de problemas encontrados?      |          |     "11.5.7 Consolidação e Relato dos Resultados"     | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  5  |     No artefato tem o reprojeto?     |          |      "11.5.7 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  6  |    No artefato tem o número e o perfil de usuário e avaliadores que participaram da avaliação?      |          |      "11.5.7 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
@@ -56,13 +41,16 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 <center>Tabela 4: Planejamento da Análise de Tarefas </center> 
 
 
-| ID | Descrição | Avaliação | Referência |
-|----------|----------|----------|--------|
-|  6  |          |          |          |
-|  7  |          |          |          |
-|  8  |          |          |          |
-|  9  |          |          |          |
-|  10  |          |          |          |
+| ID | Descrição | Avaliação | Referência | Print |
+|----------|----------|----------|--------|--------|
+|  1  |   O grupo utilizou o Framework DECIDE como base para o planejamento?     |          |  "11.8 O Framework DECIDE"        | [Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
+|  2  |   Foi realizado o teste-piloto ?       |          |   "11.7.2 Preparação"       | [Página 276](<../../../assets/verificacao/verificação nosso grupo/etapa 4/276.png>) |
+|  3 |    Foram seguidas todas as atividades básicas?     |          |   "11.7 Como Avaliar?"       | [Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275como.png>) |
+|  4  | Os objetivos da avaliação estão definidos?   |          |  "11.2 O que avaliar?"        |[Página 265](<../../../assets/verificacao/verificação nosso grupo/etapa 4/265.png>)|
+|  5  |     O planejamento tem questões práticas e éticas bem definidas?      |          |   "11.7.2 Preparação"       |[Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275.png>)| 
+|6  |   Há um planejamento para o reprojeto?       |          |   "11.7.5 Consolidação e Relato dos Resultados"       |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)| 
+
+
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
@@ -71,13 +59,15 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 <center>Tabela 5: Checklist do Planejamento do Storyboard. </center> 
 
 
-| ID | Descrição | Avaliação | Referência |
-|----------|----------|----------|--------|
-|  6  |          |          |          |
-|  7  |          |          |          |
-|  8  |          |          |          |
-|  9  |          |          |          |
-|  10  |          |          |          |
+| ID | Descrição | Avaliação | Referência | Print |
+|----------|----------|----------|--------|--------|
+|  1  |    No planejamento é apresentada ferramentas utilizadas?       |          |    "11.7.2 Preparação"       | [Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275.png>)|
+|  2  |    O artefato possui perguntas que serão realizadas?      |          |    "11.8 O Framework DECIDE"       |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>) |
+|  3  |   No planejamento explica sobre aspectos éticos?       |          |      "11.8 O Framework DECIDE"     |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>) |
+|  4  |     No planejamento é definido como será a avaliado os dados coletados?     |          |     "11.8 O Framework DECIDE"      |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
+|  5  |     O planejamento está de acordo com Framework DECIDE?     |          |    "11.8 O Framework DECIDE"       |[Página 280](<../../../assets/verificacao/verificação nosso grupo/etapa 4/Página280.png>)|
+|  6  |  A quantidade de participantes estão de acordo com a pesquisa?    |          |    "11.7.2 Preparação"      |[Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275.png>)|
+
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
@@ -86,13 +76,15 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 <center>Tabela 2: Checklist do Retalo do Planejamento de Tarefas. </center> 
 
 
-| ID | Descrição | Avaliação | Referência |
-|----------|----------|----------|--------|
-|  6  |          |          |          |
-|  7  |          |          |          |
-|  8  |          |          |          |
-|  9  |          |          |          |
-|  10  |          |          |          |
+| ID | Descrição | Avaliação | Referência | Print |
+|----------|----------|----------|--------|--------|
+|  1  | No planejamento é encontrado os objetivos da avaliação?       |          |"11.7.5 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  2  |   No planejamento tem o método de avaliação utilizado?       |          |"11.7.5 Consolidação e Relato dos Resultados"    | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  3  |  No planejamento tem a quantidade de participates e avaliadores?        |          |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  4  |  No artefato tem um relato da interpretação e análise dos dados?        |          |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  5  |     No artefato há uma lista de problemas encontrados?     |          | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  6  |     Possui um planejamento para o reprojeto?     |          | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
