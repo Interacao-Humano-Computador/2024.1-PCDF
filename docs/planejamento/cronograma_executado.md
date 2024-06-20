@@ -117,6 +117,26 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação                                                           | Início: 16/06 Fim: 18/06 | Giovana,  Lara, Raissa, Rayene e Renata       | Início: 18/06 Fim: 18/06|Giovana,  Lara, Raissa, Rayene e Renata |
 | Correção pós entrega           | Início: 19/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata             | Início: 21/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata   |
 
+## Etapa 6.2:  Verificação dos artefatos
+    Esta tabela descreve as atividades planejadas da etapa 6.2
+
+| Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
+| :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
+| Planejamento da Avaliação da etapa 1 | Início: 17/06 Fim: 20/06 | Raissa e Rayene     | Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+|Planejamento da Avaliação da etapa 2 | Início: 17/06 Fim: 20/06  | Giovana e Renata |Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 3 | Início: 17/06 Fim: 20/06  | Lara e Giovana    | Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 4 | Início: 17/06 Fim: 20/06  | Raissa e Rayene      | Início: 17/06 Fim: 20/06 | Giovana,  Lara, Raissa, Rayene e Renata          |
+| Planejamento da Avaliação da etapa 5 | Início: 17/06 Fim: 20/06  |  Giovana e Renata      | Início: 17/06 Fim: 20/06  Giovana,  Lara, Raissa, Rayene e Renata          |
+| Relato da etapa 1              |Início: 20/06 Fim: 22/06 |    Lara e Giovana         |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 2              |Início: 20/06 Fim: 22/06 |Raissa e Rayene  |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 3              |Início: 20/06 Fim: 22/06 | Renata  e Raissa            |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 4              |Início: 20/06 Fim: 22/06 |   Rayene e Lara          |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+|  Relato da etapa 5              |Início: 20/06 Fim: 22/06 |Lara e Renata         |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
+| Responder Perguntas finais             |Início: 20/06 Fim: 22/06 | Giovana    |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
+| Gravação da apresentação               | Início: 23/06 Fim: 23/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 23/06 Fim: 23/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega                   | Início: 26/06 Fim: 29/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 29/06 Fim: 29/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+
+
 ## Bibliografia 
 [Exemplo de Cronograma](https://aprender3.unb.br/pluginfile.php/2843633/mod_resource/content/2/Exemplo%20de%20Cronograma.pdf)
 
@@ -132,3 +152,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | 1.4 | tabela da etapa 5 executada  | [Giovana Barbosa ](https://github.com/gio221) | 27/05 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |01/06|
 | 1.5 | tabela da etapa 6.1 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |10/06|
 | 1.6 | tabela da etapa 7 executada  | [Giovana Barbosa ](https://github.com/gio221) | 16/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |16/06|
+| 1.6 | tabela da etapa 6.2 executada  | |  |   |
