@@ -48,8 +48,9 @@ Declaco que estou ciente de que minha participação é voluntária e que concor
 
 [ ]Sim [ ]Não
 
+Como solicitado pelo monitor, nós diminuímos o termo de consentimento para melhor qualidade para o entrevistado. 
 
-### Termo de Consentimento Resumido para Entrevista de Storyboards, Análise de Tarefas e Prototipo de Papel
+### Termo de Consentimento para Entrevista de Storyboards, Análise de Tarefas, Prototipo de Baixa e Alta fidelidade.
 
 Ao participar desta entrevista, você deve estar ciente das seguintes diretrizes éticas:
 
