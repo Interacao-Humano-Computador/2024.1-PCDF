@@ -12,14 +12,39 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 # Funcionalidades a serem tratadas
       Tabela descrevendo quais funcionalidade temos
-| Funcionalidade|      Responsáveis      |   
-|:------:|:-------------------------------:|
-|Pesquisar Procurados |  Lara         | 
-| Solicitar Antecedentes|  Renata         |   
-| 197- Denúncia Online |  Giovana         | 
-| Solicitar carteira de identidade |  Raissa         | 
-| Registra Ocorrência|  Rayene         |
-|Retrato Falado Online|Renata|
+<div align="center">
+<table>
+  <tr>
+    <th>Integrante responsável</th>
+    <th>Artefato</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gio221">Giovana Silva</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/197">Denuncia Online</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+    <td><a href="https://procurados.pcdf.df.gov.br/views/Default.aspx">Pesquisar Procurados</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/carteira-de-identidade">Carteira de identidade</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/delegacia-eletronica">Registra Ocorrência</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/antecedentes-criminais">Solicitar Antecedentes</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+    <td>Retrato Falado</td>
+  </tr>
+</table>
+
+</div>
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
  
@@ -78,26 +103,26 @@ No protótipo em papel de solicitar antecedentes criminais o entrevistado deve s
       Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Raissa|
-| 2 | Qual sua idade? | 25 |
-| 3 | Qual a sua ocupação? | estudante|
+| 1 | Qual seu nome completo? | Thays Cavalcante |
+| 2 | Qual sua idade? | 22 |
+| 3 | Qual a sua ocupação? | Estudante|
 | 4 | Qual seu grau de experiência com tecnologias? | Baixo  |
 | 5 | Você já utilizou o site da PCDF? | Não |
-| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | nenhum |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
 | 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não | 
-| 8 |Qual elemento da interface causou maior dificuldade na interação? | nenhum  |
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Nenhum  |
 | 9 | A navegação pelo sistema foi intuitiva? |  Sim  |
 | 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
 | 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 2 minutos |
-| 12 | O que você mais gostou na interface? | praticidade|
-| 13 | O que você menos gostou ou achou mais difícil na interface |pediu muitas informações |
-| 14 | Que sugestões você tem para melhorar a interface? | pedir menos informações |
+| 12 | O que você mais gostou na interface? | Praticidade|
+| 13 | O que você menos gostou ou achou mais difícil na interface |Pediu muitas informações |
+| 14 | Que sugestões você tem para melhorar a interface? | Pedir menos informações |
 | 15 | Quanto tempo você levou para completar cada tarefa? | minutos |
-| 16 | Quais tarefas você encontrou mais difíceis de completar? | nenhum  |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | Nenhum  |
 | 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
 | 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
-| 20 | Se você pudesse mudar uma coisa na interface, o que seria? |pedir menos informações|
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? |Pedir menos informações|
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
@@ -108,7 +133,7 @@ A sugestão do usuário é que o site pessa menos informações pessoais
 
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/0XqfzSFWmKI " frameborder="0" allowfullscreen></iframe>
-   <p>Video da Entrevista</p>
+   <p>Video da Entrevista protótipo em papel : solicitar antesedentes - Renata </p>
 </div>
 
 # Interpretação de Dados
@@ -292,11 +317,8 @@ Com base na entrevista essa fucnionalide sugerida, é muito importante e bem aut
        Tabela descrevendo perguntas finais
 |Perguntas|Respostas|
 |---------|---------|
-| 1  De que maneira os usuários utilizam o sistema? Em que difere do planejado? <br> Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? <br> Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? <br> Quais problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? | Os usuário usam o sistema de maneira intuitiva, o número de erros dos usuários vária de nenhum a pelo menos um erro, os pontos fortes do sistema é que as fucnionalidades são intuitivas e auto explicativas, alguns problemas e a quantidade de informação que o usuário deve repassar para o sistema
-| 2  Qual das alternativas é a mais eficiente? Mais fácil de aprender? <br> Qual delas os usuários preferem? Por quê? <br> Qual delas torna mais evidente os diferenciais da solução projetada? | As alternativas mais fáceis do usuário aprender são aquelas funcionalidades que demandam menos tempo
-| 3  O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? <br> O quanto eles são motivados a explorar novas funcionalidades? <br> Quais necessidades e desejos foram ou não atendidos? | mediano, mas os usuários não são motivados a explorar novas funcionalidades, eles só utlilizam a funcionalidade que vai atender seu problema
-| 4  Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Quais barreiras o usuário encontra para atingir seus objetivos? | Sim, com muita eficiência e em pouco tempo, quase não cometendo erros
-| 5  Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |Os probelmas se manifestam na maioria das vezes na quantidade de informações que o sistema solicita do usuário, tentar diminuir essas informações solicitadas.
+| 1 - O usuário consegue operar o sistema?<br> 2 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> 3 - Que parte da interface e da interação o deixa insatisfeito? <br> 4 - Ele entende o que significa e para que serve cada elemento de interface? <br> 5 - Quais barreiras o usuário encontra para atingir seus objetivos? | Os usuário usam o sistema de maneira intuitiva e conseguem operar o sistema; Atingem seus objetivos de forma rápida e eficiente; Cometem de zero a, no máximo, um erro; Eles entendem todos os elementos da interface e oque deixou alguns usuários insatisfeito foi apenas a quantidade de dados que precisam ser informados em algumas tarefas. |
+| 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? | O único problema encontrado acontece geralmente no preenchimento de formulários e ocorrem com pouca frequência; A gravidade do problema é miníma pois, na maioria dos casos, para o PCDF realizar algumas tarefas solicitadas, precisam de informações essenciais; O que pode ser feito é verificar se todas as informações pedidas são realmente necessárias; Todos os objetivos foram alcançados. | 
 
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 

@@ -127,7 +127,7 @@ As tarefas são definidas conforme a tabela 5:
 
 </div>
 
-<p align="center">Fonte - Renata Quadros.</p>
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 
 1 - Denúncia On-line
@@ -177,7 +177,7 @@ O perfil dos participantes escolhidos foram baseados no artefato Perfil de Usuá
 | [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Lara Geovanna |
 | [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado | Jessicka Suelen |
 
-<center>  Fonte - Renata Quadros. </center>
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ## Preparar material para observar e registrar o uso.
 
@@ -248,7 +248,7 @@ O roteiro das perguntas que deve ser seguido nas entrevistas está descrito na t
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
 
-<center>  Fonte - Renata Quadros. </center>
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 
 ## D - Decidir como lidar com as questões éticas.
