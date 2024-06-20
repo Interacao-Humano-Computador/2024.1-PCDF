@@ -8,16 +8,42 @@ O objetivo deste documento é fornecer uma metodologia estruturada para o planej
 Para garantir a eficácia e relevância do prototipo de papel, é fundamental seguir uma metodologia estruturada. Neste documento, utilizamos uma metodologia baseada no framework DECIDE, proposta por Sharp, Rogers e Preece (2007), que fornece uma abordagem sistemática e abrangente para esse planejamento. A tabela 1 descreve o significado de cada letra nesta metodologia. 
 
     Tabela 1: framework DECIDE
-| Letra | Descrição |
-|:-----:|------------------------------------------------------------------|
-| D | Determinar os objetivos da avaliação. |
-| E | Explorar perguntas a serem respondidas com a avaliação. |
-| C | Escolher os métodos de avaliação a serem utilizados. |
-| I | Identificar e administrar as questões práticas da avaliação. |                                                               
-| D | Decidir como lidar com as questões éticas. |
-| E | Avaliar, interpretar e apresentar os dados. |
+<div align="center">
+<table>
+  <tr>
+    <th>Letra</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Determinar os objetivos da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Explorar perguntas a serem respondidas com a avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td>Escolher os métodos de avaliação a serem utilizados.</td>
+  </tr>
+  <tr>
+    <td align="center">I</td>
+    <td>Identificar e administrar as questões práticas da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Decidir como lidar com as questões éticas.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Avaliar, interpretar e apresentar os dados.</td>
+  </tr>
+</table>
 
 Fonte - BARBOSA e SILVA (2010).
+
+</div>
+
 
 ## Planejamento da Avaliação do Prototipo de Papel
 
@@ -25,29 +51,23 @@ Fonte - BARBOSA e SILVA (2010).
 Os objetivos específicos da avaliação de usabilidade utilizando prototipação em papel são descritos na tabela 2:
 
     Tabela 2: objetivos da avaliação
-| Número | Objetivo | Descrição |
+| ID | Objetivo | Descrição |
 | :-----: | --------------------------------------------- | -------------------------------------------------------------------------------------|
-| 1 | Identificar Problemas de Usabilidade | Detectar elementos da interface que dificultam a interação do usuário ou que são mal compreendidos. <br > Avaliar a eficácia dos componentes de navegação e dos widgets da interface. |
-| 2 | Comparar Alternativas de Design | Testar diferentes soluções de design para determinar quais são mais intuitivas e fáceis de usar. |
-| 3 | Obter Feedback dos Usuários | Coletar opiniões e sugestões dos usuários sobre a interface, permitindo ajustes e melhorias baseados em suas experiências. |
-| 4 | Avaliar a Eficiência das Tarefas | Analisar se os usuários conseguem completar as tarefas propostas de maneira eficiente e sem dificuldades significativas. |
-| 5 | Priorizar Correções | Identificar quais problemas de usabilidade são mais críticos e devem ser corrigidos com maior prioridade. |
+| 1 | Identificar problemas na interação e interface | Detectar elementos da interface que dificultam a interação do usuário ou que são mal compreendidos. <br > Avaliar a eficácia dos componentes de navegação e dos widgets da interface. |
+| 2 | Obter Feedback dos Usuários | Coletar opiniões e sugestões dos usuários sobre a interface, permitindo ajustes e melhorias baseados em suas experiências. |
 
-Fonte - BARBOSA e SILVA (2010).
+<center> Fonte - BARBOSA e SILVA (2010). </center>
 
 ## E - Explorar perguntas a serem respondidas com a avaliação.
 De acordo com os objetivos definidos, as perguntas a serem respondidas com a avaliação são descritas na tabela 3:
 
     Tabela 3: perguntas a serem respondidas com a avaliação
-| Número | Perguntas |
-| :-----: | ---------------------------------------------------------------------------------------------------------------- |
-| 1 | De que maneira os usuários utilizam o sistema? Em que difere do planejado? <br> Que variação houve no número de erros cometidos pelos usuários ao utilizarem o novo sistema? <br> Quais são os pontos fortes e fracos do sistema, na opinião dos usuários? <br> Quais problemas de IHC dificultam ou impedem o usuário de alcançar seus objetivos? |
-| 2 | Qual das alternativas é a mais eficiente? Mais fácil de aprender? <br> Qual delas os usuários preferem? Por quê? <br> Qual delas torna mais evidente os diferenciais da solução projetada? |
-| 3 | O quanto os usuários consideram o apoio computacional adequado para auxiliá-los na realização de suas atividades? <br> O quanto eles são motivados a explorar novas funcionalidades? <br> Quais necessidades e desejos foram ou não atendidos? |
-| 4 | Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Quais barreiras o usuário encontra para atingir seus objetivos? |
-| 5 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
+| Número | Objetivo | Perguntas |
+| :-----: | ----------- |---------------------------------------------------------------------------------------------------------------- |
+| 1 | Identificar problemas na interação e interface | 1 - O usuário consegue operar o sistema? <br> 2 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> 3 -  Que parte da interface e da interação o deixa insatisfeito?<br> 4 - Ele entende o que significa e para que serve cada elemento de interface? <br> 5 -  Quais barreiras o usuário encontra para atingir seus objetivos? <br>  |
+| 2 | Obter Feedback dos Usuários | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
 
-Fonte - BARBOSA e SILVA (2010).
+<center> Fonte - BARBOSA e SILVA (2010). </center>
 
 ## C - Escolher os métodos de avaliação a serem utilizados.
 A forma de avaliação será por meio de uma simulação de uso. Simular o uso em papel é um modo rápido e barato de identificar problemas de usabilidade antes mesmo de construir uma solução de IHC executável. Esse método é uma opção interessante para uma avaliação formativa junto aos usuários, principalmente para comparar alternativas de design. Ele permite avaliar facilmente soluções parciais, que não cobrem toda a interface com o usuário, e soluções de baixa e média fidelidade, que ainda não definem todos os detalhes da interface.
@@ -59,20 +79,46 @@ Para a realização da avaliação, será utilizada uma combinação de métodos
 
 
         Tabela 4: artefatos a serem avaliados
-| Integrante responsável | Artefato |
-| :------------------------------------------------------: | ------------------------------------------- |
-| [Giovana Silva](https://github.com/gio221) | Denuncia Online |                  
-| [Lara Giuliana](https://github.com/gravelylara) | Pesquisar Procurados  |            
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | Carteira de identidade  | 
-| [Rayene Almeida](https://github.com/rayenealmeida) | Registra Ocorrência |    
-| [Renata Quadros](https://github.com/Renatinha28) |  Solicitar Antecedentes | 
-| [Renata Quadros](https://github.com/Renatinha28) |  Retrato Falado | 
+<div align="center">
+<table>
+  <tr>
+    <th>Integrante responsável</th>
+    <th>Artefato</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gio221">Giovana Silva</a></td>
+    <td>Denuncia Online</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+    <td>Pesquisar Procurados</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
+    <td>Carteira de identidade</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+    <td>Registra Ocorrência</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+    <td>Solicitar Antecedentes</td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+    <td>Retrato Falado</td>
+  </tr>
+</table>
 
-Fonte - Renata Quadros.
+</div>
+
+
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 * Recrutamento: 
 
-Cada membro do grupo criou seu próprio protótipo em papel, totalizando sete protótipos, com um membro responsável por dois deles. Portanto, precisamos de sete usuários para a avaliação. O recrutamento dos usuários será flexível, considerando o perfil levantado por um questionário anterior. A seleção será individual para cada storyboard, garantindo que os usuários correspondam ao contexto específico de cada protótipo.
+Cada membro do grupo criou seu próprio protótipo em papel, totalizando 6 protótipos, com um membro responsável por dois deles. Portanto, precisamos de 6 entrevistados para a avaliação. O recrutamento dos usuários será flexível, considerando o perfil levantado por um questionário anterior. A seleção será individual para cada storyboard, garantindo que os usuários correspondam ao contexto específico de cada protótipo.
 
 * Preparação: 
 
@@ -89,10 +135,10 @@ As entrevistas serão conduzidas presencialmente, utilizando a câmera do celula
 
 * Teste piloto
 
-O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante Renata 
+O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento.   
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1yyfp6XTy6k " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/1yyfp6XTy6k " target="blanket">Vídeo do teste piloto</a></p>
+<p style="text-align: center"><a href="https://youtu.be/1yyfp6XTy6k " target="blanket">Vídeo do teste piloto - Solicitar Antecedentes - Renata </a></p>
 
 
 ## Cronograma 
@@ -105,10 +151,10 @@ A seguir, na tabela 5, o cronograma de como será documentado.
 | [Lara Giuliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Marcos |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade |Luis|
 | [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência |Heber|
-| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
-| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 |  Retrato Falado | Lara Geovanna |
+| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Casa da entrevistada | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
+| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Casa da entrevistada | 19:00 |  Retrato Falado | Maria Eduarda Costa |
 
-Fonte - Renata Quadros.
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ## Roteiro das perguntas
 A tabela 6 descreve o roteiro das perguntas:
@@ -139,21 +185,6 @@ A tabela 6 descreve o roteiro das perguntas:
 
 Fonte - BARBOSA e SILVA (2010).
 
-A tabela 7 descreve o roteiro das perguntas para os integrantes que mostrarão mais de uma comparação de interfaces:
-
-    Tabela 7: roteiro para as perguntas da comparação de interfaces
-| Número | Pergunta | Resposta |
-| :------: | ------------------------------------------------------- | --------------------------------------- |
-| 1 | Qual das interfaces você achou mais intuitiva e por quê? | Aberta |
-| 2 | Você teve dificuldades em encontrar certas funcionalidades em alguma das interfaces? Se sim, quais? | Aberta |
-| 3 | Qual das alternativas de design permitiu que você completasse as tarefas mais rapidamente? | Aberta |
-| 4 | Houve algum elemento específico em uma das interfaces que facilitou ou dificultou a sua experiência? Qual? | Aberta |
-| 5 | Se tivesse que escolher uma das interfaces para usar regularmente, qual escolheria e por quê? | Aberta |
-| 6 | Existem aspectos de uma interface que você gostaria de ver implementados na outra? Se sim, quais? | Aberta |
-| 7 | Qual interface proporcionou uma experiência de usuário mais agradável no geral? | Aberta |
-
-Fonte - BARBOSA e SILVA (2010).
-
 ## D - Decidir como lidar com as questões éticas.
 Antes de prosseguir com a entrevista, é importante abordar questões éticas que regem nosso processo. Nossa abordagem ética é fundamentada nos princípios estabelecidos pelo Conselho Nacional de Saúde, especialmente nos pilares da autonomia, beneficência, não-maleficência e justiça e equidade. Esses princípios orientam nossas práticas para garantir que a pesquisa seja conduzida de forma ética e respeitosa. O termo de consentimento está presente no artefato [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
@@ -177,4 +208,5 @@ Após essa fase de análise, os dados serão compartilhados com a equipe. A apre
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento |[Giovana Barbosa](https://github.com/gio221)| 27/05 | [Renata Quadros](https://github.com/Renatinha28)  | 27/05 |
 | 1.1 | Planejamento da avaliação | [Renata Quadros](https://github.com/Renatinha28) | 27/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
-| 1.1 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
+| 1.2 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
+| 1.3 | Correção pós entrega 7 | [Renata Quadros](https://github.com/Renatinha28) | 20/06 | | 

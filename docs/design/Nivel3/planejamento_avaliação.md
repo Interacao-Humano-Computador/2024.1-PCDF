@@ -39,10 +39,10 @@ Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA
 De acordo com os objetivos determinados, a seguir, na tabela 3 são descritas as perguntas para cada objetivo inspirados em BARBOSA e SILVA (2010).
 
     Tabela 3: perguntas a serem respondidas com a avaliação
-| Número | Perguntas |
-| :-----: | ---------------------------------------------------------------------------------------------------------------- |
-| 1 | O usuário consegue operar o sistema? <br> Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Que parte da interface e da interação o deixa insatisfeito?<br> Ele entende o que significa e para que serve cada elemento de interface? <br> Quais barreiras o usuário encontra para atingir seus objetivos? <br>  |
-| 2 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
+| Número | Objetivo | Perguntas |
+| :-----: | ----------- |---------------------------------------------------------------------------------------------------------------- |
+| 1 | Identificar problemas na interação e interface | 1 - O usuário consegue operar o sistema? <br> 2 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> 3 -  Que parte da interface e da interação o deixa insatisfeito?<br> 4 - Ele entende o que significa e para que serve cada elemento de interface? <br> 5 -  Quais barreiras o usuário encontra para atingir seus objetivos? <br>  |
+| 2 | Obter Feedback dos Usuários | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
 
