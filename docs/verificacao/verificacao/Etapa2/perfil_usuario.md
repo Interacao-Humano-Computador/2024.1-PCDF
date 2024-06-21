@@ -21,7 +21,7 @@ A tabela 1 descreve a verificação do Resultado de Perfil de Usuário.
 | 6 | Priorizamos as características dos perfis de usuário conforme o produto e projeto? | Sim | "6.1 Perfil de Usuário" | [Página 194.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina194.6.png) |
 | 7 | Relatamos os resultados consolidados, incluindo objetivos, escopo, métodos, perfis de usuários e avaliadores, dados coletados, interpretação, problemas encontrados e planejamento para reprojeto? | Incompleto | "9.7.5 Consolidação E Relato Dos Resultados" | [Página 334.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina334.1.png) |
 
-  <center> <p>Tabela 1. Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>, 2024</p>
+  <center> <p>Tabela 1. Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a>, 2024</p>
 </center>
 
 ### Gravação
@@ -50,7 +50,7 @@ Como mostrado na figura 1, o artefado Perfil de Usuário está bom, necessitando
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/perfil-de-usuario.png)
 <div align="center">
 <p> Figura 1 - Respostas da verificação do questionário.</p>
- <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuiana</a>  </p></center>        
+ <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuiana</a>, 2024  </p></center>        
 </div></center>
 
 
@@ -60,9 +60,9 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 21/06 | Adaptar o texto do artefato para incluir os itens faltantes | [Lara Giuliana](https://github.com/gravelylara) | |
+| 23/06 | Adaptar o texto do artefato para incluir os itens faltantes | [Lara Giuliana](https://github.com/gravelylara) | |
 
-<center>  Tabela 2. Fonte: [Lara Giuliana](https://github.com/gravelylara). </center>
+<center> <p>Tabela 2. Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a>, 2024</p></center>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

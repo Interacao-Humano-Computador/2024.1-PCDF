@@ -160,11 +160,11 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 - ID 7: Adaptar para uma persona previamente elaborada ser utilizada.
 
 ### Conclusão
-Como monstrado na figura 5, o cenário está bom, mas ainda precisa de algumas correções.
+Como monstrado na figura 4, o cenário está bom, mas ainda precisa de algumas correções.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-raissa.png)
 <div align="center">
-<p> Figura 5 - conclusão verificação do cenário: Raissa.</p>
+<p> Figura 4 - conclusão verificação do cenário: Raissa.</p>
 <center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> </center>    
 </div></center>
 
@@ -213,12 +213,12 @@ Não foram encontrados nenhum problema nesse cenário
 Como não foi encontrado nenhum problema, não temos sugestões
 
 ### Conclusão
-Como monstra na figura 1 o cenário está muito bom, e não precisa de correções
+Como monstra na figura 5 o cenário está muito bom, e não precisa de correções
 
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/personas.png)
 <div align="center">
-<p> Figura 1 - Respostas da verificação </p>
+<p> Figura 5 - Respostas da verificação </p>
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
@@ -226,30 +226,61 @@ Como monstra na figura 1 o cenário está muito bom, e não precisa de correçõ
 Como não tivemos problemas nem soluções, o cenário está excelente, portanto não necessita de um reprojeto
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
-### Checklist Storyboards
+### Checklist cenário
+A tabela 10 descreve a verificação do cenário da Raissa.
 
+      Tabela 10: verificação cenário - Raissa
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim| "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | Sim| "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? |Sim| "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? |Sim | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? |Incompleto | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? |Sim | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? |Não | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? |Sim | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
+
+<center>  Fonte: [Lara Giuliana](https://github.com/gravelyLara), 2024 </center>
 
 ### Gravação
+A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://youtu.be/FhtYqX3Qulo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://youtu.be/FhtYqX3Qulo" target="_blank">Vídeo da verificação: cenário - Renata </a>
+</p>
 
 ### Problemas encontrados
+- ID 5: Não apresenta satisfação final da persona.
+- ID 7: Não foi utilizada uma persona previamente elaborada.
 
 ### Soluções
+- ID 5: Adaptar para apresentar todos os elementos característicos do cenário.
+- ID 7: Adaptar para uma persona previamente elaborada ser utilizada.
 
 ### Conclusão
+Como monstrado na figura 6, o cenário está bom, mas ainda precisa de algumas correções.
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-renata.png)
+<div align="center">
+<p> Figura 6 - conclusão verificação do cenário: Renata.</p>
+<center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p> </center>    
+</div></center>
+
+
 ### Cronograma do reprojeto
+A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
 
+      Tabela 11: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| Detalhar a experiências da persona,  e adaptar para se basear em uma persona prévia|[Renata Quadros](https://github.com/Renatinha28)  | |
 
+<center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 
 
 ## Bibliografia
@@ -263,4 +294,5 @@ Como não tivemos problemas nem soluções, o cenário está excelente, portanto
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
 | 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
+| 1.1 | Verificação retrato falado | [Lara Giuliana](https://github.com/gravelylara) | 21/06 |
 
