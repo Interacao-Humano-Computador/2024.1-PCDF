@@ -31,19 +31,19 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1| Os Principios gerais foram baseados em algum desse autores?(Norman, Tognazzini, Nielsen ou Shneiderman)||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|2|Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|3|Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|4|	Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|5|Os princípios gerais do projeto contém consistência e padronização ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|6|Os princípios gerais do projeto contém promoção da eficiência do usuário ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|7|Os princípios gerais do projeto contém antecipação das necessidades do usuário ?	||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|8|Os princípios gerais do projeto contém visibilidade e reconhecimento ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|9|Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?	||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|10|Os princípios gerais do projeto contém projeto para erros ?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|11|O artefato possui uma explicação da metodologia?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|12|O artefato possui uma explicação do objetivo?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
-|13|Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?||pagina 238|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|1| Os Principios gerais foram baseados em algum desse autores?(Norman, Tognazzini, Nielsen ou Shneiderman)||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|2|Os princípios gerais do projeto contém correspondência com as expectativas dos usuários ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|3|Os princípios gerais do projeto contém simplicidade nas estruturas das tarefas ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|4|	Os princípios gerais do projeto contém equilíbrio entre controle e liberdade do usuário ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|5|Os princípios gerais do projeto contém consistência e padronização ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|6|Os princípios gerais do projeto contém promoção da eficiência do usuário ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|7|Os princípios gerais do projeto contém antecipação das necessidades do usuário ?	||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|8|Os princípios gerais do projeto contém visibilidade e reconhecimento ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|9|Os princípios gerais do projeto contém conteúdo relevante e expressão adequada ?	||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|10|Os princípios gerais do projeto contém projeto para erros ?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|11|O artefato possui uma explicação da metodologia?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|12|O artefato possui uma explicação do objetivo?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
+|13|Foram identificadas violações dos princípios gerais definidos no projeto? Caso sim, essas violações foram explicitadas?||capitulo 10|[pagina 238](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/principos.png)|
 
 <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
@@ -52,16 +52,16 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|No documento a uma descrição das metas de usabilidade que devem ser alcançadas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|2|é apresentado o motivo da escolha dessas metas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|3|É apresentado a meta segurança no  uso?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|4|A meta segurança no uso é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|5|É apresentada a meta eficiência?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|6|A meta eficiência é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|7|É apresentada a meta facilidade de aprendizado?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|8|A meta facilidade de aprendizado é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|9|É apresentada a meta facilidade de recordação?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|10|A meta facilidade de recordação é apresentado adequadamente, incluindo com é no sitemas?||página 35|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|1|No documento a uma descrição das metas de usabilidade que devem ser alcançadas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|2|é apresentado o motivo da escolha dessas metas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|3|É apresentado a meta segurança no  uso?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|4|A meta segurança no uso é apresentado adequadamente, incluindo com é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|5|É apresentada a meta eficiência?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|6|A meta eficiência é apresentado adequadamente, incluindo com é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|7|É apresentada a meta facilidade de aprendizado?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|8|A meta facilidade de aprendizado é apresentado adequadamente, incluindo com é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|9|É apresentada a meta facilidade de recordação?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|10|A meta facilidade de recordação é apresentado adequadamente, incluindo com é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
 
   <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
@@ -114,4 +114,4 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação | [Lara](https://github.com/gravelylara) e [Giovana Barbosa](https://github.com/gio221) | 18/06 | | |
+| 1.0 | Planejamento da verificação | [Giovana Barbosa](https://github.com/gio221) | 18/06 | [Renata Quadros](https://github.com/Renatinha28)| 21/06|

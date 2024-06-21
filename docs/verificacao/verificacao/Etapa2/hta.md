@@ -31,11 +31,11 @@ A tabela 2 descreve a verificação da HTA da Lara.
       Tabela 2: verificação HTA - Lara.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | Sim, mas apenas no documento | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | Sim. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | Sim. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | Não. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | Não. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 1 | A análise começa pela definição dos objetivos das pessoas? | Sim, mas apenas no documento| "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | Sim.| "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? |Sim. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | Não.| "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | Não.| "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
   <center> <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>, 2024</p>
 </center>
@@ -61,6 +61,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 A figura 1 descreve a conclusão. A HTA está boa, mas pode ser melhorada
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-%20LARA.png)
+<div align="center">
+<p> Figura 5 - conclusão verificação </p>
+<center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> </center>    
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -77,11 +84,11 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
 ### Gravação
 
@@ -92,16 +99,16 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 ### Cronograma do reprojeto
 
-## 3- Validar Antecedentes Criminais <a id="validar"></a>
+## 3- 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist HTA
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
 ### Gravação
 
@@ -112,38 +119,18 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 ### Cronograma do reprojeto
 
-## 4- 197- Denúncia Online <a id="denuncia"></a>
-### Checklist HTA
-
-| ID | Descrição | Avaliação | Referência | Print |
-| :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
-
-### Gravação
-
-### Problemas encontrados
-
-### Soluções
-
-### Conclusão
-### Cronograma do reprojeto
-
-## 5- Solicitar Carteira de Identidade <a id="carteira"></a>
+## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist HTA
 A figura 10 descreve a verificação da HTA da Raissa.
 
       Figura 10: Verificação HTA - Raissa.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | Sim, mas apenas no documento | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | Sim. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | Sim. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | Não. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | Incompleto. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 1 | A análise começa pela definição dos objetivos das pessoas? |Sim, mas apenas no documento | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? |Sim. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? | Sim.| "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? |Não. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? |Incompleto. | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
   <center> <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>, 2024</p>
 </center>
@@ -157,6 +144,7 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=39VDf2dJlrc" target="_blank">Vídeo da verificação: HTA - Raissa </a>
 </p>
+
 ### Problemas encontrados
 - ID 4: A HTA não considera diferentes maneiras de alcançar o objetivo dependendo das circunstâncias.
 - ID 5: A HTA não inclui a avaliação de diferentes níveis de desempenho humano.
@@ -168,6 +156,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 A figura 5 descreve a conclusão. A HTA está boa, mas pode ser melhorada
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-%20LARA.png)
+<div align="center">
+<p> Figura 5 - conclusão verificação </p>
+<center>  <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a></p> </center>    
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -178,36 +173,64 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
-## 6- Registrar Ocorrência <a id="registrar"></a>
+## 5- Registrar Ocorrência <a id="registrar"></a>
 ### Checklist HTA
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 1 | A análise começa pela definição dos objetivos das pessoas? |Sim, apenas no documento | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? |Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? |Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? |Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? |Não | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
 ### Gravação
+A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como monstra no video
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/F9cgFLosBYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=F9cgFLosBYM" target="_blank">Vídeo da verificação </a>
+     <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>   
+</p>
 
 ### Problemas encontrados
+ - ID 1: Não tem objetivo da analise na funcionalidade
+ - ID 5: Não tem diagram 
 
 ### Soluções
+ - ID 1: Colocar o objetivo da analise naquela funcionalidade
+ - ID 5: Colocar o diagrama
 
 ### Conclusão
-### Cronograma do reprojeto
+Como monstra na figura 1 a anlise precisa de alguns ajustes
 
-## 7- Retrato Falado Online <a id="retrato"></a>
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/hta.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
+### Cronograma do reprojeto
+A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
+
+      Tabela 11: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|21/06|Colocar o objetivo e o diagrama na HTA| [Rayene Almeida ](https://github.com/rayenealmeida) |
+
+## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist HTA
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1]() |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2]() |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1]() |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1]() |
-| 5 | A HTA inclui a avaliação de diferentes níveis de desempenho humano? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2]() |
+| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
 ### Gravação
 

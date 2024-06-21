@@ -29,19 +29,19 @@ A tabela 2 descreve a verificação do cenário da Lara.
       Tabela 2: verificação cenário - Lara
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim. | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | Sim | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | Sim. | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | Sim. | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim. | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | Sim. | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | Não. | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | Sim | "6.3 Cenários" | [Página 205.1]() |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim| "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? |Sim | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? |Sim | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | Sim| "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? |Sim | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | Sim| "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? |Não | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | Sim| "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ### Gravação
-A verificação foi feita pela integrante [Renata Quadros](https://github.com/Renatinha28) e a gravação está logo abaixo.
+A verificação foi feita pela integrante [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) a gravação está logo abaixo.
 
 <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/Rj574wmPtz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -80,14 +80,14 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1]() |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 ### Gravação
 
@@ -98,19 +98,19 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 ### Cronograma do reprojeto
 
-## 3- Validar Antecedentes Criminais <a id="validar"></a>
+## 3- 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist cenário
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1]() |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 ### Gravação
 
@@ -121,44 +121,21 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 ### Cronograma do reprojeto
 
-## 4- 197- Denúncia Online <a id="denuncia"></a>
-### Checklist cenário
-
-| ID | Descrição | Avaliação | Referência | Print |
-| :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1]() |
-
-### Gravação
-
-### Problemas encontrados
-
-### Soluções
-
-### Conclusão
-### Cronograma do reprojeto
-
-## 5- Solicitar Carteira de Identidade <a id="carteira"></a>
+## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist cenário
 A tabela 10 descreve a verificação do cenário da Raissa.
 
       Tabela 10: verificação cenário - Raissa
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim. | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | Sim. | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | Incompleto. Pode ser mais rico em detalhes como experiência e etc. | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | Sim. | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | Incompleto. Não apresenta certos elementos. | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | Sim. | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | Não. | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | Sim. | "6.3 Cenários" | [Página 205.1]() |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim| "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | Sim| "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? |Não| "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? |Sim | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? |Não | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? |Sim | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? |Não | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? |Sim | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -203,42 +180,64 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
-## 6- Registrar Ocorrência <a id="registrar"></a>
+## 5- Registrar Ocorrência <a id="registrar"></a>
 ### Checklist cenário
+    Tabela que descreve as respostas do checklist
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1]() |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim| "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | Sim| "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | Sim| "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? |Sim | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? |Sim | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? |Sim | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? |Sim | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? |Sim | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 ### Gravação
+A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como monstra no video
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/BNvTdbqGMOk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=BNvTdbqGMOk" target="_blank">Vídeo da verificação </a>
+     <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>   
+</p>
 
 ### Problemas encontrados
+Não foram encontrados nenhum problema nesse cenário
 
 ### Soluções
+Como não foi encontrado nenhum problema, não temos sugestões
 
 ### Conclusão
-### Cronograma do reprojeto
+Como monstra na figura 1 o cenário está muito bom, e não precisa de correções
 
-## 7- Retrato Falado Online <a id="retrato"></a>
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/personas.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
+### Cronograma do reprojeto
+Como não tivemos problemas nem soluções, o cenário está excelente, portanto não necessita de um reprojeto
+
+## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Storyboards
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1]() |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2]() |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3]() |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4]() |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5]() |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6]() |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7]() |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1]() |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 ### Gravação
 
@@ -262,6 +261,6 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
+| 1.0 | Verificando registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
 | 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
 

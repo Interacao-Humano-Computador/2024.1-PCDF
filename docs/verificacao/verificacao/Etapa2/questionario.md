@@ -10,15 +10,17 @@ A metodologia ultilizada é a de verificação por inspeção, quando dois integ
 # Checklist
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | As perguntas estão formuladas de maneira clara e sem ambiguidades? | Sim | "5.5.2 Questionários" | [Pagina 172.1]() | 
-| 2 | A ordem das perguntas foi cuidadosamente planejada para evitar influências entre elas? | Não| "5.5.2 Questionários" | [Página 173.1]() | 
-| 3 | O questionário inclui instruções claras sobre como responder cada pergunta? |Sim | "5.5.2 Questionários" | [Página 172.2]() | 
-| 4 | Há perguntas introdutórias para coletar informações demográficas e de experiência relevantes? | Sim| "5.5.2 Questionários" | [Página 173.2]() | 
-| 5 | Existem o minímo de respostas abertas possivéis? | Sim| "5.5.2 Questionários" | [Página 176.1]() | 
+| 1 | As perguntas estão formuladas de maneira clara e sem ambiguidades? |Sim | "5.5.2 Questionários" | [Pagina 172.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/172.1.png) | 
+| 2 | A ordem das perguntas foi cuidadosamente planejada para evitar influências entre elas? |Não | "5.5.2 Questionários" | [Página 173.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/173.1.png) | 
+| 3 | O questionário inclui instruções claras sobre como responder cada pergunta? | Sim| "5.5.2 Questionários" | [Página 172.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina172.2.png) | 
+| 4 | Há perguntas introdutórias para coletar informações demográficas e de experiência relevantes? | Sim| "5.5.2 Questionários" | [Página 173.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/173.2.png) | 
+| 5 | Existem o minímo de respostas abertas possivéis? | Sim| "5.5.2 Questionários" | [Página 176.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina176.1.png) | 
+
 
 <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 # Gravação
+A verificação do checklist foi gravda e foi feita pelas integrantes [Giovana Barbosa](https://github.com/gio221) e  [Lara Giuliana](https://github.com/gravelylara) 
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/etXstWwZHM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/etXstWwZHM0" target="blanket">Vídeo da Verificação</a></p>
@@ -59,4 +61,4 @@ Como monstrado na imagem 1 o artefato do questionário foi muito bem feito, com 
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 | | |
+| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 |  [Renata Quadros](https://github.com/Renatinha28)| 21/06|

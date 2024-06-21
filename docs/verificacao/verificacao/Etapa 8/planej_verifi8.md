@@ -25,11 +25,11 @@ A metodologia adotada para a elaboração deste relatório baseia-se em técnica
 ## Checklist do Protótipo de Alta Fidelidade 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Os agrupamentos e características dos elementos de interface estão claramente definidos? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.1]() |
-| 2 | Os elementos de interface interativos (widgets) estão posicionados de maneira adequada? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.2]() |
-| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1]() |
-| 4 | A representação de alta fidelidade inclui todos os detalhes gráficos necessários? |  | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.2]() | 
-| 5 | O vocabulário utilizado na interface é consistente e familiar ao usuário? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 272.1]() | 
+| 1 | Os agrupamentos e características dos elementos de interface estão claramente definidos? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.1.png) |
+| 2 | Os elementos de interface interativos (widgets) estão posicionados de maneira adequada? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.2.png) |
+| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.1.png) |
+| 4 | A representação de alta fidelidade inclui todos os detalhes gráficos necessários? |  | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.2.png) | 
+| 5 | O vocabulário utilizado na interface é consistente e familiar ao usuário? | | "7.4.2 Representações Da Interface Com Usuário" | [Página 272.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina272.1.png) | 
 
   <center> <p>Fonte: <a href="https://github.com/Renatinha28">Renata Quadros</a>, 2024</p>
 </center>

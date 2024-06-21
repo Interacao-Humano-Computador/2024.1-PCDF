@@ -11,12 +11,12 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 
 <center>Tabela 1: Artefatos a serem verificados. </center> 
 
-| Artefato | Versão | Data | Autores| Quem vai verificar |
-|----------|----------|----------|----------|----------|
-| Planejamento da Análise de Tarefas  |      1.2    |      22/06    |    [Raissa Andrade](https://github.com/RaissaAndradeS)      |    [Renata Quadros](https://github.com/Renatinha28)       |
-| Planejamento do Storyboard  |    1.3      |    22/06      |  [Renata Quadros](https://github.com/Renatinha28)        |     [Giovana Barbosa](https://github.com/gio221)       |
-| Planejamento do Relato de Tarefas  |       1.1   |  22/06        |   [Giovana Barbosa](https://github.com/gio221)       |      [Renata Quadros](https://github.com/Renatinha28)     |
-| Planejamento do Relato do Storyboard  |   2.0       |    22/06      |   [Rayene Almeida ](https://github.com/rayenealmeida)       |     [Giovana Barbosa](https://github.com/gio221)       |
+| Artefato | Versão | Integrante responsável que fez o artefato | Integrante responsável que irá verificar o artefato | Data da verificação | Resultado |
+|----------|----------|----------|----------|----------|----------|
+| [Planejamento da Análise de Tarefas](http://127.0.0.1:8080/design/Nivel1/analise_tarefas/planejamento_avalia%C3%A7%C3%A3o/) |      1.2    |       [Raissa Andrade](https://github.com/RaissaAndradeS)      |    [Renata Quadros](https://github.com/Renatinha28)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento_analise_tarefas/)|
+| [Planejamento do Storyboard](http://127.0.0.1:8080/design/Nivel1/storyboard/planejamento_avalia%C3%A7%C3%A3o/)  |    1.3      |      [Renata Quadros](https://github.com/Renatinha28)        |     [Giovana Barbosa](https://github.com/gio221)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento_storyboard/)|
+| [Planejamento do Relato de Tarefas](http://127.0.0.1:8080/design/Nivel1/analise_tarefas/planejamento_relato/)  |       1.1   |    [Giovana Barbosa](https://github.com/gio221)       |      [Renata Quadros](https://github.com/Renatinha28)     |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento-relato-tarefas/)|
+| [Planejamento do Relato do Storyboard](http://127.0.0.1:8080/design/Nivel1/storyboard/planejamento_relato/)  |   2.0       |     [Rayene Almeida ](https://github.com/rayenealmeida)       |     [Giovana Barbosa](https://github.com/gio221)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planej_relato_stroryboard/)|
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
@@ -94,4 +94,4 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento de verificação | [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida ](https://github.com/rayenealmeida)   | 15/06 |  | |
+| 1.0 |  Criação do planejamento de verificação | [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida ](https://github.com/rayenealmeida)   | 15/06 |[Giovana Barbosa](https://github.com/gio221)  | 21/06|
