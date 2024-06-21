@@ -31,7 +31,8 @@ A verificação do checklist foi gravda e foi feita pelas integrantes [Giovana B
 
 # soluções
 
-* ID 2: Mudar a ordem da pergunta "Se o usuário conhece o site"
+* ID 2: Como já ultilizamos o questionário não há necessidade de mudança da orden das perguntas
+
 
 # Conclusão
 A imagem 1 monstra como ficou as respostas obtidas
@@ -45,9 +46,7 @@ A imagem 1 monstra como ficou as respostas obtidas
 Como monstrado na imagem 1 o artefato do questionário foi muito bem feito, com 80% de acertos
 
 # Cronograma do reprojeto
-|Data de Correção|DescriçãoR|responsável(eis)|Status|
-|-------|------|------|-----|
-|28/06|Corrigir a ordem das perguntas|[Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)||
+Como já ultilizamos o questionário não há necessidade de mudança da orden das perguntas
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
