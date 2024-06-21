@@ -23,7 +23,7 @@ Para esta verificação será considerado os seguintes artefatos:
 
 ## Participantes e Cronograma
 
-## Checklists
+## Checklist Cronograma
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -38,6 +38,122 @@ Para esta verificação será considerado os seguintes artefatos:
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
+
+## Checklist Cronograma Executado
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+
+## Checklist Ferramentas
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+
+
+## Checklist Processo de Design
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+
+
+## Checklist Site Avaliado
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+
+
+## Checklist Site Escolhido
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+
+
+## Checklist Metodologia
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+
+
+## Checklist Referência, fontes, escrita
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | | | | [Print]() |
+| 2 | | | | [Print]() |
+| 3 | | | | [Print]() |
+| 4 | | | | [Print]() |
+| 5 | | | | [Print]() |
+| 6 | | | | [Print]() |
+| 7 | | | | [Print]() |
+| 8 | | | | [Print]() |
+
+<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
 
 ## Bibliografia
