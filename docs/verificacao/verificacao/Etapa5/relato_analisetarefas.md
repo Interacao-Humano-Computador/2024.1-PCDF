@@ -7,8 +7,8 @@ Esse artefato tem como obejtivo avaliar as Análises de Tarefas feitas pelo grup
 ## Metodologia
 A metodologia ultilizada é a de inspeção, vamos responder os checklists previamente elaborados. Cada integrante irá verificar ao menos uma análise de tarefas feita por outro membro do grupo.
 
-## Funcionalidades Tratadas no Stroryboard
-A tabela 1 descreve os integrantes responsáveis que fizeram o relato do storyboard, o artefato de cada um com um link levando para a verificação do artefado no docuemnto e o integrante que fez a verificação.
+## Funcionalidades Tratadas na Análise de Tarefas
+A tabela 1 descreve os integrantes responsáveis que fizeram o análise, o artefato de cada um com um link levando para a verificação do artefado no docuemnto e o integrante que fez a verificação.
 
     Tabela 1: verificação e seus resoponsáveis
 | Integrante responsável que fez o storyboard | Funcionalidade | Integrante responsável pela verificação |
