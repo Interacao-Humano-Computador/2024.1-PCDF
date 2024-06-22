@@ -89,16 +89,15 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 | No artefato apresenta problemas encontrados?  | | "Planejamento da Avaliação de IHC." | [Capítulo 9](image.png) |
+| 2 | O artefato apresenta grau de severidade dos problemas encontrados? | |"Métodos de Avaliação de IHC." | [Capítulo 12](image.png) |
+| 3 | No artefato apresenta o local de cada problema encontrado?| | "Métodos de Avaliação de IHC" | [Capítulo 12](image.png) |
+| 4 | Nas avaliações estão presente o método de avaliações utilizados? | | "Métodos de Avaliação de IHC"| [Capítulo 12](image.png) |
+| 5 | Nas avaliações há descrições dos problemas? | |"Métodos de Avaliação de IHC" | [Capítulo 12](image-1.png) |
+| 6 |Nas avaliações encontra se uma justificativa do problema?  | | "Métodos de Avaliação de IHC" | [Capítulo 12](image-2.png) |
 
-<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+<center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
+
 
 
 
@@ -106,16 +105,13 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 | No artefato tem uma lista de funcionalidades a serem trabalhadas? | |"Como coletar dados dos Usuários" | [Capítulo 7](image-3.png) |
+| 2 | No artefato define quem são os usuários? | | "Análise e definição dos Requisitos"| [Capítulo 7](image-2.png) |
+| 3 | No artefato tem uma lista de problemas identifcados?  | | "O que avaliar?" | [Capítulo 11](image.png) |
+| 4 | Na lista de problemas há o grau de severidade? | | "O que avaliar?" | [Capítulo 11](image.png)|
 
-<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+
+<center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
 
 
 
@@ -123,16 +119,13 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 | No artefato está presente o método utilizado? | |"Processos de Design de IHC" | [Capítulo 6](image-4.png) |
+| 2 | O método está descrito e contextualizado? | | "Processos de Design de IHC" | [Capítulo 6](image-4.png) |
+| 3 | Cita o por que desse método? | | "Processos de Design de IHC" | [Capítulo 6](image-4.png) |
+| 4 | Explica como funciona esse método? | | "Processos de Design de IHC" | [Capítulo 6](image-4.png) |
+| 5 | Esse método se mostra eficaz para todo o grupo? | | "Processos de Design de IHC" | [Capítulo 6](image-4.png) |
 
-<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+<center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
 
 
 
@@ -149,7 +142,7 @@ Para esta verificação será considerado os seguintes artefatos:
 | 7 | | | | [Print]() |
 | 8 | | | | [Print]() |
 
-<center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
+<center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
 
 
 ## Bibliografia
