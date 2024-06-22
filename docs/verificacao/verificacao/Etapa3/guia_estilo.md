@@ -8,7 +8,9 @@ O objetivo deste documento é relatar a verificação do artefato guia de estilo
 A metodologia utilizada é a de responder o checklist previamente elaborado. A verificação foi feita pela integrante [Renata Quadros](https://github.com/Renatinha28) e o artefato Guia de Estilo foi feito pela integrante [Rayene Almeida](https://github.com/rayenealmeida).
 
 ## Checklist Guia de Estilo
+A tabela 1 apresenta o checklist do guia de estilo preenchido.
 
+    Tabela 1: checklist Guia de Estilo
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 |1| Temos no guia de estilo os 6 elementos principais? (layout, tipografia, simbolismo, cores, visualização de informação e design de telas e elementos de interface)|Sim.|Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|

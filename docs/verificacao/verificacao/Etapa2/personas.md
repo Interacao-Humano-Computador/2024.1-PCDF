@@ -10,6 +10,8 @@ A metodologia utilizada é a de responder o checklist previamente elaborado. A v
 ## Checklist Personas
 A tabela 1 descreve a verificação de Personas
 
+    Tabela 1: Checklist personas
+
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | A persona é um personagem fictício que representa um grupo de usuários reais? |Sim | "6.2 Personas" | [Página 196.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina196.1.png) |
