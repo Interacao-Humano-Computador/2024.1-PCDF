@@ -102,7 +102,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ## 3- Denuncia Online <a id="denuncia"></a>
 ### Checklist Protótipo de Papel
 
-    Tabela 4: checklist protótipo de papel
+    Tabela 6: checklist protótipo de papel
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
@@ -122,16 +122,16 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Cronograma do reprojeto
 
-      Tabela 5: cronograma do reprojeto
+      Tabela 7: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 | x | x | x | |
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist Protótipo de Papel
-A tabela 6 descreve o checklist do protótipo de papel, da tarefa solicitar carteira de identidade, preenchido. O protótipo de papel foi feito pela integrante [Raissa Andrade](https://github.com/RaissaAndradeS) e foi verificado pela integrante [Renata Quadros](https://github.com/Renatinha28).
+A tabela 8 descreve o checklist do protótipo de papel, da tarefa solicitar carteira de identidade, preenchido. O protótipo de papel foi feito pela integrante [Raissa Andrade](https://github.com/RaissaAndradeS) e foi verificado pela integrante [Renata Quadros](https://github.com/Renatinha28).
 
-    Tabela 2: checklist protótipo de papel
+    Tabela 8: checklist protótipo de papel
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | Possui tarefas para serem realizadas pelos participantes? | Sim. | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
@@ -165,9 +165,9 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
 
 ### Cronograma do reprojeto
-A tabela 7 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
+A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
-      Tabela 7: cronograma do reprojeto
+      Tabela 9: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 | 24/06 |  Adicionar mais detalhes na interface e adicionar o teste piloto. |  [Raissa Andrade](https://github.com/RaissaAndradeS) | |
@@ -175,34 +175,6 @@ A tabela 7 descreve o artefato a ser corrigido, o integrante responsável pela c
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ## 5- Registrar Ocorrência <a id="registrar"></a>
-### Checklist Protótipo de Papel
-
-    Tabela 8: checklist protótipo de papel
-| ID | Descrição | Avaliação | Referência | Print |
-| :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
-| 2 | Segue o modelo de interface da PCDF? | | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 6 | Possui teste piloto?| | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
-
-### Gravação
-
-### Problemas encontrados
-
-### Soluções
-
-### Conclusão
-
-### Cronograma do reprojeto
-
-      Tabela 9: cronograma do reprojeto
-| Data da correção | Descrição | Responsável(eis) | Status |
-| :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
-
-## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Protótipo de Papel
 
     Tabela 10: checklist protótipo de papel
@@ -224,7 +196,35 @@ A tabela 7 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 
 ### Cronograma do reprojeto
+
       Tabela 11: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+| x | x | x | |
+
+## 6- Retrato Falado Online <a id="retrato"></a>
+### Checklist Protótipo de Papel
+
+    Tabela 12: checklist protótipo de papel
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 2 | Segue o modelo de interface da PCDF? | | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 6 | Possui teste piloto?| | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+
+### Gravação
+
+### Problemas encontrados
+
+### Soluções
+
+### Conclusão
+
+### Cronograma do reprojeto
+      Tabela 13: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 | x | x | x | |
