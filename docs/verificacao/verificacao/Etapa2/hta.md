@@ -226,24 +226,50 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
-| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
+| 1 | A análise começa pela definição dos objetivos das pessoas? | Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? | Incompleto | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
+
+<center> <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a>, 2024</p>
+</center>
 
 ### Gravação
+A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://youtu.be/YT9-sTsSDfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://youtu.be/YT9-sTsSDfc" target="_blank">Vídeo da verificação: HTA - Renata </a>
+</p>
 
 ### Problemas encontrados
+- ID 3: A HTA não inclui feedbacks.
 
 ### Soluções
+- ID 3: Revisar HTA para verificar necessidade ou não de feedbacks.
 
 ### Conclusão
+A figura 5 descreve a conclusão. A HTA está boa, mas pode ser melhorada
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
+<div align="center">
+<p> Figura 6 - conclusão verificação </p>
+<center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p> </center>    
+</div></center>
+
 ### Cronograma do reprojeto
+A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
+      Tabela 11: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+| 23/06 | Revisar HTA para checar necessidade ou não da inclusão de feedbacks. |  [Renata Quadros](https://github.com/Renatinha28) | |
 
-
-
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

@@ -200,22 +200,46 @@ Como não há problemas encontrados, não há necessidade de um reprojeto.
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Os objetivos do usuário foram claramente definidos no diagrama? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.1.png) |
-| 2 | Os operadores incluídos no diagrama são bem definidos, internos ou externos? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.2.png) |
-| 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
-| 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
+| 1 | Os objetivos do usuário foram claramente definidos no diagrama? | Incompleto | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.1.png) |
+| 2 | Os operadores incluídos no diagrama são bem definidos, internos ou externos? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.2.png) |
+| 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
+| 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
+
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ### Gravação
+A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://youtu.be/KMTiPq_kv_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://youtu.be/KMTiPq_kv_c" target="_blank">Vídeo da verificação: GOMS - Renata </a>
+</p>
 
 ### Problemas encontrados
+- ID 1: O objetivo inicial da GOMS não está bem definido
 
 ### Soluções
+- ID 1: Definir melhor objetivo inicial do usuário, como por exemplo "obter um retrato falado para realizar denúncia"
 
 ### Conclusão
+O GOMS precisa de melhorias, como mostra a figura 1.
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/GOMS-Renata.png)
+<div align="center">
+<p> Figura 6 - conclusão verificação do cenário: Renata.</p>
+<center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p> </center>    
+</div></center>
+
 ### Cronograma do reprojeto
+A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
-
-
+      Tabela 11: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| Definir objetivo incluídos no diagrama| [Renata Quadros](https://github.com/Renatinha28) | |
 
 
 ## Bibliografia

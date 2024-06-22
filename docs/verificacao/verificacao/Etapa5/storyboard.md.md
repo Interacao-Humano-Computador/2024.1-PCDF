@@ -199,21 +199,34 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|o storyboard está relacionado a um cenário realizado pelo grupo?||página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? ||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|1|o storyboard está relacionado a um cenário realizado pelo grupo?|Sim|página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
+|2|O storyboard contém cracteristicas do cenário? |Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém cracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém cracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém cracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+<center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 
 ### Gravação
+A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://youtu.be/9_1xhF7jBPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://youtu.be/9_1xhF7jBPY" target="_blank">Vídeo da verificação: Storyboard - Renata </a>
+</p>
 
 ### Problemas encontrados
+Não foram encontrados problemas
 
 ### Soluções
+Como não foram encontrados problemas, não há sugestões de melhoria.
 
-### Conclusão
+## Conclusão 
+O storyboard está de acordo com o esperado.
+
 ### Cronograma do reprojeto
-
+Como não foram encontrados problemas, não há necessidade de correção.
 
 
 ## Bibliografia
