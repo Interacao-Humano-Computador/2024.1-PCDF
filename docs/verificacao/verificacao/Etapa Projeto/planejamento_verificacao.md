@@ -27,30 +27,30 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 | O Cronograma possui atividades que serão realizadas?| | Template do aprender da turma da Disciplina| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 2 | Cada atividade possui um período para o desenvolvimento?| | Template do aprender da turma da Disciplina| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 3 | Apresenta os responsáveis para cada atividade?| | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 4 | Todas as atividades possuem período de revisão?| | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 5 | Possui os responsáveis pelas revisões? | | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 6 | O cronograma tem título de qual etapa ele pertence?| | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 7 | Está apresentado a data de entrega da etapa? | | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
 
 ## Checklist Cronograma Executado
 
+
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 | O Cronograma Executado possui atividades que forão realizadas?| | Template do aprender da turma da Disciplina| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 2 | As atividades possuem o período que foram desenvolvidas?| | Template do aprender da turma da Disciplina| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 3 | Apresenta quem realizou cada atividade?| | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 4 | Todas as atividades possuem a data que foi feita a revisão?| | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 5 | Possui quem realizou as revisões? | | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 6 | O cronograma tem título de qual etapa ele pertence?| | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
+| 7 | Está apresentado a data de entrega da etapa? | | Template do aprender da turma da Disciplina | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/cronograma.jpeg) |
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -59,8 +59,8 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
+| 1 | Possui as ferrementas que serão/foram utilizadas no desenvolvimento do projeto?| | Página 11 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg)  |
+| 2 | As ferramentas são possíveis de usar e não apresentam problemas de usabilidade? | | | [Print]() |
 | 3 | | | | [Print]() |
 | 4 | | | | [Print]() |
 | 5 | | | | [Print]() |
@@ -76,14 +76,10 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 |O processo de design inclui o diagrama sugerido pelo método selecionado ? 	 | | Página 113| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/processodedesign.jpeg) |
+| 2 | O modo de execução do ciclo de vida está detalhado? | | Página 115| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg)  |
+| 3 | A definição do ciclo de vida foi justificado ? | | Página 115 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg) |
+| 4 | A forma como o ciclo de vida será executado é detalhada? | Página 115| | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg) |
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
