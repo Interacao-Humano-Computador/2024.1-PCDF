@@ -113,7 +113,7 @@ A Figura 2 monstra como ficou as respostas obtidas
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-
+</div>
 ### Cronograma do reprojeto
 
 | Data da Correção | Descrição | Responsável(eis) | Status |
