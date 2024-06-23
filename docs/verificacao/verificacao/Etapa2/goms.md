@@ -101,10 +101,10 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Os objetivos do usuário foram claramente definidos no diagrama? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.1.png) |
-| 2 | Os operadores incluídos no diagrama são bem definidos, internos ou externos? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.2.png) |
-| 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
-| 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
+| 1 | Os objetivos do usuário foram claramente definidos no diagrama? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.1.png) |
+| 2 | Os operadores incluídos no diagrama são bem definidos, internos ou externos? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.2.png) |
+| 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
+| 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | Não, poderia ter mais detalhes| "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
 
 ### Gravação
 

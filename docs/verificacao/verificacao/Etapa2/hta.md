@@ -104,11 +104,11 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | A análise começa pela definição dos objetivos das pessoas? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
-| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
-| 3 | Os diagramas HTA incluem inputs, ações e feedback? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
-| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
-| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? | | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
+| 1 | A análise começa pela definição dos objetivos das pessoas? | Não | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.1.png) |
+| 2 | Os objetivos são decompostos em subobjetivos hierárquicos? |Sim, mas está confuso | "6.4.1 Análise Hierárquica De Tarefas" | [Página 213.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina213.2.png) |
+| 3 | Os diagramas HTA incluem inputs, ações e feedback? | Sim| "6.4.1 Análise Hierárquica De Tarefas" | [Página 214.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina214.1.png) |
+| 4 | A HTA considera diferentes maneiras de alcançar um objetivo dependendo das circunstâncias? |Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.1.png) |
+| 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? |Sim | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
 ### Gravação
 
