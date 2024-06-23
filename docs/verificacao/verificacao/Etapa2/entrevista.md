@@ -1,11 +1,15 @@
 ## Introdução 
 Esse documento é sobre a verificação do artefato Entrevista, presente na etapa 2 do nosso trabalho.
+
 ## Objetivo 
 Esse artefato tem como objetivo relatar a verificação da entrevista.
+
 ## Metodologia 
 A metodologia usada para verificação desse artefato foi a checklist realizada por [Raissa Andrade](https://github.com/RaissaAndradeS) e [Renata Quadros](https://github.com/Renatinha28).
+
 ## Checklist da entrevista 
-A tabela 1 relata a verificação da Checklist da entrevista 
+
+        A tabela 1 relata a verificação da Checklist da entrevista 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | Há um roteiro de perguntas ou tópicos? |Sim | "5.5.1 Entrevistas" | [Página 167.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina167.1.png) |
@@ -38,7 +42,8 @@ Gravar o teste piloto.
 
 O artefato se apresenta quase todo completo, apenas com a ausência do teste piloto.
 
-![Gráfico da Entrevista](image.png)
+![Gráfico da Entrevista](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)
+
 
 ## Cronograma do reprojeto 
 
@@ -53,4 +58,4 @@ Nesse caso como já houve a entrevista, não há necessidade de realizar o teste
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Verificação da Entrevista | [Raissa Andrade](https://github.com/RaissaAndradeS)   | 22/06 |   |  |
+| 1.0 |  Verificação da Entrevista | [Raissa Andrade](https://github.com/RaissaAndradeS)   | 22/06 |  [Giovana Barbosa](https://github.com/gio221) | 22/06 

@@ -206,7 +206,6 @@ Após essa fase de análise, os dados serão compartilhados com a equipe. A apre
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criação do documento |[Giovana Barbosa](https://github.com/gio221)| 27/05 | [Renata Quadros](https://github.com/Renatinha28)  | 27/05 |
-| 1.1 | Planejamento da avaliação | [Renata Quadros](https://github.com/Renatinha28) | 27/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
-| 1.2 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
-| 1.3 | Correção pós entrega 7 | [Renata Quadros](https://github.com/Renatinha28) | 20/06 | | 
+| 1.0 | Planejamento da avaliação | [Renata Quadros](https://github.com/Renatinha28) | 27/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
+| 1.1 | Roteiro das perguntas | [Renata Quadros](https://github.com/Renatinha28) | 29/05 | [Giovana Barbosa](https://github.com/gio221)| 01/06|
+| 1.2 | Correção pós entrega 7 | [Renata Quadros](https://github.com/Renatinha28) | 20/06 | | 

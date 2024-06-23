@@ -60,7 +60,7 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 23/06 | Adaptar o texto do artefato para incluir os itens faltantes | [Lara Giuliana](https://github.com/gravelylara) | |
+| 23/06 | Adaptar o texto do artefato para incluir os itens faltantes |  [Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene](https://github.com/rayenealmeida) | |
 
 <center> <p>Tabela 2. Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a>, 2024</p></center>
 
