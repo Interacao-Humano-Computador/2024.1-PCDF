@@ -238,12 +238,8 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 ### Gravação
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://youtu.be/YT9-sTsSDfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://youtu.be/YT9-sTsSDfc" target="_blank">Vídeo da verificação: HTA - Renata </a>
-</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/YT9-sTsSDfc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/YT9-sTsSDfc" target="blanket">Vídeo da Verificação</a></p>
 
 ### Problemas encontrados
 - ID 3: A HTA não inclui feedbacks.
@@ -255,7 +251,7 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 A figura 5 descreve a conclusão. A HTA está boa, mas pode ser melhorada
 
 <center>
-![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-%20LARA.png)
 <div align="center">
 <p> Figura 6 - conclusão verificação </p>
 <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p> </center>    
@@ -281,5 +277,5 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação Pesquisar Procurados e Solicitar Carteira de Identidade |  [Renata Quadros](https://github.com/Renatinha28) | 19/06 | | |
+| 1.0 | Verificação Pesquisar Procurados e Solicitar Carteira de Identidade |  [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) | 22/06 
 

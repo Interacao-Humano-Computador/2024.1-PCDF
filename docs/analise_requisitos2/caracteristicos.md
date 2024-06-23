@@ -2,6 +2,9 @@
 
 O intuito dessa página é destacar as características do site e suas funcionalidades, incluindo as tecnologias envolvidas, limitantes ao seu uso, funcionalidades e características positivas ou negativas na sua utilização.
 
+## Metodologia
+A metodologia ultilizada é a de inspeção
+
 ## Descrição da Plataforma
 O site é de natureza estatal, voltado a facilitar o atendimento a residentes no Distrito Federal nas competências da polícia civil, reduzindo a necessidade do deslocamento até uma delegacia da Polícia Civil do Distrito Federal(PCDF).
 ### Funcionalidades da plataforma

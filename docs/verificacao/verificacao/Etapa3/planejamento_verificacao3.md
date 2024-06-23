@@ -61,7 +61,7 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 |7|É apresentada a meta facilidade de aprendizado?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
 |8|A meta facilidade de aprendizado é apresentado adequadamente, incluindo com é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
 |9|É apresentada a meta facilidade de recordação?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
-|10|A meta facilidade de recordação é apresentado adequadamente, incluindo com é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
+|10|A meta facilidade de recordação é apresentado adequadamente, incluindo como é no sitemas?||capitulo 3.2.1|[Página 35](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/metasusabilidade.png)|
 
   <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 

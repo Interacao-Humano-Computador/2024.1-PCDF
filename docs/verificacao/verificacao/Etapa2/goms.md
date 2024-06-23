@@ -210,12 +210,8 @@ Como não há problemas encontrados, não há necessidade de um reprojeto.
 ### Gravação
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://youtu.be/KMTiPq_kv_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://youtu.be/KMTiPq_kv_c" target="_blank">Vídeo da verificação: GOMS - Renata </a>
-</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/KMTiPq_kv_c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/KMTiPq_kv_c" target="blanket">Vídeo da Verificação</a></p>
 
 ### Problemas encontrados
 - ID 1: O objetivo inicial da GOMS não está bem definido
@@ -227,7 +223,7 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 O GOMS precisa de melhorias, como mostra a figura 1.
 
 <center>
-![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/GOMS-Renata.png)
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/GOMS-LARA.png  )
 <div align="center">
 <p> Figura 6 - conclusão verificação do cenário: Renata.</p>
 <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p> </center>    
@@ -252,5 +248,5 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando Registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
-| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
+| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
 

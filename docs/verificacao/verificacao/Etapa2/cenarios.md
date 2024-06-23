@@ -243,15 +243,11 @@ A tabela 10 descreve a verificação do cenário da Raissa.
 
 <center>  Fonte: [Lara Giuliana](https://github.com/gravelyLara), 2024 </center>
 
-### Gravação
+### Gravação  
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://youtu.be/FhtYqX3Qulo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://youtu.be/FhtYqX3Qulo" target="_blank">Vídeo da verificação: cenário - Renata </a>
-</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/FhtYqX3Qulo " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/FhtYqX3Qulo" target="blanket">Vídeo da Verificação</a></p>
 
 ### Problemas encontrados
 - ID 5: Não apresenta satisfação final da persona.
@@ -293,6 +289,6 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
-| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
-| 1.1 | Verificação retrato falado | [Lara Giuliana](https://github.com/gravelylara) | 21/06 |
+| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
+| 1.1 | Verificação retrato falado | [Lara Giuliana](https://github.com/gravelylara) | 21/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
 
