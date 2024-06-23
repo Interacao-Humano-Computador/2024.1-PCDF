@@ -49,6 +49,14 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 Como mostrado na figura 1, o artefado Planejamento do Relato da Análise de Tarefas está bom, mas ainda precisa de melhorias.
 
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%204/planeja.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 

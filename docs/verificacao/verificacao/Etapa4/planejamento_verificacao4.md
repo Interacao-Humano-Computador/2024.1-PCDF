@@ -8,33 +8,23 @@ O objetivo principal desse documento de planejamento de verificação é assegur
 A metodologia escolhida será a de verificação por checklist, é apresentada como uma técnica organizada e eficiente para avaliar artefatos de design. E esse método possui o uso de listas predefinidas de critérios que ajudam os avaliadores a identificar se um artefato atende aos padrões e diretrizes estabelecidos. A checklist está na tabela 1.
 
 ## Artefatos a serem verificados 
+  - Planejamento da Avaliação de analise de tarefas 
+  - Planejamento do Relato dos Resultados da analise de tarefas 
+  - Planejamento da Avaliação dos Storyboards 
+  - Planejamento do Relato dos Resultados dos Storyboards
 
+## Particpnates e Cronograma
 <center>Tabela 1: Artefatos a serem verificados. </center> 
 
 | Artefato | Versão | Integrante responsável que fez o artefato | Integrante responsável que irá verificar o artefato | Data da verificação | Resultado |
 |----------|----------|----------|----------|----------|----------|
 | [Planejamento da Análise de Tarefas](http://127.0.0.1:8080/design/Nivel1/analise_tarefas/planejamento_avalia%C3%A7%C3%A3o/) |      1.2    |       [Raissa Andrade](https://github.com/RaissaAndradeS)      |    [Renata Quadros](https://github.com/Renatinha28)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento_analise_tarefas/)|
-| [Planejamento do Storyboard](http://127.0.0.1:8080/design/Nivel1/storyboard/planejamento_avalia%C3%A7%C3%A3o/)  |    1.3      |      [Renata Quadros](https://github.com/Renatinha28)        |     [Giovana Barbosa](https://github.com/gio221)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento_storyboard/)|
 | [Planejamento do Relato de Tarefas](http://127.0.0.1:8080/design/Nivel1/analise_tarefas/planejamento_relato/)  |       1.1   |    [Giovana Barbosa](https://github.com/gio221)       |      [Renata Quadros](https://github.com/Renatinha28)     |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento-relato-tarefas/)|
+| [Planejamento do Storyboard](http://127.0.0.1:8080/design/Nivel1/storyboard/planejamento_avalia%C3%A7%C3%A3o/)  |    1.3      |      [Renata Quadros](https://github.com/Renatinha28)        |     [Giovana Barbosa](https://github.com/gio221)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planejamento_storyboard/)|
 | [Planejamento do Relato do Storyboard](http://127.0.0.1:8080/design/Nivel1/storyboard/planejamento_relato/)  |   2.0       |     [Rayene Almeida ](https://github.com/rayenealmeida)       |     [Giovana Barbosa](https://github.com/gio221)       |22/06|[Resultado](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planej_relato_stroryboard/)|
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
-## Checklist do Planejamento do Relato do Storyboard
-
-<center>Tabela 3: Checklist do Planejamento do Relato do storyboard. </center> 
-
-
-| ID | Descrição | Avaliação | Referência | Print |
-|----------|----------|----------|--------|--------|
-|  1  |   O artefato explica a metodologia da avaliação utilizada?    |          |       "11.5.7 Consolidação e Relato dos Resultados"   | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  2  |  O artefato possui gráficos, tabelas ou relatório?     |          |    "11.5.7 Consolidação e Relato dos Resultados"      | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
-|  3  |    No artefato está presente como serão analisados os dados coletados?      |          |        "11.5.7 Consolidação e Relato dos Resultados"  |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  4  |    No artefato tem uma lista de problemas encontrados?      |          |     "11.5.7 Consolidação e Relato dos Resultados"     | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
-|  5  |     No artefato tem o reprojeto?     |          |      "11.5.7 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
-|  6  |    No artefato tem o número e o perfil de usuário e avaliadores que participaram da avaliação?      |          |      "11.5.7 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-
-<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
 ## Checklist Planejamento da Análise de Tarefas 
 
@@ -50,6 +40,23 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 |  5  |     O planejamento tem questões práticas e éticas bem definidas?      |          |   "11.7.2 Preparação"       |[Página 275](<../../../assets/verificacao/verificação nosso grupo/etapa 4/275.png>)| 
 |6  |   Há um planejamento para o reprojeto?       |          |   "11.7.5 Consolidação e Relato dos Resultados"       |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)| 
 
+
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
+
+## Checklist do Relato do Planejamento de Tarefas 
+
+<center>Tabela 2: Checklist do Retalo do Planejamento de Tarefas. </center> 
+
+
+| ID | Descrição | Avaliação | Referência | Print |
+|----------|----------|----------|--------|--------|
+|  1  | No planejamento é encontrado os objetivos da avaliação?       |          |"11.7.5 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  2  |   No planejamento tem o método de avaliação utilizado?       |          |"11.7.5 Consolidação e Relato dos Resultados"    | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  3  |  No planejamento tem a quantidade de participates e avaliadores?        |          |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  4  |  No artefato tem um relato da interpretação e análise dos dados?        |          |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  5  |     No artefato há uma lista de problemas encontrados?     |          | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  6  |     Possui um planejamento para o reprojeto?     |          | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
 
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
@@ -71,20 +78,19 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
-## Checklist do Relato do Planejamento de Tarefas 
+## Checklist do Planejamento do Relato do Storyboard
 
-<center>Tabela 2: Checklist do Retalo do Planejamento de Tarefas. </center> 
+<center>Tabela 3: Checklist do Planejamento do Relato do storyboard. </center> 
 
 
 | ID | Descrição | Avaliação | Referência | Print |
 |----------|----------|----------|--------|--------|
-|  1  | No planejamento é encontrado os objetivos da avaliação?       |          |"11.7.5 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  2  |   No planejamento tem o método de avaliação utilizado?       |          |"11.7.5 Consolidação e Relato dos Resultados"    | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
-|  3  |  No planejamento tem a quantidade de participates e avaliadores?        |          |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  4  |  No artefato tem um relato da interpretação e análise dos dados?        |          |"11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  5  |     No artefato há uma lista de problemas encontrados?     |          | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-|  6  |     Possui um planejamento para o reprojeto?     |          | "11.7.5 Consolidação e Relato dos Resultados"     |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
-
+|  1  |   O artefato explica a metodologia da avaliação utilizada?    |          |       "11.5.7 Consolidação e Relato dos Resultados"   | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  2  |  O artefato possui gráficos, tabelas ou relatório?     |          |    "11.5.7 Consolidação e Relato dos Resultados"      | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  3  |    No artefato está presente como serão analisados os dados coletados?      |          |        "11.5.7 Consolidação e Relato dos Resultados"  |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
+|  4  |    No artefato tem uma lista de problemas encontrados?      |          |     "11.5.7 Consolidação e Relato dos Resultados"     | [Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  5  |     No artefato tem o reprojeto?     |          |      "11.5.7 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>)|
+|  6  |    No artefato tem o número e o perfil de usuário e avaliadores que participaram da avaliação?      |          |      "11.5.7 Consolidação e Relato dos Resultados"    |[Página 279](<../../../assets/verificacao/verificação nosso grupo/etapa 4/279hta.png>) |
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024.</center>
 
