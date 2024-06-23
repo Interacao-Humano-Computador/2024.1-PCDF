@@ -103,23 +103,47 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | | "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
-| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
-| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
-| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
-| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
-| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
-| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? | | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
-| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
+| 1 | Definimos claramente o conceito de um cenário como uma história sobre pessoas realizando uma atividade? | Sim | "6.3 Cenários" | [Página 203.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.1.png) |
+| 2 | Criamos uma narrativa concreta e rica em detalhes contextuais sobre uma situação de uso da aplicação? | Sim  | "6.3 Cenários" | [Página 203.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.2.png) |
+| 3 | Descrevemos o comportamento e as experiências dos atores nos cenários? | Sim | "6.3 Cenários" | [Página 203.3](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.3.png) |
+| 4 | Incluímos objetivos, ações, eventos e o planejamento dos atores nos cenários? | Sim | "6.3 Cenários" | [Página 203.4](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.4.png) |
+| 5 | Consideramos os elementos característicos de um cenário, como ambiente, atores, objetivos, planejamento, ações, eventos e avaliação? | Sim | "6.3 Cenários" | [Página 203.5](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png) |
+| 6 | Descrevemos as características pessoais dos atores relevantes ao cenário? | Sim | "6.3 Cenários" | [Página 203.6](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.6.png) |
+| 7 | Utilizamos personas elaboradas previamente como atores dos cenários? |Sim | "6.3 Cenários" | [Página 203.7](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina203.5.png/Pagina203.7.png) |
+| 8 | Diferenciamos cenários de casos de uso, focando em um ator específico realizando ações específicas? | Não | "6.3 Cenários" | [Página 205.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina205.1.png) |
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/xjfH7FVnwu8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=xjfH7FVnwu8" target="_blank">Vídeo da verificação: cenário - Raissa</a>
+</p>
+
+
 ### Problemas encontrados
+
+- ID 8: Não há diferença no cenário de caso de uso.
 
 ### Soluções
 
+- ID 8: Adicionar a diferença no cenário de caso de uso.
+
 ### Conclusão
+O gráfico referente a essa análise. 
+
+![alt text](<../../../assets/verificacao/etapa2/grafico de cenariosDO.png>)
+<center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></p> </center>    
+</div></center>
+
 ### Cronograma do reprojeto
+
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| Acrescentar a diferença de caso de uso  | Giovana |
+<center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></p> </center>    
+</div></center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist cenário
@@ -260,7 +284,7 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 ### Conclusão
 Como monstrado na figura 6, o cenário está bom, mas ainda precisa de algumas correções.
 <center>
-![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-renata.png)
+![Gráfico](/assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-renata.png)
 <div align="center">
 <p> Figura 6 - conclusão verificação do cenário: Renata.</p>
 <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p> </center>    
