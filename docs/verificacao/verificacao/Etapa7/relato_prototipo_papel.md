@@ -189,6 +189,9 @@ A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Checklist do Relato do Protótipo de Papel
 
     Tabela 10: checklist relato do protótipo de papel
+    
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
 |1|Possui uma descrição dos objetivos?| Não. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
 |2| Descreve o método de avaliação utilizado?| Sim, no comceço do documento. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
 |3| Explica sobre o número e o perfil de usuários e avaliadores que participaram da avaliação?| Não |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
