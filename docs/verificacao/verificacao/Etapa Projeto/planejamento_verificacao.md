@@ -59,8 +59,8 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Possui as ferrementas que serão/foram utilizadas no desenvolvimento do projeto?| | Página 11 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg)  |
-| 2 | As ferramentas são possíveis de usar e não apresentam problemas de usabilidade? | | | [Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg) |
+| 1 | Possui as ferrementas que serão/foram utilizadas no desenvolvimento do projeto?| | Capítulo 1 | [Página 11](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg)  |
+| 2 | As ferramentas são possíveis de usar e não apresentam problemas de usabilidade? | | Capítulo 1| [Página 11](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg) |
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -70,10 +70,10 @@ Para esta verificação será considerado os seguintes artefatos:
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 |O processo de design inclui o diagrama sugerido pelo método selecionado ? 	 | | Página 113| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/processodedesign.jpeg) |
-| 2 | O modo de execução do ciclo de vida está detalhado? | | Página 115| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg)  |
-| 3 | A definição do ciclo de vida foi justificado ? | | Página 115 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg) |
-| 4 | A forma como o ciclo de vida será executado é detalhada? | Página 115| | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg) |
+| 1 |O processo de design inclui o diagrama sugerido pelo método selecionado ? 	 | | Capítulo 6| [Página 113](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/processodedesign.jpeg) |
+| 2 | O modo de execução do ciclo de vida está detalhado? | | Capítulo 6| [Página 115](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg)  |
+| 3 | A definição do ciclo de vida foi justificado ? | | Capítulo 6 | [Página 115](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg) |
+| 4 | A forma como o ciclo de vida será executado é detalhada? | Capítulo 6 | | [Página 115](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/ciclodevida.jpeg) |
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
