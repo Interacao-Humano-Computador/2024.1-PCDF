@@ -121,17 +121,16 @@ A Figura 2 monstra como ficou as respostas obtidas
 <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
 </div></center>
 
+
+
 ### Cronograma do reprojeto
 
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Colocar descrição das características pessoais do personagem | Renata | | 
+|23/06| Acrescentar as características pessoais do personagem | Renata ||
 <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p> </center>    
 </div></center>
-
-
-
 
 
 ## 3- 197- Denúncia Online <a id="denuncia"></a>
