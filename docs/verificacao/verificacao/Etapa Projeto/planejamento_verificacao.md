@@ -126,10 +126,10 @@ Para esta verificação será considerado os seguintes artefatos:
 ## Checklist Referência, fontes, escrita
 
 | ID | Descrição | Avaliação | 
-| :----: | --------- | ---------- | ----------- | ------- |
+| :----: | --------- | ---------- | 
 | 1 |Todos os artefatos estão com a escrita de acordo com a norma da lingua portuguesa? | | 
 | 2 | As imagens são chamadas no texto? | | 
-| 3 | Temos bibliografia o referenca bibliografica em todos os artefatos| | 
+| 3 | Temos bibliografia o referencia bibliografica em todos os artefatos| | 
 | 4 | Os artefatos estão padronizados?| |  
 
 <center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
