@@ -58,6 +58,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ## Conclusão 
 O storyboard está bom, mas ainda precisa de alguns ajustes, como mostra a figura 1.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -164,6 +171,14 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ## Conclusão 
 O storyboard está bom, mas ainda precisa de alguns ajustes, como mostra a figura 5.
 
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -179,20 +194,47 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|o storyboard está relacionado a um cenário realizado pelo grupo?||página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? ||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|1|o storyboard está relacionado a um cenário realizado pelo grupo?|Não|página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
+|2|O storyboard contém cracteristicas do cenário? |Não|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém cracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém cracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém cracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/NY6WACiCb8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=NY6WACiCb8M" target="_blank">Vídeo da verificação: Storyboard - Raissa </a>
+</p>
+
+
 ### Problemas encontrados
+ * ID 1: Não explica se o storyboard está relacionado a algum cenário
+ * ID 2: Não explica se o storyboard está relacionado a algum cenário
 
 ### Soluções
+ * ID 1: Colocar uma explicação se o storyboard está relacionado a algum cenário
+ * ID 2: Colocar uma explicação se o storyboard está relacionado a algum cenário
 
 ### Conclusão
+O relato está bom, mas pode ser melhorado, como mostra a figura 5.
+
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
+
 ### Cronograma do reprojeto
+      Tabela 3: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
 ## 7- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Storyboards
@@ -204,17 +246,14 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 |3|O storyboard contém cracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 |4|O storyboard contém cracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 |5|O storyboard contém cracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+
 <center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 
-### Gravação
+### Gravação 
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://youtu.be/9_1xhF7jBPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://youtu.be/9_1xhF7jBPY" target="_blank">Vídeo da verificação: Storyboard - Renata </a>
-</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/9_1xhF7jBPY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/9_1xhF7jBPY" target="blanket">Vídeo da Verificação</a></p>
 
 ### Problemas encontrados
 Não foram encontrados problemas
@@ -224,6 +263,13 @@ Como não foram encontrados problemas, não há sugestões de melhoria.
 
 ## Conclusão 
 O storyboard está de acordo com o esperado.
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/personas.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 Como não foram encontrados problemas, não há necessidade de correção.
@@ -239,6 +285,6 @@ Como não foram encontrados problemas, não há necessidade de correção.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
-| 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | | |
+| 1.0 | Verificando |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
+| 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
 

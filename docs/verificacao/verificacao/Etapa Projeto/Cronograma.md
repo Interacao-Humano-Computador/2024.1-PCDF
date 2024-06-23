@@ -43,6 +43,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 Como mostrado na figura 1, o artefado Cronograma está bom, mas ainda precisa de alguns ajustes.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 

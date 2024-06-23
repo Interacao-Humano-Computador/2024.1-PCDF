@@ -62,6 +62,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 O relato está bom, mas pode ser melhorado, como mostra a figura 1.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -184,6 +191,14 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 O relato está bom, mas pode ser melhorado, como mostra a figura 5.
 
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -199,24 +214,50 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
-|9|Possui a informação da quantidade de participantes, e de storyboards por participante||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|1|Possui uma descrição dos objetivos?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2|Possui uma descrição do método de avaliação empregado?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5|Possui um relato da interpretação e análise dos dados?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6|Possui uma lista dos problemas encontrados?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|9|Possui a informação da quantidade de participantes, e de storyboards por participante|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/A92Z7kd6fGQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=A92Z7kd6fGQ" target="_blank">Vídeo da verificação: Storyboard - Raissa </a>
+</p>
+
 ### Problemas encontrados
+- ID 4: não apresenta gráficos para análise dos dados.
+- ID 5: não possui um relato da interpretação e análise dos dados.
 
 ### Soluções
+- ID 4: adicionar gráficos para análise dos dados.
+- ID 5: incluir um relato da interpretação e análise dos dados.
 
 ### Conclusão
+O relato está bom, mas pode ser melhorado, como mostra a figura 5.
+
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
+
 ### Cronograma do reprojeto
+      Tabela 3: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
 ## 7- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Relato do Storyboards
@@ -232,17 +273,14 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?| Sim |página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação| Sim |página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 |9|Possui a informação da quantidade de participantes, e de storyboards por participante| Sim |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+
 <center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 
 ### Gravação
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://youtu.be/0V4KXpCJX_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://youtu.be/0V4KXpCJX_w" target="_blank">Vídeo da verificação: Relato do Storyboard - Renata </a>
-</p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/0V4KXpCJX_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/0V4KXpCJX_w" target="blanket">Vídeo da Verificação</a></p>
 
 ### Problemas encontrados
 - ID 4: não apresenta gráficos para análise dos dados.
@@ -256,6 +294,13 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 
 ### Conclusão
 O relato está bom, mas pode ser melhorado, como mostra a figura 5.
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
@@ -278,4 +323,4 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06|
-| 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | | |
+| 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06

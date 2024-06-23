@@ -39,6 +39,12 @@ Como não houve problemas encontrados, não há sugestão de melhoria.
 
 ### Conclusão
 Como mostrado na figura 1, o artefado Metodologia está perfeito de acordo com o checklist elaborado.
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/personas.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 Como não teve problemas encontrados, não há necessidade de um reprojeto.

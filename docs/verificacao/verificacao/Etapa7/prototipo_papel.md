@@ -61,6 +61,14 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 1.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipo.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -164,6 +172,14 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
+
 ### Cronograma do reprojeto
 A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -180,27 +196,46 @@ A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela c
     Tabela 10: checklist protótipo de papel
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
-| 2 | Segue o modelo de interface da PCDF? | | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 6 | Possui teste piloto?| | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 1 | Possui tarefas para serem realizadas pelos participantes? |Sim | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 2 | Segue o modelo de interface da PCDF? |Sim | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? |Sim | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? |Não tenho certeza | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? |Sim | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 6 | Possui teste piloto?| Não| Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/C0SGbCzxPXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=C0SGbCzxPXo" target="_blank">Vídeo da verificação: Protótipo de papel - Raissa  </a>
+</p>
+
 ### Problemas encontrados
+- ID 2: Não da para ler
+- ID 6: Não possui um teste piloto.
 
 ### Soluções
+- ID 4:Deixar mais legivel
+- ID 6: Apresentar um teste piloto.
+
 
 ### Conclusão
+A figura 1 monstra que o artefato tem 80% de sim na verificação
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do aspecto ético.</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 
 ### Cronograma do reprojeto
-
-      Tabela 11: cronograma do reprojeto
+      Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
+|23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Protótipo de Papel

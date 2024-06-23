@@ -66,6 +66,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 O relato do protótipo de papel está bom mas pode ser melhorado, como mostra a figura 1.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipo.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -161,6 +168,12 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 
 ### Conclusão
 O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipo.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
@@ -176,22 +189,48 @@ A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Checklist do Relato do Protótipo de Papel
 
     Tabela 10: checklist relato do protótipo de papel
+|1|Possui uma descrição dos objetivos?| Não. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2| Descreve o método de avaliação utilizado?| Sim, no comceço do documento. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3| Explica sobre o número e o perfil de usuários e avaliadores que participaram da avaliação?| Não |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4| Apresenta um sumário dos dados coletados, incluindo tabelas e gráficos?|Incompleto. Falta os gráficos. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5| Relata a interpretação e análise dos dados?|Sim.|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6| Mostra quais foram os problemas encontrados?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim.|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim. Quando é apresentado o termo de consentimento. |página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
-
-### Gravação
+### Gravação 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/D61EGOB2WkY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=D61EGOB2WkY" target="_blank">Vídeo da verificação: Relato do Protótipo de papel - Raissa  </a>
+</p>
 
 ### Problemas encontrados
+- ID 1: Não possui uma descrição dos objetivos.
+- ID 3: Não explica como os usuários foram selecionados. 
+- ID 4: Não apresenta gráficos.
 
 ### Soluções
+- ID 1: Adicionar uma descrição dos objetivos.
+- ID 3: Explicar como os usuários foram selecionados. 
+- ID 4: Apresentar os gráficos.
 
 ### Conclusão
+O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipo.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 
-      Tabela 11: cronograma do reprojeto
+      Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
+|23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist do Relato do Protótipo de Papel

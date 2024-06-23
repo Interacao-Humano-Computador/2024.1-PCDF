@@ -60,13 +60,7 @@ Para esta verificação será considerado os seguintes artefatos:
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | Possui as ferrementas que serão/foram utilizadas no desenvolvimento do projeto?| | Página 11 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg)  |
-| 2 | As ferramentas são possíveis de usar e não apresentam problemas de usabilidade? | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 2 | As ferramentas são possíveis de usar e não apresentam problemas de usabilidade? | | | [Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%20projeto/pagina11.jpeg) |
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -131,16 +125,12 @@ Para esta verificação será considerado os seguintes artefatos:
 
 ## Checklist Referência, fontes, escrita
 
-| ID | Descrição | Avaliação | Referência | Print |
+| ID | Descrição | Avaliação | 
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | | | | [Print]() |
-| 2 | | | | [Print]() |
-| 3 | | | | [Print]() |
-| 4 | | | | [Print]() |
-| 5 | | | | [Print]() |
-| 6 | | | | [Print]() |
-| 7 | | | | [Print]() |
-| 8 | | | | [Print]() |
+| 1 |Todos os artefatos estão com a escrita de acordo com a norma da lingua portuguesa? | | 
+| 2 | As imagens são chamadas no texto? | | 
+| 3 | Temos bibliografia o referenca bibliografica em todos os artefatos| | 
+| 4 | Os artefatos estão padronizados?| |  
 
 <center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
 
@@ -153,4 +143,5 @@ Para esta verificação será considerado os seguintes artefatos:
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 19/06 |   |  |
+| 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 19/06 |  [Giovana Barbosa ](https://github.com/gio221) |22/06  |
+|1.1| Perguntas das referencias|  [Giovana Barbosa ](https://github.com/gio221) |22/06|
