@@ -126,11 +126,11 @@ A Figura 2 monstra como ficou as respostas obtidas
 ### Cronograma do reprojeto
 
 
-| Data da correção | Descrição | Responsável(eis) | Status |
-| :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Acrescentar as características pessoais do personagem | Renata ||
-<center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p> </center>    
-</div></center>
+| Data da Correção | Descrição | Responsável(eis) | Status |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Acrescentar as características pessoais do personagem | Renata          |         |
+
+<p align="center">Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p>
 
 
 ## 3- 197- Denúncia Online <a id="denuncia"></a>
