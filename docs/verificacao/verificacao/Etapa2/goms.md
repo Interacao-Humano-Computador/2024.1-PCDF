@@ -112,12 +112,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Gravação
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/26zcZmY9b60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=26zcZmY9b60" target="_blank">Vídeo da verificação: GOMS - Raissa</a>
-</p>
+
 <center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></p> </center>    
 </div></center>
 
