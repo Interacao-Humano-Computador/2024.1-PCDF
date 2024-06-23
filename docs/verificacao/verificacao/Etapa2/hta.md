@@ -92,6 +92,13 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/rsMmKbX5FdY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/rsMmKbX5FdY" target="_blank">Vídeo da verificação: HTA - Renata </a>
+</p>
+
 ### Problemas encontrados
 
 - Não foi encontrado problemas 
@@ -114,7 +121,6 @@ A Figura 2 monstra como ficou as respostas obtidas
 | 23/06            | Não precisa de reprojeto | Renata          |    Concluído     |
 
 <p align="center">Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p>
-
 
 
 ## 3- 197- Denúncia Online <a id="denuncia"></a>
