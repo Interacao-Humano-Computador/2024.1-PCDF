@@ -88,6 +88,15 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/eBh9QCrRNbA
+    " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/eBh9QCrRNbA" target="_blank">Vídeo da verificação: Storyboard - Renata </a>
+</p>
+
+
 ### Problemas encontrados
 - Não possui problemas encontrados
 
@@ -96,10 +105,10 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Conclusão
 
-
 A Figura 2 monstra como ficou as respostas obtidas 
 <center>
-![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard-renata.png.png)
+
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
 
@@ -107,6 +116,9 @@ A Figura 2 monstra como ficou as respostas obtidas
 ### Cronograma do reprojeto
 
 
+| Data da Correção | Descrição | Responsável(eis) | Status |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Não precisa de reprojeto | Renata          |    Concluído     |
 
 ## 4- 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist Storyboards
