@@ -114,6 +114,7 @@ A Figura 2 monstra como ficou as respostas obtidas
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
 </div>
+
 ### Cronograma do reprojeto
 
 | Data da Correção | Descrição | Responsável(eis) | Status |
