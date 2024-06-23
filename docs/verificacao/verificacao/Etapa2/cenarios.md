@@ -105,11 +105,10 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Gravação
 
 ### Problemas encontrados
-- ID 6:
-
+- ID 6: Descreve apenas que o personagem é Advogado.
 
 ### Soluções
-- ID 6:
+- ID 6: Descrever as características pessoais do personagem.
 
 ### Conclusão
 
@@ -118,7 +117,8 @@ A Figura 2 monstra como ficou as respostas obtidas
 ![Aspectos Éticos](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenarioAntecedentes.png)
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
- <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
+
+<center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center> 
 </div></center>
 
 ### Cronograma do reprojeto
@@ -126,7 +126,10 @@ A Figura 2 monstra como ficou as respostas obtidas
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06|  | [Renata Quadros](https://github.com/Renatinha28) ||
+|23/06|  | [Renata Quadros](https://github.com/Renatinha28) | Colocar descrição das características pessoais do personagem|
+
+
+
 <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p> </center>    
 </div></center>
 
