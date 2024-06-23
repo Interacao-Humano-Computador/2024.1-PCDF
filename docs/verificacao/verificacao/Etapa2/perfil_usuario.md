@@ -28,7 +28,7 @@ A tabela 1 descreve a verificação do Resultado de Perfil de Usuário.
  A verificação foi feita pelas integrantes [Lara Giuliana](https://github.com/gravelylara) e [Giovana Barbosa](https://github.com//gio221) e a gravação está logo abaixo.
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=i8mz3LA8Fvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i8mz3LA8Fvg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=i8mz3LA8Fvg" target="_blank">Vídeo da verificação: Perfil de Usuário </a>

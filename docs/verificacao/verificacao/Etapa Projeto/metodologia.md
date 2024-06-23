@@ -25,10 +25,10 @@ A tabela 1 descreve o checklist respondido do artefato Metodologia.
 A verificação foi feita pela integrante [Renata Quadros](https://github.com/Renatinha28) e a gravação está logo abaixo.
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/IlB7p35lAIk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="" target="_blank">Vídeo da verificação: Metodologia </a>
+    <a href="https://www.youtube.com/watch?v=IlB7p35lAIk" target="_blank">Vídeo da verificação: Metodologia </a>
 </p>
 
 ### Problemas encontrados

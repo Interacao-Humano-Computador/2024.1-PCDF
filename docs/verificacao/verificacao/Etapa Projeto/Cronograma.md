@@ -28,10 +28,10 @@ A tabela 1 descreve o checklist respondido do artefato Cronograma.
 A verificação foi feita pela integrante [Renata Quadros](https://github.com/Renatinha28) e a gravação está logo abaixo.
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/EKBvXJqfBL8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="" target="_blank">Vídeo da verificação: Cronograma </a>
+    <a href="https://www.youtube.com/watch?v=EKBvXJqfBL8" target="_blank">Vídeo da verificação: Cronograma </a>
 </p>
 
 ### Problemas encontrados
