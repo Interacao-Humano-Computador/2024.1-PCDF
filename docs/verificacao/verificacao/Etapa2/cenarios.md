@@ -126,10 +126,7 @@ A Figura 2 monstra como ficou as respostas obtidas
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06|  | [Renata Quadros](https://github.com/Renatinha28) | Colocar descrição das características pessoais do personagem|
-
-
-
+|23/06| Colocar descrição das características pessoais do personagem | Renata | | 
 <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p> </center>    
 </div></center>
 
