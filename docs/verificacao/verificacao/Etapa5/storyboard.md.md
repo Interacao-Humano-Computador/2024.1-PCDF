@@ -119,19 +119,55 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|o storyboard está relacionado a um cenário realizado pelo grupo?||página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? ||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|1|o storyboard está relacionado a um cenário realizado pelo grupo?|Sim |página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
+|2|O storyboard contém caracteristicas do cenário? |Sim |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém caracteristicas das atividades?|Incompleto|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém caracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém caracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+
+<center>Fonte:   [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
 ### Gravação
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/Sncak1hN8ps" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=Sncak1hN8ps" target="_blank">Vídeo da verificação: cenário - Raissa</a>
+</p>
+<center>Fonte:   [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
 
 ### Problemas encontrados
 
+- ID 3: Os storyboard não contém todas características das atividades.
+
 ### Soluções
 
+- Adicionar todas as carateristicas das atividades.
+
 ### Conclusão
+
+Resultado da análise 
+
+<center>
+    <img src="/assets/verificacao/etapa5/stbDO.png" alt="Gráfico">
+    <div align="center">
+        <p> Figura 3 - Respostas da verificação</p>
+        <center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>    
+    </div>
+</center>
+
+
 ### Cronograma do reprojeto
+
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| Adicionar as carateristicas das atividades | [Giovana Silva](https://github.com/gio221) | |
+
+<center>Fonte:   [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
 
 ## 5- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist Storyboards
@@ -287,4 +323,4 @@ Como não foram encontrados problemas, não há necessidade de correção.
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
 | 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
-
+| 1.2 | Verificação de Denuncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06 |   |
