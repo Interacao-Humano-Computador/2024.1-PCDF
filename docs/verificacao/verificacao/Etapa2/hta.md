@@ -110,7 +110,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 A Figura 2 monstra como ficou as respostas obtidas 
 <center>
-![Aspectos Éticos](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
 
@@ -302,4 +302,5 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificação Pesquisar Procurados e Solicitar Carteira de Identidade |  [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) | 22/06 
+| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
 
