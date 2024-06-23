@@ -175,7 +175,7 @@ Arrumar os ID's listados acima, ID 4, ID 5 e ID 6.
 
 ### Cronograma do reprojeto
 
-      Tabela 3: cronograma do reprojeto
+      Tabela: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |23/06| adicionar gráficos para análise dos dados e um relato da interpretação e análise dos dados | [Giovana Silva](https://github.com/gio221) | |
