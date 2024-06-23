@@ -101,28 +101,6 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 ### Cronograma do reprojeto
 
-## 3- Validar Antecedentes Criminais <a id="validar"></a>
-### Checklist Relato da Análise de Tarefas.
-
-| ID | Descrição | Avaliação | Referência | Print |
-| :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
-
-### Gravação
-
-### Problemas encontrados
-
-### Soluções
-
-### Conclusão
-### Cronograma do reprojeto
 
 ## 4- 197- Denúncia Online<a id="denuncia"></a>
 ### Checklist Relato da Análise de Tarefas.

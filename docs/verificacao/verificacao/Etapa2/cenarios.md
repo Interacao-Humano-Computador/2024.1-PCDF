@@ -151,7 +151,7 @@ O gráfico referente a essa análise.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Acrescentar a diferença de caso de uso  | Giovana |
+|23/06| Acrescentar a diferença de caso de uso  | Giovana ||
 <center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></p> </center>    
 </div></center>
 

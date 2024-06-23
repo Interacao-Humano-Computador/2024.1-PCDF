@@ -95,24 +95,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 ### Cronograma do reprojeto
 
-## 3- Validar Antecedentes Criminais <a id="validar"></a>
-### Checklist Storyboards
 
-| ID | Descrição | Avaliação | Referência | Print |
-| :----: | --------- | ---------- | ----------- | ------- |
-|1|o storyboard está relacionado a um cenário realizado pelo grupo?||página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? ||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?||Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-### Gravação
-
-### Problemas encontrados
-
-### Soluções
-
-### Conclusão
-### Cronograma do reprojeto
 
 ## 4- 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist Storyboards
