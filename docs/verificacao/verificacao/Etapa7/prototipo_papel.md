@@ -85,27 +85,49 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
     Tabela 4: checklist protótipo de papel
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
-| 2 | Segue o modelo de interface da PCDF? | | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 6 | Possui teste piloto?| | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 1 | Possui tarefas para serem realizadas pelos participantes? | Sim| Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 2 | Segue o modelo de interface da PCDF? | Sim| Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? |Sim | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? |Sim | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | Sim| Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 6 | Possui teste piloto?| Sim| Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/r-M3GrdU01k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/r-M3GrdU01k" target="_blank">Vídeo da verificação: Protótipo de Papel - Renata </a>
+</p>
+
+
+
 ### Problemas encontrados
+- Não foi encontrado problemas 
 
 ### Soluções
+- Não possui soluções pois não foi encontrado problemas
 
 ### Conclusão
 
+
+A Figura 2 monstra como ficou as respostas obtidas 
+<center>
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipodepapel-renata.png)
+
+<div align="center">
+<p> Figura 2 - Respostas da verificação </p> 
+
+
+
 ### Cronograma do reprojeto
 
-      Tabela 5: cronograma do reprojeto
-| Data da correção | Descrição | Responsável(eis) | Status |
-| :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
+
+| Data da Correção | Descrição | Responsável(eis) | Status |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Não precisa de reprojeto | Renata          |    Concluído     |
+
 
 ## 3- Denuncia Online <a id="denuncia"></a>
 ### Checklist Protótipo de Papel
@@ -274,3 +296,4 @@ A figura 1 monstra que o artefato tem 80% de sim na verificação
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificação protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |
+| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
