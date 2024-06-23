@@ -104,6 +104,15 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Gravação
 
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/bdRY5sb0c2w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/bdRY5sb0c2w" target="_blank">Vídeo da verificação: Cenário - Renata </a>
+</p>
+
+
 ### Problemas encontrados
 - ID 6: Descreve apenas que o personagem é Advogado.
 
