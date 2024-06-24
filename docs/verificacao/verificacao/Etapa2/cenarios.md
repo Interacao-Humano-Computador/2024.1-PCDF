@@ -177,12 +177,16 @@ A Figura 2 mostra como ficou as respostas obtidas
 ### Conclusão
 O gráfico referente a essa análise.
 
+<center>
+![alt text](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)</center>
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
+
 ### Cronograma do reprojeto
 
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Acrescentar a diferença de caso de uso  | Giovana ||
+|23/06| Acrescentar a diferença de caso de uso  | Giovana |Feito|
 <center>  <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></p> </center>    
 </div></center>
 

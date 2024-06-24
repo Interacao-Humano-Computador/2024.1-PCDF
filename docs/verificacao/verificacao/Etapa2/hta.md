@@ -113,15 +113,10 @@ A Figura 2 mostra como ficou as respostas obtidas
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-</div>
+</div></center>
 
 ### Cronograma do reprojeto
-
-| Data da Correção | Descrição | Responsável(eis) | Status |
-|:----------------:|:----------|:-----------------|:-------|
-| 23/06            | Não precisa de reprojeto | Renata          |    Concluído     |
-
-<p align="center">Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p>
+Como não temos soluções não precisa de reprojeto
 
 
 
@@ -153,7 +148,8 @@ Adicionar a definição dos objetivos.
 
 ### Conclusão
 
-![alt text](<../../../assets/verificacao/verificação nosso grupo/etapa2/htaDO.png>)
+<center>
+![alt text](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/htaDO.png)</center>
 <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Cronograma do reprojeto

@@ -109,8 +109,8 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
  <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Gravação
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/26zcZmY9b60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/26zcZmY9b60" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></center>
 
 <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
@@ -124,8 +124,8 @@ Colocar o ID 4.
 
 
 ### Conclusão
-
-![alt text](../../../assets/verificacao/etapa2/graficodedenuncia.png)
+<center>
+![alt text](../../../assets/verificacao/etapa2/graficodedenuncia.png)</center>
 <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Cronograma do reprojeto
