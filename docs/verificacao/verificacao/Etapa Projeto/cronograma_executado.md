@@ -1,14 +1,14 @@
 ## Introdução
-Após o planejamento da verificação, agora vamos verificar o artefado Cronograma Executado do grupo 04 do semestre de 2024.1. Esta é uma verificação do projeto, ou seja, é uma verificação válida para o contexto do projeto.
+Após o planejamento da verificação, agora vamos verificar o artefato Cronograma Executado do grupo 04 do semestre de 2024.1. Esta é uma verificação do projeto, ou seja, é uma verificação válida para o contexto do projeto.
 
 ## Objetivo 
 O objetivo deste documento é relatar a verificação do artefato Cronograma Executado.
 
 ## Metodologia
-A metodologia abordada é a de checklist. Vamos responder o checklist previamente elaborado. O artefato foi feito pela integrante [Giovana Silva](https://github.com/gio221) e será verificado pela integrante [Renata Quadros](https://github.com/Renatinha28).
+A metodologia abordada é a de checklist. Vamos responder a checklist previamente elaborado. O artefato foi feito pela integrante [Giovana Silva](https://github.com/gio221) e será verificado pela integrante [Renata Quadros](https://github.com/Renatinha28).
 
 ## Checklist Cronograma
-A tabela 1 descreve o checklist respondido do artefato Cronograma Executado.
+A tabela 1 descreve a checklist respondido do artefato Cronograma Executado.
 
     Tabela 1: Checklist Cronograma Executado
 
@@ -70,4 +70,4 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação do Cronograma Executado | [Renata Quadros](https://github.com/Renatinha28)  | 22/06 | 
+| 1.0 | Verificação do Cronograma Executado | [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 | 
