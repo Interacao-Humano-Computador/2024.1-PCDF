@@ -72,7 +72,7 @@ Abaixo encontra-se a tabela 3 do checklist do Protótipo de papel
 
 
 <center>Tabela 3: Tabela do checklist do Protótipo de papel. </center> 
-docs/assets/verificacao/verificação nosso grupo/etapa 7/pagina317.jpeg
+
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
