@@ -108,7 +108,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Conclusão
 
-A Figura 2 monstra como ficou as respostas obtidas 
+A Figura 2 mostra como ficou as respostas obtidas 
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/HTA-Renata.png)
 <div align="center">
@@ -229,7 +229,7 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 | 5 | A HTA inclui todos os pasos de acordo com Diaper(2003), tais como objetivos, esboçar os dados em forma de tabela ou diagrama e identificar operadores significativos? |Não | "6.4.1 Análise Hierárquica De Tarefas" | [Página 215.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina215.2.png) |
 
 ### Gravação
-A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como monstra no video
+A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como mostra no video
 
 <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/F9cgFLosBYM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -248,7 +248,7 @@ A verificação do checklist foi feita pela integrante [Giovana Barbosa](https:/
  - ID 5: Colocar o diagrama
 
 ### Conclusão
-Como monstra na figura 1 a anlise precisa de alguns ajustes
+Como mostra na figura 1 a anlise precisa de alguns ajustes
 
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/hta.png)

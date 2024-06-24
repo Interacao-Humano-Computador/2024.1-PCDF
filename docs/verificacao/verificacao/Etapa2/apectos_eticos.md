@@ -39,7 +39,7 @@ O problema encontrado não pode ter solução pois precisamos do dados demográf
 
 
 # Conclusão
-A imagem 1 monstra como ficou as respostas obtidas
+A imagem 1 mostra como ficou as respostas obtidas
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)
 <div align="center">
@@ -47,7 +47,7 @@ A imagem 1 monstra como ficou as respostas obtidas
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-Como monstrado na imagem 1 o artefato do aspecto ético está muito bom, com 90% de sim na verificação
+Como mostrado na imagem 1 o artefato do aspecto ético está muito bom, com 90% de sim na verificação
 
 # Cronograma do reprojeto
 Como não tem soluções não há necessidade de reprojeto

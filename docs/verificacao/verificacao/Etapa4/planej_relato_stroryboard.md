@@ -43,7 +43,7 @@ A verificação do checklist foi gravda e foi feita pela integrante [Giovana Bar
 * ID 6: Colocar o número e o perfil de usuário e avaliadores que participaram da avaliação]
 
 # Conclusão
-A imagem 1 monstra como ficou as respostas obtidas
+A imagem 1 mostra como ficou as respostas obtidas
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%204/storyboard.png)
 <div align="center">
@@ -51,7 +51,7 @@ A imagem 1 monstra como ficou as respostas obtidas
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-Como monstrado na imagem 1 o artefato do questionário possui muitos erros
+Como mostrado na imagem 1 o artefato do questionário possui muitos erros
 
 # Cronograma do reprojeto
      Tabela 11: cronograma do reprojeto

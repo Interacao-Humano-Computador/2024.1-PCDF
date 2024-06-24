@@ -187,7 +187,7 @@ Como não há problemas encontrados, não há necessidade de um reprojeto.
 | 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? |Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
 
 ### Gravação
-A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como monstra no video
+A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como mostra no video
 
 <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8uWe7EIY4SY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

@@ -66,7 +66,7 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 
 
 ### Conclusão
-Como monstrado na figura 1, o cenário está muito bom, mas ainda precisa de uma correção.
+Como mostrado na figura 1, o cenário está muito bom, mas ainda precisa de uma correção.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenários-lara.png)
 <div align="center">
@@ -121,7 +121,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Conclusão
 
-A Figura 2 monstra como ficou as respostas obtidas 
+A Figura 2 mostra como ficou as respostas obtidas 
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenarioAntecedentes.png)
 <div align="center">
@@ -233,7 +233,7 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 
 
 ### Conclusão
-Como monstrado na figura 4, o cenário está bom, mas ainda precisa de algumas correções.
+Como mostrado na figura 4, o cenário está bom, mas ainda precisa de algumas correções.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-raissa.png)
 <div align="center">
@@ -277,7 +277,7 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 
 ### Gravação
-A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como monstra no video
+A verificação do checklist foi feita pela integrante [Giovana Barbosa](https://github.com/gio221), como mostra no video
 
 
 <p style="text-align: center">
@@ -298,7 +298,7 @@ Como não foi encontrado nenhum problema, não temos sugestões
 
 
 ### Conclusão
-Como monstra na figura 5 o cenário está muito bom, e não precisa de correções
+Como mostra na figura 5 o cenário está muito bom, e não precisa de correções
 
 
 <center>
@@ -353,7 +353,7 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 
 
 ### Conclusão
-Como monstrado na figura 6, o cenário está bom, mas ainda precisa de algumas correções.
+Como mostrado na figura 6, o cenário está bom, mas ainda precisa de algumas correções.
 <center>
 ![Gráfico](/assets/verificacao/verificação%20nosso%20grupo/etapa2/cenario-renata.png)
 <div align="center">
