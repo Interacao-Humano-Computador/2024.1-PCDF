@@ -33,7 +33,7 @@ Não possui problemas encontrados
 Como não possui problemas encontrados não possui soluções
 
 # Conclusão
-A imagem 1 monstra como ficou as respostas obtidas
+A imagem 1 mostra como ficou as respostas obtidas
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/personas.png)
 <div align="center">

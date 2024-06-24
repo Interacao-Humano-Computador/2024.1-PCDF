@@ -125,7 +125,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Conclusão
 
-A Figura 2 monstra como ficou as respostas obtidas 
+A Figura 2 mostra como ficou as respostas obtidas 
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/relatopp-renata.png.png)
 

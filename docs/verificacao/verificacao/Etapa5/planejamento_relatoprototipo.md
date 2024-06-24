@@ -16,7 +16,7 @@ A metodologia ultilizada é a de verificação por inspeção, quando dois integ
 |3|Foi apresentado o número de participantes?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |4|Foi apresentado o cronograma das entrevista?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |5| Foi apresentado os aspectos éticos?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|6| é monstrado as tarefas propostas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| é mostrado as tarefas propostas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |7| Foi apresentado o roteiro de perguntas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |8| é apresentado como será a interpretação de dados|Não|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 
@@ -38,7 +38,7 @@ A verificação do checklist foi gravda e foi feita pelas integrantes [Giovana B
 * ID 8: Apresentar como será feito a ainterpretação de dados
 
 # Conclusão
-Como monstrado na imagem 1 o artefato do questionário foi muito bem feito, com mais de 80% de acertos
+Como mostrado na imagem 1 o artefato do questionário foi muito bem feito, com mais de 80% de acertos
 
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planj.png)

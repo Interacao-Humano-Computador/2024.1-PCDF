@@ -111,7 +111,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Conclusão
 
 
-A Figura 2 monstra como ficou as respostas obtidas 
+A Figura 2 mostra como ficou as respostas obtidas 
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipodepapel-renata.png)
 
@@ -256,7 +256,7 @@ A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 
 ### Conclusão
-A figura 1 monstra que o artefato tem 80% de sim na verificação
+A figura 1 mostra que o artefato tem 80% de sim na verificação
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)
 <div align="center">

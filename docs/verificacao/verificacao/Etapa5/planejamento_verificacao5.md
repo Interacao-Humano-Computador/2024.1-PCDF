@@ -96,7 +96,7 @@ A metodologia escolhida para esta verificação é a inspeção,é realizada atr
 |3|Foi apresentado o número de participantes?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |4|Foi apresentado o cronograma das entrevista?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |5| Foi apresentado os aspectos éticos?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|6| é monstrado as tarefas propostas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| é mostrado as tarefas propostas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |7| Foi apresentado o roteiro de perguntas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |8| é apresentado como será a interpretação de dados||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 
