@@ -110,7 +110,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
     <iframe width="560" height="315" src="https://www.youtube.com/embed/cxDEWEqzA2Y
     " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
-<p style="text-align: center">
+<p style="text-align: center"
     <a href="https://www.youtube.com/embed/cxDEWEqzA2Y
     " target="_blank">Vídeo da verificação: Relato do Protótipo de Papel - Renata </a>
 </p>
@@ -235,7 +235,7 @@ O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipo.png)
 <div align="center">
-<p> Figura 1 - Respostas da verificação </p>
+<p> Figura 4 - Respostas da verificação </p>
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
@@ -284,40 +284,80 @@ A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela c
 - ID 4: Apresentar os gráficos.
 
 ### Conclusão
-O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
+O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 5.
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/prototipo.png)
 <div align="center">
-<p> Figura 1 - Respostas da verificação </p>
+<p> Figura 5 - Respostas da verificação </p>
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
 ### Cronograma do reprojeto
 
-      Tabela 3: cronograma do reprojeto
+      Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist do Relato do Protótipo de Papel
+A tabela 12 descreve o checklist do relato do protótipo de papel, da tarefa pesquisar procurados, preenchido. O relato do protótipo de papel foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) e foi verificado pela integrante [Lara Giuliana](https://github.com/gravelylara).
 
     Tabela 12: checklist relato do protótipo de papel
 
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+|1|Possui uma descrição dos objetivos?| Não. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2| Descreve o método de avaliação utilizado?| Não. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3| Explica sobre o número e o perfil de usuários e avaliadores que participaram da avaliação?| Sim. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4| Apresenta um sumário dos dados coletados, incluindo tabelas e gráficos?|Sim. |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5| Relata a interpretação e análise dos dados?|Sim.|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6| Mostra quais foram os problemas encontrados?|Não.|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim.|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim (não no vídeo, mas quando é apresentado o termo de consentimento). |página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+
+<center> <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p></center>
 
 ### Gravação
+A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QckZZH82xsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=QckZZH82xsQ" target="_blank">Vídeo da verificação: Relato do Protótipo de papel - Renata  </a>
+</p>
 
 ### Problemas encontrados
+- ID 1: Não possui uma descrição dos objetivos.
+- ID 2: Não descreve o método de avaliação utilizado.
+- ID 6: Não mostra os problemas encontrados em tópico.
 
 ### Soluções
+- ID 1: Adicionar uma descrição dos objetivos.
+- ID 2: Descrever o método de avaliação utilizado.
+- ID 6: Adicionar um tópico dos problemas.
 
 ### Conclusão
+O relato do protótipo de papel está bom mas pode ser melhorado, como mostra a figura 6.
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/relatopp-renata2.png)
+<div align="center">
+<p> Figura 6 - Respostas da verificação </p>
+ <center>  <p>Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
+A tabela 13 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
+
       Tabela 13: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
+| 24/06 |  Descrever melhor os objetivos, método de avaliação utilizado e problemas encontrados. | [Renata Quadros](https://github.com/Renatinha28) | |
+
+<center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
+
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -331,4 +371,5 @@ O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
 | 1.0 | Verificação relato do protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |  [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
 | 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |    [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
 | 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 |
+| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara)  | 24/06 |
 

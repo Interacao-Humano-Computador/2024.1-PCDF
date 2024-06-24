@@ -291,10 +291,10 @@ A tabela 12 descreve o checklist do protótipo de papel, da tarefa Retrato Falad
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QckZZH82xsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hDVSEqsyQIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=QckZZH82xsQ" target="_blank">Vídeo da verificação: Protótipo de papel - Renata  </a>
+    <a href="https://www.youtube.com/watch?v=hDVSEqsyQIA" target="_blank">Vídeo da verificação: Protótipo de papel - Renata  </a>
 </p>
 
 ### Problemas encontrados=
@@ -304,7 +304,7 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 - ID 6: Apresentar um teste piloto.
 
 ### Conclusão
-O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 6.
+No geral protótipo de papel está muito bom, faltando apenas o teste piloto, como mostra a figura 6.
 
 <center>
 ![Gráfico](../../../assets/verificacao/verificação nosso grupo/etapa 7/protodenuncia.png)
