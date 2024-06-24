@@ -5,7 +5,7 @@ Depois que fizemos o planejamento da verficação e elaboramos um checklist para
 O objetivo desse artefato e documentar a verificação do artefato Site escolhido.
 
 # Metodologia
-A metodologia ultilizada é a de verificação por inspeção, quando dois integrantes se reuniram para verificar um artefato construido por um terceiro integrante.
+A metodologia utilizada é a de verificação por inspeção, quando dois integrantes se reuniram para verificar um artefato construido por um terceiro integrante.
 
 # Checklist
 | ID | Descrição | Avaliação | Referência | Print |
