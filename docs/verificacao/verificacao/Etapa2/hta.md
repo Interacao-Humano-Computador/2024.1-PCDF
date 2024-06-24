@@ -139,12 +139,33 @@ A Figura 2 monstra como ficou as respostas obtidas
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jL6hb2KTnh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=jL6hb2KTnh8" target="_blank">Vídeo da verificação: HTA - Raissa </a>
+</p>
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
+
 ### Problemas encontrados
+
+- ID 1: a análise não começa pela definição dos objetivos.
 
 ### Soluções
 
+Adicionar a definição dos objetivos.
+
 ### Conclusão
+
+![alt text](<../../../assets/verificacao/verificação nosso grupo/etapa2/htaDO.png>)
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
+
 ### Cronograma do reprojeto
+
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| Acrescentar definição dos obejtivos.  | [Giovana Silva](https://github.com/gio221) ||
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist HTA
@@ -305,5 +326,6 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificação Pesquisar Procurados e Solicitar Carteira de Identidade |  [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) | 22/06 
-| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06
+| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06 |  |
 
