@@ -58,4 +58,4 @@ Nesse caso como já houve a entrevista, não há necessidade de realizar o teste
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Verificação da Entrevista | [Raissa Andrade](https://github.com/RaissaAndradeS)   | 22/06 |  [Giovana Barbosa](https://github.com/gio221) | 22/06 
+| 1.0 |  Verificação da Entrevista | [Raissa Andrade](https://github.com/RaissaAndradeS)   | 22/06 |  [Giovana Barbosa](https://github.com/gio221) | 22/06 |  [Rayene Almeida](https://github.com/rayenealmeida) | 24/06 |

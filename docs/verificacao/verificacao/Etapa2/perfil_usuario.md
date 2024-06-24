@@ -74,4 +74,4 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Relato verificação perfil de usuário | [Lara Giuliana](https://github.com/gravelylara)  | 21/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
+| 1.0 | Relato verificação perfil de usuário | [Lara Giuliana](https://github.com/gravelylara)  | 21/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06 

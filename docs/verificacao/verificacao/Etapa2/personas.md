@@ -68,4 +68,4 @@ Como não há problemas encontrados, não há necessidade de um reprojeto.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificando personas | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 | [Giovana Barbosa](https://github.com//gio221)|21/06 |
+| 1.0 | Verificando personas | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 | [Giovana Barbosa](https://github.com//gio221), [Rayene Almeida](https://github.com/rayenealmeida)|21/06 |
