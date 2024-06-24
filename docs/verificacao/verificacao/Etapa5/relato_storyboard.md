@@ -115,7 +115,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 A Figura 2 mostra como ficou as respostas obtidas 
 <center>
-![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/relatostoryboard-renata.png)
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/relatostoryboard-renata.png)</center>
 
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
@@ -128,7 +128,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 | 23/06            | Adicionar objetivos e gráfico | Renata          |         |
 
 
-## 4- 197- Denúncia Online <a id="denuncia"></a>
+## 3- 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist Relato do Storyboards
 
 | ID | Descrição | Avaliação | Referência | Print |
@@ -184,7 +184,7 @@ Arrumar os ID's listados acima, ID 4, ID 5 e ID 6.
 <center>
         <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
 
-## 5- Solicitar Carteira de Identidade <a id="carteira"></a>
+## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist Relato do Storyboards
 A tabela 10 descreve o checklist do relato do storyboard da Raissa.
 
@@ -242,7 +242,7 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
-## 6- Registrar Ocorrência <a id="registrar"></a>
+## 5- Registrar Ocorrência <a id="registrar"></a>
 ### Checklist Relato do Storyboards
 
 | ID | Descrição | Avaliação | Referência | Print |
@@ -292,7 +292,7 @@ O relato está bom, mas pode ser melhorado, como mostra a figura 5.
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
-## 7- Retrato Falado Online <a id="retrato"></a>
+## 6- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Relato do Storyboards
 
 | ID | Descrição | Avaliação | Referência | Print |
@@ -357,4 +357,4 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06|
 | 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
-| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06

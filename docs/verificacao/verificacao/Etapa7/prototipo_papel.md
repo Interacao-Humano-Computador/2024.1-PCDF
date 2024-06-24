@@ -117,7 +117,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-</div>
+</div></center>
 
 
 ### Cronograma do reprojeto
@@ -155,10 +155,10 @@ A Figura 2 mostra como ficou as respostas obtidas
 - Acrescentar o teste piloto.
 
 ### Conclusão
-
+<center>
 ![alt text](<../../../assets/verificacao/verificação nosso grupo/etapa 7/protodenuncia.png>)
 
-<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 ### Cronograma do reprojeto
 
@@ -291,7 +291,7 @@ A tabela 12 descreve o checklist do protótipo de papel, da tarefa Retrato Falad
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=hDVSEqsyQIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hDVSEqsyQIA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=hDVSEqsyQIA" target="_blank">Vídeo da verificação: Protótipo de papel - Renata  </a>
@@ -334,6 +334,6 @@ A tabela 13 descreve o artefato a ser corrigido, o integrante responsável pela 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificação protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |
-| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
-| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06 |  |
-| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara) | 24/06 |  |
+| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) |24/06
+| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06 |  [Giovana Barbosa](https://github.com/gio221) |24/06
+| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara) | 24/06 |  [Giovana Barbosa](https://github.com/gio221) |24/06

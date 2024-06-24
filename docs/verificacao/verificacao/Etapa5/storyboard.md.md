@@ -109,9 +109,14 @@ A Figura 2 mostra como ficou as respostas obtidas
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard-renata.png.png)
 
+<<<<<<< HEAD
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
 </div>
+=======
+<p> Figura 2 - Respostas da verificação </p> </center>
+
+>>>>>>> origin/git-pages
 
 ### Cronograma do reprojeto
 
@@ -330,4 +335,4 @@ Como não foram encontrados problemas, não há necessidade de correção.
 | 1.0 | Verificando |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
 | 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
 | 1.2 | Verificação de Denuncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06 | [Rayene Almeida](https://github.com/rayenealmeida)  | 23/06 |
-| 1.3| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+| 1.3| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06

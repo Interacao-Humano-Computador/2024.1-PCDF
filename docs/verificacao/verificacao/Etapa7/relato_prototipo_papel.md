@@ -111,8 +111,8 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
     " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center"
-    <a href="https://www.youtube.com/embed/cxDEWEqzA2Y
-    " target="_blank">Vídeo da verificação: Relato do Protótipo de Papel - Renata </a>
+    <a href="https://www.youtube.com/embed/cxDEWEqzA2Y"
+     target="_blank">Vídeo da verificação: Relato do Protótipo de Papel - Renata </a>
 </p>
 
 ### Problemas encontrados
@@ -127,11 +127,10 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 A Figura 2 mostra como ficou as respostas obtidas 
 <center>
-![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/relatopp-renata.png.png)
-
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/relatopp-renata.png)
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-</div>
+</div></center>
 
 
 ### Cronograma do reprojeto
@@ -157,14 +156,15 @@ A Figura 2 mostra como ficou as respostas obtidas
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 |9| Possui a informação da quantidade de participantes, e de storyboards por participante|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 
 ### Gravação
 
-
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9oLMiODvPYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 
 ### Problemas encontrados
@@ -176,9 +176,10 @@ A Figura 2 mostra como ficou as respostas obtidas
 Acrescentar gráficos.
 
 ### Conclusão
-
+<center>
 ![alt text](<../../../assets/verificacao/verificação nosso grupo/etapa 7/relatodenuncua.png>)
-<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 ### Cronograma do reprojeto
 
@@ -322,7 +323,7 @@ A tabela 12 descreve o checklist do relato do protótipo de papel, da tarefa pes
 A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gravelylara) e a gravação está logo abaixo.
 
 <p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=QckZZH82xsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/QckZZH82xsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
     <a href="https://www.youtube.com/watch?v=QckZZH82xsQ" target="_blank">Vídeo da verificação: Relato do Protótipo de papel - Renata  </a>
@@ -370,6 +371,6 @@ A tabela 13 descreve o artefato a ser corrigido, o integrante responsável pela 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificação relato do protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |  [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
 | 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |    [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
-| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 |
-| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara)  | 24/06 |
+| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 | [Giovana Barbosa](https://github.com/gio221) |24/06|
+| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara)  | 24/06 | [Giovana Barbosa](https://github.com/gio221) |24/06
 

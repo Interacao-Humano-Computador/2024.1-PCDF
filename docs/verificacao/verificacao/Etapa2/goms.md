@@ -290,7 +290,13 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
+<<<<<<< HEAD
 | 1.0 | Verificando Registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 19/06 |
 | 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06 
 | 1.2 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |
 | 1.3| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  | |
+=======
+| 1.0 | Verificando Registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
+| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
+| 1.2 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  [Giovana Barbosa](https://github.com/gio221) | 24/06
+>>>>>>> origin/git-pages

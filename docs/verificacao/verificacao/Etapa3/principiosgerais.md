@@ -71,4 +71,4 @@ Fonte: [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](ht
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 23/06 | [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 |
-| 1.1 |  Adicionando checklist, videos e gráficos do artefato | [Raissa Andrade](https://github.com/RaissaAndradeS)   | 24/06 |   | |
+| 1.1 |  Adicionando checklist, videos e gráficos do artefato | [Raissa Andrade](https://github.com/RaissaAndradeS)   | 24/06 |   [Giovana Barbosa](https://github.com/gio221) | 24/06
