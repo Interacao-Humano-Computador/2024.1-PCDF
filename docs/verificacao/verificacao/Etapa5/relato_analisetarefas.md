@@ -94,6 +94,14 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Gravação
 
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i0NldeMllh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/i0NldeMllh8" target="_blank">Vídeo da verificação: Protótipo de papel - Renata  </a>
+</p>
+
 ### Problemas encontrados
 - ID 1: Não possui uma descrição dos objetivos
 - ID 3: Não possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação
@@ -108,19 +116,24 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Conclusão
 
-
-A Figura 2 mostra como ficou as respostas obtidas
+A Figura 2 monstra como ficou as respostas obtidas 
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/resultadoanalise-renata.png)
-<p> Figura 2 - Respostas da verificação </p>
-</center>
 
-## Cronograma do reprojeto
+<div align="center">
+<p> Figura 2 - Respostas da verificação </p> 
+
+</div>
+
+### Cronograma do reprojeto
+
 | Data da Correção | Descrição | Responsável(eis) | Status |
-|----------------|----------|-----------------|-------|
-| 23/06  | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
 
-## 3- 197- Denúncia Online
+
+
+## 4- 197- Denúncia Online<a id="denuncia"></a>
 ### Checklist Relato da Análise de Tarefas.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -133,11 +146,13 @@ A Figura 2 mostra como ficou as respostas obtidas
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
-<center><p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
 
 ### Gravação
 
-<center><p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
 
 ### Problemas encontrados
 
@@ -146,29 +161,31 @@ A Figura 2 mostra como ficou as respostas obtidas
 - ID 6: Não possui uma lista de problemas encontrados.
 
 ### Soluções
+
 Adicionar o ID 4, ID 5 e ID 6. Todos listados acima.
 
 ### Conclusão
-![alt text](../../../assets/verificacao/etapa5/htaDO.png)
 
+![alt text](../../../assets/verificacao/etapa5/htaDO.png)
 
 <center>
         <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
 
-
 ### Cronograma do reprojeto
+
       Tabela: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |23/06| adicionar sumário dos dados coletados, um relato da interpretação da análise de dados e uma listas de problemas encontrados. | [Giovana Silva](https://github.com/gio221) | |
 
-<center><p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
 
 
-## 4- Solicitar Carteira de Identidade<a id="carteira"></a>
+
+## 5- Solicitar Carteira de Identidade<a id="carteira"></a>
 ### Checklist Relato da Análise de Tarefas.
 A tabela 10 descreve o checklist do relato da análise de tarefas da Raissa.
-
 
       Tabela 10: verificação do Relato da Análise de Tarefas - Raissa
 | ID | Descrição | Avaliação | Referência | Print |
@@ -182,10 +199,8 @@ A tabela 10 descreve o checklist do relato da análise de tarefas da Raissa.
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?| Sim. |página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação| Sim, no termo de consentimento |página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
-
 ### Gravação
 A verificação foi feita pela integrante [Renata Quadros](https://github.com/Renatinha28) e a gravação está logo abaixo.
-
 
 <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8XlxismFNAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -194,21 +209,16 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
     <a href="https://www.youtube.com/watch?v=8XlxismFNAY" target="_blank">Vídeo da verificação: Relato da Análise de Tarefas - Raissa </a>
 </p>
 
-
 ### Problemas encontrados
 - ID 4: Não contém gráficos.
 - ID 5: Não contém um relato da interpretação dos dados.
 
-
 ### Soluções
 - ID 4: Adicionar gráficos.
-- ID 5: Adicionar um relato da interpretação dos dados.
-
+- ID 5: Adicionar um relato da interpretação dos dados. 
 
 ### Conclusão
 Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
-
-
 
 
 <center>
@@ -218,23 +228,18 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-
 ### Cronograma do reprojeto
 A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
-
 
       Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |21/06| Adicionar gráficos| [Raissa Andrade](https://github.com/RaissaAndradeS) | |
 
-
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
-
-## 5- Registrar Ocorrência <a id="registrar"></a>
+## 6- Registrar Ocorrência <a id="registrar"></a>
 ### Checklist Relato da Análise de Tarefas.
-
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -246,7 +251,6 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |6|Possui uma lista dos problemas encontrados?|Não se aplica|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
-
 
 ### Gravação
 <p style="text-align: center">
@@ -256,21 +260,16 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
     <a href="https://www.youtube.com/watch?v=1L1YThhq4p8" target="_blank">Vídeo da verificação: Relado da Análise de Tarefas - Raissa </a>
 </p>
 
-
 ### Problemas encontrados
 - ID 4: Não contém gráficos.
 - ID 5: Não contém um relato da interpretação dos dados.
 
-
 ### Soluções
 - ID 4: Adicionar gráficos.
-- ID 5: Adicionar um relato da interpretação dos dados.
-
+- ID 5: Adicionar um relato da interpretação dos dados. 
 
 ### Conclusão
 Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
-
-
 
 
 <center>
@@ -280,17 +279,14 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-
 ### Cronograma do reprojeto
       Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
-
-## 6- Retrato Falado Online <a id="retrato"></a>
+## 7- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Relato da Análise de Tarefas.
-
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
@@ -303,7 +299,6 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
-
 <p style="text-align: center">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/VbnAmWlTD8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
@@ -311,21 +306,16 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
     <a href="https://www.youtube.com/watch?v=VbnAmWlTD8Q" target="_blank">Vídeo da verificação: Relado da Análise de Tarefas - Raissa </a>
 </p>
 
-
 ### Problemas encontrados
 - ID 4: Não contém gráficos.
 - ID 5: Não contém um relato da interpretação dos dados.
 
-
 ### Soluções
 - ID 4: Adicionar gráficos.
-- ID 5: Adicionar um relato da interpretação dos dados.
-
+- ID 5: Adicionar um relato da interpretação dos dados. 
 
 ### Conclusão
 Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
-
-
 
 
 <center>
@@ -335,26 +325,23 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-
 ### Cronograma do reprojeto
       Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
 |23/06|Corrigir problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | |
 
-
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
 > 2.  ROGERS, Y.; SHARP, H.; PREECE, J. Design de interação: Além da interação humano-computador. Bookman Editora, 2013.
 > 3. O que é Storyboard? Como fazer? Veja modelos e exemplos. Disponível em: [https://miro.com/pt/storyboard/o-que-e-storyboard/](https://miro.com/pt/storyboard/o-que-e-storyboard/)
 
-
 ## Histórico de Versões
       Tabela que descreve o Histórico de Versões
-
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
 | 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
-| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) |24/06
+| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+
