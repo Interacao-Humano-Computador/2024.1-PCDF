@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 Depois que fizemos o planejamento da verificação e elaboramos um checklist para o artefato Sites Avaliados agora vamos usar esse checklist para verificar o artefato.
 
 # Objetivo
@@ -58,4 +58,4 @@ Como não tem soluções não precisa de reprojeto.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 |  [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06|
+| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 |  [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida)| 24/06|

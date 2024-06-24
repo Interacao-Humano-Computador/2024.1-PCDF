@@ -143,4 +143,4 @@ Para esta verificação será considerado os seguintes artefatos:
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 19/06 |  [Giovana Barbosa ](https://github.com/gio221) |22/06  |
-|1.1| Perguntas das referências|  [Giovana Barbosa ](https://github.com/gio221) |22/06| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06
+|1.1| Perguntas das referências|  [Giovana Barbosa ](https://github.com/gio221) |22/06| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida) | 24/06
