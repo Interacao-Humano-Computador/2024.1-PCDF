@@ -129,11 +129,10 @@ Para esta verificação será considerado os seguintes artefatos:
 | :----: | --------- | ---------- | 
 | 1 |Todos os artefatos estão com a escrita de acordo com a norma da lingua portuguesa? | | 
 | 2 | As imagens são chamadas no texto? | | 
-| 3 | Temos bibliografia o referencia bibliografica em todos os artefatos| | 
+| 3 | Temos bibliografia ou referência bibliograficas em todos os artefatos| | 
 | 4 | Os artefatos estão padronizados?| |  
 
-<center> <p>Fonte: <a href="https://github.com/RaissaAndradeS">Raissa Andrade, 2024</a></p></center>
-
+<center>Fonte:[Giovana Barbosa ](https://github.com/gio221) </center>
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -144,4 +143,4 @@ Para esta verificação será considerado os seguintes artefatos:
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 19/06 |  [Giovana Barbosa ](https://github.com/gio221) |22/06  |
-|1.1| Perguntas das referencias|  [Giovana Barbosa ](https://github.com/gio221) |22/06|
+|1.1| Perguntas das referências|  [Giovana Barbosa ](https://github.com/gio221) |22/06| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06
