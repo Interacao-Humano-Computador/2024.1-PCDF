@@ -143,6 +143,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 ### Gravação
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3qTh3rClcbM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
