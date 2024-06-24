@@ -1,5 +1,5 @@
 ## Introdução
-Após o planejamento da verificação, agora vamos verificar o artefado Metodologia do grupo 04 do semestre de 2024.1. Esta é uma verificação do projeto, ou seja, é uma verificação válida para o contexto do projeto.
+Após o planejamento da verificação, agora vamos verificar o artefato Metodologia do grupo 04 do semestre de 2024.1. Esta é uma verificação do projeto, ou seja, é uma verificação válida para o contexto do projeto.
 
 ## Objetivo 
 O objetivo deste documento é relatar a verificação do artefato Metodologia.
@@ -59,4 +59,4 @@ Como não teve problemas encontrados, não há necessidade de um reprojeto.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação da Metodologia| [Renata Quadros](https://github.com/Renatinha28)  | 22/06 | 
+| 1.0 | Verificação da Metodologia| [Renata Quadros](https://github.com/Renatinha28)  | 22/06 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06
