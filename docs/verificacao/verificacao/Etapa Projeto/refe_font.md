@@ -33,12 +33,12 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 </p>
 
 ### Problemas encontrados
-- ID 1: Tem alguns artefatos com erros de pertuguês.
+- ID 1: Tem alguns artefatos com erros de português.
 - ID 2: Em alguns artefatos não tem as chamadas das imagens nos textos.
 - ID 4: Nem todos os artefatos estão padronizados.
 
 ### Soluções
-- ID 1: Revisar os erros de pertuguês.
+- ID 1: Revisar os erros de português.
 - ID 2: Revisar as chamadas das imagens nos textos.
 - ID 4: Padronizar os artefatos.
 
@@ -59,7 +59,7 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|25/06| Revisar os erros de pertuguês e as chamadas das imagens nos textos e padronizar os artefatos. | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221), [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida) e [Lara Giuliana](https://github.com/gravelylara) | |
+|25/06| Revisar os erros de português e as chamadas das imagens nos textos e padronizar os artefatos. | [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221), [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida) e [Lara Giuliana](https://github.com/gravelylara) | |
 
 
 ## Bibliografia
@@ -72,4 +72,4 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação | [Renata Quadros](https://github.com/Renatinha28)  | 23/06 |
+| 1.0 | Verificação | [Renata Quadros](https://github.com/Renatinha28)  | 23/06 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06
