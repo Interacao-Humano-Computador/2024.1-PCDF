@@ -1,5 +1,5 @@
 # Introdução
-Depois que fizemos o planejamento da verficação e elaboramos um checklist para o artefato Sites Avaliados agora vamos usar esse checklist para verificar o artefato.
+Depois que fizemos o planejamento da verificação e elaboramos um checklist para o artefato Sites Avaliados agora vamos usar esse checklist para verificar o artefato.
 
 # Objetivo
 O objetivo desse artefato e documentar a verificação do artefato Sites Avaliados.
