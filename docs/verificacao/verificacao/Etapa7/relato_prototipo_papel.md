@@ -369,8 +369,8 @@ A tabela 13 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação relato do protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |  [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
+| 1.0 | Verificação relato do protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |  [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida)| 24/06
 | 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |    [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
-| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 | [Giovana Barbosa](https://github.com/gio221) |24/06|
-| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara)  | 24/06 | [Giovana Barbosa](https://github.com/gio221) |24/06
+| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) |24/06|
+| 1.3| Verificação de Retrato Falado Online| [Lara Giuliana](https://github.com/gravelylara)  | 24/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) |24/06
 

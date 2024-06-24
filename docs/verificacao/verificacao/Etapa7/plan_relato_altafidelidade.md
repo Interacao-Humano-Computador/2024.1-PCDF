@@ -69,4 +69,4 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação Planejamento do relato do prototipo de alta fidelidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 | | | |
+| 1.0 | Verificação Planejamento do relato do prototipo de alta fidelidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |[Rayene Almeida](https://github.com/rayenealmeida) | 24/06| 
