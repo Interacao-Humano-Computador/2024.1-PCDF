@@ -106,14 +106,39 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 | 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
 | 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | Não, poderia ter mais detalhes| "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
 
+ <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
+
 ### Gravação
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=26zcZmY9b60" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=26zcZmY9b60" target="_blank">Vídeo da verificação: GOMS - Raissa </a>
+</p>
+
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Problemas encontrados
 
+- ID 4: Falta detalhes da análise. 
+
 ### Soluções
 
+Colocar o ID 4.
+
+
 ### Conclusão
+
+![alt text](../../../assets/verificacao/etapa2/graficodedenuncia.png)
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
+
 ### Cronograma do reprojeto
+
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| Acrescentar detalhes da análise  | [Giovana Silva](https://github.com/gio221) ||
+<center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist GOMS
@@ -249,4 +274,4 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando Registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
 | 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
-
+| 1.2 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  | 
