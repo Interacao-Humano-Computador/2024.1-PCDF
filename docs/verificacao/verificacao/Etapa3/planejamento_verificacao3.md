@@ -114,4 +114,4 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação | [Giovana Barbosa](https://github.com/gio221) | 18/06 | [Renata Quadros](https://github.com/Renatinha28)| 21/06|
+| 1.0 | Planejamento da verificação | [Giovana Barbosa](https://github.com/gio221) | 18/06 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)| 21/06|

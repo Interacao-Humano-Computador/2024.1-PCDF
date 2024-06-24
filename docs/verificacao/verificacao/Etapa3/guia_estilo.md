@@ -64,4 +64,4 @@ Como não houve problemas encontrados, não há necessidade de um reprojeto.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação Guia de Estilo |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06
+| 1.0 | Verificação Guia de Estilo |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06
