@@ -134,27 +134,40 @@ A Figura 2 monstra como ficou as respostas obtidas
     Tabela 6: checklist protótipo de papel
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
-| 2 | Segue o modelo de interface da PCDF? | | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 6 | Possui teste piloto?| | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 1 | Possui tarefas para serem realizadas pelos participantes? | Sim | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 2 | Segue o modelo de interface da PCDF? | Sim  | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | Sim | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | Sim | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | Sim | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 6 | Possui teste piloto?| Não | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
 
 ### Gravação
 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
 ### Problemas encontrados
+
+- ID 6: Não possui o teste piloto 
 
 ### Soluções
 
+- Acrescentar o teste piloto.
+
 ### Conclusão
+
+![alt text](<../../../assets/verificacao/verificação nosso grupo/etapa 7/protodenuncia.png>)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 ### Cronograma do reprojeto
 
       Tabela 7: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
+| 24 | Acrescentar o teste piloto | [Giovana Silva](https://github.com/gio221) | |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist Protótipo de Papel
@@ -296,3 +309,4 @@ A figura 1 monstra que o artefato tem 80% de sim na verificação
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificação protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |
 | 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/06 |  |
