@@ -111,7 +111,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-
+</div>
 
 ### Cronograma do reprojeto
 

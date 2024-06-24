@@ -81,19 +81,42 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Os objetivos do usuário foram claramente definidos no diagrama? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.1.png) |
-| 2 | Os operadores incluídos no diagrama são bem definidos, internos ou externos? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.2.png) |
-| 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
-| 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
+| 1 | Os objetivos do usuário foram claramente definidos no diagrama? |Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.1.png) |
+| 2 | Os operadores incluídos no diagrama são bem definidos, internos ou externos? | Sim| "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 216.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina216.2.png) |
+| 3 | Os métodos para atingir os objetivos foram sequenciados corretamente? |Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 217.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina217.1.png) |
+| 4 | Foi utilizado um nível de detalhe apropriado no diagrama, atendendo aos objetivos da análise? | Sim | "6.4.2 GOMS (Goals, Operators, Methods, And Selection Rules)" | [Página 220.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina220.1.png) |
 
 ### Gravação
 
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/g9D9KdG4Cfo
+    " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/g9D9KdG4Cfo" target="_blank">Vídeo da verificação: GOMS - Renata </a>
+</p>
+
 ### Problemas encontrados
+- Não foi encontrado problemas
 
 ### Soluções
+- Não possui soluções pois não foi encontrado problemas
 
 ### Conclusão
+
+A Figura 2 mostra como ficou as respostas obtidas 
+<center>
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/goms-renata.png)
+
+<div align="center">
+<p> Figura 2 - Respostas da verificação </p> 
+</div>
+
 ### Cronograma do reprojeto
+
+| Data da Correção | Descrição | Responsável(eis) | Status |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Não precisa de reprojeto | Renata          |    Concluído     |
 
 
 ## 3- 197- Denúncia Online <a id="denuncia"></a>
@@ -267,6 +290,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificando Registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28)  | 19/06 |
-| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
-| 1.2 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  | 
+| 1.0 | Verificando Registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 19/06 |
+| 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06 
+| 1.2 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |
+| 1.3| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  | |
