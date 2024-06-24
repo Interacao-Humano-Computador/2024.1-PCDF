@@ -36,14 +36,14 @@ Abaixo encontra-se a tabela 1 do checklist do  Planejamento do relato de alta fi
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Está descrito o obejtivo da avaliação?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|2| Apresenta quais métodos utilizados na avaliação?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|3| Mostra o número de participantes?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|4| Possui cronograma das entrevistas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|5| Foi feita a apresentação dos aspectos éticos?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|6| Possui as tarefas propostas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|7| Possui roteiro de perguntas?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|8| Esta sendo apresentado como será a interpretação de dados||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|1|Está descrito o obejtivo da avaliação?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|2| Apresenta quais métodos utilizados na avaliação?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|3| Mostra o número de participantes?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|4| Possui cronograma das entrevistas?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|5| Foi feita a apresentação dos aspectos éticos?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| Possui as tarefas propostas?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|7| Possui roteiro de perguntas?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|8| Esta sendo apresentado como será a interpretação de dados|| Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -57,12 +57,12 @@ Abaixo encontra-se a tabela 2 do checklist do  Planejamento da avaliação de al
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1| Está definido a quantidade de participantes?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
-|2| Possui um teste piloto?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
-|3| Possui roteiro de perguntas, para se responder na avaliação?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
-|4| O planejamento segue o framework DECIDE?||página316|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
-|5| Descreve o obejtivo da avaliação?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|6| Possui apresentação dos aspectos éticos?||pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|1| Está definido a quantidade de participantes?||Capítulo 12|[Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
+|2| Possui um teste piloto?||Capítulo 12|[Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
+|3| Possui roteiro de perguntas, para se responder na avaliação?|| Capítulo 12|[Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
+|4| O planejamento segue o framework DECIDE?||Capítulo 12|[Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia.png)|
+|5| Descreve o obejtivo da avaliação?||Capítulo 12|[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| Possui apresentação dos aspectos éticos?||Capítulo 12|[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -76,12 +76,12 @@ docs/assets/verificacao/verificação nosso grupo/etapa 7/pagina317.jpeg
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | Possui tarefas para serem realizadas pelos participantes? | | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
-| 2 | Segue o modelo de interface da PCDF? | | Página 316 |[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Página 316 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Página 316| [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
-| 6 | Possui teste piloto?| | Página 317 | [print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 1 | Possui tarefas para serem realizadas pelos participantes? | | Capítulo 12 | [Página 317](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
+| 2 | Segue o modelo de interface da PCDF? | | Capítulo 12 |[Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 3 | O protótipo foi feito em papel físico podendo ou não ser feito a mão livre? | | Capítulo 12| [Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 4 | Está sendo representado todo o fluxo da funcionalidade com início? meio e fim? | | Capítulo 12| [Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 5 | Possui alguma parte não estática? (que se modifica como menus, dicas sobre elementos de interface, itens de alguma lista, resultados de ações ou entre outros)? | | Capítulo 12| [Página 316](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina316.jpeg) |
+| 6 | Possui teste piloto?| | Capítulo 12 | [Página 317](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%207/pagina317.jpeg) |
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -92,15 +92,15 @@ Abaixo encontra-se a tabela 4 do checklist do Relato do protótipo de papel
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2| Descreve o método de avaliação utilizado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3| Explica sobre o número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4| Apresenta um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5| Relata a interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6| Mostra quais foram os problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
-|9| Possui a informação da quantidade de participantes, e de storyboards por participante||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|1|Possui uma descrição dos objetivos?||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2| Descreve o método de avaliação utilizado?||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3| Explica sobre o número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4| Apresenta um sumário dos dados coletados, incluindo tabelas e gráficos?||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5| Relata a interpretação e análise dos dados?||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6| Mostra quais foram os problemas encontrados?||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||Capítulo 11|[Página 277](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||Capítulo 11|[Página 277](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|9| Possui a informação da quantidade de participantes, e de storyboards por participante||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
