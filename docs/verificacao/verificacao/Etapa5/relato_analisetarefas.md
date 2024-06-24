@@ -114,18 +114,16 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-
-
+</center>
 
 ### Cronograma do reprojeto
-
 | Data da Correção | Descrição | Responsável(eis) | Status |
-|:----------------:|:----------|:-----------------|:-------|
-| 23/06            | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
+|----------------|----------|-----------------|-------|
+| 23/06  | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
 
 
 
-## 4- 197- Denúncia Online<a id="denuncia"></a>
+## 4- 197- Denúncia Online
 ### Checklist Relato da Análise de Tarefas.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
