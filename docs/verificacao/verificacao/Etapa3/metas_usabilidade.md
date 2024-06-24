@@ -40,7 +40,7 @@ A verificação do checklist foi gravda e foi feita pelas integrantes [Giovana B
 
 
 # Conclusão
-A imagem 1 monstra como ficou as respostas obtidas
+A imagem 1 mostra como ficou as respostas obtidas
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/aspectoetico.png)
 <div align="center">
@@ -48,10 +48,10 @@ A imagem 1 monstra como ficou as respostas obtidas
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-Como monstrado na imagem 1 o artefato do questionário foi muito bem feito, com 80% de acertos
+Como mostrado na imagem 1 o artefato do questionário foi muito bem feito, com 80% de acertos
 
 # Cronograma do reprojeto
-A tabela 11 monstra o cronograma do reprojeto
+A tabela 11 mostra o cronograma do reprojeto
 
      Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
