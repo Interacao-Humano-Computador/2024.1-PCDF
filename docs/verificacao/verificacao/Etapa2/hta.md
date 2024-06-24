@@ -139,12 +139,8 @@ A Figura 2 monstra como ficou as respostas obtidas
 
 ### Gravação
 
-<p style="text-align: center">
-    <iframe width="560" height="315" src="https://www.youtube.com/watch?v=jL6hb2KTnh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</p>
-<p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=jL6hb2KTnh8" target="_blank">Vídeo da verificação: HTA - Raissa </a>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jL6hb2KTnh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Problemas encontrados
