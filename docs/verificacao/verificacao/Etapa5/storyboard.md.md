@@ -30,10 +30,10 @@ A tabela 2 descreve o checklist do storyboard da Lara.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 |1|o storyboard está relacionado a um cenário realizado pelo grupo?| Não. |página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? | Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?| Não. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?| Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?| Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|2|O storyboard contém caracteristicas do cenário? | Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém caracteristicas das atividades?| Não. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém caracteristicas visuais?| Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém caracteristicas da história?| Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -49,11 +49,11 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 
 ### Problemas encontrados
 - ID 1: o storyboard não está relacionado a um cenário realizado pelo grupo
-- ID 3: o storyboard não contém cracterísticas das atividades
+- ID 3: o storyboard não contém características das atividades
 
 ### Soluções
 - ID 1: refazer o storyboard baseado a um cenário realizado pelo grupo
-- ID 3: refazer o storyboard para conter cracterísticas das atividades
+- ID 3: refazer o storyboard para conter características das atividades
 
 ## Conclusão 
 O storyboard está bom, mas ainda precisa de alguns ajustes, como mostra a figura 1.
@@ -71,7 +71,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|21/06| Refazer o storyboard baseado a um cenário realizado pelo grupo e contendo as cracterísticas das atividades | [Lara Giuliana](https://github.com/gravelylara) | |
+|21/06| Refazer o storyboard baseado a um cenário realizado pelo grupo e contendo as características das atividades | [Lara Giuliana](https://github.com/gravelylara) | |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -81,10 +81,10 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 |1|o storyboard está relacionado a um cenário realizado pelo grupo?|Sim|página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? |Sim |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|2|O storyboard contém caracteristicas do cenário? |Sim |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém caracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém caracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém caracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 
 ### Gravação
 
@@ -183,10 +183,10 @@ A tabela 10 descreve o checklist do storyboard da Raissa.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 |1|o storyboard está relacionado a um cenário realizado pelo grupo?| Não. |página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? | Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?| Não. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?| Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?| Não. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|2|O storyboard contém caracteristicas do cenário? | Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém caracteristicas das atividades?| Não. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém caracteristicas visuais?| Sim. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém caracteristicas da história?| Não. |Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -202,13 +202,13 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 
 ### Problemas encontrados
 - ID 1: o storyboard não está relacionado a um cenário realizado pelo grupo
-- ID 3: o storyboard não contém cracterísticas das atividades
-- ID 5: o storyboard não contém cracteristicas da história
+- ID 3: o storyboard não contém características das atividades
+- ID 5: o storyboard não contém caracteristicas da história
 
 ### Soluções
 - ID 1: refazer o storyboard baseado a um cenário realizado pelo grupo
-- ID 3: refazer o storyboard para conter cracterísticas das atividades
-- ID 5: refazer o storyboard para conter cracteristicas da história
+- ID 3: refazer o storyboard para conter características das atividades
+- ID 5: refazer o storyboard para conter caracteristicas da história
 
 ## Conclusão 
 O storyboard está bom, mas ainda precisa de alguns ajustes, como mostra a figura 5.
@@ -237,10 +237,10 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 |1|o storyboard está relacionado a um cenário realizado pelo grupo?|Não|página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? |Não|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|2|O storyboard contém caracteristicas do cenário? |Não|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém caracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém caracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém caracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 
 ### Gravação
 
@@ -284,10 +284,10 @@ O relato está bom, mas pode ser melhorado, como mostra a figura 5.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
 |1|o storyboard está relacionado a um cenário realizado pelo grupo?|Sim|página 263|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard.png)|
-|2|O storyboard contém cracteristicas do cenário? |Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|3|O storyboard contém cracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|4|O storyboard contém cracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
-|5|O storyboard contém cracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|2|O storyboard contém caracteristicas do cenário? |Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|3|O storyboard contém caracteristicas das atividades?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|4|O storyboard contém caracteristicas visuais?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
+|5|O storyboard contém caracteristicas da história?|Sim|Miro|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard2.png)|
 
 <center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 
