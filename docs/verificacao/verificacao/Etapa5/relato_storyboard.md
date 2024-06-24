@@ -99,7 +99,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
     <iframe width="560" height="315" src="https://www.youtube.com/embed/r-M3GrdU01k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/embed/r-M3GrdU01k" target="_blank">Vídeo da verificação: Protótipo de Papel - Renata </a>
+    <a href="https://www.youtube.com/embed/r-M3GrdU01k" target="_blank">Vídeo da verificação:  Relato do Storyboard - Renata </a>
 </p>
 
 ### Problemas encontrados
@@ -119,8 +119,7 @@ A Figura 2 monstra como ficou as respostas obtidas
 
 <div align="center">
 <p> Figura 2 - Respostas da verificação </p> 
-
-
+</div>
 
 ### Cronograma do reprojeto
 
@@ -358,3 +357,4 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06|
 | 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
+| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
