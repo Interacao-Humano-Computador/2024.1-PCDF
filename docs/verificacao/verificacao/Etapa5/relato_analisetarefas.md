@@ -95,11 +95,34 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Gravação
 
 ### Problemas encontrados
+- ID 1: Não possui uma descrição dos objetivos
+- ID 3: Não possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação
+- ID 4: Falta o gráfico
+
 
 ### Soluções
+- ID 1: Adicionar descrição dos objetivos
+- ID 3: Adicionar explicação do número e o perfil de usuários e avaliadores que participaram da avaliação
+- ID 4: Adicionar gráfico dos resultados
+
 
 ### Conclusão
+
+A Figura 2 monstra como ficou as respostas obtidas 
+<center>
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/resultadoanalise-renata.png)
+
+<div align="center">
+<p> Figura 2 - Respostas da verificação </p> 
+
+
+
 ### Cronograma do reprojeto
+
+| Data da Correção | Descrição | Responsável(eis) | Status |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
+
 
 
 ## 4- 197- Denúncia Online<a id="denuncia"></a>
