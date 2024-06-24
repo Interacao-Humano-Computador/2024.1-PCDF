@@ -109,8 +109,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 <center>
 ![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/storyboard-renata.png.png)
 
-<div align="center">
-<p> Figura 2 - Respostas da verificação </p> 
+<p> Figura 2 - Respostas da verificação </p> </center>
 
 
 ### Cronograma do reprojeto
