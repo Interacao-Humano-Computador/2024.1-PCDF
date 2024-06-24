@@ -357,4 +357,4 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06|
 | 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
-| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06

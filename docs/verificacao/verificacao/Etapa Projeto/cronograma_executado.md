@@ -70,4 +70,4 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação do Cronograma Executado | [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 | 
+| 1.0 | Verificação do Cronograma Executado | [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 | [Giovana Barbosa](https://github.com/gio221) | 24/06
