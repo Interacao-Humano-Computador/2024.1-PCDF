@@ -146,21 +146,48 @@ A Figura 2 monstra como ficou as respostas obtidas
 
     Tabela 6: checklist relato do protótipo de papel
 
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+|1|Possui uma descrição dos objetivos?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2| Descreve o método de avaliação utilizado?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3| Explica sobre o número e o perfil de usuários e avaliadores que participaram da avaliação?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4| Apresenta um sumário dos dados coletados, incluindo tabelas e gráficos?|Incompleto|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5| Relata a interpretação e análise dos dados?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6| Mostra quais foram os problemas encontrados?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|9| Possui a informação da quantidade de participantes, e de storyboards por participante|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
 
 ### Gravação
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9oLMiODvPYU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+
 ### Problemas encontrados
+
+- ID 4: Não apresenta gráficos.
 
 ### Soluções
 
+Acrescentar gráficos.
+
 ### Conclusão
+
+![alt text](<../../../assets/verificacao/verificação nosso grupo/etapa 7/relatodenuncua.png>)
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 ### Cronograma do reprojeto
 
       Tabela 7: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| x | x | x | |
+| 24/06 | Acrescentar gráficos | [Giovana Silva](https://github.com/gio221) | |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist do Relato do Protótipo de Papel
@@ -301,5 +328,7 @@ O protótipo de papel está bom mas pode ser melhorado, como mostra a figura 4.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificação relato do protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |
-| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
+| 1.0 | Verificação relato do protótipo de papel Pesquisar Procurados e Solicitar carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28) | 22/06 |  [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
+| 1.1| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |    [Raissa Andrade](https://github.com/RaissaAndradeS)| 24/06
+| 1.2| Verificação de Denúncia Online| [Raissa Andrade](https://github.com/RaissaAndradeS)  | 24/06 |
+
