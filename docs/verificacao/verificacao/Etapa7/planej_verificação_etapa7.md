@@ -43,7 +43,7 @@ Abaixo encontra-se a tabela 1 do checklist do  Planejamento do relato de alta fi
 |5| Foi feita a apresentação dos aspectos éticos?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |6| Possui as tarefas propostas?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 |7| Possui roteiro de perguntas?||Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
-|8| Esta sendo apresentado como será a interpretação de dados|| Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|8| Esta sendo apresentado como será a interpretação de dados?|| Capítulo 12 |[Página 318](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -100,7 +100,7 @@ Abaixo encontra-se a tabela 4 do checklist do Relato do protótipo de papel
 |6| Mostra quais foram os problemas encontrados?||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
 |7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||Capítulo 11|[Página 277](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
 |8| Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||Capítulo 11|[Página 277](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
-|9| Possui a informação da quantidade de participantes, e de storyboards por participante||Capítulo 11|[Página 279](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+
 
 <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>
 
@@ -117,3 +117,4 @@ Abaixo encontra-se a tabela 4 do checklist do Relato do protótipo de papel
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do planejamento de verificação | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 19/06 | [Giovana Barbosa](https://github.com/gio221)  | 21/06|
+| 1.1 |  Verificação das listas de verificação |[Giovana Barbosa](https://github.com/gio221)  | 25/06|[Renata Quadros](https://github.com/Renatinha28)|25/06|

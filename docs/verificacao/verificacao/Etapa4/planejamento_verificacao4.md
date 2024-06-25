@@ -101,3 +101,4 @@ A metodologia escolhida será a de verificação por checklist, é apresentada c
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do planejamento de verificação | [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida ](https://github.com/rayenealmeida)   | 15/06 |[Giovana Barbosa](https://github.com/gio221)  | 21/06|
+| 1.1 |  Verificação das listas de verificação |[Giovana Barbosa](https://github.com/gio221)  | 25/06|[Renata Quadros](https://github.com/Renatinha28)|25/06|

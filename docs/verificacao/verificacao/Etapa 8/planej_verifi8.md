@@ -59,7 +59,8 @@ A metodologia adotada para a elaboração deste relatório baseia-se em técnica
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento da verificação | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 19/06 | [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 
+| 1.0 | Planejamento da verificação | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221) | 19/06 | [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |
+| 1.1 |  Verificação das listas de verificação |[Giovana Barbosa](https://github.com/gio221)  | 25/06|[Renata Quadros](https://github.com/Renatinha28)|25/06|
 
 
 

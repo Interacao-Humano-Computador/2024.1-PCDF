@@ -132,16 +132,15 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Verificação Metodologia |Início: 20/06 Fim: 22/06 |  Renata e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Cronograma |Início: 20/06 Fim: 22/06 |  Renata e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Cronograma Executado |Início: 20/06 Fim: 22/06 |  Renata e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Heatmap |Início: 20/06 Fim: 22/06 |  Renata e Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Sites Avaliados |Início: 20/06 Fim: 22/06 |  Giovana e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Ferramentas |Início: 20/06 Fim: 22/06 |  Renata e Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Processo de Design |Início: 20/06 Fim: 22/06 |  Renata e Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Site escolhido |Início: 20/06 Fim: 22/06 |  Renata e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Referências, imagens, tabelas, fontes |Início: 20/06 Fim: 22/06 |  Renata e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Aspectos Éticos  |Início: 20/06 Fim: 22/06 |    Raissa e Rayene         |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Referências, imagens, tabelas, fontes |Início: 20/06 Fim: 22/06 |  Renata e Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Aspectos Éticos  |Início: 20/06 Fim: 22/06 |   Giovana e Lara         |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Questionário  |Início: 20/06 Fim: 22/06 |   Giovana e Lara      |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Entrevista |Início: 20/06 Fim: 22/06 |   Raissa ,Rayene , Renata     |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Análise Competitiva |Início: 20/06 Fim: 22/06 |    Raissa, Rayene, Giovana     |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Entrevista |Início: 20/06 Fim: 22/06 |   Raissa e Renata     |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Análise Competitiva |Início: 20/06 Fim: 22/06 |    Rayene e Giovana     |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Perfil do Usuário |Início: 20/06 Fim: 22/06 |    Giovana e Lara     |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Personas |Início: 20/06 Fim: 22/06 |    Giovana e Renata    |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Cenários |Início: 20/06 Fim: 22/06 |    Giovana, Lara, Raissa, Rayene e Renata    |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
@@ -150,23 +149,23 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Verificação Princípios Gerais do Projeto |Início: 20/06 Fim: 22/06 |  Raissa e Rayene    |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Metas de Usabilidade |Início: 20/06 Fim: 22/06 |  Giovana e Renata   |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Guia de Estilo |Início: 20/06 Fim: 22/06 |  Giovana e Renata   |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Características da plataforma |Início: 20/06 Fim: 22/06 |  Raissa, Rayene, Giovana,Renata   |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Características da plataforma |Início: 20/06 Fim: 22/06 |  Giovana,Renata   |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Planejamento da Avaliação da Análise de Tarefas |Início: 20/06 Fim: 22/06 |  Giovana e Renata  |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Planejamento do Relato dos Resultados da analise de tarefas |Início: 20/06 Fim: 22/06 |  Renata,Lara, Raissa, Rayene |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Planejamento da Avaliação do storyboard |Início: 20/06 Fim: 22/06 |  Lara , Giovana, Rayene |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Planejamento do Relato dos Resultados da analise de tarefas |Início: 20/06 Fim: 22/06 |  Renata e Raissa|Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Planejamento da Avaliação do storyboard |Início: 20/06 Fim: 22/06 |  Giovana, Rayene |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Planejamento do Relato dos Resultados do storyboard |Início: 20/06 Fim: 22/06 |  Giovana e Renata |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Planejamento da Avaliação do Protótipo de Papel |Início: 20/06 Fim: 22/06 |  Raissa e Rayene |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Planejamento da Avaliação do Protótipo de Papel |Início: 20/06 Fim: 22/06 |  Giovana e Lara |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Planejamento do relato dos resultados da avaliação do Protótipo de Papel |Início: 20/06 Fim: 22/06 |  Renata, Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Storyboards |Início: 20/06 Fim: 22/06 |  Giovana, Lara, Raissa, Rayene e Renata |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Relato dos Storyboards |Início: 20/06 Fim: 22/06 |  Giovana, Lara, Raissa, Rayene e Renata |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Análise de Tarefas |Início: 20/06 Fim: 22/06 |  Giovana, Lara, Raissa, Rayene e Renata |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
-| Verificação Planejamento da Avaliação do Protótipo de Alta Fidelidade |Início: 20/06 Fim: 22/06 |  Raissa, Rayene |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
+| Verificação Planejamento da Avaliação do Protótipo de Alta Fidelidade |Início: 20/06 Fim: 22/06 |  Raissa e Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Planejamento do Relato do Protótipo de Alta Fidelidade |Início: 20/06 Fim: 22/06 |  Renata e Giovana |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Protótipo de Papel |Início: 20/06 Fim: 22/06 |  Giovana, Lara, Raissa, Rayene e Renata |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Verificação Relato do Protótipo de Papel |Início: 20/06 Fim: 22/06 |  Giovana, Lara, Raissa, Rayene e Renata |Início: 20/06 Fim: 22/06 |Giovana,  Lara, Raissa, Rayene e Renata          |
 | Responder Perguntas finais             |Início: 20/06 Fim: 22/06 | Giovana    |Início: 20/06 Fim: 22/06 | Giovana, Lara, Raissa, Rayene e Renata          |
 | Gravação da apresentação               | Início: 23/06 Fim: 23/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 23/06 Fim: 23/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
-| Correção pós entrega                   | Início: 26/06 Fim: 29/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 29/06 Fim: 29/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+| Correção pós entrega                   | Início: 27/06 Fim: 30/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 29/06 Fim: 29/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 
 
 ## Bibliografia 
@@ -184,4 +183,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | 1.4 | tabela da etapa 5 executada  | [Giovana Barbosa ](https://github.com/gio221) | 27/05 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |01/06|
 | 1.5 | tabela da etapa 6.1 executada  | [Giovana Barbosa ](https://github.com/gio221) | 10/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |10/06|
 | 1.6 | tabela da etapa 7 executada  | [Giovana Barbosa ](https://github.com/gio221) | 16/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |16/06|
-| 1.6 | tabela da etapa 6.2 executada  | [Renata Quadros](https://github.com/Renatinha28) | 20/06  |   |
+| 1.6 | tabela da etapa 6.2 executada  | [Renata Quadros](https://github.com/Renatinha28) | 20/06  |   [Giovana Barbosa ](https://github.com/gio221) |25/06|

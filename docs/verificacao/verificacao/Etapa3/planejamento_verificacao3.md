@@ -70,22 +70,22 @@ A metodologia adotada para a elaboração deste documento baseia-se em técnicas
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1| Temos an guia de estilo os 6 elementos principais? (layout, tipografia, simbolismo, cores, visualização de informação e design de telas e elementos de interface)||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|2|Possui explicação do publico alvo?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|3|Possui um guia de como ultilizar a guia de estilo?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|4|Possui uma explicação de como manter o guia?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|5|Temos os Elementos da Interface?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|6|Nos elementos da interface temos a tipografia? ||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|7|Nos elementos da interface temos as Cores?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|8|Nos elementos da interface temos os Botôes e Icones?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|9|Nos elementos de interface, temos as animações?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|10|Nos elementos de interface, temos os símbolos não tipográficos?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|11|Nos elementos de interação, temos a seleção de um estilo?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|12|Nos elementos de interação, temos os aceleradores?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|13|Nos elementos de ação, temos o preenchimento de campos?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|14|Nos elementos de ação, temos a seleção?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|15|Nos elementos de ação, temos a ativação?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
-|16|No vocabulário e padrões, temos a terminologia?||Pagina 257|[Prints](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|1| Temos an guia de estilo os 6 elementos principais? (layout, tipografia, simbolismo, cores, visualização de informação e design de telas e elementos de interface)||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|2|Possui explicação do publico alvo?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|3|Possui um guia de como ultilizar a guia de estilo?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|4|Possui uma explicação de como manter o guia?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|5|Temos os Elementos da Interface?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|6|Nos elementos da interface temos a tipografia? ||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|7|Nos elementos da interface temos as Cores?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|8|Nos elementos da interface temos os Botôes e Icones?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|9|Nos elementos de interface, temos as animações?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|10|Nos elementos de interface, temos os símbolos não tipográficos?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|11|Nos elementos de interação, temos a seleção de um estilo?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|12|Nos elementos de interação, temos os aceleradores?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|13|Nos elementos de ação, temos o preenchimento de campos?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|14|Nos elementos de ação, temos a seleção?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|15|Nos elementos de ação, temos a ativação?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
+|16|No vocabulário e padrões, temos a terminologia?||Capitulo 10.5 "Guia de Estilo"|[Pagina 257](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/guiaestilo.png)|
 
   <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
