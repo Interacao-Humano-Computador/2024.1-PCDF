@@ -1,6 +1,6 @@
 # GOMS (Goals, Operators, Methods, And Selection Rules)
 
-# Introdução 
+## Introdução 
 O GOMS é um método para descrever uma tarefa e o conhecimento do usuário sobre
 como realizá-la em termos de objetivos (goals), operadores (operators), métodos (methods)
 e regras de seleção (selection rules).

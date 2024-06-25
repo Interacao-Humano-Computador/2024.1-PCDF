@@ -10,16 +10,41 @@ O objetivo deste documento é fornecer uma metodologia estruturada para o planej
 Para garantir a eficácia e relevância do storyboard, é fundamental seguir uma metodologia estruturada. Neste documento, utilizamos uma metodologia baseada no framework DECIDE, proposta por Sharp, Rogers e Preece (2007), que fornece uma abordagem sistemática e abrangente para esse planejamento. A tabela 1 descreve o significado de cada letra nesta metodologia. 
 
     Tabela 1: framework DECIDE
-| Letra | Descrição |
-|:-----:|------------------------------------------------------------------|
-| D | Determinar os objetivos da avaliação. |
-| E | Explorar perguntas a serem respondidas com a avaliação. |
-| C | Escolher os métodos de avaliação a serem utilizados. |
-| I | Identificar e administrar as questões práticas da avaliação. |                                                               
-| D | Decidir como lidar com as questões éticas. |
-| E | Avaliar, interpretar e apresentar os dados. |
+<div align="center">
+<table>
+  <tr>
+    <th>Letra</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Determinar os objetivos da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Explorar perguntas a serem respondidas com a avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td>Escolher os métodos de avaliação a serem utilizados.</td>
+  </tr>
+  <tr>
+    <td align="center">I</td>
+    <td>Identificar e administrar as questões práticas da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Decidir como lidar com as questões éticas.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Avaliar, interpretar e apresentar os dados.</td>
+  </tr>
+</table>
 
 Fonte - BARBOSA e SILVA (2010).
+
+</div>
 
 ## Planejamento da Avaliação do Storyboard
 
@@ -42,13 +67,13 @@ Para desenvolver as perguntas específicas para avaliar os storyboards na área 
 Com base nesses objetivos, foram propostas as seguintes perguntas mostradas na tabela 3:
 
     Tabela 3: perguntas a serem respondidas
-| Número | Perguntas |
-| :-----: | ------------------------------------------------------------------------------------------|
-| 1 | As representações visuais no storyboard refletem adequadamente as tarefas e o contexto de uso do sistema? |
-| 2 | As sequências de interação mostradas no storyboard são claras e correspondem ao fluxo de trabalho real dos usuários? |
-| 3 | O storyboard é visualmente atraente e está alinhado com os objetivos gerais do projeto? |
-| 4 | O storyboard representa fielmente o ambiente e as condições reais onde o sistema será utilizado? |
-| 5 | Existem partes do storyboard que precisam de modificações para melhorar sua clareza ou fidelidade? Se sim, quais seriam essas modificações? |
+| Número | Objetivo | Perguntas |
+| :-----: | ------------- |------------------------------------------------------------------------------------------|
+| 1 |  Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema. | As representações visuais no storyboard refletem adequadamente as tarefas e o contexto de uso do sistema? |
+| 2 | Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. | As sequências de interação mostradas no storyboard são claras e correspondem ao fluxo de trabalho real dos usuários? |
+| 3 | Analisar a correspondência das tarefas representadas nos storyboards. | Analisar a correspondência das tarefas representadas nos storyboards. | O storyboard é visualmente atraente e está alinhado com os objetivos gerais do projeto? |
+| 4 | Comparar os storyboards com a realidade do contexto de uso. | O storyboard representa fielmente o ambiente e as condições reais onde o sistema será utilizado? |
+| 5 | Identificar e implementar as modificações necessárias nos storyboards. | Existem partes do storyboard que precisam de modificações para melhorar sua clareza ou fidelidade? Se sim, quais seriam essas modificações? |
 
 ## C - Escolher os métodos de avaliação a serem utilizados.
 O método de avaliação escolhido foi a entrevista, pois ela permite uma interação direta entre o avaliador e os usuários, o que possibilita uma exploração mais profunda das percepções, opiniões e experiências dos usuários em relação aos storyboards, além de oferecerem uma oportunidade para os usuários expressarem suas opiniões e feedbacks de forma verbal, o que pode facilitar a comunicação de ideias complexas que podem não ser facilmente capturadas por outros métodos de avaliação.

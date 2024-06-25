@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 Depois que fizemos o planejamento da verficação e elaboramos um checklist para o artefato Questionário, agora vamos usar esse checklist para verificar o artefato
 
 # Objetivo
@@ -10,15 +10,17 @@ A metodologia ultilizada é a de verificação por inspeção, quando dois integ
 # Checklist
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-| 1 | As perguntas estão formuladas de maneira clara e sem ambiguidades? | Sim | "5.5.2 Questionários" | [Pagina 172.1]() | 
-| 2 | A ordem das perguntas foi cuidadosamente planejada para evitar influências entre elas? | Não| "5.5.2 Questionários" | [Página 173.1]() | 
-| 3 | O questionário inclui instruções claras sobre como responder cada pergunta? |Sim | "5.5.2 Questionários" | [Página 172.2]() | 
-| 4 | Há perguntas introdutórias para coletar informações demográficas e de experiência relevantes? | Sim| "5.5.2 Questionários" | [Página 173.2]() | 
-| 5 | Existem o minímo de respostas abertas possivéis? | Sim| "5.5.2 Questionários" | [Página 176.1]() | 
+| 1 | As perguntas estão formuladas de maneira clara e sem ambiguidades? |Sim | "5.5.2 Questionários" | [Pagina 172.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/172.1.png) | 
+| 2 | A ordem das perguntas foi cuidadosamente planejada para evitar influências entre elas? |Não | "5.5.2 Questionários" | [Página 173.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/173.1.png) | 
+| 3 | O questionário inclui instruções claras sobre como responder cada pergunta? | Sim| "5.5.2 Questionários" | [Página 172.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina172.2.png) | 
+| 4 | Há perguntas introdutórias para coletar informações demográficas e de experiência relevantes? | Sim| "5.5.2 Questionários" | [Página 173.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/173.2.png) | 
+| 5 | Existem o minímo de respostas abertas possivéis? | Sim| "5.5.2 Questionários" | [Página 176.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina176.1.png) | 
+
 
 <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 # Gravação
+A verificação do checklist foi gravda e foi feita pelas integrantes [Giovana Barbosa](https://github.com/gio221) e  [Lara Giuliana](https://github.com/gravelylara) 
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/etXstWwZHM0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/etXstWwZHM0" target="blanket">Vídeo da Verificação</a></p>
@@ -29,10 +31,11 @@ A metodologia ultilizada é a de verificação por inspeção, quando dois integ
 
 # soluções
 
-* ID 2: Mudar a ordem da pergunta "Se o usuário conhece o site"
+* ID 2: Como já ultilizamos o questionário não há necessidade de mudança da orden das perguntas
+
 
 # Conclusão
-A imagem 1 monstra como ficou as respostas obtidas
+A imagem 1 mostra como ficou as respostas obtidas
 <center>
 ![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
 <div align="center">
@@ -40,12 +43,10 @@ A imagem 1 monstra como ficou as respostas obtidas
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
 </div></center>
 
-Como monstrado na imagem 1 o artefato do questionário foi muito bem feito, com 80% de acertos
+Como mostrado na imagem 1 o artefato do questionário foi muito bem feito, com 80% de acertos
 
 # Cronograma do reprojeto
-|Data de Correção|DescriçãoR|responsável(eis)|Status|
-|-------|------|------|-----|
-|28/06|Corrigir a ordem das perguntas|[Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)||
+Como já ultilizamos o questionário não há necessidade de mudança da orden das perguntas
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -59,4 +60,4 @@ Como monstrado na imagem 1 o artefato do questionário foi muito bem feito, com 
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 | | |
+| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)| 21/06|

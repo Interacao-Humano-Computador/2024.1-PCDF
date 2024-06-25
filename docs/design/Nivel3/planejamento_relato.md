@@ -10,16 +10,21 @@ A metodologia empregada neste documento segue os princípios estabelecidos por B
 ## Tópicos
 A documentação do relato deve conter:
 ## Objetivos 
-Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e foram apresentados no Planejamento da Avaliação do Protótipo de Alta Fidelidade:
+Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e foram apresentados no Planejamento da Avaliação do Protótipo de Alta Fidelidade e são descritos na tabela 1:
 
-- Identificar problemas na interação e interface
-- Obter Feedback dos Usuários
+    Tabela 1: objetivos da avaliação
+| ID | Objetivo | Descrição |
+| :-----: | --------------------------------------------- | -------------------------------------------------------------------------------------|
+| 1 | Identificar problemas na interação e interface | Detectar elementos da interface que dificultam a interação do usuário ou que são mal compreendidos. <br > Avaliar a eficácia dos componentes de navegação e dos widgets da interface. |
+| 2 | Obter Feedback dos Usuários | Coletar opiniões e sugestões dos usuários sobre a interface, permitindo ajustes e melhorias baseados em suas experiências. |
+
+<center> Fonte - BARBOSA e SILVA (2010). </center>
 
 ## Metodologia
-A metodologia Definida pelo Planejamento da Avaliação do Protótipo de Alta Fidelidade para a avaliação do protótipo de alta fidelidade foi Teste de usabilidade e entrevistas, quais serão realizadas e relatadas após o presente planejamento. Os entrevistadores devem seguir o seguinte Tabela 1:
+A metodologia Definida pelo Planejamento da Avaliação do Protótipo de Alta Fidelidade para a avaliação do protótipo de alta fidelidade foi Teste de usabilidade e entrevistas, quais serão realizadas e relatadas após o presente planejamento. Os entrevistadores devem seguir o seguinte Tabela 2:
 
 
-<center>Tabela 1: Tabela do Cronograma das Entrevistas. </center> 
+<center>Tabela 2: Tabela do Cronograma das Entrevistas. </center> 
 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
@@ -32,10 +37,10 @@ A metodologia Definida pelo Planejamento da Avaliação do Protótipo de Alta Fi
 
 <center> Fonte - [Rayene Almeida](https://github.com/rayenealmeida) (2024).</center> <br>
 
-A seguir na Tabela 2 está o template para o cronograma executado que será apresentado no relato:
+A seguir na Tabela 3 está o template para o cronograma executado que será apresentado no relato:
 
 
-<center>Tabela 2: Tabela do Cronograma Executado das entrevistas. </center> 
+<center>Tabela 3: Tabela do Cronograma Executado das entrevistas. </center> 
 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
@@ -62,9 +67,9 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 
 ## Roteiro das perguntas
 
-O roteiro das perguntas que deve ser seguido está descrito na tabela 3.
+O roteiro das perguntas que deve ser seguido está descrito na tabela 4.
 
-<center>Tabela 3: Tabela do Roteiro das perguntas das Entrevistas. </center> 
+<center>Tabela 4: Tabela do Roteiro das perguntas das Entrevistas. </center> 
 
 | ID | Pergunta                                                                                   | Resposta |
 |--------|--------------------------------------------------------------------------------------------|----------|

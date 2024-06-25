@@ -48,8 +48,9 @@ Declaco que estou ciente de que minha participação é voluntária e que concor
 
 [ ]Sim [ ]Não
 
+Como solicitado pelo monitor, nós diminuímos o termo de consentimento para melhor qualidade para o entrevistado. 
 
-### Termo de Consentimento Resumido para Entrevista de Storyboards, Análise de Tarefas e Prototipo de Papel
+### Termo de Consentimento para Entrevista de Storyboards, Análise de Tarefas, Prototipo de Baixa e Alta fidelidade.
 
 Ao participar desta entrevista, você deve estar ciente das seguintes diretrizes éticas:
 
@@ -74,6 +75,5 @@ Você concorda com os termos acima e está disposto a participar desta entrevist
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação dos aspectos éticos                   |  [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |   [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS)     |        18/04     |
-| 1.1 | Termos de consentimento | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa ](https://github.com/gio221)   | 10/05| 
-| 1.2 | Termo de consentimento dos storyboards | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa ](https://github.com/gio221),[Rayene Almeida](https://github.com/rayenealmeida)      |   20/05  |
+| 1.0 | Termos de consentimento | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |[Giovana Barbosa ](https://github.com/gio221)   | 10/05| 
+| 1.1 | Termo de consentimento dos storyboards | [Renata Quadros](https://github.com/Renatinha28) | 15/05 | [Giovana Barbosa ](https://github.com/gio221),[Rayene Almeida](https://github.com/rayenealmeida)      |   20/05  |

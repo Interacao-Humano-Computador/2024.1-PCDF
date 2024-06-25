@@ -7,8 +7,8 @@ Esse artefato tem como obejtivo avaliar as Análises de Tarefas feitas pelo grup
 ## Metodologia
 A metodologia ultilizada é a de inspeção, vamos responder os checklists previamente elaborados. Cada integrante irá verificar ao menos uma análise de tarefas feita por outro membro do grupo.
 
-## Funcionalidades Tratadas no Stroryboard
-A tabela 1 descreve os integrantes responsáveis que fizeram o relato do storyboard, o artefato de cada um com um link levando para a verificação do artefado no docuemnto e o integrante que fez a verificação.
+## Funcionalidades Tratadas na Análise de Tarefas
+A tabela 1 descreve os integrantes responsáveis que fizeram o análise, o artefato de cada um com um link levando para a verificação do artefado no docuemnto e o integrante que fez a verificação.
 
     Tabela 1: verificação e seus resoponsáveis
 | Integrante responsável que fez o storyboard | Funcionalidade | Integrante responsável pela verificação |
@@ -59,6 +59,14 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 ### Conclusão
 Como mostra a figura 1, o relato está muito bom, só precisa de algumas melhorias.
 
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
 A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
 
@@ -75,68 +83,105 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|1|Possui uma descrição dos objetivos?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2|Possui uma descrição do método de avaliação empregado?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?|Incompleto|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5|Possui um relato da interpretação e análise dos dados?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6|Possui uma lista dos problemas encontrados?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
 ### Gravação
 
-### Problemas encontrados
 
-### Soluções
-
-### Conclusão
-### Cronograma do reprojeto
-
-## 3- Validar Antecedentes Criminais <a id="validar"></a>
-### Checklist Relato da Análise de Tarefas.
-
-| ID | Descrição | Avaliação | Referência | Print |
-| :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
-
-### Gravação
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i0NldeMllh8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/i0NldeMllh8" target="_blank">Vídeo da verificação: Protótipo de papel - Renata  </a>
+</p>
 
 ### Problemas encontrados
+- ID 1: Não possui uma descrição dos objetivos
+- ID 3: Não possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação
+- ID 4: Falta o gráfico
+
 
 ### Soluções
+- ID 1: Adicionar descrição dos objetivos
+- ID 3: Adicionar explicação do número e o perfil de usuários e avaliadores que participaram da avaliação
+- ID 4: Adicionar gráfico dos resultados
+
 
 ### Conclusão
+
+A Figura 2 monstra como ficou as respostas obtidas 
+<center>
+![Grafico Renata](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/resultadoanalise-renata.png)
+
+<div align="center">
+<p> Figura 2 - Respostas da verificação </p> 
+
+</div></center>
+
 ### Cronograma do reprojeto
+
+| Data da Correção | Descrição | Responsável(eis) | Status |
+|:----------------:|:----------|:-----------------|:-------|
+| 23/06            | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
+
+
 
 ## 4- 197- Denúncia Online<a id="denuncia"></a>
 ### Checklist Relato da Análise de Tarefas.
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|1|Possui uma descrição dos objetivos?|Sim |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2|Possui uma descrição do método de avaliação empregado?|Sim |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?|Sim |página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?|Incompleto, falta os gráficos|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5|Possui um relato da interpretação e análise dos dados?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6|Possui uma lista dos problemas encontrados?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
 
 ### Gravação
 
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
+
 ### Problemas encontrados
+
+- ID 4: Não possui um sumário dos dados coletados, está incompleto.
+- ID 5: Não possui um relato da interpretação da análise de dados.
+- ID 6: Não possui uma lista de problemas encontrados.
 
 ### Soluções
 
+Adicionar o ID 4, ID 5 e ID 6. Todos listados acima.
+
 ### Conclusão
+
+![alt text](../../../assets/verificacao/etapa5/htaDO.png)
+
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
+
 ### Cronograma do reprojeto
+
+      Tabela: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| adicionar sumário dos dados coletados, um relato da interpretação da análise de dados e uma listas de problemas encontrados. | [Giovana Silva](https://github.com/gio221) | |
+
+<center>
+        <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  
+
+
 
 ## 5- Solicitar Carteira de Identidade<a id="carteira"></a>
 ### Checklist Relato da Análise de Tarefas.
@@ -161,7 +206,7 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
     <iframe width="560" height="315" src="https://www.youtube.com/embed/8XlxismFNAY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </p>
 <p style="text-align: center">
-    <a href="https://www.youtube.com/watch?v=8XlxismFNAY" target="_blank">Vídeo da verificação: Relado da Análise de Tarefas - Raissa </a>
+    <a href="https://www.youtube.com/watch?v=8XlxismFNAY" target="_blank">Vídeo da verificação: Relato da Análise de Tarefas - Raissa </a>
 </p>
 
 ### Problemas encontrados
@@ -170,10 +215,18 @@ A verificação foi feita pela integrante [Renata Quadros](https://github.com/Re
 
 ### Soluções
 - ID 4: Adicionar gráficos.
-- - ID 5: Adicionar um relato da interpretação dos dados. 
+- ID 5: Adicionar um relato da interpretação dos dados. 
 
 ### Conclusão
 Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
+
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela correção, o que corrigir e a data da correção.
@@ -190,50 +243,93 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|1|Possui uma descrição dos objetivos?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2|Possui uma descrição do método de avaliação empregado?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5|Possui um relato da interpretação e análise dos dados?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6|Possui uma lista dos problemas encontrados?|Não se aplica|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
 ### Gravação
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/1L1YThhq4p8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=1L1YThhq4p8" target="_blank">Vídeo da verificação: Relado da Análise de Tarefas - Raissa </a>
+</p>
 
 ### Problemas encontrados
+- ID 4: Não contém gráficos.
+- ID 5: Não contém um relato da interpretação dos dados.
 
 ### Soluções
+- ID 4: Adicionar gráficos.
+- ID 5: Adicionar um relato da interpretação dos dados. 
 
 ### Conclusão
+Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
+
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
+      Tabela 3: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06| [Rayene Almeida](https://github.com/rayenealmeida)|Corrigir problemas encontrados||
 
 ## 7- Retrato Falado Online <a id="retrato"></a>
 ### Checklist Relato da Análise de Tarefas.
 
 | ID | Descrição | Avaliação | Referência | Print |
 | :----: | --------- | ---------- | ----------- | ------- |
-|1|Possui uma descrição dos objetivos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|2|Possui uma descrição do método de avaliação empregado?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|5|Possui um relato da interpretação e análise dos dados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|6|Possui uma lista dos problemas encontrados?||página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
-|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
-|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação||página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
+|1|Possui uma descrição dos objetivos?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|2|Possui uma descrição do método de avaliação empregado?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|3|Possui uma explicação do número e o perfil de usuários e avaliadores que participaram da avaliação?|Sim|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|4|Possui um sumário dos dados coletados, incluindo tabelas e gráficos?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|5|Possui um relato da interpretação e análise dos dados?|Não|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|6|Possui uma lista dos problemas encontrados?|Não se aplica|página 279|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados.png)|
+|7| A coleta de dados ocorreu conforme o planejamento realizado e o método de avaliação selecionado?|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados2.png)|
+|8|Foi explicado ao entrevistado os objetivos do estudo e o procedimento da avaliação|Sim|página 277|[Print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/print-relato%20dos%20resultados3.png)|
 
-### Gravação
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/VbnAmWlTD8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=VbnAmWlTD8Q" target="_blank">Vídeo da verificação: Relado da Análise de Tarefas - Raissa </a>
+</p>
 
 ### Problemas encontrados
+- ID 4: Não contém gráficos.
+- ID 5: Não contém um relato da interpretação dos dados.
 
 ### Soluções
+- ID 4: Adicionar gráficos.
+- ID 5: Adicionar um relato da interpretação dos dados. 
 
 ### Conclusão
+Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
+
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%203/graficoprincipios.png)
+<div align="center">
+<p> Figura 5 - Respostas da verificação</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>        
+</div></center>
+
 ### Cronograma do reprojeto
-
-
-
-
+      Tabela 3: cronograma do reprojeto
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|23/06|Corrigir problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | |
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.
@@ -246,5 +342,6 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denuncia online |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |
-| 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | | |
+| 1.1 | Verificação de pesquisar procurados e de solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 |  [Giovana Barbosa](https://github.com/gio221) |22/06
+| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  |
 

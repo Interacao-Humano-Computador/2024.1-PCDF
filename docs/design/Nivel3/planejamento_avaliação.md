@@ -9,16 +9,41 @@ O objetivo deste documento é documentar o planejamento da avaliação do protó
 A metodologia utilizada é o framework DECIDE, onde cada letra se refere a uma atividade. A tabela 1 descreve essa metodologia. Mais especificamente a letra *E* traça uma lista de perguntas que será utilizada como apoio à verificação dos protótipos.
 
     Tabela 1: framework DECIDE
-| Letra | Descrição |
-|:-----:|------------------------------------------------------------------|
-| D | Determinar os objetivos da avaliação. |
-| E | Explorar perguntas a serem respondidas com a avaliação. |
-| C | Escolher os métodos de avaliação a serem utilizados. |
-| I | Identificar e administrar as questões práticas da avaliação. |                                                               
-| D | Decidir como lidar com as questões éticas. |
-| E | Avaliar, interpretar e apresentar os dados. |
+<div align="center">
+<table>
+  <tr>
+    <th>Letra</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Determinar os objetivos da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Explorar perguntas a serem respondidas com a avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td>Escolher os métodos de avaliação a serem utilizados.</td>
+  </tr>
+  <tr>
+    <td align="center">I</td>
+    <td>Identificar e administrar as questões práticas da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Decidir como lidar com as questões éticas.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Avaliar, interpretar e apresentar os dados.</td>
+  </tr>
+</table>
 
-<center> Fonte - BARBOSA e SILVA (2010). </center> 
+Fonte - BARBOSA e SILVA (2010).
+
+</div>
 
 ## Planejamento da Avaliação do Prototipo de Alta Fidelidade
 
@@ -39,10 +64,10 @@ Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA
 De acordo com os objetivos determinados, a seguir, na tabela 3 são descritas as perguntas para cada objetivo inspirados em BARBOSA e SILVA (2010).
 
     Tabela 3: perguntas a serem respondidas com a avaliação
-| Número | Perguntas |
-| :-----: | ---------------------------------------------------------------------------------------------------------------- |
-| 1 | O usuário consegue operar o sistema? <br> Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> Que parte da interface e da interação o deixa insatisfeito?<br> Ele entende o que significa e para que serve cada elemento de interface? <br> Quais barreiras o usuário encontra para atingir seus objetivos? <br>  |
-| 2 | Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
+| Número | Objetivo | Perguntas |
+| :-----: | ----------- |---------------------------------------------------------------------------------------------------------------- |
+| 1 | Identificar problemas na interação e interface | 1 - O usuário consegue operar o sistema? <br> 2 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> 3 -  Que parte da interface e da interação o deixa insatisfeito?<br> 4 - Ele entende o que significa e para que serve cada elemento de interface? <br> 5 -  Quais barreiras o usuário encontra para atingir seus objetivos? <br>  |
+| 2 | Obter Feedback dos Usuários | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? |
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
 
@@ -68,16 +93,42 @@ As tarefas são definidas conforme a tabela 5:
 
 
         Tabela 5: artefatos a serem avaliados
-| Integrante responsável | Artefato |
-| :------------------------------------------------------: | ------------------------------------------- |
-| [Giovana Silva](https://github.com/gio221) | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |                  
-| [Lara Giuliana](https://github.com/gravelylara) | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx)  |            
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade)  | 
-| [Rayene Almeida](https://github.com/rayenealmeida) | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) |    
-| [Renata Quadros](https://github.com/Renatinha28) |  [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais)| 
-| [Renata Quadros](https://github.com/Renatinha28) |  Retrato Falado | 
+<div align="center">
+<table>
+  <tr>
+    <th>Integrante responsável</th>
+    <th>Artefato</th>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gio221">Giovana Silva</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/197">Denuncia Online</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/gravelylara">Lara Giuliana</a></td>
+    <td><a href="https://procurados.pcdf.df.gov.br/views/Default.aspx">Pesquisar Procurados</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/RaissaAndradeS">Raissa Andrade</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/carteira-de-identidade">Carteira de identidade</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/rayenealmeida">Rayene Almeida</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/delegacia-eletronica">Registra Ocorrência</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+    <td><a href="https://www.pcdf.df.gov.br/servicos/antecedentes-criminais">Solicitar Antecedentes</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Renatinha28">Renata Quadros</a></td>
+    <td>Retrato Falado</td>
+  </tr>
+</table>
 
-<center>  Fonte - Renata Quadros. </center>
+</div>
+
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
+
 
 1 - Denúncia On-line
 
@@ -123,10 +174,10 @@ O perfil dos participantes escolhidos foram baseados no artefato Perfil de Usuá
 | [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | Maria Eduarda|              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | Raphael |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | Lara|
-| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Samara |
-| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado |Angela |
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Lara Geovanna |
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado | Jessicka Suelen |
 
-<center>  Fonte - Renata Quadros. </center>
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ## Preparar material para observar e registrar o uso.
 
@@ -134,10 +185,10 @@ Cada integrante foi responsável por criar seu protótipo de alta fidelidade na 
 Além disso fizemos o Termo de consentimento, que se encontra no artefato [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/), preparamos o <a href="#roteiro">roteiro das perguntas</a> e o <a href="#teste-piloto">teste piloto</a>
 
 <h2 id="teste-piloto">Executar um teste-piloto</h2>
-O teste piloto é uma etapa crucial destinado a validar suas funcionalidades e a usabilidade geral antes da implementação final da avaliação. Este processo visa identificar e corrigir potenciais problemas de design e interação, garantindo que o produto final, que no nosso caso é o protótipo, atenda às expectativas dos usuários. O teste piloto foi conduzido pela integrante [Renata Quadros](https://github.com/Renatinha28) e é encontrado logo abaixo:
+O teste piloto é uma etapa crucial destinado a validar suas funcionalidades e a usabilidade geral antes da implementação final da avaliação. Este processo visa identificar e corrigir potenciais problemas de design e interação, garantindo que o produto final, que no nosso caso é o protótipo, atenda às expectativas dos usuários. O teste piloto é encontrado logo abaixo:
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/uVxrM-Ak83o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/uVxrM-Ak83o" target="blanket">Vídeo do teste piloto</a></p>
+<p style="text-align: center"><a href="https://youtu.be/uVxrM-Ak83o" target="blanket">Vídeo do teste piloto - Solicitar Antecedentes - Renata </a></p>
 
 
 ## I - Identificar e administrar as questões práticas da avaliação
@@ -176,18 +227,28 @@ O roteiro das perguntas que deve ser seguido nas entrevistas está descrito na t
     Tabela 7: roteiro da entrevista
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo?| Aberta |
+| 1 | Qual seu nome completo? | Aberta |
 | 2 | Qual sua idade? | Aberta |
-| 3 | Qual seu grau de experiência com tecnologias? | [ ] Alto <br> [ ] Médio <br> [ ] Baixo <br> |
-| 4 | Você já utilizou o site do PCDF? | Aberta |
-| 5 | Você encontrou alguma dificuldade ao navegar pela interface? Se sim, pode nos descrever? | Aberta |
-| 6 | Foi fácil encontrar o que você estava procurando na interface? Houve alguma parte onde você se perdeu? | Aberta |
-| 7 | Alguma parte do layout ou design distraiu você ou dificultou a conclusão das tarefas? | Aberta |
-| 8 | O que você mais gostou na interface? E o que menos gostou? | Aberta |
-| 9 | Você conseguiu concluir a tarefa? foi fácil, na sua opinião? | Aberta |
-| 10 | Se pudesse mudar uma coisa na interface, o que seria e por quê? | Aberta |
+| 3 | Qual a sua ocupação? | Aberta |
+| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> []Alto |
+| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Aberta |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Aberta | 
+| 8 |Qual elemento da interface causou maior dificuldade na interação? | Aberta |
+| 9 | A navegação pelo sistema foi intuitiva? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Aberta |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Aberta |
+| 12 | O que você mais gostou na interface? | Aberta |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | Aberta |
+| 14 | Que sugestões você tem para melhorar a interface? | Aberta |
+| 15 | Quanto tempo você levou para completar cada tarefa? | Aberta |
+| 16 | Quais tarefas você encontrou mais difíceis de completar? | Aberta |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Aberta |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
 
-<center>  Fonte - Renata Quadros. </center>
+<center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 
 ## D - Decidir como lidar com as questões éticas.

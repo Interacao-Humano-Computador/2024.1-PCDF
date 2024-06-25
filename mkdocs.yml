@@ -13,6 +13,7 @@ nav:
     - Apresentação 5: apresentacao/apresentacao05.md
     - Apresentação 6: apresentacao/apresentacao06.md
     - Apresentação 7: apresentacao/apresentcao07.md
+    - Apresentação 6.2: apresentacao/apresentacao06.2.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
@@ -86,7 +87,7 @@ nav:
         - Aspectos Éticos: verificacao/verificaçao_grupo+1/Etapa2/apectos_eticos.md
         - Questionário: verificacao/verificaçao_grupo+1/Etapa2/questionario.md
         - Entrevista: verificacao/verificaçao_grupo+1/Etapa2/entrevista.md
-        - Perfil do Uusário: verificacao/verificaçao_grupo+1/Etapa2/perfil_usuario.md
+        - Perfil do Usuário: verificacao/verificaçao_grupo+1/Etapa2/perfil_usuario.md
         - Cenários: verificacao/verificaçao_grupo+1/Etapa2/cenarios.md
         - Personas: verificacao/verificaçao_grupo+1/Etapa2/personas.md
         - Analise de Tarefas: verificacao/verificaçao_grupo+1/Etapa2/analise_tarefas.md
@@ -116,7 +117,7 @@ nav:
         - Questionário: verificacao/verificacao/Etapa2/questionario.md
         - Entrevista: verificacao/verificacao/Etapa2/entrevista.md
         - Análise Competitiva: verificacao/verificacao/Etapa2/analise_competitiva.md
-        - Resultado do Perfil do Usário: verificacao/verificacao/Etapa2/perfil_usuario.md
+        - Resultado do Perfil do Usuário: verificacao/verificacao/Etapa2/perfil_usuario.md
         - Personas: verificacao/verificacao/Etapa2/personas.md
         - Cenários: verificacao/verificacao/Etapa2/cenarios.md
         - Analise de Tarefas- HTA: verificacao/verificacao/Etapa2/hta.md

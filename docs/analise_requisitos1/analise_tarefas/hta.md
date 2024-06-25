@@ -94,6 +94,7 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 ### 197- Denúncia Online
 
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 3.
+O obejtivo dessa analise é que qualuqer pessoa possa entender como fazer uma denúncia online no site da PCDF
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
 <div align="center">

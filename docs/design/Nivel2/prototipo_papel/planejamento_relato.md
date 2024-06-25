@@ -1,42 +1,76 @@
 ## Introdução
  O objetivo desse documento é apresentar o planejamento do relato dos resultados do protótipo de papel e aqui os resultados individuais são consolidados e analisados em conjunto. Essa análise conjunta é chamada de anaálise intersujeito ou interparticipante (Nicolaci-da Costa, 1994; Nicolaci-da Costa et al., 2004).
 
+## Objetivo
+O objetivo do documento é documentar o planejamento do relato do protótipo em papel.
+
 ## Metodologia 
 
-Ultilizaremos o método de entrevista , em que apresentaremos o prototipo de papel de cada funcionalidade. Assim será possivel coletar os dados dos usuários e os feedbacks. Para isso nos baseamos no framework DECIDE
+Ultilizaremos o método de entrevista , em que apresentaremos o prototipo de papel de cada funcionalidade. Assim será possivel coletar os dados dos usuários e os feedbacks. Para isso nos baseamos no framework DECIDE, descrito na tabela 1.
 
-  Tabela 1: descreve framework DECIDE
+    Tabela 1: framework DECIDE
+<div align="center">
+<table>
+  <tr>
+    <th>Letra</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Determinar os objetivos da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Explorar perguntas a serem respondidas com a avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td>Escolher os métodos de avaliação a serem utilizados.</td>
+  </tr>
+  <tr>
+    <td align="center">I</td>
+    <td>Identificar e administrar as questões práticas da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Decidir como lidar com as questões éticas.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Avaliar, interpretar e apresentar os dados.</td>
+  </tr>
+</table>
 
-| Letra    | Significado |
-| :--------: | :----: | 
-D|Determinar os objetivos gerais da avaliação|
-E|Explorar perguntas a serem feitas na avaliação|
-C|(Choose) Escolher os métodos de avaliação|
-I|Identificar e administrar as questões práticas da avaliação|
-D|Decidir como lidar com as questões éticas|
-E|(Evaluate) Avaliar, interpretar e apresentar os dados|
+Fonte - BARBOSA e SILVA (2010).
 
+</div>
 # Tópicos
 
 As documentações do relato deve conter:
 
 ## Objetivos 
-Nos objetivos e escopo, será explicado a razão pela qual a avaliação está sendo realizada e descrever o objetivo que o grupo pretende alcançar com o protótipo de papel. Nesse caso, para prototipação em papel, os aspectos que somam mais beneficios são: 
-    - Alternativas de design;
-    - Problemas de IHC.
+Nos objetivos e escopo, será explicado a razão pela qual a avaliação está sendo realizada e descrever o objetivo que o grupo pretende alcançar com a prototipação em papel são descritos na tabela 2:
+
+    Tabela 2: objetivos da avaliação
+| ID | Objetivo | Descrição |
+| :-----: | --------------------------------------------- | -------------------------------------------------------------------------------------|
+| 1 | Identificar problemas na interação e interface | Detectar elementos da interface que dificultam a interação do usuário ou que são mal compreendidos. <br > Avaliar a eficácia dos componentes de navegação e dos widgets da interface. |
+| 2 | Obter Feedback dos Usuários | Coletar opiniões e sugestões dos usuários sobre a interface, permitindo ajustes e melhorias baseados em suas experiências. |
+
+<center> Fonte - BARBOSA e SILVA (2010). </center>
 
 ## Metodologia
-O método de Avaliação a ser ultilizado é a entrevista aos usuários, portanto segue-se o modelo. Serão no total cinco entrevistadores que são os integrantes do grupo e seis entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo terá que realizar duas entrevista, uma para cada funcionalidade. Os entrevistadores deve seguir o seguinte cronograma para as entrevistas
-    1 - Cronograma
+O método de Avaliação a ser ultilizado é a entrevista aos usuários, portanto segue-se o modelo. Serão no total cinco entrevistadores que são os integrantes do grupo e seis entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo terá que realizar duas entrevista, uma para cada funcionalidade. Os entrevistadores deve seguir o seguinte cronograma para as entrevistas detalhado na tabela 3.
 
+    Tabela 3: cronograma
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
 | [Giovana Silva](https://github.com/gio221) | 05/06/2024 | Presencial | 19:00 | Denuncia Online |Kaio|                 
 | [Lara Giuliana](https://github.com/gravelylara) | 05/06/2024 | Presencial | 19:00 | Pesquisar Procurados | Marcos |              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 05/06/2024 | Presencial | 19:00 | Carteira de identidade |Luis|
 | [Rayene Almeida](https://github.com/rayenealmeida) | 05/06/2024 | Presencial | 19:00 | Registra Ocorrência |Heber|
-| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
-| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Presencial | 19:00 |  Retrato Falado | Lara Geovanna |
+| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Casa da entrevistada | 19:00 | Solicitar Antecedentes |   Thays Cavalcante |
+| [Renata Quadros](https://github.com/Renatinha28) | 05/06/2024 | Casa da entrevistada | 19:00 |  Retrato Falado | Maria Eduarda Costa|
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
@@ -53,9 +87,9 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 3. Durante a entrevista pedir para que ele fale o que estiver pensando.
 
 ## Roteiro das perguntas
-A tabela 6 descreve o roteiro das perguntas:
+A tabela 4 descreve o roteiro das perguntas:
 
-    Tabela 6: roteiro da entrevista
+    Tabela 4: roteiro da entrevista
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Aberta |
@@ -78,21 +112,6 @@ A tabela 6 descreve o roteiro das perguntas:
 | 18 | Qual problema você achou mais frustrante ou difícil de superar? | Aberta |
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
-
-Fonte - BARBOSA e SILVA (2010).
-
-A tabela 7 descreve o roteiro das perguntas para os integrantes que mostrarão mais de uma comparação de interfaces:
-
-    Tabela 7: roteiro para as perguntas da comparação de interfaces
-| Número | Pergunta | Resposta |
-| :------: | ------------------------------------------------------- | --------------------------------------- |
-| 1 | Qual das interfaces você achou mais intuitiva e por quê? | Aberta |
-| 2 | Você teve dificuldades em encontrar certas funcionalidades em alguma das interfaces? Se sim, quais? | Aberta |
-| 3 | Qual das alternativas de design permitiu que você completasse as tarefas mais rapidamente? | Aberta |
-| 4 | Houve algum elemento específico em uma das interfaces que facilitou ou dificultou a sua experiência? Qual? | Aberta |
-| 5 | Se tivesse que escolher uma das interfaces para usar regularmente, qual escolheria e por quê? | Aberta |
-| 6 | Existem aspectos de uma interface que você gostaria de ver implementados na outra? Se sim, quais? | Aberta |
-| 7 | Qual interface proporcionou uma experiência de usuário mais agradável no geral? | Aberta |
 
 Fonte - BARBOSA e SILVA (2010).
 
@@ -151,12 +170,12 @@ Fonte - BARBOSA e SILVA (2010).
 
 ## Referências Bibliográficas 
 
-BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## Historico de Versões 
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Planejamento do Relato  |[Raissa Andrade](https://github.com/RaissaAndradeS)| 29/05 |    [Giovana Barbosa](https://github.com/gio221)  | 01/06 |
+| 1.0 | Planejamento do Relato  |[Raissa Andrade](https://github.com/RaissaAndradeS)| 29/05 |    [Giovana Barbosa](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 |
 
 
