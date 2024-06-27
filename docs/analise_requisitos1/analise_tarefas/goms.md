@@ -258,18 +258,13 @@ Meta: Registrar uma ocorrência no site da PCDF
 ## Retrato Falado Online: Descreva e Identifique
 Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). 
 
-* GOAL 0: Acessar a funcionalidade de Denúncia Online:
+* GOAL 0: Fazer um Retrato Falado - Online
     * METHOD 0.A: Navegar até o site da Polícia Civil do Distrito Federal (PCDF).
-    
-    (SEL. RULE: O usuário sabe que pode fazer denúncias online.)
 
 * GOAL 1: Selecionar a opção de Retrato Falado Online:
-    * METHOD 1.A: Identificar e clicar na seção "Denúncia Online".
-        * OP. 1.A.1: Escanear visualmente a página inicial em busca da seção "Denúncia Online".
-        * OP. 1.A.2: Clicar na seção identificada como "Denúncia Online".
-    * METHOD 1.B: Escolher "Retrato Falado Online" dentre as opções disponíveis.
-        * OP. 1.B.1: Procurar por opções de denúncia específicas, como "Retrato Falado Online".
-        * OP. 1.B.2: Clicar na opção encontrada para selecioná-la.
+    * METHOD 1.A: Escolher "Retrato Falado Online" dentre as opções disponíveis.
+        * OP. 1.A.1: Procurar por opções de denúncia específicas, como "Retrato Falado Online".
+        * OP. 1.A.2: Clicar na opção encontrada para selecioná-la.
     
     (SEL. RULE: O usuário procura a opção que corresponde à sua necessidade específica.)
 
@@ -320,3 +315,4 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 | 1.8 | Correções da Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |   [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 |  1.9   | Correção de link               |   [Giovana Barbosa](https://github.com/gio221)        |   15/05   |   [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)   |  15/05              |
 |  2.0   | Correção Procurados    |  [Lara Giuliana](https://github.com/gravelylara)   | 01/06  |   [Giovana Barbosa](https://github.com/gio221)  | 01/06    |
+| 2.1 | Correção GOMS retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 | | |

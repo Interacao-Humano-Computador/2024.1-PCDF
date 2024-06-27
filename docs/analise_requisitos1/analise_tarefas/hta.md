@@ -171,8 +171,8 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 |         Objetivos/operações         | Problemas e recomendações                                                                                                                                                                                      |
 |:-----------------------------------:|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 0. Acessar "Denúncia Online" 1>2 | |
-| 1. Selecionar "Retrato Falado Online" |  **Plano:** Identificar e selecionar a opção de "Retrato Falado Online" dentro da seção de "Denúncia Online". |
-| 2. Preencher o formulário de Retrato Falado Online 1+2 | **input**: formulário de retrato falado online.<br>  |
+| 1. Selecionar "Retrato Falado Online" |  **Plano:** Identificar e selecionar a opção de "Retrato Falado Online" dentro da seção de "Denúncia Online". <br> **Feedback:** Página do Retrato Faldado Online é exibida |
+| 2. Preencher o formulário de Retrato Falado Online 1+2 | **input**: formulário de retrato falado online.<br> **Feedback:** Confirmação do envio do formulário após o preenchimento. |
 | 2.1. Informar dados pessoais 1+2 | **Plano**: informar nome, email, CPF |                                                               
 | 2.2. Selecionar o tipo de denúncia 1+2 | **Plano**: informar o tipo de denúncia |
 | 2.3. Descrever o incidente e o suspeito 1+2 | **Plano**: Descrever detalhadamente o incidente e as características do suspeito com base nas observações do denunciante. |
@@ -180,7 +180,7 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 2.4.1. Selecionar um avatar gerado 1>2 | **Plano**: selecionar um avatar dentre as 6 opções dadas pela IA |
 | 2.4.2. Avaliar avatar selecionado 1+2 | **Plano**: avaliar o avatar selecionado descrever a fidelidade da imagem de acordo com a lembrança do suspeito |
 | 3. Enviar a denúncia | |
-| 4. Receber confirmação da denúncia | **Ação**: conferir solicitação e informações necessárias <br> **Recomendação**: Enviar uma confirmação clara da recepção da denúncia e informar sobre os próximos passos no processo de investigação, incluindo prazos para atualizações.  |
+| 4. Receber confirmação da denúncia | **Ação**: conferir solicitação e informações necessárias <br> **Feedback:** Confirmação da solicitação <br> **Recomendação**: Enviar uma confirmação clara da recepção da denúncia e informar sobre os próximos passos no processo de investigação, incluindo prazos para atualizações.  |
 
 
 
@@ -201,3 +201,4 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 | 1.7 | Adição do Diagrama de Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |    [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221)   |11/05 |
 | 1.8 | Correção na seção "Procurados"| [Lara Giuliana](https://github.com/gravelylara) | 21/05 |   [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)   |11/05 |
+| 1.9 | Correção HTA de retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 | |
