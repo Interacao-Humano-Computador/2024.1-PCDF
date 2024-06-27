@@ -78,13 +78,7 @@ nav:
               - Solicitar carteira de identidade: design/Nivel3/Relato_Prototipoalta/identidade.md
               - Registra Ocorrência: design/Nivel3/Relato_Prototipoalta/ocorrencia.md
               - Retrato Falado Online: design/Nivel3/Relato_Prototipoalta/retrato.md
-        - Prototipo de papel:
-              - Pesquisar Procurados: design/Nivel3/prototipo_alta/pesquisar.md
-              - Solicitar Antecedentes: design/Nivel3/prototipo_alta/solicitar.md
-              - 197- Denúncia Online: design/Nivel3/prototipo_alta/197.md
-              - Solicitar carteira de identidade: design/Nivel3/prototipo_alta/identidade.md
-              - Registra Ocorrência: design/Nivel3/prototipo_alta/ocorrencia.md
-              - Retrato Falado Online: design/Nivel3/prototipo_alta/retrato.md
+        - Prototipo de papel: design/Nivel3/protoipo_papel.md
   - Verificação:
     - Verificação do Grupo + 1:
       - Etapa 1:
