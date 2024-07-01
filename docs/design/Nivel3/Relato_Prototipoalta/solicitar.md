@@ -29,9 +29,9 @@ A avaliação não exige nenhum tipo de custo e foi utilizado as seguintes ferra
 
 - [Termo de consentimento](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/)
 
-- [Figma](https://www.figma.com/files/team/1370082253382657361/recents-and-sharing/recently-viewed?fuid=1370082251525688876) : ferramenta para criação do protótipo
+- <a href="#figma">Figma</a>
 
-- Protótipo de alta fidelidade
+- - [Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel3/prototipo_alta/retrato/)
 
 - <a href="#perguntas">Perguntas a serem respondidas com a avaliação</a>
 
@@ -53,6 +53,12 @@ O teste piloto da avaliação do protótipo de alta fidelidade da tarefa solicit
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/uVxrM-Ak83o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/uVxrM-Ak83o" target="blanket">Vídeo do teste piloto - Solicitar Antecedentes - Renata </a></p>
+
+<h2 id="figma">Figma</h2>
+O prototipo de alta fidelidade feito no figma está logo abaixo. 
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/proto/e4FKk1lzzfDJLGmIdjsxU0/Teste?node-id=1-5&starting-point-node-id=1%3A5" allowfullscreen></iframe>
+
 
 ## Resultados da Avaliação
 Segue os vídeos das entrevistas realizadas.
