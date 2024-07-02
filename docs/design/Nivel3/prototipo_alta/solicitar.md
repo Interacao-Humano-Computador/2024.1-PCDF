@@ -77,4 +77,4 @@ O protótipo é mostrado da figura 1 até 8.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) | 01/07 | 
+| 1.0 |  Protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) | 01/07 | [ Rayene Almeida ](https://github.com/rayenealmeida) | 01/07|
