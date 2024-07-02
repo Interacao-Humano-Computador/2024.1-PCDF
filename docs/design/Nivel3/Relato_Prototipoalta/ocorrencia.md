@@ -9,9 +9,9 @@ A metodoligia utilizada para avaliação foi o de teste de usabilidade, onde os 
 
 
 ## Objetivo da Avaliação
-Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e são descritos a seguir na tabela 2.
+Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e são descritos a seguir na tabela 1.
 
-    Tabela 2: objetivos da avaliação
+    Tabela 1: objetivos da avaliação
 | Número | Objetivo | Descrição |
 | :-----: | --------------------------------------------- | -------------------------------------------------------------------------------------|
 | 1 | Identificar problemas na interação e interface | Detectar elementos da interface que dificultam a interação do usuário ou que são mal compreendidos. <br > Avaliar a eficácia dos componentes de navegação e dos widgets da interface. |
@@ -39,9 +39,9 @@ A avaliação não exige nenhum tipo de custo e foi utilizado as seguintes ferra
 - <a href="#roteiro">Roteiro das perguntas</a>
 
 ## Avaliadores e Participantes
-Os avaliadores e participantes que participaram da avaliação foram descritos na tabela 1 abaixo.
+Os avaliadores e participantes que participaram da avaliação foram descritos na tabela 2 abaixo.
 
-    Tabela 1: Avaliadores e Participantes
+    Tabela 2: Avaliadores e Participantes
 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
@@ -83,7 +83,7 @@ https://youtu.be/jbres92G83U?feature=shared
 <h2 id="roteiro">Feedback</h2>
 A tabela 2 descreve o roteiro de perguntas respondido com a entrevista.
 
-    Tabela 2: Entrevista 1 
+    Tabela 3: Entrevista 1 
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Raíra Ferreira Almeida |
@@ -119,7 +119,7 @@ A tabela 2 descreve o roteiro de perguntas respondido com a entrevista.
 <h2 id="roteiro">Feedback</h2>
 A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
 
-    Tabela 2: Entrevista 2 
+    Tabela 4: Entrevista 2 
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? |   Breno Alexandre Soares Garcia|
@@ -145,8 +145,8 @@ A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
 
 <center>  Fonte - [Rayene Almeida](https://github.com/rayenealmeida). </center>
 
-### Entrevista 3
 
+### Entrevista 3
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://www.youtube.com/embed/" target="blanket">Entrevista 3 - Registrar Ocorrência - Rayene </a></p>
@@ -155,7 +155,7 @@ A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
 <h2 id="roteiro">Feedback</h2>
 A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
 
-    Tabela 2: Entrevista 3 
+    Tabela 5: Entrevista 3 
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Raíra Ferreira Almeida |
@@ -196,11 +196,13 @@ Díficil de encontrar o serviço no menu.
 
 - Deixar o botão visível para fazer a ocorrência 
 
-    Tabela 5: perguntas a serem respondidas com a avaliação
+
+    Tabela 6: perguntas a serem respondidas com a avaliação
+
 | Número | Perguntas | Respostas 
 | :-----: | ----------- |---------------------------------------------------------------------------------------------------------------- |
 | 1 | 1 - O usuário consegue operar o sistema? <br> 2 - Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros? <br> 3 -  Que parte da interface e da interação o deixa insatisfeito?<br> 4 - Ele entende o que significa e para que serve cada elemento de interface? <br> 5 -  Quais barreiras o usuário encontra para atingir seus objetivos? <br>  | 1 - Sim  <br> 2 - Sim <br> 3 - O início em que precisa encontrar o serviço da funcionalidade <br> 4 - Sim <br> 5 - Nenhuma barreira foi identificada |
-| 2 | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? | 1 - No primeiro menu da tela inicial, é algo fixo e gravidade de nível 3 <br> 2 - É algo fixo <br> 3 - Todos os objetivos foram alcançados |
+| 2 | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? | 1 - No primeiro menu da tela inicial, é algo fixo e gravidade 2(problema pequeno), apsar de se confuso no início todos os usuários conseguiram encontrar sem ajuda, apenas procurando no site <br> 2 - É algo fixo <br> 3 - Todos os objetivos foram alcançados |
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
 
