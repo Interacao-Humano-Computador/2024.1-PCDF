@@ -43,8 +43,6 @@ Tabela abaixo tem como objetivo descrever o cronograma executado dos avaliadores
 | Raissa Andrade  |  30/06/2024 | Valparaíso - GO | 19:00 P.M  | Solicitar Carteira de Identidade  | Ana Sofia |
 
 
-## Teste piloto
-
 ## Resultados da Avaliações
 
 ## Feedbacks
@@ -150,13 +148,23 @@ Como não foi encontrado nenhuma sugestão de melhoria urgente, no geral o site 
 ## Sugestões de Melhorias
 De sugestões de melhoria, novamente seria mudar a cor do icone de Portal  do Servidor e a disposição dos cards na página principal.
 
+### Tabela 6: Perguntas a serem respondidas com a avaliação
+
+| Número | Perguntas | Respostas |
+|--------|-----------|-----------|
+| 1      | 1. O usuário consegue operar o sistema?<br>2. Ele atinge seu objetivo? Com quanta eficiência? Em quanto tempo? Após cometer quantos erros?<br>3. Que parte da interface e da interação o deixa insatisfeito?<br>4. Ele entende o que significa e para que serve cada elemento de interface?<br>5. Quais barreiras o usuário encontra para atingir seus objetivos? | 1. Todos os entrevistados conseguiram operar o sistema com tranquilidade.<br>2. Todos conseguiram alcançar seus objetivos com eficiência.<br>3. Algumas partes causam insatisfação.<br>4. Sim, dá para entender todos os elementos.<br>5. Não. |
+| 2      | 1. Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas?<br>2. O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho?<br>3. Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? | 1. Na página inicial.<br>2. Cards e cores precisam ser modificadas.<br>3. Todos conseguiram alcançar seus objetivos. |
+
+
+<center> Fonte - BARBOSA e SILVA (2010). </center>
+
 ## Referências Bibliográficas 
 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## Histórico de Versões 
 
-        Tabela 6 que descreve o Histórico de Versões
+        Tabela 7 que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Relato da avaliação do protótipo de alta fidelidade  | [Raissa Andrade](https://github.com/RaissaAndradeS)   |  01/07 | [Rayene Almeida](https://github.com/rayenealmeida)  | 01/07 |

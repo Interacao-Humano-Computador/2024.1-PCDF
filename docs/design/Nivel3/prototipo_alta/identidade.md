@@ -5,6 +5,41 @@ O protótipo de alta fidelidade serve para simular de forma bastante realista a 
 Depois da representação do protótipo de baixa fidelidade, com base nele, fizemos o protótipo de alta fidelidade, seguindo também o livro de Barbosa. 
 
 ## Protótipo de Alta Fidelidade de Solicitar Carteira de Identidade 
+
+
+![Pág 1](../../../assets/design/nivel3/id-1.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 2](../../../assets/design/nivel3/id-2.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 3](../../../assets/design/nivel3/id-3.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 4](../../../assets/design/nivel3/id-4.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 5](../../../assets/design/nivel3/id-5.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 6](../../../assets/design/nivel3/id-6.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 7](../../../assets/design/nivel3/id-7.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+![Pág 8](../../../assets/design/nivel3/id-8.png)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+
 ## Referências Bibliográficas 
 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
