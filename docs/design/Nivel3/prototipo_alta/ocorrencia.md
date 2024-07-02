@@ -1,5 +1,5 @@
 ## Introdução
-No presente documento é visível o desenvolvimento do protótipo de alta fidelidade para o projeto do site da PCDF. O protótipo da funcionalidade do registro de ocorrência assim como o presente documento etá sob a responsabilidade da integrante [ Rayene Almeida ](https://github.com/rayenealmeida). Ele se refere ao fluxo da funcionalidade do site da PCDFem que possui representações mais próximas do site do que o protótipo de papel.
+No presente documento é visível o desenvolvimento do protótipo de alta fidelidade para o projeto do site da PCDF. O protótipo da funcionalidade do registro de ocorrência assim como o presente documento etá sob a responsabilidade da integrante [ Rayene Almeida ](https://github.com/rayenealmeida). Ele se refere ao fluxo da funcionalidade do site da PCDF em que possui representações mais próximas do site do que o protótipo de papel.
 
 ## Objetivo
 O objetivo deste documento é apresentar o protótipo de alta fidelidade da funcionalidade de Registrar ocorrência e analisar.

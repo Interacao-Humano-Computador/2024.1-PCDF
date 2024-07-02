@@ -179,4 +179,4 @@ Como não foi encontrado nenhum problema, não há necessidade de sugestão de m
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Relato da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) | 30/06 | 
+| 1.0 | Relato da avaliação do protótipo de alta fidelidade |[Renata Quadros](https://github.com/Renatinha28) | 30/06 | [Rayene Almeida](https://github.com/rayenealmeida) | 01/07 |
