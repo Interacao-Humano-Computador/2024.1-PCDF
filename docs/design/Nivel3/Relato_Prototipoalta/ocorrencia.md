@@ -148,8 +148,8 @@ A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
 
 ### Entrevista 3
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://www.youtube.com/embed/" target="blanket">Entrevista 3 - Registrar Ocorrência - Rayene </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/CNt674oRgbI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/CNt674oRgbI" target="blanket">Entrevista 3 - Registrar Ocorrência - Rayene </a></p>
 
 
 <h2 id="roteiro">Feedback</h2>
@@ -158,26 +158,26 @@ A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
     Tabela 5: Entrevista 3 
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Raíra Ferreira Almeida |
-| 2 | Qual sua idade? | 14 |
+| 1 | Qual seu nome completo? | Bethânia Soares Pina |
+| 2 | Qual sua idade? | 19 |
 | 3 | Qual a sua ocupação? | Estudante |
 | 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [X] Médio <br> []Alto |
 | 5 | Você já utilizou o site da PCDF? | [] Sim <br> [X] Não <br> [] Não sei responder |
-| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | O início, pois foi difício encontrar a funcionalidade e o formulário |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | A mensagem do final |
 | 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não |
-| 8 | Qual elemento da interface causou maior dificuldade na interação? | Ter que procurar onde fazia a ocorrência já que nos serviços estava escrito Delegacia Eletrônica |
+| 8 | Qual elemento da interface causou maior dificuldade na interação? | Ter que voltar pro inicio no protótipo |
 | 9 | A navegação pelo sistema foi intuitiva? | [X] Sim <br> [] Não <br> [] Não sei responder |
-| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Sim, no menu |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Acho que demorei muito pra encontrar |
-| 12 | O que você mais gostou na interface? | Tinha vários avisos e explicava tudo como fazer |
-| 13 | O que você menos gostou ou achou mais difícil na interface? | A parte do formulário que volta pro início |
-| 14 | Que sugestões você tem para melhorar a interface? | Deixar mais visível a parte de selecionar para realizar a ocorrência |
-| 15 | Quanto tempo você levou para completar cada atividade | 2 ou 3 minutos |
-| 16 | Quais tarefas você achou mais difíceis de completar? | Nenhuma |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não|
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 5 minutos|
+| 12 | O que você mais gostou na interface? | Informações com a imagnes |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | Não tenho respostas|
+| 14 | Que sugestões você tem para melhorar a interface? |Não ter que voltar toda hora |
+| 15 | Quanto tempo você levou para completar cada atividade | Alguns segundos |
+| 16 | Quais tarefas você achou mais difíceis de completar? | Não possui resostas preparadas para o relato do crime como com situações mais comuns |
 | 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
-| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
-| 19 | Que aspectos da interface precisam de melhorias urgentes? | Deixar mais visível para fazer a Ocorrência |
-| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Deixar o botão visível para fazer a ocorrência |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Ter que voltar no formulario pra pergunta |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? |Ter que voltar no formulario pra pergunta |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | A parte de voltar no formulario pra pergunta |
 
 <center>  Fonte - [Rayene Almeida](https://github.com/rayenealmeida). </center>
 
@@ -190,7 +190,9 @@ Os pontos positivos da interface, de acordo com as entrevistas, são:
 - Poder imprimir o recibo da ocorrência 
 
 ## Pontos Negativos
-Díficil de encontrar o serviço no menu.
+
+- Díficil de encontrar o serviço no menu
+
 
 <h2 id="perguntas">Conclusão e Sugestões de Melhoria</h2>
 
@@ -215,3 +217,4 @@ Díficil de encontrar o serviço no menu.
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Relato da avaliação do protótipo de alta fidelidade |[Rayene Almeida](https://github.com/rayenealmeida) | 01/07 | 
+| 1.2 | Ultimas entrevistas |[Rayene Almeida](https://github.com/rayenealmeida) | 02/07 | 
