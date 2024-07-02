@@ -31,7 +31,7 @@ A avaliação não exige nenhum tipo de custo e foi utilizado as seguintes ferra
 
 - <a href="#figma">Figma</a>
 
-- - [Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel3/prototipo_alta/retrato/)
+- [Protótipo de alta fidelidade](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel3/prototipo_alta/retrato/)
 
 - <a href="#perguntas">Perguntas a serem respondidas com a avaliação</a>
 
@@ -47,6 +47,7 @@ Os avaliadores e participantes que participaram da avaliação foram descritos n
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
 |  [Renata Quadros](https://github.com/Renatinha28) | 29/06 | casa da entrevistada | 14:00 | Solicitar Antecedentes | Graziele Cardoso |
 |  [Renata Quadros](https://github.com/Renatinha28) | 29/06 | casa da entrevistada | 16:00 | Solicitar Antecedentes | Lara Geovanna |
+|  [Renata Quadros](https://github.com/Renatinha28) | 01/07 | casa da entrevistadora | 21:30 | Solicitar Antecedentes | Maria Eliza |
 
 <h2 id="teste-piloto">Teste Piloto</h2>
 O teste piloto da avaliação do protótipo de alta fidelidade da tarefa solicitar antecedentes está logo abaixo.
@@ -69,8 +70,8 @@ Segue os vídeos das entrevistas realizadas.
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/9IYzba-Mo74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://www.youtube.com/watch?v=9IYzba-Mo74" target="blanket">Entrevista 2 - Solicitar Antecedentes - Renata </a></p>
 
-<p style="text-align: center"><iframe width="560" height="315" src="" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="" target="blanket">Entrevista 3 - Solicitar Antecedentes - Renata </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/jeinWQs9q3c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=jeinWQs9q3c" target="blanket">Entrevista 3 - Solicitar Antecedentes - Renata </a></p>
 
 <h2 id="roteiro">Feedback</h2>
 A tabela 2, 3 e 4 descrevem o roteiro de perguntas respondidos com as entrevistas.
@@ -128,17 +129,17 @@ A tabela 2, 3 e 4 descrevem o roteiro de perguntas respondidos com as entrevista
     Tabela 4: Entrevista 3 
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Aberta | 
-| 2 | Qual sua idade? | |
-| 3 | Qual a sua ocupação? |  |
-| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> []Alto |
-| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 1 | Qual seu nome completo? | Maria Eliza Braga | 
+| 2 | Qual sua idade? | 20 |
+| 3 | Qual a sua ocupação? | estudante  |
+| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [X] Médio <br> []Alto |
+| 5 | Você já utilizou o site da PCDF? | [X] Sim <br> [] Não <br> [] Não sei responder |
 | 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Nenhum |
 | 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não |
 | 8 |Qual elemento da interface causou maior dificuldade na interação? | Não teve |
 | 9 | A navegação pelo sistema foi intuitiva? | [X] Sim <br> [] Não <br> [] Não sei responder |
 | 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
-| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 30 segundos |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | menos de 5 minutos |
 | 12 | O que você mais gostou na interface? | ser intuitiva |
 | 13 | O que você menos gostou ou achou mais difícil na interface? | Nada |
 | 14 | Que sugestões você tem para melhorar a interface? | Não tem |
