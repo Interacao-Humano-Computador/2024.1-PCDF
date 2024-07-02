@@ -5,7 +5,8 @@ A análise de protótipos de alta fidelidade desempenha um papel importante no d
 O objetivo deste documento é relatar a avaliação do protótipo de alta fidelidade da funcionalide de Registrar Ocorrência, do site da PCDF, feito pela integrante [Rayene Almeida](https://github.com/rayenealmeida).
 
 ## Metodologia
-A metodoligia utilizada para avaliação foi o de teste de usabilidade, onde os usuários fazem uma série de tarefas em ambiente controlado, seguido por uma entrevista.
+A metodoligia utilizada para avaliação foi o de teste de usabilidade, onde os usuários fazem uma série de tarefas em ambiente controlado, seguido por uma entrevista. A quantidade de participantes foi entre 3 a 4 como proposto por Krug.
+
 
 ## Objetivo da Avaliação
 Os objetivos da avaliação foram determinados através do livro BARBOSA e SILVA (2010) e são descritos a seguir na tabela 2.
@@ -45,13 +46,14 @@ Os avaliadores e participantes que participaram da avaliação foram descritos n
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
 |  [Rayene Almeida](https://github.com/rayenealmeida) | 30/07 | Hotel em Caldas Novas | 12:00 | Registrar Ocorrência | Raíra Almeida |
-|  [Renata Quadros](https://github.com/Renatinha28) | 29/06 | casa da entrevistada | 16:00 | Solicitar Antecedentes | Lara Geovanna |
+|  [Rayene Almeida](https://github.com/rayenealmeida)  | 02/07 |  FGA | 9:00| Registrar Ocorrência  | Breno Garcia |
+|  [Rayene Almeida](https://github.com/rayenealmeida)  | 02/07 |  Itamaraty| 13:20| Registrar Ocorrência  | Bethânia  |
 
 <h2 id="teste-piloto">Teste Piloto</h2>
 O teste piloto da avaliação do protótipo de alta fidelidade da tarefa solicitar antecedentes está logo abaixo.
 
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/" target="blanket">Vídeo do teste piloto - Registrar Ocorrência - Rayene </a></p>
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HBUsB3Qjo7g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/HBUsB3Qjo7g" target="blanket">Vídeo do teste piloto - Registrar Ocorrência - Rayene </a></p>
 
 <h2 id="figma">Figma</h2>
 
@@ -71,16 +73,89 @@ O prototipo de alta fidelidade feito no figma está logo abaixo.
 
 
 ## Resultados da Avaliação
-Segue o vídeo da entrevista realizada.
-
-<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://www.youtube.com/embed/" target="blanket">Entrevista 1 - Registrar Ocorrência - Rayene </a></p>
+Segue os vídeos das entrevistas realizadas.
+https://youtu.be/jbres92G83U?feature=shared
+### Entrevista 1
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/jbres92G83U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/jbres92G83U" target="blanket">Entrevista 1 - Registrar Ocorrência - Rayene </a></p>
 
 
 <h2 id="roteiro">Feedback</h2>
 A tabela 2 descreve o roteiro de perguntas respondido com a entrevista.
 
     Tabela 2: Entrevista 1 
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? | Raíra Ferreira Almeida |
+| 2 | Qual sua idade? | 14 |
+| 3 | Qual a sua ocupação? | Estudante |
+| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [X] Médio <br> []Alto |
+| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [X] Não <br> [] Não sei responder |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | O início, pois foi difício encontrar a funcionalidade e o formulário |
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Não |
+| 8 | Qual elemento da interface causou maior dificuldade na interação? | Ter que procurar onde fazia a ocorrência já que nos serviços estava escrito Delegacia Eletrônica |
+| 9 | A navegação pelo sistema foi intuitiva? | [X] Sim <br> [] Não <br> [] Não sei responder |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Sim, no menu |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | Acho que demorei muito pra encontrar |
+| 12 | O que você mais gostou na interface? | Tinha vários avisos e explicava tudo como fazer |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | A parte do formulário que volta pro início |
+| 14 | Que sugestões você tem para melhorar a interface? | Deixar mais visível a parte de selecionar para realizar a ocorrência |
+| 15 | Quanto tempo você levou para completar cada atividade | 2 ou 3 minutos |
+| 16 | Quais tarefas você achou mais difíceis de completar? | Nenhuma |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Deixar mais visível para fazer a Ocorrência |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Deixar o botão visível para fazer a ocorrência |
+
+<center>  Fonte - [Rayene Almeida](https://github.com/rayenealmeida). </center>
+
+
+### Entrevista 2
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/ILxZEcWzLWk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/ILxZEcWzLWk" target="blanket">Entrevista 2 - Registrar Ocorrência - Rayene </a></p>
+
+
+<h2 id="roteiro">Feedback</h2>
+A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
+
+    Tabela 2: Entrevista 2 
+| Número | Pergunta | Resposta |
+| :----: | ---------------------------------------------------- | -----------------------------------------------|
+| 1 | Qual seu nome completo? |   Breno Alexandre Soares Garcia|
+| 2 | Qual sua idade? | 23 |
+| 3 | Qual a sua ocupação? | Estudante |
+| 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> [X]Alto |
+| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [X] Não <br> [] Não sei responder |
+| 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Na parte inicial quando precisa procurar a denuncia|
+| 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | O início |
+| 8 | Qual elemento da interface causou maior dificuldade na interação? | Nenhum |
+| 9 | A navegação pelo sistema foi intuitiva? | [X] Sim <br> [] Não <br> [] Não sei responder |
+| 10 | Você encontrou dificuldades em entender ou usar os menus, botões ou outros widgets? | Não |
+| 11 | Quanto tempo, em média, você acha que levou para encontrar as informações que precisava? | 5 minutos |
+| 12 | O que você mais gostou na interface? | Familiaridade com outras interfaces |
+| 13 | O que você menos gostou ou achou mais difícil na interface? | Apenas no início que não estava muito intuitivo de achar |
+| 14 | Que sugestões você tem para melhorar a interface? | Poderia ter uma parte de pesquisa, não sei se tinha e eu não vi |
+| 15 | Quanto tempo você levou para completar cada atividade | 7 a 8 minutos |
+| 16 | Quais tarefas você achou mais difíceis de completar? | A inicial de ir para a parte de denúncias |
+| 17 | Houve alguma tarefa que você não conseguiu completar? Se sim, por quê? | Não |
+| 18 | Qual problema você achou mais frustrante ou difícil de superar? | Nenhum |
+| 19 | Que aspectos da interface precisam de melhorias urgentes? | Deixar mais simplificado o menu  |
+| 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Simplificar o menu |
+
+<center>  Fonte - [Rayene Almeida](https://github.com/rayenealmeida). </center>
+
+### Entrevista 3
+
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/embed/" target="blanket">Entrevista 3 - Registrar Ocorrência - Rayene </a></p>
+
+
+<h2 id="roteiro">Feedback</h2>
+A tabela 3 descreve o roteiro de perguntas respondido com a entrevista.
+
+    Tabela 2: Entrevista 3 
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Raíra Ferreira Almeida |
