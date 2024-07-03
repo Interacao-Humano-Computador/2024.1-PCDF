@@ -172,7 +172,7 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
-| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 22/06 Fim: 02/07 |Giovana, Lara, Raissa, Rayene e Renata      | Início: 22/06 Fim: 24/06 |Giovana, Lara, Raissa, Rayene e Renata         |
+| Relato dos resultados da avaliação do protótipo de alta fidelidade | Início: 22/06 Fim: 02/07 |Giovana,  Raissa, Rayene e Renata      | Início: 22/06 Fim: 24/06 |Giovana, Lara, Raissa, Rayene e Renata         |
 | Responder perguntas finais                                           | Início:  02/07 Fim: 02/07| Giovana | Início: 24/06 Fim: 25/06| Giovana, Lara, Raissa, Rayene e Renata        |
 | Gravação da apresentação                                           | Início: 02/07 Fim: 02/07 | Giovana, Lara, Raissa, Rayene e Renata     | Início: 24/06 Fim: 25/06 | Giovana, Lara, Raissa, Rayene e Renata  |
 | Correção pós entrega                                               | Início: 03/07 Fim: 05/07| Giovana, Lara, Raissa, Rayene e Renata           | Início: 05/07 Fim: 05/07 | Giovana, Lara, Raissa, Rayene e Renata    |

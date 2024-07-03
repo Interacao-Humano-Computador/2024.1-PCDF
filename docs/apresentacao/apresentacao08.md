@@ -4,6 +4,8 @@ Este documento tem objetivo de armanezar conteúdos da apresentação oito
 
 # Vídeo de apresentação 
 
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/XzsPy7KeGjQ " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/XzsPy7KeGjQ" target="blanket">Vídeo da Apresentação 8</a></p>
 
 Este video descreve a apresentação que foi realizada na etapa oito do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
 
