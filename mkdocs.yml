@@ -172,6 +172,18 @@ nav:
         - Site Escolhido: verificacao/verificacao/Etapa Projeto/site_escolhido.md
         - Metodologia: verificacao/verificacao/Etapa Projeto/metodologia.md
         - Referência, fontes, escrita : verificacao/verificacao/Etapa Projeto/refe_font.md
+  - Entrega Final:
+    - Site Escolhido: etapa_final/site_escolhido.md
+    - Ciclo de Vida Utilizado: etapa_final/ciclo_vida.md
+    - Planejamento dos Recursos e das Entregas(Cronograma): etapa_final/planej_recursos.md
+    - Execução do Projeto: etapa_final/exec_projeto.md
+    - Resultados Alcançados com a Execução do Projeto: etapa_final/resultados.md
+    - Ferramentas Utilizadas: etapa_final/ferramentas.md
+    - Técnicas Utilizadas: etapa_final/tecnicas.md
+    - Artefatos Criados: etapa_final/artefatos.md
+    - Síntese das Avaliações: etapa_final/avaliacoes.md
+    - Síntese das Verificações: etapa_final/verificacoes.md
+    - Síntese das Apresentações: etapa_final/apresentacoes.md
 theme:
   name: material
   features:
