@@ -45,6 +45,23 @@ Tabela abaixo tem como objetivo descrever o cronograma executado dos avaliadores
 <center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
 
+## Teste Piloto 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Qbd45CdlKQA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+
+## Figma
+
+O protótipo de alta fidelidade feito no Figma está logo abaixo.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https://www.figma.com/design/KDNNslEwfOOaXv0OF4x8Kh/sustentabilidade?node-id=15-7&t=c6ri7Gh0TMpOiDPQ-0" allowfullscreen></iframe>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+
+
 ## Resultados da Avaliações
 
      Entrevista 1
@@ -81,7 +98,7 @@ Tabela abaixo tem como objetivo descrever o cronograma executado dos avaliadores
 | 2 | Qual sua idade? | 24 anos |
 | 3 | Qual a sua ocupação? | Analista de TI |
 | 4 | Qual seu grau de experiência com tecnologias? | [] Baixo <br> [] Médio <br> [x]Alto |
-| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [] Não <br> [] Não sei responder |
+| 5 | Você já utilizou o site da PCDF? | [] Sim <br> [x] Não <br> [] Não sei responder |
 | 6 | Quais elementos da interface você achou confusos ou difíceis de usar? | Página Inicial |
 | 7 | Houve alguma parte da interface que você não entendeu imediatamente? Se sim, qual? | Página Inicial, os cards da direita deveriam estar na esquerda | 
 | 8 |Qual elemento da interface causou maior dificuldade na interação? | Aberta |

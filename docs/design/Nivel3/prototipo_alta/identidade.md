@@ -1,6 +1,9 @@
 ## Introdução
 O protótipo de alta fidelidade serve para simular de forma bastante realista a experiência do usuário antes do desenvolvimento final. Esse artefato tem como objetivo mostrar o desenvolvimento do protótipo de alta fidelidade da página de carteira de identidade da PCDF. 
 
+## Objetivo 
+O objeitvo desse documento é mostrar o protótipo de alta fidelidade de solicitar carteira de identidade.
+
 ## Metodologia
 Depois da representação do protótipo de baixa fidelidade, com base nele, fizemos o protótipo de alta fidelidade, seguindo também o livro de Barbosa. 
 

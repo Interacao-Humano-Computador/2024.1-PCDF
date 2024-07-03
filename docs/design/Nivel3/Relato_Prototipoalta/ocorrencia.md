@@ -216,5 +216,5 @@ Os pontos positivos da interface, de acordo com as entrevistas, são:
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Relato da avaliação do protótipo de alta fidelidade |[Rayene Almeida](https://github.com/rayenealmeida) | 01/07 | 
-| 1.2 | Ultimas entrevistas |[Rayene Almeida](https://github.com/rayenealmeida) | 02/07 | 
+| 1.0 | Relato da avaliação do protótipo de alta fidelidade |[Rayene Almeida](https://github.com/rayenealmeida) | 01/07 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 03/07
+| 1.2 | Ultimas entrevistas |[Rayene Almeida](https://github.com/rayenealmeida) | 02/07 |  [Raissa Andrade](https://github.com/RaissaAndradeS) | 03/07
