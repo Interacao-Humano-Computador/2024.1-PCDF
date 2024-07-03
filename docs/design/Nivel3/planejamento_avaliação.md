@@ -170,7 +170,7 @@ O perfil dos participantes escolhidos foram baseados no artefato Perfil de Usuá
     Tabela 6: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |João |                 
+| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |Adriana, Débora, Breno |                 
 | [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | Maria Eduarda|              
 | [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | Raphael |
 | [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | Lara|

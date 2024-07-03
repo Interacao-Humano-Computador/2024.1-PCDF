@@ -303,7 +303,7 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
       Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 23/06 | Revisar HTA para checar necessidade ou não da inclusão de feedbacks. |  [Renata Quadros](https://github.com/Renatinha28) | |
+| 23/06 | Revisar HTA para checar necessidade ou não da inclusão de feedbacks. |  [Renata Quadros](https://github.com/Renatinha28) | Correção Feita |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 

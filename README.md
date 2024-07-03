@@ -16,7 +16,6 @@ Esse repositório tem como objetivo registrar a documentação e evolução do p
 <table>
   <tr>
     <td align="center"><a href="https://github.com/gio221"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/111579005?v=4" width="100px;" alt=""/><br /><sub><b>Giovana Silva</b></sub></a><br />
-    <td align="center"><a href="https://github.com/JoaoODragonborn"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98195374?v=4" width="100px;" alt=""/><br /><sub><b>João Pedro</b></sub></a><br />
     <td align="center"><a href="https://github.com/gravelylara"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/118694498?v=4" width="100px;" alt=""/><br /><sub><b>Lara Giuliana</b></sub></a><br />
     <td align="center"><a href=" https://github.com/RaissaAndradeS "><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/100162150?v=4" width="100px;" alt=""/><br /><sub><b>Raissa Andrade</b></sub></a><br />
     <td align="center"><a href="https://github.com/rayenealmeida"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/85962730?v=4" width="100px;" alt=""/><br /><sub><b>Rayene Almeida</b></sub></a><br />

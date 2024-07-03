@@ -136,8 +136,8 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 
 | Data da Correção | Descrição | Responsável(eis) | Status |
-|:----------------:|:----------|:-----------------|:-------|
-| 23/06            | Acrescentar as características pessoais do personagem | Renata          |         |
+|:----------------:|:----------|:-----------------|:-------| 
+| 23/06            | Acrescentar as características pessoais do personagem | Renata         |     Correção feita   |
 
 <p align="center">Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p>
 
@@ -377,7 +377,7 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
       Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Detalhar a experiências da persona,  e adaptar para se basear em uma persona prévia|[Renata Quadros](https://github.com/Renatinha28)  | |
+|23/06| Detalhar a experiências da persona,  e adaptar para se basear em uma persona prévia|[Renata Quadros](https://github.com/Renatinha28)  | Correção Feita |
 
 
 <center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
@@ -398,8 +398,8 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando registrar ocorrência |  [Giovana Barbosa](https://github.com/gio221) | 17/06 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 19/06 |
 | 1.1 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06
-| 1.1 | Verificação retrato falado | [Lara Giuliana](https://github.com/gravelylara) | 21/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06
-| 1.2| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) | 24/06
+| 1.2 | Verificação retrato falado | [Lara Giuliana](https://github.com/gravelylara) | 21/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06
+| 1.3| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221) | 24/06 |
 
 
 

@@ -14,6 +14,7 @@ nav:
     - Apresentação 6: apresentacao/apresentacao06.md
     - Apresentação 7: apresentacao/apresentcao07.md
     - Apresentação 6.2: apresentacao/apresentacao06.2.md
+    - Apresentação 8: apresentacao/apresentacao08.md
   - Reuniões:
       - Reunião 1: reunioes/reuniao01.md
       - Reunião 2: reunioes/reuniao02.md
@@ -71,15 +72,13 @@ nav:
       - Protótipo de Alta Fidelidade:
         - Planejamento da Avaliação do Protótipo de Alta Fidelidade : design/Nivel3/planejamento_avaliação.md
         - Planejamento do Relato do Protótipo de Alta Fidelidade: design/Nivel3/planejamento_relato.md
-        - Relato do Prototipo de papel:
-              - Pesquisar Procurados: design/Nivel3/Relato_Prototipoalta/pesquisar.md
+        - Relato do Protótipo de Alta Fidelidade :
               - Solicitar Antecedentes: design/Nivel3/Relato_Prototipoalta/solicitar.md
               - 197- Denúncia Online: design/Nivel3/Relato_Prototipoalta/197.md
               - Solicitar carteira de identidade: design/Nivel3/Relato_Prototipoalta/identidade.md
               - Registra Ocorrência: design/Nivel3/Relato_Prototipoalta/ocorrencia.md
               - Retrato Falado Online: design/Nivel3/Relato_Prototipoalta/retrato.md
-        - Prototipo de papel:
-              - Pesquisar Procurados: design/Nivel3/prototipo_alta/pesquisar.md
+        - Protótipo de Alta Fidelidade: 
               - Solicitar Antecedentes: design/Nivel3/prototipo_alta/solicitar.md
               - 197- Denúncia Online: design/Nivel3/prototipo_alta/197.md
               - Solicitar carteira de identidade: design/Nivel3/prototipo_alta/identidade.md
@@ -173,6 +172,18 @@ nav:
         - Site Escolhido: verificacao/verificacao/Etapa Projeto/site_escolhido.md
         - Metodologia: verificacao/verificacao/Etapa Projeto/metodologia.md
         - Referência, fontes, escrita : verificacao/verificacao/Etapa Projeto/refe_font.md
+  - Entrega Final:
+    - Site Escolhido: etapa_final/site_escolhido.md
+    - Ciclo de Vida Utilizado: etapa_final/ciclo_vida.md
+    - Planejamento dos Recursos e das Entregas(Cronograma): etapa_final/planej_recursos.md
+    - Execução do Projeto: etapa_final/exec_projeto.md
+    - Resultados Alcançados com a Execução do Projeto: etapa_final/resultados.md
+    - Ferramentas Utilizadas: etapa_final/ferramentas.md
+    - Técnicas Utilizadas: etapa_final/tecnicas.md
+    - Artefatos Criados: etapa_final/artefatos.md
+    - Síntese das Avaliações: etapa_final/avaliacoes.md
+    - Síntese das Verificações: etapa_final/verificacoes.md
+    - Síntese das Apresentações: etapa_final/apresentacoes.md
 theme:
   name: material
   features:
