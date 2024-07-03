@@ -208,6 +208,21 @@ De sugestões de melhoria, novamente seria mudar a cor do icone de Portal  do Se
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
 
+## Reprojeto 
+
+    Tabela 7: Tabela que descreve o Reprojeto
+
+
+Como teve sugestões de melhorias, houve a necessidade de um cronograma para um reprojeto. 
+
+| Data da correção | Descrição | Responsável | Status |
+|----------|----------|----------|----------|
+| 05/07  | Tirar os cards da página inicial e alterar a cor do ícone do portal do servidor  | [Raissa Andrade](https://github.com/RaissaAndradeS)  |   |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
+
+
+
 ## Referências Bibliográficas 
 
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
