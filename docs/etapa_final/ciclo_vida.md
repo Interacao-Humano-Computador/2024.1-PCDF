@@ -40,7 +40,7 @@ O Ciclo de Vida de Mayhew foi escolhido por sua abordagem detalhada, iterativa e
 ## Bibliografia
 > Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J (2021) 
 
-## **Histórico de Versões**
+## Histórico de Versões
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
