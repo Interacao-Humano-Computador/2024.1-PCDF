@@ -184,6 +184,7 @@ nav:
     - Síntese das Avaliações: etapa_final/avaliacoes.md
     - Síntese das Verificações: etapa_final/verificacoes.md
     - Síntese das Apresentações: etapa_final/apresentacoes.md
+    - Considerações Finais: etapa_final/conseideracoes_finais.md
 theme:
   name: material
   features:
