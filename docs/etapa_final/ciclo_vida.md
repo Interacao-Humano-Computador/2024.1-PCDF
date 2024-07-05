@@ -44,4 +44,4 @@ O Ciclo de Vida de Mayhew foi escolhido por sua abordagem detalhada, iterativa e
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Ciclo de Vida | [Renata Quadros](https://github.com/Renatinha28)   | 04/07 |  
+| 1.0 | Ciclo de Vida | [Renata Quadros](https://github.com/Renatinha28)   | 04/07 |   [Giovana Barbosa](https://github.com/gio221)  | 05/07|
