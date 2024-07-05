@@ -94,7 +94,7 @@ O entrevistado achou que o formulário é confuso e que o site deveria ter mais 
 
 # Solicitar Antecedentes Criminais 
 
-No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11
+No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11. O objetivo da tarefa é solicitar os antecedentes criminais, foi avaliado por meio da entrevista e com 1 participante, Thays.
 
 [Prototipo de papel de  Solicitar Antecedentes Criminais  ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-2-solicitar-antecedentes-criminais) 
 
@@ -277,6 +277,8 @@ O usuário sugeriu que na parte do questionário fosse mais automático, pois es
 De acorod com a entrevista e os dados coletados, essa funcionalidade é bem intutiva e fácil de usar, mais precisa de algumas mudanças para dar mais confiança ao usuário, como a denúnica anônima
 
 # Retrato Falado Online: Descreva e Identifique
+objetivo da tarefa é criar um retrato falado, foi avaliado por meio da entrevista e com 1 participante, Maria Eduarda. 
+
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-6-fazer-um-retrato-falado-de-forma-online) 
 
 ### Questionário

@@ -39,7 +39,10 @@ A metodologia adotada consiste na elaboração de prototipos de papel feitos pel
 </div>
 
 ## Tarefa 2: Solicitar Antecedentes Criminais
-No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11
+No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11. O teste piloto é encontrado logo abaixo. 
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/1yyfp6XTy6k " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/1yyfp6XTy6k " target="blanket">Vídeo do teste piloto - Solicitar Antecedentes - Renata </a></p>
 
 ![Solicitar Antecedentes Criminais](../../../assets/design/Nivel2/antecedentes1.jpg)
 <div align="center">
@@ -164,7 +167,10 @@ Neste protótipo de registro de ocorrência online, onde o site é acessado pelo
 
 
 ## Tarefa 6: Fazer um retrato falado de forma online
-Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviços” e selecionar a opção de “Retrato falado on-line”. Feito isto, irá aparecer uma mensagem explicando o porquê são pedidas algumas informações pessoas e o entrevistado deve inserir seus dados pessoais como nome, cpf e e-mail, além das informações da denúncia e descrição do suspeito. Com isso, o usuário deve escolher um avatar, ajusta-lo como necessário e salvar as alterações. Logo, deve abrir uma página com o avatar selecionado com um texto para o usuário descrevê-lo de acordo com sua lembrança. Após o envio, uma mensagem de confirmação com as informações necessárias aparecerá. O protótipo desta tarefa está na figura 25 a 37.
+Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviços” e selecionar a opção de “Retrato falado on-line”. Feito isto, irá aparecer uma mensagem explicando o porquê são pedidas algumas informações pessoas e o entrevistado deve inserir seus dados pessoais como nome, cpf e e-mail, além das informações da denúncia e descrição do suspeito. Com isso, o usuário deve escolher um avatar, ajusta-lo como necessário e salvar as alterações. Logo, deve abrir uma página com o avatar selecionado com um texto para o usuário descrevê-lo de acordo com sua lembrança. Após o envio, uma mensagem de confirmação com as informações necessárias aparecerá. O protótipo desta tarefa está na figura 25 a 37. O teste piloto é mostrado logo abaixo.
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/mEKgVAO0Vqg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://www.youtube.com/watch?v=mEKgVAO0Vqg" target="blanket">Vídeo do teste piloto - Retrato Falado - Renata </a></p>
 
 ![retrato falado](../../../assets/design/Nivel2/retrato1.jpg)
 <div align="center">

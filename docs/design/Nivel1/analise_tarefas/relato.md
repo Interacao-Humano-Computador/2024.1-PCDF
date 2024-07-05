@@ -75,7 +75,7 @@ O usuário intrevistado não tem sugestões de melhoria
 ### Analise de Dados 
 
 ## Solicitar Antecedentes Criminais 
-Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 1, em seguida pede-se o código de verificação como mostra na Figura 2 e o preenchimento do formulário como mostra na figura 3.
+Nessa tarefa o usuário tem como objetivo solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28) por meio da entrevista feita com 1 participante, Luísa. Primeiro na página inicial como mostra na Figura 1, em seguida pede-se o código de verificação como mostra na Figura 2 e o preenchimento do formulário como mostra na figura 3.
 
 
 ![Página inicial para ocorrência](../../../assets/Analise_Requisitos/paginainicialsolicitarantecedentes.png)
@@ -359,7 +359,7 @@ O usuário intrevistado não tem sugestões de melhoria
 </div>
 
 ## Retrato Falado Online: Descreva e Identifique
-Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). 
+Nessa tarefa o usuário tem como objetivo fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28) por meio da entrevista com 1 participante, Heder. 
 
 * GOAL 0: Acessar a funcionalidade de Denúncia Online:
     * METHOD 0.A: Navegar até o site da Polícia Civil do Distrito Federal (PCDF).

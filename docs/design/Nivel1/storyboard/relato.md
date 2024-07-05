@@ -72,7 +72,7 @@ As figuras 1 e 2 são referentes ao storyboard feito pela integrante [Lara Giuli
 
 ### Solicitar Antecedentes Criminais
 
-As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, a qual foi processada injustamente. 
+As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, a qual foi processada injustamente. O objetivo da tarefa é solicitar os antecedentes criminais do usuário e a avaliação foi feita com 1 participante, Luísa.
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant1.png)
 <div align="center">
@@ -235,7 +235,7 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Sim, na finalização        |
 
 ### Retrato Falado Online
-
+As figuras 9, 10 e 11 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Ana, cria um retrato falado após a sugestão de João. O objetivo da tarefa é criar um retrato falado de forma virtual e a avaliação foi feita com 1 participante, Heder.
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado1.png)
 <div align="center">
