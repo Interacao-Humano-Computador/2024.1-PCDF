@@ -124,7 +124,7 @@ nav:
         - Planejamento do Relato de Resultados da Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/planejamento_relatoprototipo.md
         - Termo de consentimento para Prototipação de Papel: verificacao/verificaçao_grupo+1/Etapa5/termo_consentimento.md
     - Verificação do Grupo :
-      - Etapa 2:
+      - Etapa Analise de requisitos 1:
         - Planejamento da Verificação da  etapa 2: verificacao/verificacao/Etapa2/planejamento_verificacao2.md
         - Aspectos Éticos: verificacao/verificacao/Etapa2/apectos_eticos.md
         - Questionário: verificacao/verificacao/Etapa2/questionario.md
@@ -135,34 +135,36 @@ nav:
         - Cenários: verificacao/verificacao/Etapa2/cenarios.md
         - Analise de Tarefas- HTA: verificacao/verificacao/Etapa2/hta.md
         - Analise de Tarefas- GOMS: verificacao/verificacao/Etapa2/goms.md
-      - Etapa 3:
+      - Etapa Analise de requisitos 2:
         - Planejamento da Verificação da  etapa 3: verificacao/verificacao/Etapa3/planejamento_verificacao3.md
         - Princípios Gerais do Projeto: verificacao/verificacao/Etapa3/principiosgerais.md
         - Metas de Usabilidade: verificacao/verificacao/Etapa3/metas_usabilidade.md
         - Guia de Estilo: verificacao/verificacao/Etapa3/guia_estilo.md
         - Características da plataforma: verificacao/verificacao/Etapa3/carcteristicas.md
-      - Etapa 4:
+      - Etapa design nivel 1:
         - Planejamento da Verificação da  etapa 4: verificacao/verificacao/Etapa4/planejamento_verificacao4.md
         - Planejamento da Avaliação de analise de tarefas: verificacao/verificacao/Etapa4/planejamento_analise_tarefas.md
         - Planejamento do Relato dos Resultados da analise de tarefas: verificacao/verificacao/Etapa4/planejamento-relato-tarefas.md
         - Planejamento da Avaliação dos Storyboards: verificacao/verificacao/Etapa4/planejamento_storyboard.md
         - Planejamento do Relato dos Resultados dos Storyboards: verificacao/verificacao/Etapa4/planej_relato_stroryboard.md
-      - Etapa 5:
+      - Etapa design nivel 2:
         - Planejamento da Verificação da  etapa 5: verificacao/verificacao/Etapa5/planejamento_verificacao5.md
         - Relato da Analise de Tarefas: verificacao/verificacao/Etapa5/relato_analisetarefas.md
         - Relato do storyboard: verificacao/verificacao/Etapa5/relato_storyboard.md
         - Storyboard: verificacao/verificacao/Etapa5/storyboard.md.md
         - Planejamento da Avaliação de Prototipação de Papel: verificacao/verificacao/Etapa5/planejamento_prototipo.md
         - Planejamento do Relato de Resultados da Prototipação de Papel: verificacao/verificacao/Etapa5/planejamento_relatoprototipo.md
-      - Etapa 7:
+      - Etapa design nivel 3 parte 1:
         - Planejamento da Verificação da  etapa 7: verificacao/verificacao/Etapa7/planej_verificação_etapa7.md
         - Relato do Prototipo de Papel: verificacao/verificacao/Etapa7/relato_prototipo_papel.md
         - Prototipo de Papel: verificacao/verificacao/Etapa7/prototipo_papel.md
         - Planejamento da Avaliação do Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa7/planej_avaliação_alta.md
         - Planejamento do Relato  do Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa7/plan_relato_altafidelidade.md
-      - Etapa 8:
+      - Etapa design nivel 3 parte 2:
         - Planejamento da Verificação da  etapa 8: verificacao/verificacao/Etapa 8/planej_verifi8.md
-      - Etapa do Projeto:
+        - Relato do Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa 8/relato_altafi.md
+        - Prototipo de Alta Fidelidade: verificacao/verificacao/Etapa 8/prototipo_alta_fidelidade.md
+      - Etapa do Projeto final:
         - Planejamento da Verificação da etapa do projeto: verificacao/verificacao/Etapa Projeto/planejamento_verificacao.md
         - Cronograma: verificacao/verificacao/Etapa Projeto/Cronograma.md
         - Cronograma Executado: verificacao/verificacao/Etapa Projeto/cronograma_executado.md
