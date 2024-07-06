@@ -69,7 +69,7 @@ A tabela 5 descreve o cronograma do reprojeto.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| não houve problemas encontrados | [Giovana Silva](https://github.com/gio221) | Feito |
+|07/07| não houve problemas encontrados | [Giovana Silva](https://github.com/gio221) | Feito |
 
 ## 3 - Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist protótipo de alta fidelidade
@@ -81,7 +81,7 @@ Esta protótipo foi feito pela integrante [Raissa Andrade](https://github.com/Ra
 | :----: | --------- | ---------- | ----------- | ------- |
 | 1 | Os agrupamentos e características dos elementos de interface estão claramente definidos? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.1.png) |
 | 2 | Os elementos de interface interativos (widgets) estão posicionados de maneira adequada? |Sim  | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.2.png) |
-| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.1.png) |
+| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | Incompleto | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.1.png) |
 | 4 | A representação de alta fidelidade inclui todos os detalhes gráficos necessários? |  Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.2.png) | 
 | 5 | O vocabulário utilizado na interface é consistente e familiar ao usuário? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 272.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina272.1.png) | 
 
@@ -100,10 +100,10 @@ A gravação da verificação é encontrada logo abaixo.
 </p>
 
 ### Problemas encontrados
-Não foram encontrados problemas.
+- ID 3: A decisão sobre tamanhos e cores devem ser revisados.
 
 ### Soluções
-Como não foi encontrado problemas, não há necessidade de sugestão de melhoria.
+- ID 3: Revisar as decisões sobre tamanhos e cores.
 
 ### Conclusão
 O gráfico referente a essa análise.
@@ -116,7 +116,7 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| não houve problemas encontrados | [Raissa Andrade](https://github.com/RaissaAndradeS) | Feito |
+|07/07| revisar as decisões sobre tamanhos e cores | [Raissa Andrade](https://github.com/RaissaAndradeS) |  |
 
 ## 4 - Registrar Ocorrência <a id="registrar"></a>
 
