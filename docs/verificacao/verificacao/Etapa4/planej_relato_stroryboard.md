@@ -1,4 +1,4 @@
-# Introdução
+## Introdução
 Depois que fizemos o planejamento da verficação e elaboramos um checklist para o artefato Planejamento do Relato do storyboard, agora vamos usar esse checklist para verificar o artefato
 
 # Objetivo
@@ -71,4 +71,4 @@ Como mostrado na imagem 1 o artefato do questionário possui muitos erros
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 |  [Renata Quadros](https://github.com/Renatinha28)| 21/06|
+| 1.0 | verificação |[Giovana Barbosa](https://github.com/gio221) | 18/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)| 21/06|
