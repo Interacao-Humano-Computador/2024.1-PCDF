@@ -177,6 +177,24 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação                                           | Início: 02/07 Fim: 02/07 | Giovana, Lara, Raissa, Rayene e Renata     | Início: 24/06 Fim: 25/06 | Giovana, Lara, Raissa, Rayene e Renata  |
 | Correção pós entrega                                               | Início: 03/07 Fim: 05/07| Giovana, Lara, Raissa, Rayene e Renata           | Início: 05/07 Fim: 05/07 | Giovana, Lara, Raissa, Rayene e Renata    |
 
+## Etapa Final
+
+| Atividade | Data | Responsável | Data da Revisão | Revisor |
+|-----------|------|-------------|-----------------|---------|
+| O site selecionado para o projeto | 26/06 | Raissa | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| O planejamento dos recursos e das entregas | 26/06 | Giovana | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| O ciclo de vida | 26/06 | Renata | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| A execução do projeto | 26/06 | Giovana e Renata | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| O(s) resultado(s) alcançado(s) com a execução do projeto | 26/06 | Rayene | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Uma tabela sintetizando quais ferramentas | 26/06 | Lara | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Uma tabela sintetizando quais técnicas foram utilizadas | 26/06 | Raissa | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Uma tabela sintetizando quais artefatos foram criados no projeto | 26/06 | Giovana | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Uma tabela sintetizando as avaliações dos protótipos com entrevistadores | 26/06 | Renata | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Uma tabela sintetizando o método de verificação dos artefatos | 26/06 | Rayene | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Uma tabela sintetizando os vídeos das apresentações de cada etapa | 26/06 | Giovana | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Responder perguntas finais | 26/06 | Giovana, Lara, Raissa, Rayene e Renata | 26/06 - 28/06 | Giovana, Lara, Raissa, Rayene e Renata |
+| Gravação da apresentação | 08/07 | Giovana, Lara, Raissa, Rayene e Renata | 10/07 | Giovana, Lara, Raissa, Rayene e Renata |
+
 
 
 ## Bibliografia 
@@ -196,3 +214,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | 1.6 | tabela da etapa 7 executada  | [Giovana Barbosa ](https://github.com/gio221) | 16/06 |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |16/06|
 | 1.7 | tabela da etapa 6.2 executada  | [Renata Quadros](https://github.com/Renatinha28) | 20/06  |   [Giovana Barbosa ](https://github.com/gio221) |25/06|
 | 1.8 | tabela da etapa 8 executada  | [Giovana Barbosa ](https://github.com/gio221) | 02/07 |  [Renata Quadros](https://github.com/Renatinha28)  |02/07|
+| 1.9 | tabela da etapa final executada  | [Giovana Barbosa ](https://github.com/gio221) | 05/07 |  
