@@ -47,4 +47,4 @@ Com base nos desafios enfrentados, o Grupo demonstrou capacidade de lidar com o 
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida) | 04/07 |  |  |
+| 1.0 |  Criação dos Resultados Alcançados| [Rayene Almeida ](https://github.com/rayenealmeida) | 04/07 |  |  |
