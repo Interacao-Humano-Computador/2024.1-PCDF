@@ -25,7 +25,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Análise de Tarefas GOMS](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa2/goms/)| [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida), [Giovana](https://github.com/gio221),[Raissa Andrade](https://github.com/RaissaAndradeS) e [Lara Giuliana](https://github.com/gravelylara)  |    [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) e [Giovana](https://github.com/gio221)     |
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de análise de requisitos 1 do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 
 ### Etapa da Análise de Requisitos 2
@@ -38,7 +39,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Características da plataforma](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa3/carcteristicas/) | [Giovana](https://github.com/gio221) |  [Renata Quadros](https://github.com/Renatinha28) e [Rayene Almeida](https://github.com/rayenealmeida) |
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de análise de requisitos 2 do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ### Etapa do Design, Avaliação e Desenvolvimento - Nível 1
 |                                                                                    Artefato                                                                                    |                    Autor(es)                    |                     Revisor(es)                      |
@@ -49,7 +51,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Planejamento do Relato dos Resultados dos Storyboards](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa4/planej_relato_stroryboard/) | [Giovana](https://github.com/gio221) |  [Renata Quadros](https://github.com/Renatinha28) |
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de Design, Avaliação e Desenvolvimento - Nível 1 do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 
 ### Etapa do Design, Avaliação e Desenvolvimento - Nível 2
@@ -63,7 +66,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Planejamento do relato dos resultados da avaliação do Protótipo de Papel](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa5/planejamento_relatoprototipo/) | [Giovana](https://github.com/gio221) |  [Renata Quadros](https://github.com/Renatinha28) e [Rayene Almeida](https://github.com/rayenealmeida)|
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de Design, Avaliação e Desenvolvimento - Nível 2 do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 
 ### Etapa do Design, Avaliação e Desenvolvimento - Nível 3 (parte 1)
@@ -76,7 +80,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Relato do protótipo de papel](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa7/relato_prototipo_papel/) | [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida), [Giovana](https://github.com/gio221) e [Lara Giuliana](https://github.com/gravelylara)  |  [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida) e [Giovana](https://github.com/gio221)  |
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de Design, Avaliação e Desenvolvimento - Nível 3 (parte 1) do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 
 
@@ -90,7 +95,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Relato do protótipo de papel](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa7/relato_prototipo_papel/) | [Renata Quadros](https://github.com/Renatinha28), [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida), [Giovana](https://github.com/gio221) e [Lara Giuliana](https://github.com/gravelylara)  |  [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene Almeida](https://github.com/rayenealmeida) e [Giovana](https://github.com/gio221)  |
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de Design, Avaliação e Desenvolvimento - Nível 3 (parte 2) do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 
 ### Etapa Projeto Final
@@ -107,7 +113,8 @@ A metodologia aplicada nas verificações foi a de checklists em que é apresent
 | [Referência, fontes, escrita](https://interacao-humano-computador.github.io/2024.1-PCDF/verificacao/verificacao/Etapa%20Projeto/refe_font/) | [Renata Quadros](https://github.com/Renatinha28)  |  [Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene Almeida](https://github.com/rayenealmeida)  |
 
 <p style="text-align: center; font-size: 2;">Tabela x: Autores e revisores dos artefatos da Etapa de Projeto Final do Grupo 4.</p>
-<p style="text-align: center; font-size: 2;">Fonte: [Rayene Almeida](https://github.com/rayenealmeida)<a id="anchor_2" href="#FRM2"></a>.</p>
+
+<center> <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
 
 ## Grupo 5 - Prefeitua da Lagoa da Prata
 
