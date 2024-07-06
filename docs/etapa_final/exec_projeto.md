@@ -31,15 +31,15 @@ Na fase inicial de desenvolvimento, conhecida como análise de requisitos, são 
 
 | Artefato  |Autor(es) | Revisor(es)|
 |-------------------------------------------------|------------------------------------------------|-----------------------------------|
-| Perfil dos Usuários         | | |
-| Análise de Tarefas          | | |
-| Aspectos Éticos             | | |
-| Cenários                    | | |
-| Personas                    | | |
-| Guias de Estilos            | | |
-| Metas de Usabilidade        | | |
-| Princípios Gerais           | | |
-| Características da plataforma| | |
+| Perfil dos Usuários         |Raissa, Rayene , Renata e Giovana | Raissa, Rayene , Renata e Giovana|
+| Análise de Tarefas          |Raissa, Rayene , Renata e Giovana | Raissa, Rayene , Renata e Giovana|
+| Aspectos Éticos             |Renata |Giovana e Rayene |
+| Cenários                    |Raissa, Rayene , Renata e Giovana |Raissa, Rayene , Renata e Giovana |
+| Personas                    |João e Lara | Giovana e Renata e Rayene|
+| Guias de Estilos            | Rayene| Raissa, Rayene , Renata e Giovana|
+| Metas de Usabilidade        | Raissa|Giovana, Rayene e Renata |
+| Princípios Gerais           |Giovana e Renata | Giovana, Rayene e Renata|
+| Características da plataforma| Lara e João|Giovana e Renata |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -50,12 +50,11 @@ Neste nível, o maior grau de abstração é apresentado. Existem apenas planos 
 
 | Artefato | Autor(es) | Revisor(es)|
 |-------------------------------------------------|------------------------------------------------|-----------------------------------|
-| Planejamento da avaliação da análise de tarefas |  |   |
-| Planejamento do relato da análise de tarefas    |  |  |
-| Relato dos resultados da análise de tarefas  | |     |
-| Planejamento da avaliação do storyboard  |  |  |
-| Planejamento do relato do storyboard |  | |
-| Relato dos resultados do storyboard | |    |
+| Planejamento da avaliação da análise de tarefas |  Raissa|  Giovana, Rayene e Renata |
+| Planejamento do relato da análise de tarefas    | Giovana | Giovana, Rayene e Renata |
+| Planejamento da avaliação do storyboard  | Renata |  Giovana, Rayene e Renata|
+| Planejamento do relato do storyboard | Rayene |Giovana, Rayene e Renata |
+
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -66,9 +65,10 @@ Neste nível, descrito na tabela 4, o grau intermediário de abstração é apre
 
 | Artefato | Autor(es) | Revisor(es)|
 |-------------------------------------------------|------------------------------------------------|-----------------------------------|
-| Planejamento da avaliação do protótipo de papel |  |   |
-| Planejamento do relato do protótipo de papel   |  |  |
-| Relato dos resultados do protótipo de papel |  |  |
+| Relato dos resultados da análise de tarefas  |Giovana |   Giovana, Rayene e Renata  |
+| Relato dos resultados do storyboard | Rayene|  Giovana, Rayene e Renata  |
+| Planejamento da avaliação do protótipo de papel | Renata |Giovana   |
+| Planejamento do relato do protótipo de papel   | Raissa | Giovana e Renata |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -79,10 +79,11 @@ Neste nível, descrito na tabela 5, a prototipação objetiva ser fiel ao design
 
 | Artefato | Autor(es) | Revisor(es)|
 |-------------------------------------------------|------------------------------------------------|-----------------------------------|
-| Desenvolvimento do protótipo de alta fidelidade |  |   |
-| Planejamento da avaliação do protótipo de alta fidelidade  |  |  |
-| Planejamento do relato do protótipo de alta fidelidade | |     |
-| Relato dos resultados do protótipo de alta fidelidade |  |  |
+| Relato dos resultados do protótipo de papel | Giovana | Giovana, Rayene e Renata |
+| Desenvolvimento do protótipo de alta fidelidade | Giovana, Rayene e Renata, Raissa |Giovana, Rayene e Renata, Raissa   |
+| Planejamento da avaliação do protótipo de alta fidelidade  |Renata  |Giovana  |
+| Planejamento do relato do protótipo de alta fidelidade | Rayene e Raissa|   Giovana e Renata  |
+| Relato dos resultados do protótipo de alta fidelidade | Giovana, Rayene e Renata, Raissa |Giovana, Rayene e Renata, Raissa  |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -93,4 +94,5 @@ Neste nível, descrito na tabela 5, a prototipação objetiva ser fiel ao design
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Ciclo de Vida | [Renata Quadros](https://github.com/Renatinha28) e [Giovana Barbosa](https://github.com/gio221)  | 05/07 |   | |
+| 1.0 | Ciclo de Vida | [Renata Quadros](https://github.com/Renatinha28)  | 05/07 |  [Giovana Barbosa](https://github.com/gio221) |05/07 |
+| 1.1 | Preenchendo as tabelas | [Giovana Barbosa](https://github.com/gio221) |05/07 |

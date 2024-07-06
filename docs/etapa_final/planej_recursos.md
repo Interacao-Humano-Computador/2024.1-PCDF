@@ -526,14 +526,14 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
     <tr>
       <td>Guia de estilo</td>
       <td>07/05 a 10/05</td>
-      <td>Lara e João</td>
+      <td>Rayene</td>
       <td>10/05</td>
       <td>Giovana, João, Lara, Raissa, Rayene e Renata</td>
     </tr>
     <tr>
       <td>Características do site</td>
       <td>07/05 a 10/05</td>
-      <td>Rayene</td>
+      <td>Lara e João</td>
       <td>10/05</td>
       <td>Giovana e Renata</td>
     </tr>
