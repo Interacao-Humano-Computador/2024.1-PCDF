@@ -23,6 +23,63 @@ A tabela 1 descreve os integrantes responsáveis que fizeram o protótipo, o art
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
 ## 1 - Solicitar Antecedentes Criminais <a id="solicitar"></a>
+### Checklist protótipo de alta fidelidade
+Este protótipo foi feito pela integrante [Renata Quadros](https://github.com/Renatinha28) e verificado pela integrante [Rayene Almeida](https://github.com/rayenealmeida), A tabela 2 descreve o checklist respondido.
+
+    Tabela 2: checklist prototipo 
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | Os agrupamentos e características dos elementos de interface estão claramente definidos? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.1.png) |
+| 2 | Os elementos de interface interativos (widgets) estão posicionados de maneira adequada? |Sim  | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.2.png) |
+| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.1.png) |
+| 4 | A representação de alta fidelidade inclui todos os detalhes gráficos necessários? |  Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.2.png) | 
+| 5 | O vocabulário utilizado na interface é consistente e familiar ao usuário? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 272.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina272.1.png) | 
+
+  <center> <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a>, 2024</p>
+</center>
+
+
+### Gravação
+A gravação da verificação é encontrada logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/hxlbWchMR1g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/embed/hxlbWchMR1g" target="_blank">Vídeo da verificação: protótipo de alta fidelidade - Renata </a>
+</p>
+
+### Problemas encontrados
+Não foram encontrados problemas.
+
+### Soluções
+Como não foi encontrado problemas, não há necessidade de sugestão de melhoria.
+
+### Conclusão
+
+
+A figura 1 mostra como ficou as respostas obtidas
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/prototipoantecedentes.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>        
+</div></center>
+
+Como mostrado na figura 1 o Protótipo de Alta Fidelidade da funcionalidade Solicitar Antecedentes Criminais foi muito bem feito, 100% de acertos.
+
+
+### Cronograma do reprojeto
+A tabela 3 descreve o cronograma do reprojeto.
+
+    Tabela 3: cronograma do reprojeto
+
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|07/07| não houve problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | Feito |
+
 
 ## 2 - 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist protótipo de alta fidelidade
@@ -133,4 +190,7 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Verificando denúncia online e carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28)  | 06/07  
+| 1.0 | Verificando denúncia online e carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28)  | 06/07 |  [Rayene Almeida](https://github.com/rayenealmeida)  | 06/07 |
+| 1.1| Verificando Solicitar Antecedentes Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  | 06/07 |  |  |
+
+
