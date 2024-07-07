@@ -179,6 +179,38 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 
+### Checklist do Protótipo de Alta Fidelidade 
+
+A tabela abaixo foi montada pela [Renata Quadros](https://github.com/Renatinha28) e avaliada por [Raissa Andrade](https://github.com/RaissaAndradeS) e [Giovana Silva](https://github.com/gio221), essa avaliação foi sobre o Retrato Falado.
+
+    Tabela 6: checklist protótipo de Alta Fidelidade 
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | Os agrupamentos e características dos elementos de interface estão claramente definidos? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.1.png) |
+| 2 | Os elementos de interface interativos (widgets) estão posicionados de maneira adequada? |Sim  | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.2.png) |
+| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.1.png) |
+| 4 | A representação de alta fidelidade inclui todos os detalhes gráficos necessários? |  Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.2.png) | 
+| 5 | O vocabulário utilizado na interface é consistente e familiar ao usuário? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 272.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina272.1.png) | 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+### Gravação 
+
+Essa é a gravação sobre a análise do Protótipo de Alta Fidelidade do Retrato Falado. 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2b8aQm5Krv4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+### Problemas Encontrados 
+Não houve problemas encontrados.
+### Soluções 
+Não há soluções para esse caso.
+### Conclusão 
+Abaixo há um gráfico sobre a análise feita do Retrato falado, logo, não há necessidade de um reprojeto.
+![alt text](../../../assets/design/nivel3/graficoretrato.png)
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 

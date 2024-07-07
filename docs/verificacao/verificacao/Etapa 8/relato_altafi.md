@@ -190,6 +190,57 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 
+### Checklist do Protótipo de Alta Fidelidade 
+
+Esse relato foi elaborado pela  [Renata Quadros](https://github.com/Renatinha28) e verificado por [Raissa Andrade](https://github.com/RaissaAndradeS) e [Giovana Silva](https://github.com/gio221), a tabela a seguir descreve o checklist.
+<center>
+    Tabela 6: checklist relato 
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+|1|Está descrito o obejtivo da avaliação?| Sim |pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|2|Está descrito os métodos empregados na avaliação?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|3|Foi apresentado o número de participantes?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|4|Foi apresentado o cronograma das entrevista?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|5| Foi apresentado os aspectos éticos?|Não|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| É mostrado as tarefas propostas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|7| Foi apresentado o roteiro de perguntas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|8| É apresentado como será a interpretação de dados|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|9| É apresentado com será o reprojeto?|Não há necessidade|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)| 
+</center>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+### Gravação 
+
+Gravação feita por [Raissa Andrade](https://github.com/RaissaAndradeS) e [Giovana Silva](https://github.com/gio221) sobre o Retrato Falado.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nYTGqEVDfKg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+### Problemas encontrados 
+Nenhum problema foi encontrado durante a gravação.
+
+### Soluções 
+Não precisa pois não foi encontrado nenhum problema.
+
+### Conclusão 
+Com base nas respostas obtidas, o gráfico apresenta a análise feita e assim não há necessidade de um reprojeto.
+
+<center>
+
+![Retrato Falado](../../../assets/design/nivel3/relatoretrato.png)
+
+</center>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024
+</center>
+
+
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
