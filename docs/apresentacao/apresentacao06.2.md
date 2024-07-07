@@ -5,7 +5,7 @@ Este documento tem objetivo de armanezar conteúdos da apresentação seis ponto
 # Vídeo de apresentação  
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/HLREyJaPKfs " title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
-<p style="text-align: center"><a href="https://youtu.be/HLREyJaPKfs " target="blanket">Vídeo da Apresentação 5</a></p>
+<p style="text-align: center"><a href="https://youtu.be/HLREyJaPKfs " target="blanket">Vídeo da Apresentação 6.2</a></p>
 
 Este video descreve a apresentação que foi realizada na etapa seis ponto dois do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
 

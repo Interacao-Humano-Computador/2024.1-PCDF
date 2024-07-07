@@ -1,16 +1,19 @@
 ## Introdução
 Esse artefato tem como objetivo documentar os resultados que o grupo 4 de interação humano computador, obteve durante a avaliação das analise de tarefas, nesse artefato vai ser abordado todos os resultados obtidos nessa avaliação
 
-# Metodologia
+## Objetivo
+Esse artefato tem objetivo relatar os resultados da analise de tarefas
+
+## Metodologia
 A avaliação do projeto foi conduzida através de entrevistas, storyboards e análise GOMS, permitindo uma compreensão das necessidades dos usuários. Utilizou-se acompanhamento presencial, observação direta, gravação das interações, questionários e análise de feedback para obter uma visão completa dos resultados.
 
-# Participantes
+## Participantes
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. 
 
-# Aspéctos Éticos
+## Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
-# Funcionalidades a serem tratadas
+## Funcionalidades a serem tratadas
 | Funcionalidade|      Responsáveis      |   
 |:------:|:-------------------------------:|
 |Pesquisar Procurados |  Lara         | 
@@ -23,7 +26,7 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
  
 # Analise de Tarefas(GOMS)
-### Pesquisar procurados
+## Pesquisar procurados
 No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. 
 * Goal 1: Listar todos os procurados pela PCDF
     * Method 1: Inserir dados- deixar os espaços sem preencher e nao opção "nome" selecionar "todos"
@@ -218,7 +221,7 @@ O usuário intrevistado sugere mais detalhamento
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1LI6OhgQMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/T1LI6OhgQMg" target="blanket">Vídeo da Gravação</a></p>
 
-### Solicitar carteira de identidade
+## Solicitar carteira de identidade
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
 
 
@@ -277,7 +280,7 @@ O usuário intrevistado não tem sugestões de melhoria
   <p>Video da Entrevista</p>
 </div>
 
-### Registro de Ocorrência
+## Registro de Ocorrência
 
 #### Modelo Goals, Operators, Methods, and Selection rules (GOMS)
 
