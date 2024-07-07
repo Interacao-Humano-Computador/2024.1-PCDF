@@ -1,13 +1,13 @@
 ## Introdução
 Após finalizar o planejamento da avaliação, agora iremos verificar os protótipos de alta fidelidade. Cada integrante ficou responsável por avaliar ao menos um protótipo criado por outro membro do grupo (um integrante não pode avaliar o protótipo de sua própria autoria). A verificação é uma etapa essencial para garantir que estamos entregando uma avaliação de qualidade, seguindo os princípios de IHC (Interação Humano-Computador).
 
-# Objetivo
+## Objetivo
 Esse artefato tem como obejtivo documentar a verificação dos protótipos de alta fidelidade feitos pelo grupo 04 de Interação Humano Computador(IHC), semestre 2024.1. O grupo tem como objetivo avaliar o site da Polícia Civíl do Distrito Federal.
 
-# Metodologia
+## Metodologia
 A metodologia utilizada é a de inspeção. Verificamos tudo de acordo com os checklist planejados.
 
-# Funcionalidades tratadas no protótipo de alta fidelidade
+## Funcionalidades tratadas no protótipo de alta fidelidade
 A tabela 1 descreve os integrantes responsáveis que fizeram o protótipo, o artefato de cada um com um link levando para a verificação do artefado no docuemnto e o integrante que fez a verificação.
 
         Tabela 1: verificação e seus resoponsáveis
@@ -118,6 +118,12 @@ Como não foi encontrado problemas, não há necessidade de sugestão de melhori
 ### Conclusão
 O gráfico referente a essa análise.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/prototipoantecedentes.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 A tabela 5 descreve o cronograma do reprojeto.
@@ -165,6 +171,12 @@ A gravação da verificação é encontrada logo abaixo.
 ### Conclusão
 O gráfico referente a essa análise.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/prototipoantecedentes.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/rayenealmeida">Rayene Almeida</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 A tabela 7 descreve o cronograma do reprojeto.
