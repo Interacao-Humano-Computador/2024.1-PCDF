@@ -2,14 +2,14 @@
 
 Após finalizar o planejamento da avaliação, agora iremos verificar os relatos dos protótipos de alta fidelidade. Cada integrante ficou responsável por avaliar ao menos um relato criado por outro membro do grupo (um integrante não pode avaliar o protótipo de sua própria autoria). A verificação é uma etapa essencial para garantir que estamos entregando uma avaliação de qualidade, seguindo os princípios de IHC (Interação Humano-Computador).
 
-# Objetivo
+## Objetivo
 
 Esse artefato tem como obejtivo documentar a verificação dos relatos dos protótipos de alta fidelidade feitos pelo grupo 04 de Interação Humano Computador(IHC), semestre 2024.1. O grupo tem como objetivo avaliar o site da Polícia Civíl do Distrito Federal.
 
-# Metodologia
+## Metodologia
 A metodologia utilizada é a de inspeção. Verificamos tudo de acordo com os checklist planejados.
 
-# Funcionalidades tratadas no protótipo de alta fidelidade
+## Funcionalidades tratadas no protótipo de alta fidelidade
 A tabela 1 descreve os integrantes responsáveis que fizeram o relato do protótipo, o artefato de cada um com um link levando para a verificação do artefado no docuemnto e o integrante que fez a verificação.
 
         Tabela 1: verificação e seus resoponsáveis
@@ -125,6 +125,13 @@ A gravação da verificação é encontrada logo abaixo.
 ### Conclusão
 O gráfico referente a essa análise.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/relatoprototipoaltarenata.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Relato do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Silva</a></p></center>        
+</div></center>
+
 
 ### Cronograma do reprojeto
 A tabela 5 descreve o cronograma do reprojeto.
@@ -176,6 +183,12 @@ A gravação da verificação é encontrada logo abaixo.
 ### Conclusão
 O gráfico referente a essa análise.
 
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/relatoprototipoaltarenata.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Relato do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Silva</a></p></center>        
+</div></center>
 
 ### Cronograma do reprojeto
 A tabela 7 descreve o cronograma do reprojeto.
@@ -235,6 +248,15 @@ Colocar o aspecto ético
 <p> Figura 1 - Respostas da verificação do Relato do Protótipo de Alta Fidelidade feito pela Renata.</p>
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Silva</a></p></center>        
 </div></center>
+
+### Cronograma do reprojeto
+A tabela 3 descreve o cronograma do reprojeto.
+
+    Tabela 3: cronograma do reprojeto
+
+| Data da correção | Descrição | Responsável(eis) | Status |
+| :----------------------: | -------------------- | ---------------- | --------------- |
+|07/07|  Adicionar os aspectos éticos | [Giovana Silva](https://github.com/gio221) | |
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 
@@ -301,4 +323,5 @@ Com base nas respostas obtidas, o gráfico apresenta a análise feita e assim n�
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denúncia online e carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28)  | 06/07  |   [Rayene Almeida](https://github.com/rayenealmeida) | 06/07 |
-| 1.1 | Verificando Solicitar Antecedente Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  |  | | |
+| 1.1 | Verificando Solicitar Antecedente Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  |  07/07|[Giovana Silva](https://github.com/gio221)|07/07|
+| 1.2 | Verificando Registrar Ocorrência |  [Giovana Silva](https://github.com/gio221)|07/07|
