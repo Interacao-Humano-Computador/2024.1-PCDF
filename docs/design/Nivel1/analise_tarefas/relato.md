@@ -174,7 +174,10 @@ Nessa tarefa o usuário tem como objetivo solicitar os seus antecedentes crimina
 - 10-Sugestões de melhorias?|não tenho sugestões
 
 ### Sugestão de Melhoria
-O usuário intrevistado não tem sugestões de melhoria
+O usuário intrevistado não tem sugestões de melhoria.
+
+### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
 
 ### Gravação
 
@@ -421,6 +424,9 @@ Nessa tarefa o usuário tem como objetivo fazer um retrato falado de forma onlin
 
 ### Sugestão de Melhoria
 O usuário intrevistado não tem sugestões de melhoria
+
+### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
 
 ### Gravação
 

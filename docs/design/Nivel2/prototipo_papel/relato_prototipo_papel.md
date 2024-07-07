@@ -136,8 +136,8 @@ A sugestão do usuário é que o site pessa menos informações pessoais
    <p>Video da Entrevista protótipo em papel : solicitar antesedentes - Renata </p>
 </div>
 
-# Interpretação de Dados
-De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
+# Interpretação de Dados e reprojeto
+De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário. Como o problema encontrado não há alternativas de ser melhorado, pois para solicitar os antecedentes criminais há a necessidade de tais informações, não há um reprojeto.
 
 ## 197- Denúncia Online
 Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços clicar em "197-Denúncia Online", que vai ser levado para uma nova aba onde deve escolher o tipo de denúncia, depois você deve preencher o formulário como explicado nas imagens 3 a 7.
@@ -317,8 +317,8 @@ A usuária não teve sugestão de melhoria
    <p>Video da Entrevista</p>
 </div>
 
-### Interpretação de Dados
-Com base na entrevista essa fucnionalide sugerida, é muito importante e bem auto explicativa para o usuário
+### Interpretação de Dados e reprojeto
+Com base na entrevista essa fucnionalide sugerida, é muito importante e bem auto explicativa para o usuário. Como não houve problemas encontrados, não há necessidade de reprojeto.
 
 ## Perguntas Finais
        Tabela descrevendo perguntas finais

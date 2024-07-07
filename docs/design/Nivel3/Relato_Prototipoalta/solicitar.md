@@ -153,14 +153,16 @@ A tabela 2, 3 e 4 descrevem o roteiro de perguntas respondidos com as entrevista
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
-## Pontos positivos 
+## Interpretação de Dados
+
+### Pontos positivos 
 Os pontos positivos da interface, de acordo com as entrevistas, são:
 
 - Navegação intuitiva
 - Tarefa rápida de ser concluída
 - Imprimir a certidão após o envio do formulário.
 
-## Pontos Negativos
+### Pontos Negativos
 Não foram encontrados pontos negativos.
 
 <h2 id="perguntas">Conclusão e Sugestões de Melhoria</h2>
@@ -173,6 +175,9 @@ Como não foi encontrado nenhum problema, não há necessidade de sugestão de m
 | 2 | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? | 1 - Não foi encontrado problemas <br> 2 - Nada precisa ser alterado de acordo com as entrevistas <br> 3 - Todos os objetivos foram alcançados |
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
+
+## Reprojeto
+Como não houve problemas encontrados, não há a necessidade de um reprojeto.
 
 ## Referências Bibliográficas
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

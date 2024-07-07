@@ -126,6 +126,9 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
 | 14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?           | Sim                                                  |
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Questão mais realista do motivo de buscar os antecedentes criminais |
 
+#### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
+
 
 ### 197- Denúncia Online
 A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúncia online feito pela integrante [Giovana](https://github.com/gio221).
@@ -289,6 +292,10 @@ As figuras 9, 10 e 11 são o storyboard feito pela integrante [Renata Quadros](h
 | 14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?           | Sim                                        |
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Não                                        |
 
+#### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
+
+
 ## Sugestões de Melhorias
 | Funcionalidade                      | Sugestão de Melhoria                                                      | Responsável             |
 |-------------------------------------|--------------------------------------------------------------------------|--------------------------|
@@ -319,6 +326,7 @@ As figuras 9, 10 e 11 são o storyboard feito pela integrante [Renata Quadros](h
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
-| 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 01/06 | 
-| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221)  | 06/06 | 
+| 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)   | 01/06 | 
+| 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 | 
+| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 06/06 | 
+| 1.3 | Correção |  [Renata Quadros](https://github.com/Renatinha28) | 07/07 |  [Giovana](https://github.com/gio221)  | 07/07 | 
