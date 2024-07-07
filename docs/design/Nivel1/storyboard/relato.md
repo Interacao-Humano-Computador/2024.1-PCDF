@@ -129,6 +129,9 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
 #### Reprojeto
 Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
 
+#### Análise de Dados
+De acordo com a entrevista, o storyboard corresponde as expectativas do usuário.
+
 
 ### 197- Denúncia Online
 A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúncia online feito pela integrante [Giovana](https://github.com/gio221).
@@ -294,6 +297,9 @@ As figuras 9, 10 e 11 são o storyboard feito pela integrante [Renata Quadros](h
 
 #### Reprojeto
 Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
+
+#### Análise de Dados
+De acordo com a entrevista, o storyboard corresponde as expectativas do usuário.
 
 
 ## Sugestões de Melhorias

@@ -184,6 +184,9 @@ Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OGm32woEJZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/OGm32woEJZA" target="blanket">Vídeo da Gravação</a></p>
 
+### Análise de Dados
+De acordo com a entrevista, a analise de tarefas GOMS corresponde as expectativas do usuário.
+
 ## 197- Denúncia Online
 
 Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 1. Ultilizando a CMN-GOMS
@@ -432,6 +435,9 @@ Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VHNANJqYZ9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/VHNANJqYZ9w" target="blanket">Vídeo da Gravação</a></p>
+
+### Análise de Dados
+De acordo com a entrevista, a analise de tarefas GOMS corresponde as expectativas do usuário.
 
 ## Perguntas Finais
 |Perguntas|Respostas|
