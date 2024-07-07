@@ -256,7 +256,7 @@ A tabela 3 descreve o cronograma do reprojeto.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|07/07|  Adicionar os aspectos éticos | [Giovana Silva](https://github.com/gio221) | |
+|07/07|  Adicionar os aspectos éticos | [Rayene Almeida](https://github.com/rayenealmeida) | |
 
 ## 6- Retrato Falado Online <a id="retrato"></a>
 

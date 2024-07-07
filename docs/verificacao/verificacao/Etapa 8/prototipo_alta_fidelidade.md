@@ -189,6 +189,52 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 ## 4 - Registrar Ocorrência <a id="registrar"></a>
 
+### Checklist protótipo de alta fidelidade
+Esta protótipo foi feito pela integrante  [Giovana Silva](https://github.com/gio221), A tabela 6 descreve o checklist respondido.
+
+    Tabela 7: checklist prototipo 
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+| 1 | Os agrupamentos e características dos elementos de interface estão claramente definidos? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.1.png) |
+| 2 | Os elementos de interface interativos (widgets) estão posicionados de maneira adequada? |Sim  | "7.4.2 Representações Da Interface Com Usuário" | [Página 270.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina270.2.png) |
+| 3 | As decisões sobre tamanhos, posições, cores, fontes e outros detalhes visuais dos elementos de interface foram incorporadas? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.1.png) |
+| 4 | A representação de alta fidelidade inclui todos os detalhes gráficos necessários? |  Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 271.2](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina271.2.png) | 
+| 5 | O vocabulário utilizado na interface é consistente e familiar ao usuário? | Sim | "7.4.2 Representações Da Interface Com Usuário" | [Página 272.1](../../../assets/verificacao/verificação%20nosso%20grupo/etapa2/Pagina272.1.png) | 
+
+  <center> <p>Fonte: <a href="https://github.com/gio221">Giovana Silva</a>, 2024</p>
+</center>
+
+
+### Gravação
+A gravação da verificação é encontrada logo abaixo.
+
+<p style="text-align: center">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/AFdpEutK-Uw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</p>
+<p style="text-align: center">
+    <a href="https://www.youtube.com/watch?v=AFdpEutK-Uw" target="_blank">Vídeo da verificação: protótipo de alta fidelidade - Rayene </a>
+</p>
+
+### Problemas encontrados
+Não existe problemas encontrados
+
+### Soluções
+Não existe soluções
+
+### Conclusão
+O gráfico referente a essa análise.
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/prototipoantecedentes.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Silva</a></p></center>        
+</div></center>
+
+### Cronograma do reprojeto
+Não há necesidade de reprojeto 
+
 ## 6- Retrato Falado Online <a id="retrato"></a>
 
 ### Checklist do Protótipo de Alta Fidelidade 
@@ -235,6 +281,8 @@ Abaixo há um gráfico sobre a análise feita do Retrato falado, logo, não há 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denúncia online e carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28)  | 06/07 |  [Rayene Almeida](https://github.com/rayenealmeida)  | 06/07 |
-| 1.1| Verificando Solicitar Antecedentes Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  | 06/07 |  |  |
+| 1.1 | Verificando Solicitar Antecedente Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  |  06/07|[Giovana Silva](https://github.com/gio221)|07/07|
+| 1.2 | Verificando Registrar Ocorrência |  [Giovana Silva](https://github.com/gio221)|07/07|
+
 
 
