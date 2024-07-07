@@ -188,6 +188,54 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 ## 4 - Registrar Ocorrência <a id="registrar"></a>
 
+### Checklist do Protótipo de Alta Fidelidade 
+
+Esse relato foi elaborado pela  [Giovana Barbosa](https://github.com/gio221) , a tabela a seguir descreve o checklist.
+
+<center>
+    Tabela 6: checklist relato 
+
+| ID | Descrição | Avaliação | Referência | Print |
+| :----: | --------- | ---------- | ----------- | ------- |
+|1|Está descrito o obejtivo da avaliação?| Sim |pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|2|Está descrito os métodos empregados na avaliação?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|3|Foi apresentado o número de participantes?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|4|Foi apresentado o cronograma das entrevista?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|5| Foi apresentado os aspectos éticos?|Não|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|6| É mostrado as tarefas propostas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|7| Foi apresentado o roteiro de perguntas?|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|8| É apresentado como será a interpretação de dados|Sim|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)|
+|9| É apresentado com será o reprojeto?|Não há necessidade|pagina 318|[print](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%205/planejavalia2.png)| 
+</center>
+
+<center>Fonte: [Giovana Barbosa](https://github.com/gio221)</center>
+
+### Gravação 
+
+Gravação feita por [Giovana Silva](https://github.com/gio221) sobre a Registrar Ocorrência.
+
+<center>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WcwHTbJ-Ps0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+
+Fonte: [Giovana Silva](https://github.com/gio221)</center>
+
+### Problemas encontrados 
+Faltou o aspecto ético
+
+### Soluções 
+Colocar o aspecto ético
+
+### Conclusão 
+
+<center>
+![Gráfico](../../../assets/verificacao/verificação%20nosso%20grupo/etapa%208/relatoprototipoaltarenata.png)
+<div align="center">
+<p> Figura 1 - Respostas da verificação do Relato do Protótipo de Alta Fidelidade feito pela Renata.</p>
+ <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Silva</a></p></center>        
+</div></center>
+
 ## 6- Retrato Falado Online <a id="retrato"></a>
 
 ### Checklist do Protótipo de Alta Fidelidade 
