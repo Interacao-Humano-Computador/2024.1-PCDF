@@ -904,14 +904,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
      <tr>
     <td>Planejamento da Avaliação da etapa 1</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 2</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
@@ -919,7 +917,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 3</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Lara e Giovana</td>
     <td>07/06</td>
@@ -927,7 +924,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 4</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
@@ -936,14 +932,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da Avaliação da etapa 5</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Relato da etapa 1</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Giovana</td>
     <td>09/06</td>
@@ -951,7 +945,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 2</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Raissa e Rayene</td>
     <td>09/06</td>
@@ -959,7 +952,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 3</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Renata e Rayene</td>
     <td>09/06</td>
@@ -967,7 +959,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 4</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Giovana e Lara</td>
     <td>09/06</td>
@@ -975,7 +966,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 5</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Raissa</td>
     <td>09/06</td>
@@ -984,7 +974,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Responder Perguntas finais</td>
     <td>09/06</td>
-    <td>09/06</td>
     <td>Giovana</td>
     <td>09/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -992,14 +981,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Gravação da apresentação</td>
     <td>09/06</td>
-    <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>12/06</td>
     <td>14/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>14/06</td>
@@ -1031,7 +1018,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
      <tr>
     <td>Planejamento da Avaliação da etapa 1</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1039,7 +1025,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da Avaliação da etapa 2</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1047,14 +1032,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da Avaliação da etapa 3</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Lara e Giovana</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 4</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
@@ -1062,7 +1045,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 5</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
@@ -1070,7 +1052,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 1</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Giovana</td>
     <td>09/06</td>
@@ -1078,7 +1059,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 2</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Raissa e Rayene</td>
     <td>09/06</td>
@@ -1086,7 +1066,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 3</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Renata e Rayene</td>
     <td>09/06</td>
@@ -1094,7 +1073,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 4</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Giovana e Lara</td>
     <td>09/06</td>
@@ -1102,7 +1080,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 5</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Raissa</td>
     <td>09/06</td>
@@ -1111,14 +1088,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Responder Perguntas finais</td>
     <td>09/06</td>
-    <td>09/06</td>
     <td>Giovana</td>
     <td>09/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>09/06</td>
     <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>10/06</td>
@@ -1126,7 +1101,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>12/06</td>
     <td>14/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>14/06</td>
@@ -1158,7 +1132,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
      <tr>
     <td>Protótipo de papel</td>
     <td>05/06</td>
-    <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>12/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1166,7 +1139,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Relato dos resultados do Protótipo de Papel</td>
     <td>10/06</td>
-    <td>12/06</td>
     <td>Giovana</td>
     <td>12/06 - 14/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1174,14 +1146,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da avaliação do protótipo de alta fidelidade</td>
     <td>12/06</td>
-    <td>14/06</td>
     <td>Renata e Raissa</td>
     <td>14/06 - 16/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
-    <td>14/06</td>
     <td>16/06</td>
     <td>Rayene e Lara</td>
     <td>14/06 - 16/06</td>
@@ -1190,14 +1160,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Perguntas finais</td>
     <td>16/06</td>
-    <td>16/06</td>
     <td>Giovana</td>
     <td>16/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>16/06</td>
     <td>17/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>16/06 - 17/06</td>
@@ -1205,7 +1173,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>19/06</td>
     <td>21/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>21/06</td>
@@ -1234,14 +1201,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Protótipo de papel</td>
     <td>05/06</td>
-    <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>12/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Relato dos resultados do Protótipo de Papel</td>
-    <td>10/06</td>
     <td>12/06</td>
     <td>Giovana</td>
     <td>12/06 - 14/06</td>
@@ -1249,15 +1214,13 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da avaliação do protótipo de alta fidelidade</td>
-    <td>12/06</td>
-    <td>14/06</td>
+   <td>14/06</td>
     <td>Renata </td>
     <td>14/06 - 16/06</td>
     <td>Giovana</td>
   </tr>
   <tr>
     <td>Planejamento do relato dos resultados da avaliação do protótipo de alta fidelidade</td>
-    <td>14/06</td>
     <td>16/06</td>
     <td>Rayene e Raissa</td>
     <td>14/06 - 16/06</td>
@@ -1266,14 +1229,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Perguntas finais</td>
     <td>16/06</td>
-    <td>16/06</td>
     <td>Giovana</td>
     <td>16/06</td>
     <td>Renata</td>
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>16/06</td>
     <td>17/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>16/06 - 17/06</td>
@@ -1281,7 +1242,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>19/06</td>
     <td>21/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>21/06</td>
@@ -1312,7 +1272,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
     <tbody>
      <tr>
     <td>Planejamento da Avaliação da etapa 1</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
@@ -1320,7 +1279,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 2</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
@@ -1328,7 +1286,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 3</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Lara e Giovana</td>
     <td>07/06</td>
@@ -1336,7 +1293,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 4</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
@@ -1344,7 +1300,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 5</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
@@ -1352,7 +1307,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 1</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Giovana</td>
     <td>09/06</td>
@@ -1361,7 +1315,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Relato da etapa 2</td>
     <td>06/06</td>
-    <td>09/06</td>
     <td>Raissa e Rayene</td>
     <td>09/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1369,14 +1322,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Relato da etapa 3</td>
     <td>06/06</td>
-    <td>09/06</td>
     <td>Renata e Rayene</td>
     <td>09/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Relato da etapa 4</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Giovana e Lara</td>
     <td>09/06</td>
@@ -1384,7 +1335,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 5</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Raissa</td>
     <td>09/06</td>
@@ -1393,14 +1343,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Responder Perguntas finais</td>
     <td>09/06</td>
-    <td>09/06</td>
     <td>Giovana</td>
     <td>09/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>09/06</td>
     <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>10/06</td>
@@ -1408,7 +1356,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>12/06</td>
     <td>14/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>14/06</td>
@@ -1440,7 +1387,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
      <tr>
     <td>Planejamento da Avaliação da etapa 1</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1448,7 +1394,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da Avaliação da etapa 2</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1456,7 +1401,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da Avaliação da etapa 3</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Lara e Giovana</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
@@ -1464,14 +1408,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Planejamento da Avaliação da etapa 4</td>
     <td>03/06</td>
-    <td>06/06</td>
     <td>Raissa e Rayene</td>
     <td>07/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Planejamento da Avaliação da etapa 5</td>
-    <td>03/06</td>
     <td>06/06</td>
     <td>Giovana e Renata</td>
     <td>07/06</td>
@@ -1479,7 +1421,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 1</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Giovana</td>
     <td>09/06</td>
@@ -1487,7 +1428,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 2</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Raissa e Rayene</td>
     <td>09/06</td>
@@ -1495,7 +1435,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 3</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Renata e Rayene</td>
     <td>09/06</td>
@@ -1503,7 +1442,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 4</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Giovana e Lara</td>
     <td>09/06</td>
@@ -1511,7 +1449,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da etapa 5</td>
-    <td>06/06</td>
     <td>09/06</td>
     <td>Lara e Raissa</td>
     <td>09/06</td>
@@ -1520,14 +1457,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Responder Perguntas finais</td>
     <td>09/06</td>
-    <td>09/06</td>
     <td>Giovana</td>
     <td>09/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>09/06</td>
     <td>10/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>10/06</td>
@@ -1535,7 +1470,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>12/06</td>
     <td>14/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>14/06</td>
@@ -1566,7 +1500,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
     </tr>
   <tr>
     <td>Relato dos resultados da avaliação do protótipo de alta fidelidade</td>
-    <td>22/06</td>
     <td>24/06</td>
     <td>Giovana</td>
     <td>22/06 - 24/06</td>
@@ -1574,7 +1507,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Planejamento de verificação dos artefatos da entrega 7</td>
-    <td>22/06</td>
     <td>23/06</td>
     <td>Renata e Raissa</td>
     <td>22/06 - 24/06</td>
@@ -1582,7 +1514,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Relato da verificação da Etapa 7 e ajustes nos artefatos</td>
-    <td>23/06</td>
     <td>24/06</td>
     <td>Lara e Rayene</td>
     <td>24/06 - 25/06</td>
@@ -1590,7 +1521,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Responder perguntas finais</td>
-    <td>24/06</td>
     <td>25/06</td>
     <td>Giovana</td>
     <td>24/06 - 25/06</td>
@@ -1598,7 +1528,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>25/06</td>
     <td>26/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>24/06 - 25/06</td>
@@ -1606,7 +1535,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>03/07</td>
     <td>05/07</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>05/07</td>
@@ -1634,7 +1562,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
     </tr>
   <tr>
     <td>Relato dos resultados da avaliação do protótipo de alta fidelidade</td>
-    <td>22/06</td>
     <td>24/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>22/06 - 24/06</td>
@@ -1642,7 +1569,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Prototipo de alta fidelidade</td>
-    <td>23/06</td>
     <td>24/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>24/06 - 25/06</td>
@@ -1651,7 +1577,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Responder perguntas finais</td>
     <td>24/06</td>
-    <td>25/06</td>
     <td>Giovana</td>
     <td>24/06 - 25/06</td>
     <td> Renata</td>
@@ -1659,14 +1584,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Gravação da apresentação</td>
     <td>25/06</td>
-    <td>26/06</td>
-    <td>Giovana, Lara, Raissa, Rayene e Renata</td>
+   <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>24/06 - 25/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Correção pós entrega</td>
-    <td>03/07</td>
     <td>05/07</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>05/07</td>
@@ -1697,14 +1620,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
    <tr>
     <td>Planejamento de verificação dos artefatos anteriores</td>
     <td>26/06</td>
-    <td>28/06</td>
     <td>Raissa e Lara</td>
     <td>26/06 - 28/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Relato da verificação das etapas anteriores e ajustes nos artefatos</td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Renata e Giovana</td>
     <td>26/06 - 28/06</td>
@@ -1712,7 +1633,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Responder perguntas finais</td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>26/06 - 28/06</td>
@@ -1720,7 +1640,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>08/07</td>
     <td>10/07</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>10/07</td>
@@ -1748,7 +1667,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
     </tr>
    <tr>
     <td>O site selecionado para o projeto </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Raissa </td>
     <td>26/06 - 28/06</td>
@@ -1756,7 +1674,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>O planejamento dos recursos e das entregas </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Giovana</td>
     <td>26/06 - 28/06</td>
@@ -1764,7 +1681,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>O ciclo de vida </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Renata</td>
     <td>26/06 - 28/06</td>
@@ -1772,7 +1688,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>A execução do projeto </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Giovana e Renata</td>
     <td>26/06 - 28/06</td>
@@ -1780,7 +1695,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>O(s) resultado(s) alcançado(s) com a execução do projeto </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Rayene</td>
     <td>26/06 - 28/06</td>
@@ -1788,7 +1702,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Uma tabela sintetizando quais ferramentas </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Lara</td>
     <td>26/06 - 28/06</td>
@@ -1796,7 +1709,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Uma tabela sintetizando quais técnicas foram utilizadas </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Raissa</td>
     <td>26/06 - 28/06</td>
@@ -1804,7 +1716,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Uma tabela sintetizando quais artefatos foram criados no projeto  </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Giovana</td>
     <td>26/06 - 28/06</td>
@@ -1812,7 +1723,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Uma tabela sintetizando as avaliações dos protótipos com entrevistadores </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Renata</td>
     <td>26/06 - 28/06</td>
@@ -1821,14 +1731,12 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   <tr>
     <td>Uma tabela sintetizando o método de verificação dos artefatos </td>
     <td>26/06</td>
-    <td>28/06</td>
     <td>Rayene</td>
     <td>26/06 - 28/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
   </tr>
   <tr>
     <td>Uma tabela sintetizando os vídeos das apresentações de cada etapa </td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Giovana</td>
     <td>26/06 - 28/06</td>
@@ -1836,7 +1744,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Responder perguntas finais</td>
-    <td>26/06</td>
     <td>28/06</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>26/06 - 28/06</td>
@@ -1844,7 +1751,6 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
   </tr>
   <tr>
     <td>Gravação da apresentação</td>
-    <td>08/07</td>
     <td>10/07</td>
     <td>Giovana, Lara, Raissa, Rayene e Renata</td>
     <td>10/07</td>
