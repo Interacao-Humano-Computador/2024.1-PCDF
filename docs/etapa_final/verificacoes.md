@@ -232,4 +232,4 @@ Abaixo encontra-se a Tabela 12 que apresenta o Artefato, os Autores e os Revisor
         Tabela que descreve o Histórico de Versões
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 |  Criação da Síntese de Verificações| [Rayene Almeida ](https://github.com/rayenealmeida) | 06/07 | |  |  
+| 1.0 |  Criação da Síntese de Verificações| [Rayene Almeida ](https://github.com/rayenealmeida) | 06/07 | [Giovana Barbosa](https://github.com/gio221) | 07/07 
