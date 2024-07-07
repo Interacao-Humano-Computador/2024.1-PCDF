@@ -7,6 +7,9 @@ Uma pesquisa baseada na ética precisa respeitar seus usuários, respeitando sua
 - __Princípio da não maleficência__: Visa prevenir danos decorrentes da pesquisa, tanto imediatos quanto futuros.
 - __Princípio da justiça e equidade__: Envolve tratar todas as pessoas de maneira justa e imparcial, distribuindo recursos e benefícios de forma equitativa, assegurando acesso igualitário aos cuidados de saúde e uma distribuição justa de benefícios e riscos na prática médica e de pesquisa.
 
+## Objetivo
+O objetivo deste documento é relatar todos os termos de consentimento usados durante as avaliações do projeto.
+
 ## Sobre o Termo de Consentimento
 
 Um termo de consentimento é um documento legal utilizado quando envolve pesquisas com usuários reais, no qual uma pessoa expressa seu entendimento e concordância com determinadas informações, procedimentos ou ações. Esse documento geralmente contém informações sobre os objetivos do estudo ou procedimento, os possíveis benefícios e riscos envolvidos, os direitos do participante ou paciente, as medidas de segurança adotadas e a liberdade de retirar o consentimento a qualquer momento. Para ultilizar essa pesquisa montamos um termo de consentimento :
