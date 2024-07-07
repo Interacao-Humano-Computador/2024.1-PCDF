@@ -37,6 +37,8 @@ A avaliação não exige nenhum tipo de custo e foi utilizado as seguintes ferra
 
 - <a href="#roteiro">Roteiro das perguntas</a>
 
+- [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/)
+
 
 ## Avaliadores e Participantes
 Os avaliadores e participantes que participaram da avaliação foram descritos na tabela 1 abaixo.
