@@ -16,6 +16,8 @@ Em relação às considerações finais, enfrentamos maior dificuldade com o ger
 
 ### [Raissa Andrade](https://github.com/RaissaAndradeS) 
 
+Sobre as considerações finais, a proposta da disciplina é muito boa, diferente do que estamos acostumados, sendo testes e provas. E isso é muito bom, mas por outro lado é uma luta contra o tempo para entregar tudo certo no prazo solicitado. É uma matéria muito proveitosa que de fato você aprende fazendo, você aprende testando, aprende lendo, aprende principalmente verificando. Outro desafio encontrado na matéria é a incerteza de o grupo inteiro vai participar, no nosso caso enfrentamos isso mas no final demos conta, deu tudo certo. 
+
 ### [Lara Giuliana](https://github.com/gravelylara) 
 
 ## Conclusão
