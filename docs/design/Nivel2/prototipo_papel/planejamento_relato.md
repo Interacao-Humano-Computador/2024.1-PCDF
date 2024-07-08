@@ -116,57 +116,14 @@ A tabela 4 descreve o roteiro das perguntas:
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
 
-## Sugestões de Melhorias
-### Storyboard Pesquisar Procurados
+# Sugestões de melhoria
+Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problemas e dificuldades que o usuário possa ter encontrado durante a entrevista. É de extrema importância que os registros sejam feitos de forma clara e objetiva para que possamos idetificar o problema, o que causou, o resultado esperado e o resultado que foi observado.
+
+#### Exemplos de sugestão de melhoria
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
-...
-
-### Storyboard Solicitar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Storyboard Validar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Storyboard 197- Denúncia Online
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Storyboard Solicitar Carteira de Identidade
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Storyboard Registrar Ocorrência
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Storyboard Retrato Falado Online
-
-1. [Sugestão de Melhoria 1]
-
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
 
 
 ## Referências Bibliográficas 
