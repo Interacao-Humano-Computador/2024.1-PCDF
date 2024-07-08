@@ -150,7 +150,7 @@ Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços cl
 [Prototipo de papel de Denúncia Online ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-3-denuncia-online) 
 
 ### Questionário
-     Tabela descrevendo as eprguntas
+     Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Adriana |
@@ -201,7 +201,7 @@ Como não teve sugestão não é necessario reprojeto
       Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Rafael|
+| 1 | Qual seu nome completo? | Raphael|
 | 2 | Qual sua idade? | 25 |
 | 3 | Qual a sua ocupação? | Assitente social|
 | 4 | Qual seu grau de experiência com tecnologias? | Alta  |
@@ -222,19 +222,26 @@ Como não teve sugestão não é necessario reprojeto
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
- <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Sugestão de Melhoria
-A sugestão do usuário é ter menos perguntas, ter uma linguagem mais informal, para que o usuário possa entender melhor
+O entrevistado sugeriu ter menos perguntas, ter uma linguagem mais informal, para que o usuário possa entender melhor.
 
 ### Gravação
+
+    Gravação sobre o protótipo
+
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pmOmGhhbGPk " frameborder="0" allowfullscreen></iframe>
    <p>Video da Entrevista</p>
 </div>
 
+
 ### Interpretação de Dados
 De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
+
+### Reprojeto
+Não será necessário o reprojeto nesse caso, apesar de ter sugestões, há necessidades das perguntas pois é a solicitação de um documento oficial.
 
 # Registro de Ocorrência
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-5-registrar-ocorrencia) 
