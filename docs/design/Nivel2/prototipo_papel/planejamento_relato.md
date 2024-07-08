@@ -44,7 +44,8 @@ Ultilizaremos o método de entrevista , em que apresentaremos o prototipo de pap
 Fonte - BARBOSA e SILVA (2010).
 
 </div>
-# Tópicos
+
+## Tópicos
 
 As documentações do relato deve conter:
 
@@ -79,11 +80,11 @@ O método de Avaliação a ser ultilizado é a entrevista aos usuários, portant
 ## Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
-## Tarefas pospostas
+## Tarefas prospostas
  Após selecionar os candidatos para fazer parte da entrevista e ler o termo de consentimento, explicar de forma clara como será conduzida a entrevista,  o entrevistador deverá:
 
 1. Mostrar o protótipo de papel.
-2. Responder as perguntas presentes
+2. Responder as perguntas presentes.
 3. Durante a entrevista pedir para que ele fale o que estiver pensando.
 
 ## Roteiro das perguntas
@@ -113,7 +114,7 @@ A tabela 4 descreve o roteiro das perguntas:
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Aberta |
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Aberta |
 
-Fonte - BARBOSA e SILVA (2010).
+<center> Fonte - BARBOSA e SILVA (2010). </center>
 
 ## Sugestões de Melhorias
 ### Storyboard Pesquisar Procurados
@@ -177,5 +178,6 @@ Fonte - BARBOSA e SILVA (2010).
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento do Relato  |[Raissa Andrade](https://github.com/RaissaAndradeS)| 29/05 |    [Giovana Barbosa](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 |
+|1.1| Correções de padronização| [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07
 
 
