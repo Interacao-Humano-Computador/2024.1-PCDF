@@ -21,7 +21,17 @@ Tabela 1: Critérios de avaliação para a entrega
 6 - Um texto fazendo uma introdução dos artefatos?| Sim
 7 - O cronograma executado com quem realizou cada artefato/atividade com as datas de início e fim da construção/realização do artefato/atividade | Sim
 8 - Ata(s) da(s) reuniões (com data, horário de início e do final, participantes, objetivo, atividades definidas etc). |Sim 
-
+9 - Documentado site escolhido?| sim
+10-Documentado ciclo de vida|sim
+11-Documentado planejamento|sim
+12-Documentado Execução do Projeto |sim
+13- Documentado Resultados Alcançados com a Execução do Projeto| sim
+14- Documentado Ferramentas Utilizadas|  sim
+15- Documentado Técnicas Utilizadas| sim
+16- Documentado Artefatos Criados| sim
+17- Documentado Síntese das Avaliações| sim
+18- Documentado Síntese das Verificações| sim
+19- Documentado Síntese das Apresentações| sim
 
 ## Referências Bibliográficas
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
