@@ -2,7 +2,7 @@
 O planejamento do relato dos resultados da avaliação se apresenta como uma descrição do processo do relato dos resultados da avaliação do storyboard. No contexto de Interação Humano-Computador (IHC) e Experiência do Usuário (UX), a avaliação de storyboards é uma etapa importante para garantir que os conceitos e funcionalidades propostas atendam às necessidades e expectativas dos usuários. 
 
 ## Objetivo
-O objetivo deste documento é  definir a estrutura e organização dos dados obtidos durante a avaliação do storybpard, tomando como base o planejamento inicial. Os resultados dessa avaliação serão apresentados em um relatório detalhado.
+O objetivo deste documento é  definir a estrutura e organização dos dados obtidos durante a avaliação do storyboard, tomando como base o planejamento inicial. Os resultados dessa avaliação serão apresentados em um relatório detalhado.
 
 ## Metodologia
 A avaliação foi conduzida utilizando o método de entrevistas, dessa forma foram obtidos os resultados com o auxílio da imagem dos storyboard e a avaliação GOMS da funcionalidade. Assim podemos identificar as necessidades do usuário acompanhando-o presencialmente. A coleta de dados incluiu a observação direta, gravação de interações para uma análise posterior, questionário e análise de feedback, permitindo assim uma análise completa dos resultados.
