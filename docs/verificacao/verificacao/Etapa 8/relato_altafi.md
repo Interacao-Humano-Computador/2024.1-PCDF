@@ -82,7 +82,7 @@ A tabela 3 descreve o cronograma do reprojeto.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|07/07|  Adicionar os aspectos éticos | [Renata Quadros](https://github.com/Renatinha28) | |
+|07/07|  Adicionar os aspectos éticos | [Renata Quadros](https://github.com/Renatinha28) | Feito |
 
 ## 2 - 197- Denúncia Online <a id="denuncia"></a>
 ### Checklist relato do protótipo de alta fidelidade

@@ -111,7 +111,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 ### Soluções
 - ID 1: Adicionar descrição dos objetivos
 - ID 3: Adicionar explicação do número e o perfil de usuários e avaliadores que participaram da avaliação
-- ID 4: Adicionar gráfico dos resultados
+- ID 4: Adicionar gráfico dos resultados ou uma interpretação dos dados.
 
 
 ### Conclusão
@@ -129,7 +129,7 @@ A Figura 2 monstra como ficou as respostas obtidas
 
 | Data da Correção | Descrição | Responsável(eis) | Status |
 |:----------------:|:----------|:-----------------|:-------|
-| 23/06            | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |         |
+| 23/06            | Adicionar objetivos, gráfico e explicação do número e o perfil de usuários e avaliadores que participaram da avaliação | Renata          |    Feito     |
 
 
 
@@ -312,7 +312,7 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
 
 ### Soluções
 - ID 4: Adicionar gráficos.
-- ID 5: Adicionar um relato da interpretação dos dados. 
+- ID 5: Adicionar gráfico dos resultados ou uma interpretação dos dados.
 
 ### Conclusão
 Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhorias.
@@ -329,7 +329,7 @@ Como mostra a figura 5, o relato está muito bom, só precisa de algumas melhori
       Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06|Corrigir problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | |
+|23/06|Corrigir problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | Feito |
 
 ## Bibliografia
 > 1. Barbosa, S. D. J.; Silva, B. S. da; Silveira, M. S.; Gasparini, I.; Darin, T.; Barbosa, G. D. J. (2021) Interação Humano-Computador e Experiência do usuário. Autopublicação. ISBN: 978-65-00-19677-1.

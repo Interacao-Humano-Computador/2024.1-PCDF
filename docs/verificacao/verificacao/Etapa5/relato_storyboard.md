@@ -109,7 +109,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Soluções
 - ID 1: Adicionar uma descrição dos objetivos
-- ID 4: Adicionar Gráfico 
+- ID 4: Adicionar gráfico dos resultados ou uma interpretação dos dados.
 
 ### Conclusão
 
@@ -125,7 +125,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 | Data da Correção | Descrição | Responsável(eis) | Status |
 |:----------------:|:----------|:-----------------|:-------|
-| 23/06            | Adicionar objetivos e gráfico | Renata          |         |
+| 23/06            | Adicionar objetivos e gráfico | Renata          |    Feito     |
 
 
 ## 3- 197- Denúncia Online <a id="denuncia"></a>
@@ -321,7 +321,7 @@ A verificação foi feita pela integrante [Lara Giuliana](https://github.com/gra
 - ID 6: não possui lista de problemas encontrados.
 
 ### Soluções
-- ID 4: adicionar gráficos para análise dos dados.
+- ID 4: Adicionar gráfico dos resultados ou uma interpretação dos dados.
 - ID 5: incluir um relato da interpretação e análise dos dados.
 - ID 6: incluir lista de problemas encontrados.
 
@@ -341,7 +341,7 @@ A tabela 11 descreve o artefato a ser corrigido, o integrante responsável pela 
       Tabela 3: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| adicionar gráficos para análise dos dados e um relato da interpretação e análise dos dados, além dos problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | |
+|23/06| adicionar gráficos para análise dos dados e um relato da interpretação e análise dos dados, além dos problemas encontrados | [Renata Quadros](https://github.com/Renatinha28) | Feito |
 
 <center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 

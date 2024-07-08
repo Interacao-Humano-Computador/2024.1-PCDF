@@ -121,7 +121,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 
 ### Soluções
 - ID 1: Adicionar descrição dos objetivos
-- ID 4: Adicionar gráfico dos resultados
+- ID 4: Adicionar gráfico dos resultados ou uma interpretação dos dados.
 
 ### Conclusão
 
@@ -138,7 +138,7 @@ A Figura 2 mostra como ficou as respostas obtidas
 
 | Data da Correção | Descrição | Responsável(eis) | Status |
 |:----------------:|:----------|:-----------------|:-------|
-| 23/06            | Adicionar objetivos e gráfico | Renata          |         |
+| 23/06            | Adicionar objetivos e gráfico | Renata          |     Feito    |
 
 ## 3- Denuncia Online <a id="denuncia"></a>
 ### Checklist do Relato do Protótipo de Papel
@@ -355,7 +355,7 @@ A tabela 13 descreve o artefato a ser corrigido, o integrante responsável pela 
       Tabela 13: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 24/06 |  Descrever melhor os objetivos, método de avaliação utilizado e problemas encontrados. | [Renata Quadros](https://github.com/Renatinha28) | |
+| 24/06 |  Descrever melhor os objetivos, método de avaliação utilizado e problemas encontrados. | [Renata Quadros](https://github.com/Renatinha28) | Feito |
 
 <center>  Fonte - [Lara Giuliana](https://github.com/gravelylara). </center>
 
