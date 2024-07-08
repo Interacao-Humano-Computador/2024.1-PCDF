@@ -123,6 +123,6 @@ Esse artefato tem como obejtivo documentar todos os vidos das apresentações
 
 ## Histórico de Versões
 
-|Versão  | Data | Descrição | Autor(es) | Revisor(es)
-|-------- | ------ | ------ | ---------- | ----------
-| 1.0 | 07/07  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|
+|Versão  | Data | Descrição | Autor(es) | Revisor(es)|data revisão|
+|-------- | ------ | ------ | ---------- | ----------|-----------|
+| 1.0 | 07/07  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28)  | 05/07|

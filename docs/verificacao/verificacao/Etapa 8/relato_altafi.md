@@ -324,5 +324,5 @@ Com base nas respostas obtidas, o gráfico apresenta a análise feita e assim n�
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denúncia online e carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28)  | 06/07  |   [Rayene Almeida](https://github.com/rayenealmeida) | 06/07 |
 | 1.1 | Verificando Solicitar Antecedente Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  |  07/07|[Giovana Silva](https://github.com/gio221)|07/07|
-| 1.2 | Verificando Registrar Ocorrência |  [Giovana Silva](https://github.com/gio221)|07/07|
-|07/07|Verificando Retrato falado e corrigindo a Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 
+| 1.2 | Verificando Registrar Ocorrência |  [Giovana Silva](https://github.com/gio221)|07/07| [Renata Quadros](https://github.com/Renatinha28)  | 07/07|
+|07/07|Verificando Retrato falado e corrigindo a Carteira de Identidade| [Raissa Andrade](https://github.com/RaissaAndradeS)| 07/07|[Giovana Silva](https://github.com/gio221)|07/07|

@@ -869,4 +869,4 @@ A metodologia foi a de coleta de dados, fomos em cada etapa e coletamos os dados
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criando o artefato|[Giovana Barbosa](https://github.com/gio221) | 07/07
+| 1.0 | Criando o artefato|[Giovana Barbosa](https://github.com/gio221) | 07/07|[Renata Quadros](https://github.com/Renatinha28)  | 05/07

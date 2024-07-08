@@ -2,7 +2,7 @@
 
 As metas de usabilidade são objetivos específicos estabelecidos no design e na avaliação de sistemas interativos, com o propósito de melhorar a experiência do usuário e a eficácia das interações. Essas metas tendem garantir que o sistema seja intuitivo, eficiente e agradável de se usar, que seja acessível, com fácil navegação, clareza na apresentação de informações e eficiência na realização de tarefas.
 
-# Metodologia 
+## Metodologia 
 
 Metas de usabilidade é o processo estruturado utilizado para estabelecer, implementar e avaliar objetivos específicos relacionados à experiência do usuário em sistemas interativos. Envolve a definição clara de metas, a escolha de métodos apropriados para coletar dados e medir o desempenho em relação a essas metas, bem como a análise dos resultados para informar ajustes no design e na funcionalidade do sistema. Essa abordagem preza garantir que os produtos e serviços digitais sejam desenvolvidos com base nas necessidades dos usuários, resultando em interfaces mais eficazes, intuitivas e satisfatórias.
 

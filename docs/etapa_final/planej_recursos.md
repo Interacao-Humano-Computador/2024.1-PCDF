@@ -1770,4 +1770,4 @@ A metodologia ultilizada foi a de coleta de dados, ultilizamos os [cronogramas p
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criando tabelas dos cronogramas|[Giovana Barbosa](https://github.com/gio221) | 05/07
+| 1.0 | Criando tabelas dos cronogramas|[Giovana Barbosa](https://github.com/gio221) | 05/07| [Renata Quadros](https://github.com/Renatinha28)  | 05/07

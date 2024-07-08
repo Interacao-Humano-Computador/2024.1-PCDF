@@ -95,4 +95,4 @@ Neste nível, descrito na tabela 5, a prototipação objetiva ser fiel ao design
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Ciclo de Vida | [Renata Quadros](https://github.com/Renatinha28)  | 05/07 |  [Giovana Barbosa](https://github.com/gio221) |05/07 |
-| 1.1 | Preenchendo as tabelas | [Giovana Barbosa](https://github.com/gio221) |05/07 |
+| 1.1 | Preenchendo as tabelas | [Giovana Barbosa](https://github.com/gio221) |05/07 | [Renata Quadros](https://github.com/Renatinha28)  | 05/07
