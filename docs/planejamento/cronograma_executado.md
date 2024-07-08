@@ -1,6 +1,13 @@
-## Informações
+## Introdução
 
-Este documento tem objetivo de apresentar o cronograma executado que o grupo ultilizou para entregar os artefatos da disciplina
+Este documento descreve o cronograma executado pelos integrantes.
+
+## Objetivo 
+
+O objetivo desse arfetato é documentar através de um cronograma como foi executado de fato.
+
+## Metodologia 
+O cronograma em si não é uma metodologia, mas sim uma ferramenta que utilizaremos para mostrar como foi executado.
 
 ## Etapa 1: Planejamento do Projeto
 
@@ -21,6 +28,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Grava Video da Apresentação |  Inicio: 06/04 Fim: 07/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 07/04 Fim: 07/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega   |  Inicio: 09/04 Fim: 12/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 12/04 Fim: 13/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa 2: Perfil do usuário
 
 ### executado
@@ -39,6 +48,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação | Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata| Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega  | Inicio: 06/05 Fim: 08/05|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa 3: Princípios gerais do projeto
 
 ### executado 
@@ -54,6 +65,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Perguntas do site | Início: 10/05 Fim: 10/05 | Giovana| Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 14/05 Fim: 17/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa 4: Planejamento da Avaliação do Storyboard
 
@@ -71,6 +84,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação   | Início: 20/05 Fim: 22/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 22/05 Fim: 22/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega         | Início: 22/05 Fim: 28/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 24/05 Fim: 24/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa 5: Relato dos resultados do Story Board
     Esta tabela descreve as atividades planejadas da etapa 5
 
@@ -83,6 +98,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Responder Perguntas Finais   |  Início: 29/05 Fim: 01/06 |       Giovana  e Renata     |  Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 | Gravação da apresentação                                                | Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              | Início: 01/06 Fim: 01/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 |Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana,  Lara, Raissa, Rayene e Renata              | 
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa 6.1:  Verificação dos artefatos
     Esta tabela descreve as atividades planejadas da etapa 6.1
@@ -103,6 +120,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação               | Início: 09/06 Fim: 11/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 11/06 Fim: 11/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega                   | Início: 12/06 Fim: 14/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 14/06 Fim: 14/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa 7: Relato dos resultados do Protótipo de Papel
     Esta tabela descreve as atividades planejadas da etapa 7
 
@@ -115,6 +134,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Perguntas finais                                                           |  Início: 16/06 Fim: 16/06 |Giovana         | Início: 16/06 Fim: 16/06| Giovana,  Lara, Raissa, Rayene e Renata   |
 | Gravação da apresentação                                                           | Início: 16/06 Fim: 18/06 | Giovana,  Lara, Raissa, Rayene e Renata       | Início: 18/06 Fim: 18/06|Giovana,  Lara, Raissa, Rayene e Renata |
 | Correção pós entrega           | Início: 19/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata             | Início: 21/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata   |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa 6.2:  Verificação dos artefatos
     Esta tabela descreve as atividades planejadas da etapa 6.2
@@ -166,6 +187,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Gravação da apresentação               | Início: 23/06 Fim: 23/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 23/06 Fim: 23/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega                   | Início: 27/06 Fim: 30/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 29/06 Fim: 29/06 | Giovana, Lara, Raissa, Rayene e Renata              |
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa 8: Relato dos resultados do Protótipo de alta fidelidade.
     Esta tabela descreve as atividades planejadas da etapa 8
 
@@ -175,6 +198,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Responder perguntas finais                                           | Início:  02/07 Fim: 02/07| Giovana | Início: 24/06 Fim: 25/06| Giovana, Lara, Raissa, Rayene e Renata        |
 | Gravação da apresentação                                           | Início: 02/07 Fim: 02/07 | Giovana, Lara, Raissa, Rayene e Renata     | Início: 24/06 Fim: 25/06 | Giovana, Lara, Raissa, Rayene e Renata  |
 | Correção pós entrega                                               | Início: 03/07 Fim: 05/07| Giovana, Lara, Raissa, Rayene e Renata           | Início: 05/07 Fim: 05/07 | Giovana, Lara, Raissa, Rayene e Renata    |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa Final
 
@@ -193,6 +218,8 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | Uma tabela sintetizando os vídeos das apresentações de cada etapa | 07/07| Giovana | 07/07 | Giovana, Lara, Raissa, Rayene e Renata |
 | Responder perguntas finais |07/07 | Giovana, Lara, Raissa, Rayene e Renata |07/07| Giovana, Lara, Raissa, Rayene e Renata |
 | Gravação da apresentação | 08/07 | Giovana, Lara, Raissa, Rayene e Renata | 10/07 | Giovana, Lara, Raissa, Rayene e Renata |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 
 
@@ -214,3 +241,4 @@ Este documento tem objetivo de apresentar o cronograma executado que o grupo ult
 | 1.7 | tabela da etapa 6.2 executada  | [Renata Quadros](https://github.com/Renatinha28) | 20/06  |   [Giovana Barbosa ](https://github.com/gio221) |25/06|
 | 1.8 | tabela da etapa 8 executada  | [Giovana Barbosa ](https://github.com/gio221) | 02/07 |  [Renata Quadros](https://github.com/Renatinha28)  |02/07|
 | 1.9 | tabela da etapa final executada  | [Giovana Barbosa ](https://github.com/gio221) | 05/07 |[Renata Quadros](https://github.com/Renatinha28)  |07/07|  
+|2.0|Adição de fontes, objetivo e metodologia| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
