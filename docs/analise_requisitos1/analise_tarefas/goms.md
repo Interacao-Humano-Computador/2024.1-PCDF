@@ -315,4 +315,4 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 | 1.8 | Correções da Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |   [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 |  1.9   | Correção de link               |   [Giovana Barbosa](https://github.com/gio221)        |   15/05   |   [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)   |  15/05              |
 |  2.0   | Correção Procurados    |  [Lara Giuliana](https://github.com/gravelylara)   | 01/06  |   [Giovana Barbosa](https://github.com/gio221)  | 01/06    |
-| 2.1 | Correção GOMS retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 | | |
+| 2.1 | Correção GOMS retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 |  [Giovana Barbosa](https://github.com/gio221)|07/07

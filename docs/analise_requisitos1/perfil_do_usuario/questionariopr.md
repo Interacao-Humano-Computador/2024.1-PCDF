@@ -1,10 +1,13 @@
-# Introdução
+## Introdução
 Entrevistas de perfil do usuário são uma parte crítica do processo de design centrado no usuário em projetos de Interação Humano-Computador (IHC). Esse tipo de entrevista visa coletar informações qualitativas diretamente dos usuários ou de partes interessadas para entender melhor suas necessidades, comportamentos, expectativas e preferências ao interagir com sistemas ou interfaces.
 
-# Metodologia 
+## Objetivo
+Esse artefato tem como objetivo descreve como foi a entrevista com o usuário
+
+## Metodologia 
 Para realizarmos essa entrevista ultilizamos o teams para realizar reunião e gravar a reunião, a entrevista ocorreu com três pessoas, uma moderadora que foi a integrante Giovana e uma secretária a integrante Renata, e um entrevistado que foi o usuário Kaio
 
-# Participantes da Entrevista
+## Participantes da Entrevista
 
     Tabela 1:Participantes da Entrevista
 
