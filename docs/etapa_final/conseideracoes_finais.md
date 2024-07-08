@@ -13,6 +13,7 @@ Esse artefato tem como objetivo monstrar as considerações finais de cada integ
 Em relação às considerações finais, enfrentamos maior dificuldade com o gerenciamento do tempo necessário para realizar e revisar os artefatos. Por outro lado, uma das grandes facilidades foi a excelente colaboração e entrosamento da equipe, o que foi fundamental para o sucesso do projeto. Na disciplina, minha principal dificuldade inicial foi a elaboração do cronograma, pois foi desafiador criar um plano completo sem ter claras todas as etapas do projeto. Com o apoio de materiais de semestres anteriores, conseguimos desenvolver um cronograma, embora ainda apresentasse algumas ambiguidades devido às diferenças nos projetos anteriores. Em resumo, apreciei muito a experiência de trabalhar com meu grupo neste projeto de Interação Humano Computador.
 
 ###  [Renata Quadros](https://github.com/Renatinha28)
+No nosso projeto de Interação Humano-Computador (IHC), enfrentamos dificuldades na conciliação dos horários dos membros do grupo e na desistência de um integrante, o que exigiu adaptação e aumento da carga de trabalho para os demais. Minha maior dificuldade na disciplina foi gerenciar meu tempo para cumprir os prazos estabelecidos no cronograma do grupo. No entanto, um ponto positivo foi a excelente integração do grupo, que possibilitou um ambiente de colaboração e apoio mútuo. Além disso, gostei da metodologia do professor e agora posso dizer que tenho uma breve experiência com avaliações de IHC. Em suma, esta experiência demonstrou a importância do trabalho em equipe para superar desafios e alcançar objetivos.
 
 ### [Raissa Andrade](https://github.com/RaissaAndradeS) 
 
@@ -31,4 +32,5 @@ Embora desafiador e exigente, o projeto foi conduzido com organização, comprom
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   |  Criação do documento                  |    [Giovana Barbosa ](https://github.com/gio221)   |   07/07   |      [Renata](https://github.com/Renatinha28)    |08/07
+|  1.0   |  Criação do documento                  |    [Giovana Barbosa ](https://github.com/gio221)   |   07/07   |      [Renata](https://github.com/Renatinha28)    |08/07 |
+| 1.1 | Considerações finais |  [Renata](https://github.com/Renatinha28) | 08/08 | [Giovana Barbosa ](https://github.com/gio221)  | 08/08|
