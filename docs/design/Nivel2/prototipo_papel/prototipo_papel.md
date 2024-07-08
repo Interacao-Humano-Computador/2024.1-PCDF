@@ -143,14 +143,43 @@ Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços cl
 </div>
 
 ## Tarefa 4: Solicitar carteira de identidade 
+    Print que descreve passos para solicitar carteira 
 
+     Página Inicial - 1
 ![alt text](../../../assets/Nivel2/prototipo/prototipo1-raissa.jpg) 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+    Página 2 - Opções
 ![alt text](../../../assets/Nivel2/prototipo/prototipo2-raissa.jpg) 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+    Página 3 - Passos
 ![alt text](../../../assets/Nivel2/prototipo/prototipo3-raissa.jpg) 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+    Página 4 - Escolhas
 ![alt text](../../../assets/Nivel2/prototipo/prototipo4-raissa.jpg) 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+    Página 5 - Informações
 ![alt text](../../../assets/Nivel2/prototipo/prototipo5-raissa.jpg) 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+    Página 6 - Dados
+
 ![alt text](../../../assets/Nivel2/prototipo/prototipo6-raissa.jpg) 
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+    Página 7 - Confirmação
 ![alt text](../../../assets/Nivel2/prototipo/prototipo7-raissa.jpg)
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
 
 
 ## Tarefa 5: Registrar Ocorrência 
@@ -273,3 +302,4 @@ Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviç
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento |[ Giovana Barbosa ](https://github.com/gio221) | 09/06 | [Raissa Andrade](https://github.com/RaissaAndradeS)| 16/06| 
+|1.1|Correções de chamadas e fontes de imagens|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
