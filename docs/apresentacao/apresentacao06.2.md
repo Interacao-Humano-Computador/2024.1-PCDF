@@ -38,8 +38,8 @@ Tabela 1: Critérios de avaliação para a entrega
 21- Possui a averificação de todos os artefatos da etapa 8? |sim
 22- Possui a averificação de todos os artefatos da etapa do projeto? |sim
 
-## Bibliografia 
-Fonte : [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+## Referências Bibliográficas
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## Histórico de versão
 

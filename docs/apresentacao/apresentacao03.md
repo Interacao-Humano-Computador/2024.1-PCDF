@@ -35,8 +35,8 @@ Tabela 1: Critérios de avaliação para a entrega
 16 - O Guia de Estilo do projeto possui a seguinte estrutura: Introdução,Resultados de análise,Elementos de interface,Elementos de interação,Elementos de ação,Vocabulário e padrões | Sim
 17 -  O Guia de Estilo corresponde ao site avaliado?|Sim
 
-## Bibliografia 
-Fonte : [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+## Referências Bibliográficas
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## Histórico de versão
 

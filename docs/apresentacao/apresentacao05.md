@@ -33,8 +33,8 @@ Tabela 1: Critérios de avaliação para a entrega
 13- Todos os integrantes fizeram ao menos uma analise do stroyboard e da analise de tarefas|sim
 
 
-## Bibliografia 
-Fonte : [Plano de Ensino](https://aprender3.unb.br/pluginfile.php/2843624/mod_resource/content/48/Plano_de_Ensino%20FIHC%20012024%20Turma%201.pdf)
+## Referências Bibliográficas
+> BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
 
 ## Histórico de versão
 
