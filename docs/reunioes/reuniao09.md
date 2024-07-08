@@ -6,6 +6,8 @@ Ata da reunião que aconteceu no dia 05/06/2024 19:00 hora da noite, com foco na
 
 ## Quem esteve presente
 
+Na tabela 1 montra quem esteve presente nessa reunião
+
 Tabela 1: Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
@@ -37,4 +39,4 @@ Tabela 1: Informações sobre a reunião
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  07/06  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Rayene Almeida](https://github.com/rayenealmeida) | 08/06 |
-
+| 1.1 | 08/07  | chamada nos textos |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28)| 08/07

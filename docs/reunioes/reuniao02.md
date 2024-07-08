@@ -7,6 +7,8 @@ Ata da reunião que aconteceu no dia 06/04/2024 das 13:00 a 14:00 da tarde, com 
 
 ## Quem esteve presente
 
+Na tabela 1 montra quem esteve presente nessa reunião
+
 Tabela 1: Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
@@ -37,3 +39,4 @@ definimos que vamos ultilizar o scrum e o kanban adaptado
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  06/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|06/04
+| 1.1 | 08/07  | chamada nos textos |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28)| 08/07

@@ -60,5 +60,5 @@ Tabela 2: Histórico de versões da página de apresentação
 | 2.0 |  07/04  | Adicionando as perguntas  |[Giovana Barbosa ](https://github.com/gio221)|[João Pedro Ferreira](https://git    hub.com/JoaoODragonborn), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|07/04|
 | 2.1 |  08/04  | Respostas das perguntas  |[João Pedro Ferreira](https://github.com/JoaoODragonborn)|[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|08/04|
 | 2.2 |  08/04  | Adicionando descrição  |[Renata Quadros](https://github.com/Renatinha28)| [João Pedro Ferreira](https://github.com/JoaoODragonborn), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|08/04|
-|2.3| 08/07| Adicionando chamada e fonte ao video | [Raissa Andrade](https://github.com/RaissaAndradeS)|
+|2.3| 08/07| Adicionando chamada e fonte ao video | [Raissa Andrade](https://github.com/RaissaAndradeS)|[Giovana Barbosa ](https://github.com/gio221)|08/07|
 

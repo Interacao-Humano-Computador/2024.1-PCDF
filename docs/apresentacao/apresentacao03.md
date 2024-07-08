@@ -55,6 +55,6 @@ Tabela 2: Histórico de versões da página de apresentação
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  07/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
 | 1.1 |  11/05  | Video |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
-|1.2| 08/07| Adicionando chamada e fonte ao video | [Raissa Andrade](https://github.com/RaissaAndradeS)|
+|1.2| 08/07| Adicionando chamada e fonte ao video | [Raissa Andrade](https://github.com/RaissaAndradeS)|[Giovana Barbosa ](https://github.com/gio221)|08/07|
 
 

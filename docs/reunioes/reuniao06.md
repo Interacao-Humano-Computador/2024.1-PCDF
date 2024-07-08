@@ -7,6 +7,8 @@ Ata da reunião que aconteceu no dia 23/05/2024 19:00 hora da noite, com foco no
 
 ## Quem esteve presente
 
+Na tabela 1 montra quem esteve presente nessa reunião
+
 Tabela 1: Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
@@ -27,6 +29,10 @@ Tabela 1: Informações sobre a reunião
 ## Oque foi definido
 
 ### Oque deve ser feito de correção da etapa 4
+
+Na tabela 2 monstra oque cada pessoa vai fazer na etapa 4
+
+        Tabela 2: Oque cada pessoa vai fazer na etapa 4
 |                  Artefato que deve corrigir                        |           Oque deve corrigir          |                    Responsável                    | Data de inicio          | Data final        |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | 
 |Cronograma| Corrigir datas |Giovana|23/05|25/05|
@@ -38,6 +44,11 @@ Tabela 1: Informações sobre a reunião
 
 
 ### Oque cada um vai fazer na etapa 5
+
+Na tabela 3 monstra oque cada pessoa vai fazer na etapa 5
+
+        Tabela 3: Oque cada pessoa vai fazer na etapa 5
+
 |                  Artefato que deve ser feito           |                    Responsável                    | Data de inicio          | Data final        |
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: | 
 |Entrevista presencial|João,Renata,Rayene,Giovana,Raissa,Lara|23/05|26/05|
@@ -51,4 +62,5 @@ Tabela 1: Informações sobre a reunião
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  23/05  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 25/05|
+| 1.1 | 08/07  | chamada nos textos |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28)| 08/07
 
