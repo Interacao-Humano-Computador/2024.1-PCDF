@@ -222,10 +222,16 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 ### Sugestão de Melhoria
 O usuário intrevistado sugere mais detalhamento
 
+## Reprojeto
+Como houve uma sugestão de melhoria, será feito um reprojeto
+
 ### Gravação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1LI6OhgQMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/T1LI6OhgQMg" target="blanket">Vídeo da Gravação</a></p>
+
+## Interpretação de dados
+Com base na entrevista a analise de tarefas GOMS, o usuário conseguiu realizar as atividades corretamente, porém ele sugeriu que tivesse mais detalhamento
 
 ## Solicitar carteira de identidade
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).

@@ -151,7 +151,7 @@ A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúnci
 <p style="text-align: center"><a href="https://youtu.be/T1LI6OhgQMg" target="blanket">Vídeo da Gravação</a></p>
 
 
-**Perguntas e Respostas**
+### **Perguntas e Respostas**
 
 1. Qual seu nome? **Resposta:** Débora
 
@@ -165,6 +165,14 @@ A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúnci
 
 6. Existem partes do storyboard que precisam de modificações para melhorar sua clareza ou fidelidade, se sim quais seriam essa modificações? **Resposta:** Sim, No quinto quadrante detalhar o site de forma visual
 
+### Sugestão de melhoria
+A sugestão de melhoria que o usuário sugeriu é que no  quinto quadrante detalhar o site de forma visual
+
+### Reprojeto
+Como é só uma sugestão visual do usuário não foi necessário reprojeto
+
+### Analise de Dados
+Com base na entrevista concluimos que com base no cenário o usuário consegue realizar a funcionalidade
 
 ### Solicitar carteira de identidade
 A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.
