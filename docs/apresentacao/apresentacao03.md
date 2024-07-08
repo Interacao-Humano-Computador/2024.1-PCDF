@@ -1,16 +1,25 @@
-# Introdução 
+## Introdução
 
-Este documento tem objetivo de armanezar conteúdos da terceira apresentação
+Esse artefato é dedicado exclusivamente para gravações das nossas reuniões durante o projeto na disciplina de IHC.
 
+## Objetivo 
 
+O objetivo desse documento é armazenar nossas reuniões.
 
-# Vídeo de apresentação 
+## Metodologia
+Utilizamos a técnica/ferramenta para fazer todas gravações através do Microsoft Teams, pois nela possui uma metodologia mais ampla de gestão e documentação de reuniões. A gravação foi apenas uma parte de um método de trabalho que inclui a preparação, condução, documentação e análise de reunião.
+
+## Vídeo de apresentação 
+    Video referente a terceira apresentação.
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/EtBUz5jxs-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/EtBUz5jxs-E" target="blanket">Vídeo da Apresentação 3</a></p>
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221), 2024</center>
+
 Este video descreve a apresentação que foi realizada na terceira etapa do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
-# Critérios para entrega
+
+## Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 
 
@@ -46,5 +55,6 @@ Tabela 2: Histórico de versões da página de apresentação
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  07/05  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
 | 1.1 |  11/05  | Video |[Giovana Barbosa ](https://github.com/gio221)|[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
+|1.2| 08/07| Adicionando chamada e fonte ao video | [Raissa Andrade](https://github.com/RaissaAndradeS)|
 
 

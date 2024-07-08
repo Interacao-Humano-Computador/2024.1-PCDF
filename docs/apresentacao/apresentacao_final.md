@@ -1,13 +1,26 @@
-# Introdução
+## Introdução
 
-Este documento tem objetivo de armanezar conteúdos da apresentação final
+Esse artefato é dedicado exclusivamente para gravações das nossas reuniões durante o projeto na disciplina de IHC.
 
-# Vídeo de apresentação 
+## Objetivo 
 
+O objetivo desse documento é armazenar nossas reuniões.
+
+## Metodologia
+
+Utilizamos a técnica/ferramenta para fazer todas gravações através do Microsoft Teams, pois nela possui uma metodologia mais ampla de gestão e documentação de reuniões. A gravação foi apenas uma parte de um método de trabalho que inclui a preparação, condução, documentação e análise de reunião.
+
+## Vídeo de apresentação 
+
+    Video referente a última apresentação
 
 Este video descreve a apresentação que foi realizada na etapa final do projeto, inspirada no plano de ensino da disciplina Interação Humano-Computador, da matéria de IHC. Abaixo estão listados os critérios de avaliação:
 
-# Critérios para entrega
+
+
+<center>[Giovana Barbosa ](https://github.com/gio221), 2024 </center>
+
+## Critérios para entrega
 
 Tabela 1: Critérios de avaliação para a entrega 
 
@@ -42,4 +55,5 @@ Tabela 2: Histórico de versões da página de apresentação
 
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          | Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | 02/07  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)| 
+| 1.0 | 02/07  | Criação do documento |[Giovana Barbosa ](https://github.com/gio221)|  [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
+|1.1| 08/07| Adicionando chamada e fonte ao video | [Raissa Andrade](https://github.com/RaissaAndradeS)|
