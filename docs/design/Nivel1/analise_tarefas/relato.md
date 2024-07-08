@@ -233,7 +233,7 @@ Como houve uma sugestão de melhoria, será feito um reprojeto
 ## Interpretação de dados
 Com base na entrevista a analise de tarefas GOMS, o usuário conseguiu realizar as atividades corretamente, porém ele sugeriu que tivesse mais detalhamento
 
-## Solicitar carteira de identidade
+## Solicitar Carteira de Identidade
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
 
 
@@ -268,29 +268,38 @@ Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de mar
         * OP 4.3: Colar na página da PCDF
         * OP 4.4: Finalizar 
 
+<center>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS), 2024  </center>
+
 
 ### Questionário
+    Tabela que descreve o questionário
 |Pergunta|Resposta|
 |--------|--------|
 - 1-Qual é seu nome? | Júlio
 - 2-Qual seu grau de experiência com tecnologias? |Alto
-- 3-Você já utilizou o site da PCDF?  | não
-- 4-Você acha essa funcionalidade importante? | sim
-- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Para descrever os fugitivos
-- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  sim
-- 7-Tem alguma parte que ficou confusa? | não
-- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
-- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
-- 10-Sugestões de melhorias?|não
+- 3-Você já utilizou o site da PCDF?  | Não
+- 4-Você acha essa funcionalidade importante? | Sim
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Para solicitar a carteira de identidade
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  Sim
+- 7-Tem alguma parte que ficou confusa? | Não
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| Nada
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|Não
+- 10-Sugestões de melhorias?|Não
 
 ### Sugestão de Melhoria
-O usuário intrevistado não tem sugestões de melhoria
+O usuário entrevistado não tem sugestões de melhoria.
 
 ### Gravação
+    Video referente a gravação da entevista
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hKgmDzaR6K4" frameborder="0" allowfullscreen></iframe>
   <p>Video da Entrevista</p>
 </div>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024 </center>
+
+## Interpretação de dados
+Em relação a entrevista a analise de tarefas GOMS, o usuário conseguiu realizar todas as tarefas solicitadas, compreendeu com facilidade.
 
 ## Registro de Ocorrência
 
@@ -464,3 +473,4 @@ De acordo com a entrevista, a analise de tarefas GOMS corresponde as expectativa
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 01/06 |
+|1.1| Correções, adicão de fontes e chamadas de tabelas| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
