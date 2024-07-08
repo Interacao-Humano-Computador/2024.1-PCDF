@@ -30,6 +30,7 @@ Essa avaliação não possui custos, então utilizamos utilizamos essas ferramen
 
 - Figma, para o protótipo de alta fidelidade.
 - Microsoft Teams, para gravação de tela.
+- [Termo de consentimento](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/)
 
 ## Avaliadores e Participantes 
 Tabela abaixo tem como objetivo descrever o cronograma executado dos avaliadores e participantes.

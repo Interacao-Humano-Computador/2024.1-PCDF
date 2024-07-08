@@ -1,12 +1,13 @@
 ## Introdução
-Foram ultilizadas muitas ferramentas durante a execução do projeto, nesse artefato vamos apresentar elas
+Foram utilizadas muitas ferramentas durante a execução do projeto, nesse artefato vamos apresentar elas.
 
 ## Objetivo
-Documentar todas as ferramnetas ultilizadas
+Documentar todas as ferramentas utilizadas.
 
 ## Tabela de Ferramentas
 
         Tabela das ferramentas
+        
 |Número| Ferramenta | Finalidade |
 |:-----: | :-------: | :---------: |
 | 1. |  [Whatsapp](https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Whatsapp.svg) | Usamos o Whatsapp para facilitar a comunicação entre os membros do grupo. |
@@ -29,4 +30,4 @@ Documentar todas as ferramnetas ultilizadas
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criando tabelas dos cronogramas|[Giovana Barbosa](https://github.com/gio221) | 05/07
+| 1.0 | Criando tabelas dos cronogramas|[Giovana Barbosa](https://github.com/gio221) | 05/07| [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07
