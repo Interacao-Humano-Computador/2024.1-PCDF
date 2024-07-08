@@ -1,10 +1,13 @@
 ## Introdução
-Este documento tem como objetivo descrever o planejamento do relato da análise de tarefas que é um documento que será ultilizado como base para escrever o relato e conclusões da avaliação. O relato será baseado no planejamento da avaliação da análise de tarefas. Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema do site da PCDF e fornecer sugestões de redesign pelo grupo
+Este documento tem como objetivo descrever o planejamento do relato da análise de tarefas que é um documento que será ultilizado como base para escrever o relato e conclusões da avaliação. O relato será baseado no planejamento da avaliação da análise de tarefas. Sua principal função é estruturar e ordenar os dados coletados, a fim de facilitar a identificação de pontos de melhoria para o sistema do site da PCDF e fornecer sugestões de redesign pelo grupo.
+
+## Objetivo
+O objetivo deste documento é  definir a estrutura e organização dos dados obtidos durante a avaliação de um protótipo de alta fidelidade, tomando como base o planejamento inicial. Os resultados dessa avaliação serão apresentados em um relatório detalhado.
 
 ## Metodologia 
-Ultilizamos o método de entrevista , em que apresentamos a analise de tarefas GOMS e os storyboard de cada funcionalidade. Assim foi possivel coletar os dados dos usuários e os feedbacks.
+Utilizamos o método de entrevista que apresentamos a análise de tarefas GOMS e os storyboard de cada funcionalidade. Assim foi possivel coletar os dados dos usuários e os feedbacks.
 
-É sempre importante resaltar que a metodologia deve se adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. Neste projeto ultilizamos o framework DECIDE
+É importante resaltar que a metodologia deve se adaptar a metodologia de acordo com as características do projeto e as necessidades específicas da análise de tarefas. Neste projeto ultilizamos o framework DECIDE.
 
 
 # Tópicos 
@@ -43,16 +46,19 @@ Fonte: [Giovana Barbosa](https://github.com/gio221)
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
 ## Questionário
-- 1-Qual é seu nome?
-- 2-Qual seu grau de experiência com tecnologias? 
-- 3-Você já utilizou o site da PCDF?  
-- 4-Você acha essa funcionalidade importante? 
-- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?
-- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  
-- 7-Tem alguma parte que ficou confusa? 
-- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?
-- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?
-- 10-Sugestões de melhorias?
+| ID  | Pergunta|
+|-----|---------------------------------------------------------------------------------------------------------------|
+| 1   | Qual é seu nome?                                                                                              |
+| 2   | Qual seu grau de experiência com tecnologias?                                                                 |
+| 3   | Você já utilizou o site da PCDF?                                                                              |
+| 4   | Você acha essa funcionalidade importante?                                                                     |
+| 5   | Se a 4 for sim, por que você utilizaria essa funcionalidade?                                                  |
+| 6   | O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |
+| 7   | Tem alguma parte que ficou confusa?                                                                           |
+| 8   | Se você pudesse mudar? O que mudaria no processo de tarefas?                                                  |
+| 9   | De acordo com o diagrama, você o considera demorado de realizar as ações?                                     |
+| 10  | Sugestões de melhorias?                                                                                       |
+
 
 
 # Sugestões de melhoria
@@ -108,4 +114,4 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Giovana Barbosa](https://github.com/gio221)  | 17/05 |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/05 |
 | 1.1 | Planejamento do Relato | [Giovana Barbosa](https://github.com/gio221)  | 27/05 |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 27/05 |
-
+|1.2|Correções | [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07
