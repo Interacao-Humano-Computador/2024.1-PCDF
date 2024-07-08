@@ -46,12 +46,14 @@ Após análise dos sites avaliados definimos o [PCDF](https://www.pcdf.df.gov.br
 - **Site não tem padronização:** na parte de serviço, denuncia 197 ele também não segue um padrão dando a entender que 197 - online já está selecionado,    a mesma coisa acontece em antecedentes criminais, falta de padronização nos textos, alguns estão centralizados e com espaçamentos e outros não.
 
 ## Pontos positivos do site
-  Acesso a serviços online, Informações Institucionais Claras, Notícias e Comunicados Atualizados (até certo ponto, sem contar com a parte de vídeos,  caso tenha sido descontinuado, por que a aba ainda continua aparecendo? ) 
+  Acesso a serviços online, Informações Institucionais Claras, Notícias e Comunicados Atualizados (até certo ponto, sem contar com a parte de vídeos,  caso tenha sido descontinuado, por que a aba ainda continua aparecendo? ) , também possui 6 funcionalidade, como montrado na tabela 1
 
 ## Avaliação do site
 A avaliação do site foi feita pela integrante Raissa [link](https://unbbr-my.sharepoint.com/:w:/r/personal/221035077_aluno_unb_br/_layouts/15/Doc.aspx?sourcedoc=%7B3ed87b19-fe56-4a02-9e6f-4f828bf7947e%7D&action=default&cid=822af033-a79e-413f-aa21-a7901cf69ff7&_SRM=2%3AS%3A76)
 
 ## Funcionalidades
+
+    Tabela 1: Funcionalidade do site
 | Funcionalidade|      Responsáveis      |   
 |:------:|:-------------------------------:|
 |Pesquisar Procurados |  Lara         | 
@@ -79,4 +81,5 @@ Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
 |  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |  [Renata Quadros](https://github.com/Renatinha28),  [Giovana Barbosa ](https://github.com/gio221)          |      12/04                |
 |  1.2   | Mudança do site escolhido                  |   [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)        |       17/04 |        
 |  1.3  | Adicionando objetivo e metodologia                  |     [Giovana Barbosa ](https://github.com/gio221) |07/07| [Renata Quadros](https://github.com/Renatinha28)           |     07/07          |
-|1.4|Correções|[Raissa Andrade](https://github.com/RaissaAndradeS)|08/07
+|1.4|Correções|[Raissa Andrade](https://github.com/RaissaAndradeS)|08/07|[Giovana Barbosa ](https://github.com/gio221) |08/07
+|  1.5  | Chamadas no texto|     [Giovana Barbosa ](https://github.com/gio221) |08/07| [Renata Quadros](https://github.com/Renatinha28)           |     08/07          |
