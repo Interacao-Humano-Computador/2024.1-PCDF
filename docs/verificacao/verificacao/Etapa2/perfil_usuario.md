@@ -60,7 +60,7 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 23/06 | Adaptar o texto do artefato para incluir os itens faltantes |  [Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene](https://github.com/rayenealmeida) | |
+| 23/06 | Adaptar o texto do artefato para incluir os itens faltantes |  [Raissa Andrade](https://github.com/RaissaAndradeS) e [Rayene](https://github.com/rayenealmeida) | Corrigido |
 
 <center> <p>Tabela 2. Fonte: <a href="https://github.com/gravelylara">Lara Giuliana</a>, 2024</p></center>
 
@@ -75,3 +75,4 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Relato verificação perfil de usuário | [Lara Giuliana](https://github.com/gravelylara)  | 21/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06 
+|1.2|Correção| [Raissa Andrade](https://github.com/RaissaAndradeS)| 07/07

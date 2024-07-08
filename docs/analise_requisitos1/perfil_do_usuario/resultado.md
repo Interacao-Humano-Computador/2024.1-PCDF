@@ -6,8 +6,10 @@ Este documento visa documentar os perfis de usuários identificados durante o pr
 
 ## Metodologia
 A metodologia selecionada para definir o perfil do usuário foi a aplicação de um questionário, mostrado na [Tabela 1](#questionario), por meio da plataforma Google Forms, os quais foram compartilhados com grupos da sociedade do Distrito Federal. Considerando que os usuários do PCDF são residentes do DF, essa escolha se mostrou adequada. Antes de iniciar o questionário, os usuários são apresentados a um termo de consentimento com as opções "sim" e "não". Caso escolham "não", não é permitido prosseguir com o formulário.
-Também foi aplicada a [analise competitiva](#análise-competitiva)
+Também foi aplicada a [analise competitiva](#análise-competitiva).
 
+## Objetivo do Perfil do Usuário 
+O objetivo de quem acessa o site da Polícia Civil do Distrito Federal [PCDF](https://www.pcdf.df.gov.br) pode variar dependendo das necessidades específicas do visitante, mas é sperado que ele consiga acessar com rapidez e eficiência, seja para registrar um ocorrência, solicitar a carteira de identidade ou qualquer outro serviço que está presente no site.
 
 ## Resultado do Grupo 
 
@@ -52,3 +54,4 @@ De forma resumida classificamos assim:
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |1.0| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 13/04|
+|1.2| Correções após a verificação| [Raissa Andrade](https://github.com/RaissaAndradeS)|07/07|
