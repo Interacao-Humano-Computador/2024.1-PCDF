@@ -359,4 +359,4 @@ De acordo com a entrevista, o storyboard corresponde as expectativas do usuário
 | 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 | 
 | 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 06/06 | 
 | 1.3 | Correção |  [Renata Quadros](https://github.com/Renatinha28) | 07/07 |  [Giovana](https://github.com/gio221)  | 07/07 | 
-|1.4|Correção de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
+|1.4|Correção de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07|[Giovana Barbosa](https://github.com/gio221)    |08/07

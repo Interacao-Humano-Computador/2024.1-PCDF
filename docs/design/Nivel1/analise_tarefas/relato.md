@@ -473,4 +473,4 @@ De acordo com a entrevista, a analise de tarefas GOMS corresponde as expectativa
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 01/06 |
-|1.1| Correções, adicão de fontes e chamadas de tabelas| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
+|1.1| Correções, adicão de fontes e chamadas de tabelas| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07|[Giovana Barbosa](https://github.com/gio221)    |08/07

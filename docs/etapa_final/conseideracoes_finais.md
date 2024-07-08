@@ -29,4 +29,4 @@ Embora desafiador e exigente, o projeto foi conduzido com organização, comprom
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   |  Criação do documento                  |    [Giovana Barbosa ](https://github.com/gio221)   |   07/07   |      
+|  1.0   |  Criação do documento                  |    [Giovana Barbosa ](https://github.com/gio221)   |   07/07   |      [Renata](https://github.com/Renatinha28)    |08/07

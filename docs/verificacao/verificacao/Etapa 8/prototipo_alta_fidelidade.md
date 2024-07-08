@@ -282,7 +282,7 @@ Abaixo há um gráfico sobre a análise feita do Retrato falado, logo, não há 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Verificando denúncia online e carteira de identidade |  [Renata Quadros](https://github.com/Renatinha28)  | 06/07 |  [Rayene Almeida](https://github.com/rayenealmeida)  | 06/07 |
 | 1.1 | Verificando Solicitar Antecedente Criminais |  [Rayene Almeida](https://github.com/rayenealmeida)  |  06/07|[Giovana Silva](https://github.com/gio221)|07/07|
-| 1.2 | Verificando Registrar Ocorrência |  [Giovana Silva](https://github.com/gio221)|07/07|
+| 1.2 | Verificando Registrar Ocorrência |  [Giovana Silva](https://github.com/gio221)|07/07|[Giovana Barbosa](https://github.com/gio221)    |08/07
 
 
 

@@ -54,4 +54,4 @@ De forma resumida classificamos assim:
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |1.0| Resultado do perfil dos usuários| [Raissa Andrade](https://github.com/RaissaAndradeS), [Rayene](https://github.com/rayenealmeida)| 13/04 |[Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 13/04|
-|1.2| Correções após a verificação| [Raissa Andrade](https://github.com/RaissaAndradeS)|07/07|
+|1.2| Correções após a verificação| [Raissa Andrade](https://github.com/RaissaAndradeS)|07/07|[Giovana Barbosa ](https://github.com/gio221)  | 08/07|

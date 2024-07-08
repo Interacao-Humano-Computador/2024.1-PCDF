@@ -302,4 +302,4 @@ Nesse protótipo de Retrato falado on-line, o entrevistado deve ir em “serviç
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento |[ Giovana Barbosa ](https://github.com/gio221) | 09/06 | [Raissa Andrade](https://github.com/RaissaAndradeS)| 16/06| 
-|1.1|Correções de chamadas e fontes de imagens|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
+|1.1|Correções de chamadas e fontes de imagens|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07|[Giovana Barbosa](https://github.com/gio221)    |08/07
