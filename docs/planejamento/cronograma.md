@@ -195,4 +195,4 @@ O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que u
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221) , [Renata Quadros](https://github.com/Renatinha28)        |       20/04               |
 | 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
 | 1.4 | Alterações atividades pós reunião 6  | [Rayene Almeida](https://github.com/rayenealmeida)  | 25/05 |   [Giovana Barbosa](https://github.com/gio221)  | 26/05 |
-|1.5|Adicionando Metodologia e Objetivo| [Raissa Andrade](https://github.com/RaissaAndradeS) | 08/07 
+|1.5|Adicionando Metodologia e Objetivo| [Raissa Andrade](https://github.com/RaissaAndradeS) | 08/07 |[Giovana Barbosa ](https://github.com/gio221) |08/07

@@ -52,4 +52,4 @@ Também utilizamos o Microsoft Teams para gravar as reuniões e um canal no Yout
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação das metodologias | [Giovana Barbosa ](https://github.com/gio221) | 17/04 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/04 |
 |  1.1  | Adicionando objetivo e metodologia                  |     [Giovana Barbosa ](https://github.com/gio221) |07/07| [Renata Quadros](https://github.com/Renatinha28)           |     07/07          |
-|1.1|Correções do documento|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07| 
+|1.1|Correções do documento|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07| [Giovana Barbosa ](https://github.com/gio221) |08/07

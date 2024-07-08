@@ -241,4 +241,4 @@ O cronograma em si não é uma metodologia, mas sim uma ferramenta que utilizare
 | 1.7 | tabela da etapa 6.2 executada  | [Renata Quadros](https://github.com/Renatinha28) | 20/06  |   [Giovana Barbosa ](https://github.com/gio221) |25/06|
 | 1.8 | tabela da etapa 8 executada  | [Giovana Barbosa ](https://github.com/gio221) | 02/07 |  [Renata Quadros](https://github.com/Renatinha28)  |02/07|
 | 1.9 | tabela da etapa final executada  | [Giovana Barbosa ](https://github.com/gio221) | 05/07 |[Renata Quadros](https://github.com/Renatinha28)  |07/07|  
-|2.0|Adição de fontes, objetivo e metodologia| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
+|1.11|Adição de fontes, objetivo e metodologia| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07|[Giovana Barbosa ](https://github.com/gio221) |08/07
