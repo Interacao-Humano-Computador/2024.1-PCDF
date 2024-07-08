@@ -1,5 +1,5 @@
 ## Introdução
-O relato desempenha um papel importante em interação humano computador pois oferece insights sobre o processo do design, implementação e uso interativo das funcionalidades. Elepossui a função de fornecer a compreensão das entrevistas do storyboard.
+O relato desempenha um papel importante em Interação Humano Computador pois oferece insights sobre o processo do design, implementação e uso interativo das funcionalidades. Elepossui a função de fornecer a compreensão das entrevistas do storyboard.
 
 ## Foco do artefato
 O foco do artefato é centrado em relatar os dados e resultados obtidos por meio das entrevistas realizadas com os usuários. Essas informações são essenciais para entender não apenas a eficácia do storyboard em comunicar a narrativa visual, mas também para identificar áreas de melhoruas que podem significar futuras interações com o projeto.
@@ -102,7 +102,7 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
     </p> 
 </div>
 
-#### Gravação
+### Gravação
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OGm32woEJZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/OGm32woEJZA" target="blanket">Vídeo da Gravação</a></p>
 
@@ -175,8 +175,10 @@ Como é só uma sugestão visual do usuário não foi necessário reprojeto
 Com base na entrevista concluimos que com base no cenário o usuário consegue realizar a funcionalidade
 
 ### Solicitar carteira de identidade
-A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.
-<br> <br>
+
+Esse storyboard descreve a ação de um pessoa que perdeu a carteira de identidade e realiza o processo de solicitar a carteira de identidade.
+
+    Tabela 8, storyboard que descreve como solicitar Carteira
 
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 
@@ -188,13 +190,13 @@ A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e 
     </p> 
 </div>
 
-#### Gravação
+### Gravação
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hKgmDzaR6K4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-#### Questionário
-
+### Questionário
+    Tabela que descreve as perguntas realizadas
 | Pergunta                                                                                      | Resposta                   |
 |-----------------------------------------------------------------------------------------------|----------------------------|
 | 1. Qual seu nome?                                                                             | Júlio                      |
@@ -210,6 +212,19 @@ A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e 
 | 11. O storyboard destaca os principais benefícios e vantagens do produto para os usuários?    | Sim                        |
 | 12. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?           | Sim                        |
 | 13. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Não                        |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+### Sugestão de melhoria
+Não houve nenhuma sugestão de melhoria.
+
+### Reprojeto
+Não há necessidade de um reprojeto pois não tem sugestão de melhoria.
+
+### Analise de Dados
+
+O usuário consegue compreender os storyboard com facilidade e autonomia, sem necessidade de mudar algo.
+
 
 ### Registro de Ocorrência
 A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o infrator fugio do local, então ele teve que registrar uma ocorrêcnia.<br> <br>
@@ -344,3 +359,4 @@ De acordo com a entrevista, o storyboard corresponde as expectativas do usuário
 | 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 | 
 | 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 06/06 | 
 | 1.3 | Correção |  [Renata Quadros](https://github.com/Renatinha28) | 07/07 |  [Giovana](https://github.com/gio221)  | 07/07 | 
+|1.4|Correção de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07
