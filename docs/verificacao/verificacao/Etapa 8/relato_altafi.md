@@ -140,7 +140,7 @@ A tabela 5 descreve o cronograma do reprojeto.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|07/07|  Adicionar os aspectos éticos | [Giovana Silva](https://github.com/gio221) | |
+|07/07|  Adicionar os aspectos éticos | [Giovana Silva](https://github.com/gio221) | feito|
 
 ## 3 - Solicitar Carteira de Identidade <a id="carteira"></a>
 ### Checklist relato do protótipo de alta fidelidade

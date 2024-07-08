@@ -156,7 +156,7 @@ Colocar o ID 4.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Acrescentar detalhes da análise  | [Giovana Silva](https://github.com/gio221) ||
+|23/06| Acrescentar detalhes da análise  | [Giovana Silva](https://github.com/gio221) |feito|
 <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>

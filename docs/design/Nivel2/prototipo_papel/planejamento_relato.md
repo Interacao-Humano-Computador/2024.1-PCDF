@@ -135,6 +135,7 @@ Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problem
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Planejamento do Relato  |[Raissa Andrade](https://github.com/RaissaAndradeS)| 29/05 |    [Giovana Barbosa](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 |
-|1.1| Correções de padronização| [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07
+|1.1| Correções de padronização| [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07| [Giovana Barbosa](https://github.com/gio221)|07/07|
+| 3.0 | Padronização do planejamento do relato |   [Giovana Barbosa](https://github.com/gio221)  | 07/07 |[Rayene Almeida](https://github.com/rayenealmeida) | 07/07
 
 

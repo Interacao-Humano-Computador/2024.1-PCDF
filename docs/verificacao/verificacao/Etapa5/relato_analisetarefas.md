@@ -176,7 +176,7 @@ Adicionar o ID 4, ID 5 e ID 6. Todos listados acima.
       Tabela: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| adicionar sumário dos dados coletados, um relato da interpretação da análise de dados e uma listas de problemas encontrados. | [Giovana Silva](https://github.com/gio221) | |
+|23/06| adicionar sumário dos dados coletados, um relato da interpretação da análise de dados e uma listas de problemas encontrados. | [Giovana Silva](https://github.com/gio221) | feito|
 
 <center>
         <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  

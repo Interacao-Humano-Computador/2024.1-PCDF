@@ -143,3 +143,4 @@ Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problem
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 15/06 |     [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)| 15/06|
+| 2.0 | Padronização do planejamento do relato |   [Giovana Barbosa](https://github.com/gio221)  | 07/07 |[Rayene Almeida](https://github.com/rayenealmeida) | 07/07

@@ -52,7 +52,7 @@ Como mostrado na imagem 1 o artefato do questionário foi muito bem feito, com m
 # Cronograma do reprojeto
 |Data de Correção|DescriçãoR|responsável(eis)|Status|
 |-------|------|------|-----|
-|28/06|Colocar como será a interpretação dos dados|[Raissa Andrade](https://github.com/RaissaAndradeS)||
+|28/06|Colocar como será a interpretação dos dados|[Raissa Andrade](https://github.com/RaissaAndradeS)|feito|
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

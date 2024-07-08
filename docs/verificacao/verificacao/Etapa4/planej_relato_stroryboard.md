@@ -57,7 +57,7 @@ Como mostrado na imagem 1 o artefato do questionário possui muitos erros
      Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Corrigir todos os problemas encontrados|[Rayene Almeida](https://github.com/rayenealmeida) ||
+|23/06| Corrigir todos os problemas encontrados|[Rayene Almeida](https://github.com/rayenealmeida) |feito|
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

@@ -125,4 +125,5 @@ Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problem
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do documento | [Giovana Barbosa](https://github.com/gio221)  | 17/05 |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/05 |
 | 1.1 | Planejamento do Relato | [Giovana Barbosa](https://github.com/gio221)  | 27/05 |[Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 27/05 |
-|1.2|Correções | [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07
+|1.2|Correções | [Raissa Andrade](https://github.com/RaissaAndradeS) | 07/07|[Giovana Barbosa](https://github.com/gio221)|07/07|
+| 3.0 | Padronização do planejamento do relato |   [Giovana Barbosa](https://github.com/gio221)  | 07/07 |[Rayene Almeida](https://github.com/rayenealmeida) | 07/07

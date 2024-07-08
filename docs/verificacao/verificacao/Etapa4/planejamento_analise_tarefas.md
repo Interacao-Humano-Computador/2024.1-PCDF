@@ -56,7 +56,7 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Adicionar um planejamento para o reprojeto | [Raissa Andrade](https://github.com/RaissaAndradeS) | |
+|23/06| Adicionar um planejamento para o reprojeto | [Raissa Andrade](https://github.com/RaissaAndradeS) |feito |
 
 ## Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

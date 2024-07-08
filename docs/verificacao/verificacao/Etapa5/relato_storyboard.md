@@ -179,7 +179,7 @@ Arrumar os ID's listados acima, ID 4, ID 5 e ID 6.
       Tabela: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| adicionar gráficos para análise dos dados e um relato da interpretação e análise dos dados | [Giovana Silva](https://github.com/gio221) | |
+|23/06| adicionar gráficos para análise dos dados e um relato da interpretação e análise dos dados | [Giovana Silva](https://github.com/gio221) |feito |
 
 <center>
         <p>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS)</p></center>  

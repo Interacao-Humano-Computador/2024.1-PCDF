@@ -170,7 +170,7 @@ Resultado da análise
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Adicionar as carateristicas das atividades | [Giovana Silva](https://github.com/gio221) | |
+|23/06| Adicionar as carateristicas das atividades | [Giovana Silva](https://github.com/gio221) |feito |
 
 <center>Fonte:   [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 
