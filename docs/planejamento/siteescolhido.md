@@ -4,6 +4,12 @@
 
 Após a apresentação decidimos escolher um site que não tinha sido avaliado por nenhum integrante do grupo o PCDF
 
+## Objetivo
+Esse artefato tem como objetivo documentar qual foi o site escolhido pelo grupo
+
+## Metodlogia
+Após cada integrante do grpo avaliar um site, preferiamos avaliar um a mais, eescolher o da PCDF
+
 ## PCDF- Policia Civil do Distrito Federal
 
 <p style="text-align: center">
@@ -72,3 +78,4 @@ Ministério da Economia (Brasil). Instituto Nacional do Seguro Social (INSS).
 |  1.0   |  Site escolhido                  |  [Rayene](https://github.com/rayenealmeida)    |   06/04   |      [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros ](https://github.com/Renatinha28)     |     07/04                 |
 |  1.1   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |  [Renata Quadros](https://github.com/Renatinha28),  [Giovana Barbosa ](https://github.com/gio221)          |      12/04                |
 |  1.2   | Mudança do site escolhido                  |   [Giovana Barbosa ](https://github.com/gio221)      |   14/04   |  [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)        |       17/04 |        
+|  1.3  | Adicionando objetivo e metodologia                  |     [Giovana Barbosa ](https://github.com/gio221) |07/07| [Renata Quadros](https://github.com/Renatinha28)           |     07/07          |

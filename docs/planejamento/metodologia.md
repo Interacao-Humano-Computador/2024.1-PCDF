@@ -2,7 +2,10 @@
 
 O uso de metodologias no grupo é fundamental para garantir uma abordagem estruturada e eficiente na realização de tarefas ou projetos. Como orgnaizar uma estrutura melhor, como responsabilidades e fluxos, também ajuda na eficiência pois aceleram o processo de tomada de decisões.
 
-# Metodologia 
+## Objetivo
+Esse artefato tem como obejtivo documentar a metodologia ultilizada no projeto
+
+## Metodologia 
 Como metodologia do trabalho o grupo decidiu usar a metodologia ágil scrum e Kanban, que ajuda a organizar o que deve ser feito em cada semana e também organizar o grupo com atividades que cada um tem que realizar.
 
 ## Scrum Adaptado
@@ -50,3 +53,4 @@ Também ultilizamos o teams para gravar as reuniões e um canal no youtube que c
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação das metodologias | [Giovana Barbosa ](https://github.com/gio221) | 17/04 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  | 17/04 |
+|  1.1  | Adicionando objetivo e metodologia                  |     [Giovana Barbosa ](https://github.com/gio221) |07/07| [Renata Quadros](https://github.com/Renatinha28)           |     07/07          |
