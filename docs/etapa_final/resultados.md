@@ -1,5 +1,5 @@
 ## Introdução
-Ao fim do projeto para uma boa conclusão é importante apresentar os resultados que foram alcançados apś todo o processo. Assim o presente documento apresenta os resultado alcançados pelo grupo 4 que optou pelo site da Polícia Civel do Distrito Federal (PCDF), da matéria de Interção Humano Computador do ano de 2024.1.
+Ao fim do projeto para uma boa conclusão é importante apresentar os resultados que foram alcançados após todo o processo. Assim o presente documento apresenta os resultados alcançados pelo grupo 4 que optou pelo site da Polícia Civil do Distrito Federal (PCDF), da matéria de Interção Humano Computador do ano de 2024.1.
 
 ## Objetivo do Projeto
 O objetivo central deste projeto foi utilizar os conhecimentos assimilados durante o semestre na disciplina de Interação Humano-Computador de maneira prática, através do desenvolvimento e refinamento do site da PCDF. Nosso intuito foi proporcionar uma experiência de usuário aprimorada, simplificando a navegação e o acesso às funcionalidades do site.

@@ -7,7 +7,7 @@ Esse artefato tem como objetivo monstrar as considerações finais de cada integ
 ## Considerações Finais
 
 ### [Rayene Almeida ](https://github.com/rayenealmeida)
-Este projeto sem dúvidass proporcionou um vasto conhecimento como compreensão aprofundada dos desafios e recompensas do design de interação humano computador. Sobre o processo, resumindo aprendi a importância de uma abordagem colaborativa e iterativa, que coloca o usuário no centro de todas as decisões de design. Em resumo, o projeto de Interação Humano-Computador foi uma jornada enriquecedora que permitiu desenvolver habilidades críticas para saber bem planejar e criar um produto significativo com foto no usuário. Contudo é com muito orgulho que finalizo este projeto da matéria de IHC que colocamos noso suor e dedicação pra entregar o melhor possível.
+Este projeto sem dúvidass proporcionou um vasto conhecimento como compreensão aprofundada dos desafios e recompensas do design de interação humano computador. Sobre o processo, resumindo aprendi a importância de uma abordagem colaborativa e iterativa, que coloca o usuário no centro de todas as decisões de design. A minha maior dificuldade foi conciliar o aprendizado com a realização das atividades do projeto pra conseguir entregar tudo a tempo e seguir as espectativas, tive que organizar bem o meu tempo para conseguir tudo. Em resumo, o projeto de Interação Humano-Computador foi uma jornada enriquecedora que permitiu desenvolver habilidades críticas para saber bem planejar e criar um produto significativo com foto no usuário. Contudo é com muito orgulho que finalizo este projeto da matéria de IHC que colocamos noso suor e dedicação pra entregar o melhor possível.
 
 ###  [Giovana Barbosa](https://github.com/gio221) 
 
