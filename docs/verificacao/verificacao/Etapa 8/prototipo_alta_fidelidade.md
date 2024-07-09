@@ -185,7 +185,7 @@ A tabela 7 descreve o cronograma do reprojeto.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|07/07| revisar as decisões sobre tamanhos e cores | [Raissa Andrade](https://github.com/RaissaAndradeS) |  |
+|07/07| revisar as decisões sobre tamanhos e cores | [Raissa Andrade](https://github.com/RaissaAndradeS) |  Feito |
 
 ## 4 - Registrar Ocorrência <a id="registrar"></a>
 

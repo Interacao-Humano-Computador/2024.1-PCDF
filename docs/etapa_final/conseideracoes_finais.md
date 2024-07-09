@@ -20,7 +20,6 @@ No nosso projeto de Interação Humano-Computador (IHC), enfrentamos dificuldade
 
 Sobre as considerações finais, a proposta da disciplina é muito boa, diferente do que estamos acostumados, sendo testes e provas. E isso é muito bom, mas por outro lado é uma luta contra o tempo para entregar tudo certo no prazo solicitado. É uma matéria muito proveitosa que de fato você aprende fazendo, você aprende testando, aprende lendo, aprende principalmente verificando. Outro desafio encontrado na matéria é a incerteza de o grupo inteiro vai participar, que foi o caso que meu grupo enfrentou, mas no final das contas, deu tudo certo.
 
-### [Lara Giuliana](https://github.com/gravelylara) 
 
 ## Conclusão
 Embora desafiador e exigente, o projeto foi conduzido com organização, comprometimento dos membros e a valiosa orientação recebida através do feedback do professor, monitor e colegas de outros grupos. Essa abordagem permitiu que concluíssemos todas as etapas e entregássemos um trabalho que reflete nosso melhor esforço e dedicação.
