@@ -116,6 +116,10 @@ Esse artefato tem como obejtivo documentar todos os vidos das apresentações
 
 <summary>
 <h1>Etapa Final</h1>
+
+<p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/6zPiZqVf320" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
+<p style="text-align: center"><a href="https://youtu.be/6zPiZqVf320" target="blanket">Vídeo da Apresentação final</a></p>
+
 </summary>
 
 

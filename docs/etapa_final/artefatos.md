@@ -221,9 +221,7 @@ A metodologia foi a de coleta de dados, fomos em cada etapa e coletamos os dados
     </tr>
     <tr>
       <td>Apresentação 4</td>
-      <td>20/05</td>
       <td>Giovana</td>
-      <td>20/05</td>
       <td> Renata</td>
     </tr>
   </tbody>
