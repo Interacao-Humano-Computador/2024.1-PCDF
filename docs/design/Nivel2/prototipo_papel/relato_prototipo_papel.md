@@ -94,7 +94,7 @@ O entrevistado achou que o formulário é confuso e que o site deveria ter mais 
 
 # Solicitar Antecedentes Criminais 
 
-No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11
+No protótipo em papel de solicitar antecedentes criminais o entrevistado deve selecionar o “serviço” e escolher a opção de “Antecedentes criminais”. Sendo assim, deve informar o e-mail e inserir o código de verificação. Após isso, o formulário é aberto e são inseridas as informações pessoais e aparece uma mensagem de confirmação após o envio do formulário com um código de acompanhamento, como monstrado na figura 3 a 11. O objetivo da tarefa é solicitar os antecedentes criminais, foi avaliado por meio da entrevista e com 1 participante, Thays.
 
 [Prototipo de papel de  Solicitar Antecedentes Criminais  ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-2-solicitar-antecedentes-criminais) 
 
@@ -136,10 +136,10 @@ A sugestão do usuário é que o site pessa menos informações pessoais
    <p>Video da Entrevista protótipo em papel : solicitar antesedentes - Renata </p>
 </div>
 
-# Interpretação de Dados
-De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
+## Interpretação de Dados e reprojeto
+De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário. Como o problema encontrado não há alternativas de ser melhorado, pois para solicitar os antecedentes criminais há a necessidade de tais informações, não há um reprojeto.
 
-## 197- Denúncia Online
+# 197- Denúncia Online
 Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços clicar em "197-Denúncia Online", que vai ser levado para uma nova aba onde deve escolher o tipo de denúncia, depois você deve preencher o formulário como explicado nas imagens 3 a 7.
 
 ### Teste Piloto
@@ -150,7 +150,7 @@ Para solicitar uma denúncia Online no site da PCDF, deve ir na aba serviços cl
 [Prototipo de papel de Denúncia Online ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-3-denuncia-online) 
 
 ### Questionário
-     Tabela descrevendo as eprguntas
+     Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
 | 1 | Qual seu nome completo? | Adriana |
@@ -189,16 +189,25 @@ A entrevista acredita que o prototipo não precisa de melhorias
 ### Interpretação de Dados
 Com base na entrevista da entrevistada, o prototipo ficou bem intuitivo e com base nele o usuário iria conseguir realizar a funcionalidade corretamente
 
+### Reprojeto
+Como não teve sugestão não é necessario reprojeto
+
 # Solicitar carteira de identidade
  
 
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-4-solicitar-carteira-de-identidade) 
 
+### Teste Piloto de Solicitar Carteira
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4T54x2h_uac" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
+
 ### Questionário
       Tabela descrevendo as perguntas
 | Número | Pergunta | Resposta |
 | :----: | ---------------------------------------------------- | -----------------------------------------------|
-| 1 | Qual seu nome completo? | Rafael|
+| 1 | Qual seu nome completo? | Raphael|
 | 2 | Qual sua idade? | 25 |
 | 3 | Qual a sua ocupação? | Assitente social|
 | 4 | Qual seu grau de experiência com tecnologias? | Alta  |
@@ -219,19 +228,26 @@ Com base na entrevista da entrevistada, o prototipo ficou bem intuitivo e com ba
 | 19 | Que aspectos da interface precisam de melhorias urgentes? | Nenhum|
 | 20 | Se você pudesse mudar uma coisa na interface, o que seria? | Nada|
 
- <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ### Sugestão de Melhoria
-A sugestão do usuário é ter menos perguntas, ter uma linguagem mais informal, para que o usuário possa entender melhor
+O entrevistado sugeriu ter menos perguntas, ter uma linguagem mais informal, para que o usuário possa entender melhor.
 
 ### Gravação
+
+    Gravação sobre o protótipo
+
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/pmOmGhhbGPk " frameborder="0" allowfullscreen></iframe>
    <p>Video da Entrevista</p>
 </div>
 
+
 ### Interpretação de Dados
 De acordo com a entrevista essa funcionalidade como as outras solicita muitos dados do usuário, mas tirando essa parte ela é bem intuitiva para o usuário.
+
+### Reprojeto
+Não será necessário o reprojeto nesse caso, apesar de ter sugestões, há necessidades das perguntas pois é a solicitação de um documento oficial.
 
 # Registro de Ocorrência
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-5-registrar-ocorrencia) 
@@ -277,6 +293,8 @@ O usuário sugeriu que na parte do questionário fosse mais automático, pois es
 De acorod com a entrevista e os dados coletados, essa funcionalidade é bem intutiva e fácil de usar, mais precisa de algumas mudanças para dar mais confiança ao usuário, como a denúnica anônima
 
 # Retrato Falado Online: Descreva e Identifique
+objetivo da tarefa é criar um retrato falado, foi avaliado por meio da entrevista e com 1 participante, Maria Eduarda. 
+
 [Prototipo de Solicitar carteira de identidade ](https://interacao-humano-computador.github.io/2024.1-PCDF/design/Nivel2/prototipo_papel/prototipo_papel/#tarefa-6-fazer-um-retrato-falado-de-forma-online) 
 
 ### Questionário
@@ -315,8 +333,8 @@ A usuária não teve sugestão de melhoria
    <p>Video da Entrevista</p>
 </div>
 
-### Interpretação de Dados
-Com base na entrevista essa fucnionalide sugerida, é muito importante e bem auto explicativa para o usuário
+### Interpretação de Dados e reprojeto
+Com base na entrevista essa fucnionalide sugerida, é muito importante e bem auto explicativa para o usuário. Como não houve problemas encontrados, não há necessidade de reprojeto.
 
 ## Perguntas Finais
        Tabela descrevendo perguntas finais
@@ -340,3 +358,4 @@ Com base na entrevista essa fucnionalide sugerida, é muito importante e bem aut
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 01/06 |
+|1.1|Correções de Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 08/07|[Giovana Barbosa](https://github.com/gio221)    |08/07

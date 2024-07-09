@@ -57,7 +57,7 @@ Fonte: [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](ht
      Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|24/06| Colocar a explicação do objetivo|[Giovana Barbosa](https://github.com/gio221)||
+|24/06| Colocar a explicação do objetivo|[Giovana Barbosa](https://github.com/gio221)|feito|
 
 <center>Fonte: [Rayene Almeida ](https://github.com/rayenealmeida) e [Raissa Andrade](https://github.com/RaissaAndradeS)</center>
 

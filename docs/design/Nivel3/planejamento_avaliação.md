@@ -170,12 +170,11 @@ O perfil dos participantes escolhidos foram baseados no artefato Perfil de Usuá
     Tabela 6: cronograma 
 | Integrante responsável | Data       | Local | Horário | Artefato | Entrevistado |
 |:----------------------:|------------|-------|---------|--------------| ------------------------------ |
-| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |Adriana, Débora, Breno |                 
-| [Lara Giuliana](https://github.com/gravelylara) | 23/06/2024 | Presencial | 19:00 | [Pesquisar Procurados](https://procurados.pcdf.df.gov.br/views/Default.aspx) | Maria Eduarda|              
-| [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | Raphael |
-| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | Lara|
-| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Lara Geovanna |
-| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado | Jessicka Suelen |
+| [Giovana Silva](https://github.com/gio221) | 23/06/2024 | Presencial | 19:00 | [Denuncia Online](https://www.pcdf.df.gov.br/servicos/197) |Adriana, <br> Débora, <br> Breno |                             
+| [Raissa Andrade](https://github.com/RaissaAndradeS) | 23/06/2024 | Presencial | 19:00 | [Carteira de identidade](https://www.pcdf.df.gov.br/servicos/carteira-de-identidade) | Juio, <br> Lucas, <br> Ana Sofia |
+| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06/2024 | Presencial | 19:00 | [Registra Ocorrência](https://www.pcdf.df.gov.br/servicos/delegacia-eletronica) | Raíra, <br> Breno, <br> Bethania |
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 | [Solicitar Antecedentes](https://www.pcdf.df.gov.br/servicos/antecedentes-criminais) | Graziele, <br> Lara Geovanna, <br> Maria Eliza  |
+| [Renata Quadros](https://github.com/Renatinha28) | 23/06/2024 | Presencial | 19:00 |  Retrato Falado | Graziele, <br> Lara Geovanna, <br> Maria Eliza |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -212,6 +211,8 @@ O teste piloto é uma etapa crucial destinado a validar suas funcionalidades e a
     - <a href="#perguntas">Perguntas a serem respondidas com a avaliação</a>
     
     - <a href="#roteiro">Roteiro das perguntas</a>
+  
+    - [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/)
 
 * Processo de Avaliação
    

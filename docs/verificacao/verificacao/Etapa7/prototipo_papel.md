@@ -221,7 +221,7 @@ A tabela 9 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 9: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 24/06 |  Adicionar mais detalhes na interface e adicionar o teste piloto. |  [Raissa Andrade](https://github.com/RaissaAndradeS) | |
+| 24/06 |  Adicionar mais detalhes na interface e adicionar o teste piloto. |  [Raissa Andrade](https://github.com/RaissaAndradeS) |feito |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
@@ -321,7 +321,7 @@ A tabela 13 descreve o artefato a ser corrigido, o integrante responsável pela 
       Tabela 13: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-| 24/06 |  Adicionar teste piloto. |  [RenataQuadros](https://github.com/Renatinha28) | |
+| 24/06 |  Adicionar teste piloto. |  [RenataQuadros](https://github.com/Renatinha28) | Concluído |
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 

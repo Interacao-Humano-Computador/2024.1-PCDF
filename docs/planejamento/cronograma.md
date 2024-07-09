@@ -1,7 +1,13 @@
 ## Introdução
 
-Este documento tem objetivo de apresentar o cronograma que planejampos e que o grupo espera ultilizar para entregar os artefatos da disciplina
+Este documento descreve o cronograma planejado para nosso projeto.
 
+## Objetivo 
+
+O objetivo desse arfetato é documentar através de um cronograma como deve ser executado o projeto.
+
+## Metodologia 
+O cronograma em si não é uma metodologia de fato, mas sim uma ferramenta que utilizaremos para nosso planejamento de atividadades.
 
 ## Etapa 1: Planejamento do Projeto
 
@@ -22,6 +28,8 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Grava Video da Apresentação |  Inicio: 06/04 Fim: 07/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 07/04 Fim: 07/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega   |  Inicio: 09/04 Fim: 12/04  | Giovana, João, Lara, Raissa, Rayene e Renata                    |inicio 12/04 Fim: 13/04 |Giovana, João, Lara, Raissa, Rayene e Renata|
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 
 ## Etapa 2: Perfil do usuário
     Esta tabela descreve as atividades planejadas da etapa 2
@@ -39,18 +47,22 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Gravação da apresentação | Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata| Inicio: 21/04 Fim: 21/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 | Correção pós entrega  | Inicio: 22/04 Fim: 25/04|Giovana, João, Lara, Raissa, Rayene e Renata|Inicio: 25/04 Fim: 25/04| Giovana, João, Lara, Raissa, Rayene e Renata|
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa 3: Princípios gerais do projeto
     Esta tabela descreve as atividades planejadas da etapa 3
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
- Princípios gerais do projeto | Início: 07/05 Fim: 10/05 | Giovana e Renata   | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata |
+| Princípios gerais do projeto | Início: 07/05 Fim: 10/05 | Giovana e Renata   | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata |
 | Metas de usabilidade          |  Início: 07/05 Fim: 10/05 | Raissa  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Guia de estilo  |  Início: 07/05 Fim: 10/05 | Lara e João  | Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Caracteristicas do site |  Início: 07/05 Fim: 10/05 | Rayane  | Início: 10/05 Fim: 10/05| Giovana, João, Lara, Raissa, Rayene e Renata  |
 | Perguntas do site | Início: 10/05 Fim: 10/05 | Giovana| Início: 10/05 Fim: 10/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Gravar Apresentação| Início: 11/05 Fim: 11/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 11/05 Fim: 11/05 | Giovana, João, Lara, Raissa, Rayene e Renata   |
 | Correção pós entrega   | Início: 14/05 Fim: 17/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 13/05 Fim: 15/05| Giovana, João, Lara, Raissa, Rayene e Renata    |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 
 ## Etapa 4: Planejamento da Avaliação do Storyboard
@@ -69,7 +81,9 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Gravação da apresentação   | Início: 20/05 Fim: 21/05| Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 21/05 Fim: 21/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega         | Início: 23/05 Fim: 25/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 25/05 Fim: 25/05   | Giovana, João, Lara, Raissa, Rayene e Renata              |
 
-## Etapa 5: Relato dos resultados do Story Board
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
+## Etapa 5: Relato dos resultados do StoryBoard
     Esta tabela descreve as atividades planejadas da etapa 5
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
@@ -80,7 +94,9 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Planejamento do relato de resultados da avaliação do protótipo de papel | Início: 25/05 Fim: 27/05 | Raissa e Renata        | Início: 25/05 Fim: 27/05 | Giovana, João, Lara, Raissa, Rayene e Renata            |
 | Responder Perguntas Finais   |  Início: 25/05 Fim: 27/05 | Giovana              |  Início: 25/05 Fim: 27/05 | Giovana, João, Lara, Raissa, Rayene e Renata              |
 | Gravação da apresentação                                                | Início: 28/05 Fim: 29/05 | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 28/05 Fim: 29/05 | Giovana, João, Lara, Raissa, Rayene e Renata              |
-|Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana, João, Lara, Raissa, Rayene e Renata              | 
+|Correção pós entrega                                                 |Início: 03/06 Fim: 05/06  | Giovana, João, Lara, Raissa, Rayene e Renata              | Início: 05/06 Fim: 05/06 | Giovana, João, Lara, Raissa, Rayene e Renata              |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa 6.1:  Verificação dos artefatos
     Esta tabela descreve as atividades planejadas da etapa 6.1
@@ -100,6 +116,8 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Responder Perguntas finais             | Início: 09/06 Fim: 09/06 | Giovana     |Início: 09/06 Fim: 09/06| Giovana, Lara, Raissa, Rayene e Renata          |
 | Gravação da apresentação               | Início: 09/06 Fim: 10/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 10/06 Fim: 10/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega                   | Início: 12/06 Fim: 14/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 14/06 Fim: 14/06 | Giovana, Lara, Raissa, Rayene e Renata              |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
  
 ## Etapa 7: Relato dos resultados do Protótipo de Papel
     Esta tabela descreve as atividades planejadas da etapa 7
@@ -113,6 +131,8 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Perguntas finais                                                           |  Início: 16/06 Fim: 16/06 |Giovana         | Início: 16/06 Fim: 16/06| Giovana,  Lara, Raissa, Rayene e Renata   |
 | Gravação da apresentação                                                           | Início: 16/06 Fim: 17/06 | Giovana,  Lara, Raissa, Rayene e Renata       | Início: 16/06 Fim: 17/06|Giovana,  Lara, Raissa, Rayene e Renata |
 | Correção pós entrega           | Início: 19/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata             | Início: 21/06 Fim: 21/06 | Giovana,  Lara, Raissa, Rayene e Renata   |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa 6.2:  Verificação dos artefatos
     Esta tabela descreve as atividades planejadas da etapa 6.2
@@ -133,6 +153,7 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Gravação da apresentação               | Início: 23/06 Fim: 23/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 23/06 Fim: 23/06  | Giovana,  Lara, Raissa, Rayene e Renata              |
 | Correção pós entrega                   | Início: 26/06 Fim: 29/06 | Giovana,  Lara, Raissa, Rayene e Renata              | Início: 29/06 Fim: 29/06 | Giovana, Lara, Raissa, Rayene e Renata              |
  
+ <center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 ## Etapa 8: Relato dos resultados do Protótipo de alta fidelidade.
     Esta tabela descreve as atividades planejadas da etapa 8
@@ -146,15 +167,19 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 | Gravação da apresentação                                           | Início: 25/06 Fim: 26/06 | Giovana, Lara, Raissa, Rayene e Renata     | Início: 24/06 Fim: 25/06 | Giovana, Lara, Raissa, Rayene e Renata  |
 | Correção pós entrega                                               | Início: 03/07 Fim: 05/07| Giovana, Lara, Raissa, Rayene e Renata           | Início: 05/07 Fim: 05/07 | Giovana, Lara, Raissa, Rayene e Renata    |
 
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
+
 ## Etapa Final :Entrega Final 
     Esta tabela descreve as atividades planejadas da etapa final
 
 | Atividade       | Desenvolvimento | Responsável                                 | Periodo de Revisão             | Revisores | 
 | :--------: | :----: | :--------------------:                    | :---------------: |:---------------: |
 | Planejamento de verificação dos artefatos anteriores     | Início: 26/06 Fim: 28/06 | Raissa e Lara   | Início: 26/06 Fim: 28/06|Giovana, Lara, Raissa, Rayene e Renata |
-| Relato da verificação das estapas anteriores e ajustes nos artefatos |Início: 26/06 Fim: 28/06 | Renata e Giovana | Início: 26/06 Fim: 28/06| Giovana, Lara, Raissa, Rayene e Renata   |
+| Relato da verificação das etapas anteriores e ajustes nos artefatos |Início: 26/06 Fim: 28/06 | Renata e Giovana | Início: 26/06 Fim: 28/06| Giovana, Lara, Raissa, Rayene e Renata   |
 |Responder perguntas finais                             |Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 26/06 Fim: 28/06 | Giovana, Lara, Raissa, Rayene e Renata                      |
 | Gravação da apresentação                                 | Início: 08/07 Fim:10/07  | Giovana, Lara, Raissa, Rayene e Renata                      | Início: 10/07 Fim: 10/07 | Giovana, Lara, Raissa, Rayene e Renata                      |
+
+<center>Fonte: [Giovana Barbosa ](https://github.com/gio221)</center>
 
 
 ## Bibliografia 
@@ -170,3 +195,4 @@ Este documento tem objetivo de apresentar o cronograma que planejampos e que o g
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |      [Giovana Barbosa ](https://github.com/gio221) , [Renata Quadros](https://github.com/Renatinha28)        |       20/04               |
 | 1.3 | Alterações após mudança do plano de ensino  | [Giovana Barbosa ](https://github.com/gio221) | 07/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)  |11/05|
 | 1.4 | Alterações atividades pós reunião 6  | [Rayene Almeida](https://github.com/rayenealmeida)  | 25/05 |   [Giovana Barbosa](https://github.com/gio221)  | 26/05 |
+|1.5|Adicionando Metodologia e Objetivo| [Raissa Andrade](https://github.com/RaissaAndradeS) | 08/07 |[Giovana Barbosa ](https://github.com/gio221) |08/07

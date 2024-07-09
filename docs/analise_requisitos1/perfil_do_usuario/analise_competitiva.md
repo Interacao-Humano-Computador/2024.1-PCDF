@@ -1,6 +1,11 @@
 # Introdução
 A Anáise Competitiva foi realizada pela integrante Renata, é feita utilizando outros sites semelhantes ao do PCDF, paara que possamos encontra melorias que possam ser ultilizadas, entre outras coisas.
 
+## Objetivo
+Esse artefato tem como objetivo documentar a analise competitiva feita pela integrante Renata
+
+## Metodologia
+A metodologia ultilizada foi a de comparação de um site com outro
 
 <a id="analise_competitiva"></a>
 
@@ -127,3 +132,4 @@ Ao incorporar essas melhorias, o site da Polícia Civil do Distrito Federal pode
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 | 1.0 | Análise competitiva | [Renata Quadros](https://github.com/Renatinha28) |14/04|[Giovana Barbosa ](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  |14/04 |
+|  1.1  | Adicionando objetivo e metodologia                  |     [Giovana Barbosa ](https://github.com/gio221) |07/07| [Renata Quadros](https://github.com/Renatinha28)           |     07/07          |

@@ -7,6 +7,43 @@ O objetivo deste documento é  definir a estrutura e organização dos dados obt
 ## Metodologia
 A metodologia empregada neste documento segue os princípios estabelecidos por Barbosa e Silva em Interação Humano-Computador, focando em uma abordagem estruturada para a avaliação de protótipos de alta fidelidade. 
 
+    Tabela 1: framework DECIDE
+<div align="center">
+<table>
+  <tr>
+    <th>Letra</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Determinar os objetivos da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Explorar perguntas a serem respondidas com a avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td>Escolher os métodos de avaliação a serem utilizados.</td>
+  </tr>
+  <tr>
+    <td align="center">I</td>
+    <td>Identificar e administrar as questões práticas da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Decidir como lidar com as questões éticas.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Avaliar, interpretar e apresentar os dados.</td>
+  </tr>
+</table>
+
+Fonte - BARBOSA e SILVA (2010).
+
+</div>
+
 ## Tópicos
 A documentação do relato deve conter:
 ## Objetivos 
@@ -87,57 +124,15 @@ O roteiro das perguntas que deve ser seguido está descrito na tabela 4.
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
 
-## Sugestões de Melhorias
+
+# Sugestões de melhoria
 Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problemas e dificuldades que o usuário possa ter encontrado durante a entrevista. É de extrema importância que os registros sejam feitos de forma clara e objetiva para que possamos idetificar o problema, o que causou, o resultado esperado e o resultado que foi observado.
 
-### Pesquisar Procurados
+#### Exemplos de sugestão de melhoria
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
-...
-
-### Solicitar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Validar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-###  197- Denúncia Online
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-###  Solicitar Carteira de Identidade
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-###  Registrar Ocorrência
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-### Retrato Falado Online
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
 
 # Bibliografia
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.
@@ -148,3 +143,4 @@ Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problem
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  Criação do planejamento do relato | [Rayene Almeida ](https://github.com/rayenealmeida), [Raissa Andrade](https://github.com/RaissaAndradeS)   | 15/06 |     [Giovana Barbosa ](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)| 15/06|
+| 2.0 | Padronização do planejamento do relato |   [Giovana Barbosa](https://github.com/gio221)  | 07/07 |[Rayene Almeida](https://github.com/rayenealmeida) | 07/07

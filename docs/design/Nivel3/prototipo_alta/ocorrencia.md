@@ -95,4 +95,4 @@ Logo abaixo encontra-se o prototipo do figma e as imagens 1 a 8 está representa
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criação do documento |[ Rayene Almeida ](https://github.com/rayenealmeida) | 01/07|| | 
+| 1.0 | Criação do documento |[ Rayene Almeida ](https://github.com/rayenealmeida) | 01/07|[Giovana Barbosa](https://github.com/gio221)    |08/07|

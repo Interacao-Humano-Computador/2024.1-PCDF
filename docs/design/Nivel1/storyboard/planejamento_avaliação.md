@@ -145,7 +145,7 @@ Durante a entrevista, contextualizaremos a importância dos storyboards para a u
 | 14 | As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?| []Sim<br> []Não<br> []Não sei responder<br>|
 | 15 | Você tem alguma sugestão ou feedback para melhorar o storyboard? | []Sim<br> []Não<br> []Não sei responder<br>|
 
-<center>Fonte - [Renata Quadros](https://github.com/Renatinha28) <br> <br> <br>
+<center>Fonte - [Renata Quadros](https://github.com/Renatinha8) </center> <br>
 
 * Execução do roteiro: Durante a entrevista, o entrevistador instigará o usuário a expressar suas ideias e opiniões sobre o storyboard apresentado. Qualquer alteração proposta pelo usuário será cuidadosamente registrada e posteriormente avaliada em conjunto para validação.
 

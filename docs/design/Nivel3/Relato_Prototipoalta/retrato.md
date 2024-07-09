@@ -37,6 +37,8 @@ A avaliação não exige nenhum tipo de custo e foi utilizado as seguintes ferra
 
 - <a href="#roteiro">Roteiro das perguntas</a>
 
+- [Aspectos Éticos](https://interacao-humano-computador.github.io/2024.1-PCDF/analise_requisitos1/aspectos_%C3%A9ticos/)
+
 
 ## Avaliadores e Participantes
 Os avaliadores e participantes que participaram da avaliação foram descritos na tabela 1 abaixo.
@@ -151,17 +153,19 @@ A tabela 2, 3 e 4 descrevem o roteiro de perguntas respondidos com as entrevista
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 
-## Pontos positivos 
+## Interpretação de Dados
+### Pontos positivos 
 Os pontos positivos da interface, de acordo com as entrevistas, são:
 
 - Navegação intuitiva e fácil de usar
 - Uma tarefa importante de se ter
 
-## Pontos Negativos
+### Pontos Negativos
 O único ponto negativo encontrado foi da entrevistada 1, a qual teve uma mínima dificuldade em entender a parte que podia ser alterado o retrato, mas é um erro mínimo que não necessita de alterações imediatas.
 
 <h2 id="perguntas">Conclusão e Sugestões de Melhoria</h2>
 Como não foi encontrado nenhum problema grave, não há necessidade de sugestão de melhoria. Na tabela 5 é descrito as respostas das perguntas propostas no Planejamento da avaliação.
+
 
     Tabela 5: perguntas a serem respondidas com a avaliação
 | Número | Perguntas | Respostas 
@@ -170,6 +174,9 @@ Como não foi encontrado nenhum problema grave, não há necessidade de sugestã
 | 2 | 1 - Onde esses problemas se manifestam? Com que frequência tendem a ocorrer? Qual é a gravidade desses problemas? <br> 2 - O que é possível modificar no sistema interativo para adequá-lo melhor ao ambiente de trabalho? <br> 3 -Quais objetivos dos usuários podem ser alcançados através do sistema? E quais não podem? | 1 - Apenas na parte de alterar o avatar <br> 2 - Nada precisa ser alterado de acordo com as entrevistas <br> 3 - Todos os objetivos foram alcançados |
 
 <center> Fonte - BARBOSA e SILVA (2010). </center>
+
+## Reprojeto
+Como não houve problemas graves encontrados, não há a necessidade de um reprojeto.
 
 ## Referências Bibliográficas
 > BARBOSA, S.D.J.; SILVA, B.S. Interação Humano-Computador. Editora Campus-Elsevier, 2010.

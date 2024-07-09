@@ -7,6 +7,8 @@ Ata da reunião que aconteceu no dia 13/04/2024 das 17:20 a 18:30 da tarde, com 
 
 ## Quem esteve presente
 
+Na tabela 1 montra quem esteve presente nessa reunião
+
 Tabela 1: Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
@@ -35,3 +37,4 @@ Definimos que iamos fazer os questionários pelo google forms, montamos o questi
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          |Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  13/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28)|15/05|
+| 1.1 | 08/07  | chamada nos textos |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28)| 08/07

@@ -63,7 +63,7 @@ A tabela 2 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 2: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|24/06| Falar sobre o número de participantes e avaliadores, adicionar um relato da interpretação e análise dos dados, incluir uma lista de problemas encontrados e um planejamento para o reprojeto.| [Giovana Silva](https://github.com/gio221) | |
+|24/06| Falar sobre o número de participantes e avaliadores, adicionar um relato da interpretação e análise dos dados, incluir uma lista de problemas encontrados e um planejamento para o reprojeto.| [Giovana Silva](https://github.com/gio221) | feito|
 
 <center>  Fonte - [Renata Quadros](https://github.com/Renatinha28). </center>
 

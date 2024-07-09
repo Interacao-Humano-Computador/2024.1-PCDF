@@ -2,9 +2,9 @@
 
 Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planejamento e avaliação de sites candidatos para o projeto em questão. Todas as avaliações foram conduzidas com base nas atividades do framework DECIDE. Na Tabela 1 abaixo, estão apresentados os sites selecionados por cada integrante:
 
+A tabela 1 descreve o integrante que fez a avaliação, o site que avaliou e o link para o site.
 
-## Tabela 1: Sites Escolhidos
-
+    Tabela 1: sites avaliados
 | Integrante                                         | Site Avaliado      | Link                                           |
 | --------------------------------------------------- | ------------------ | ---------------------------------------------- |
 | [Giovana Silva](https://github.com/gio221)         | [IFB](#ifb)        | [IFB](https://www.ifb.edu.br/)                |
@@ -13,6 +13,12 @@ Baseado nas heurísticas de Nielsen, cada membro da equipe se dedicou ao planeja
 | [Raissa Andrade](https://github.com/RaissaAndradeS)| [FioCruz](#fiocruz)| [FioCruz](https://portal.fiocruz.br/)         |
 | [Rayene Almeida](https://github.com/rayenealmeida) | [INSS](#inss)       | [INSS](https://www.gov.br/inss/pt-br)         |
 | [Renata Quadros](https://github.com/Renatinha28)   | [BRB mobilidade](#brb-mobilidade) | [BRB mobilidade](https://mobilidade.brb.com.br/passelivre/pages/index.xhtml)|
+
+## Objetivo
+O objetivo deste documento é relatar a avaliação dos sites feitos para a escolha do site para o projeto.
+
+## Metodologia
+A metodologia utilizada foi a avaliação heurística. A avaliação heurística é uma metodologia de avaliação de usabilidade na qual especialistas examinam interfaces de usuário em busca de problemas de design com base em um conjunto de heurísticas ou princípios de usabilidade estabelecidos. Cada especialista revisa a interface de forma independente, identificando problemas que podem afetar a experiência do usuário. Esses problemas são então priorizados e recomendadas são feitas para melhorias.
 
 <a id="ifb"></a>
 ## IFB

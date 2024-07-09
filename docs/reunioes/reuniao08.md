@@ -5,6 +5,8 @@
 
 ## Quem esteve presente
 
+Na tabela 1 montra quem esteve presente nessa reunião
+
 Tabela 1: Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
@@ -30,4 +32,5 @@ Foi definido o esclarecimento que o planejamento de todos os artefatos é em um 
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |07/06 | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221) | [Rayene Almeida](https://github.com/rayenealmeida) | 08/06 |
 | 1.1 |08/06 | Conteúdo da reunião | [Rayene Almeida](https://github.com/rayenealmeida)  | [Giovana Barbosa ](https://github.com/gio221)|08/06 |
+| 1.2 | 08/07  | chamada nos textos |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28)| 08/07
 

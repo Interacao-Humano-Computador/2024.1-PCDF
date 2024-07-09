@@ -1,7 +1,7 @@
-# Introdução
+## Introdução
 O perfil de usuário é construído em cima de dados coletados dos próprios usuários, e tem como objetivo descobrir e definir quais as características das pessoas que utilizam ou utilizarão o sistema que está sendo desenvolvido. Existem várias maneiras de mapear o perfil de usuário e uma delas e o Questionário realizado com pessoas reais que são usuárias do sistema
 
-# Metodologia
+## Metodologia
 Pra realizarmos esse questionário nos fizemos um termo de consentimento, e criamos um formulário sonline com algumas perguntas, sendo uma delas se a pessoa aceitava o termo, se a pessoa aceita o termo ela passa a responder as perguntas, com as respostas coletas nos conseguimos mapear o perfil do usuário
 
 ## Teste Piloto

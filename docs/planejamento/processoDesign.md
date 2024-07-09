@@ -5,7 +5,13 @@ Em "Interação humano-computador", capítulo quatro, são apresentados alguns d
 Esses processos definem como as etapas se organizam, e qual o produto a ser entregue ao fim de cada etapa (artefatos).
 Alguns dos processos a serem escolhidos pela equipe foram:
 
-# Processo de Design Simples
+## Objetivo
+Esse artefato tem como objetivo documentar o processo de design escolhido pelo grupo
+
+## metodologia
+A metodologia ultilizada foi a de coleta de dados, a integrante Lara recolheu quais processos de design poderia ser ultilizado, e o grupo escolheu um no final
+
+## Processo de Design Simples
 
 O processo de design simples é uma abordagem para criar soluções de design de forma eficiente e direta, concentrando-se nos princípios fundamentais do design e na resolução de problemas de maneira clara e concisa. Por ser um processo simples, qualque pessoas mesmo sem muita experiência pode utilizá-lo. Entretanto, também por ser simples e não muito detalhado, indivíduos não muito experientes poderão encontrar dificuldades nos artefatos a serem produzidos. Na figura 1 temos o diagrama do Ciclo de Vida Simples.
 
@@ -63,6 +69,7 @@ Pelo detalhamento do processo de design de Mayhew, a equipe optou por utilizá-l
       Tabela que descreve o Histórico de Versões
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
-|  1.0   | Criação do documento de processos de design                   |   [Lara Giuliana](https://github.com/gravelylara)     |   07/04   |      [João Pedro](https://github.com/...) , [Renata Quadros](https://github.com/Renatinha28)   |     08/04                 |
-|  1.1   | Revisão e adição de legendas                 |   [João Pedro](https://github.com/...)     |   08/04   | [Renata Quadros](https://github.com/Renatinha28), [Lara Giuliana](https://github.com/gravelylara)        |       08/04               |
+|  1.0   | Criação do documento de processos de design                   |   [Lara Giuliana](https://github.com/gravelylara)     |   07/04   |      [João Pedro](https://github.com/...) , [Renata Quadros](https://github.com/Renatinha28),  [Giovana Barbosa ](https://github.com/gio221)  |     08/04                 |
+|  1.1   | Revisão e adição de legendas                 |   [João Pedro](https://github.com/...)     |   08/04   | [Renata Quadros](https://github.com/Renatinha28), [Lara Giuliana](https://github.com/gravelylara) , [Giovana Barbosa ](https://github.com/gio221)       |       08/04               |
 |  1.2   | Correção pós entrega                   |   [Rayene Almeida ](https://github.com/rayenealmeida)      |   09/04   |     [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa ](https://github.com/gio221)         |        12/04              |
+|  1.3  | Adicionando objetivo e metodologia                  |     [Giovana Barbosa ](https://github.com/gio221) |07/07| [Renata Quadros](https://github.com/Renatinha28)           |     07/07          |

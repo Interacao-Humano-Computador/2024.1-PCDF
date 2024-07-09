@@ -3,10 +3,10 @@ O autor Norman (1988) ressalta a importância de projetar sistemas com um modelo
 
 As diretrizes comuns em Interação Humano-Computador (IHC) incluem corresponder às expectativas dos usuários, simplificar as tarefas, equilibrar controle e liberdade do usuário, manter consistência e padronização, promover eficiência, antecipar necessidades do usuário, garantir visibilidade e reconhecimento, fornecer conteúdo relevante e expressão adequada, e projetar para erros. Essas diretrizes são essenciais para o design de interação e interface eficazes.
 
-# Obejtivo
+## Obejtivo
 Esse artefato tem como objetivo verificar os principios gerais e se o site da PCDF, viola alguns deles e se viola sugerir uma sugestão de melhoria
 
-# Metodologia 
+## Metodologia 
 Para realizarmos os principios gerais, foi realizado uma análise individual de violações que o site poderia ter em relação ao principio
 
 # Correspondência com as Expectativas dos Usuários

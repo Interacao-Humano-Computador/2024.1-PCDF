@@ -1,5 +1,5 @@
 ## Introdução
-O relato desempenha um papel importante em interação humano computador pois oferece insights sobre o processo do design, implementação e uso interativo das funcionalidades. Elepossui a função de fornecer a compreensão das entrevistas do storyboard.
+O relato desempenha um papel importante em Interação Humano Computador pois oferece insights sobre o processo do design, implementação e uso interativo das funcionalidades. Elepossui a função de fornecer a compreensão das entrevistas do storyboard.
 
 ## Foco do artefato
 O foco do artefato é centrado em relatar os dados e resultados obtidos por meio das entrevistas realizadas com os usuários. Essas informações são essenciais para entender não apenas a eficácia do storyboard em comunicar a narrativa visual, mas também para identificar áreas de melhoruas que podem significar futuras interações com o projeto.
@@ -72,7 +72,7 @@ As figuras 1 e 2 são referentes ao storyboard feito pela integrante [Lara Giuli
 
 ### Solicitar Antecedentes Criminais
 
-As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, a qual foi processada injustamente. 
+As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Carlos José de Oliveira, precisa consultar os antecedentes de sua cliente Júlia Ribeiro, a qual foi processada injustamente. O objetivo da tarefa é solicitar os antecedentes criminais do usuário e a avaliação foi feita com 1 participante, Luísa.
 
 ![Quadrinho de Antecedentes](../../../assets/design/Nivel1/storyboards/Storyboard_solicitar_ant1.png)
 <div align="center">
@@ -102,7 +102,7 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
     </p> 
 </div>
 
-#### Gravação
+### Gravação
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OGm32woEJZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/OGm32woEJZA" target="blanket">Vídeo da Gravação</a></p>
 
@@ -126,6 +126,12 @@ As figuras 3, 4 e 5 são o storyboard feito pela integrante [Renata Quadros](htt
 | 14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?           | Sim                                                  |
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Questão mais realista do motivo de buscar os antecedentes criminais |
 
+#### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
+
+#### Análise de Dados
+De acordo com a entrevista, o storyboard corresponde as expectativas do usuário.
+
 
 ### 197- Denúncia Online
 A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúncia online feito pela integrante [Giovana](https://github.com/gio221).
@@ -145,7 +151,7 @@ A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúnci
 <p style="text-align: center"><a href="https://youtu.be/T1LI6OhgQMg" target="blanket">Vídeo da Gravação</a></p>
 
 
-**Perguntas e Respostas**
+### **Perguntas e Respostas**
 
 1. Qual seu nome? **Resposta:** Débora
 
@@ -159,10 +165,20 @@ A Figura 7 é um storyboard que relata o uso do site da PCDF para fazer denúnci
 
 6. Existem partes do storyboard que precisam de modificações para melhorar sua clareza ou fidelidade, se sim quais seriam essa modificações? **Resposta:** Sim, No quinto quadrante detalhar o site de forma visual
 
+### Sugestão de melhoria
+A sugestão de melhoria que o usuário sugeriu é que no  quinto quadrante detalhar o site de forma visual
+
+### Reprojeto
+Como é só uma sugestão visual do usuário não foi necessário reprojeto
+
+### Analise de Dados
+Com base na entrevista concluimos que com base no cenário o usuário consegue realizar a funcionalidade
 
 ### Solicitar carteira de identidade
-A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e teve que solicitar o serviço para fazer uma nova.
-<br> <br>
+
+Esse storyboard descreve a ação de um pessoa que perdeu a carteira de identidade e realiza o processo de solicitar a carteira de identidade.
+
+    Tabela 8, storyboard que descreve como solicitar Carteira
 
 ![Quadrinho da ID](../../../assets/design/Nivel1/storyboards/CarteiraID.png)
 
@@ -174,13 +190,13 @@ A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e 
     </p> 
 </div>
 
-#### Gravação
+### Gravação
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hKgmDzaR6K4" frameborder="0" allowfullscreen></iframe>
 </div>
 
-#### Questionário
-
+### Questionário
+    Tabela que descreve as perguntas realizadas
 | Pergunta                                                                                      | Resposta                   |
 |-----------------------------------------------------------------------------------------------|----------------------------|
 | 1. Qual seu nome?                                                                             | Júlio                      |
@@ -196,6 +212,19 @@ A Figura 8 é um Storyboard de uma pessoa que perdeu a carteira de identidade e 
 | 11. O storyboard destaca os principais benefícios e vantagens do produto para os usuários?    | Sim                        |
 | 12. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?           | Sim                        |
 | 13. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Não                        |
+
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024</center>
+
+### Sugestão de melhoria
+Não houve nenhuma sugestão de melhoria.
+
+### Reprojeto
+Não há necessidade de um reprojeto pois não tem sugestão de melhoria.
+
+### Analise de Dados
+
+O usuário consegue compreender os storyboard com facilidade e autonomia, sem necessidade de mudar algo.
+
 
 ### Registro de Ocorrência
 A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o infrator fugio do local, então ele teve que registrar uma ocorrêcnia.<br> <br>
@@ -235,7 +264,7 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Sim, na finalização        |
 
 ### Retrato Falado Online
-
+As figuras 9, 10 e 11 são o storyboard feito pela integrante [Renata Quadros](https://github.com/Renatinha28), no qual o usuário, Ana, cria um retrato falado após a sugestão de João. O objetivo da tarefa é criar um retrato falado de forma virtual e a avaliação foi feita com 1 participante, Heder.
 
 ![Quadrinho do Retrato](../../../assets/design/Nivel1/storyboards/Storyboard_Retrato_Falado1.png)
 <div align="center">
@@ -289,6 +318,13 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 | 14. As ações realizadas no Storyboard seguem uma ordem sequencial, fluida e lógica?           | Sim                                        |
 | 15. Você tem alguma sugestão ou feedback para melhorar o storyboard?                          | Não                                        |
 
+#### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
+
+#### Análise de Dados
+De acordo com a entrevista, o storyboard corresponde as expectativas do usuário.
+
+
 ## Sugestões de Melhorias
 | Funcionalidade                      | Sugestão de Melhoria                                                      | Responsável             |
 |-------------------------------------|--------------------------------------------------------------------------|--------------------------|
@@ -319,6 +355,8 @@ A Figura 9 é um Storyboard de uma pessoa que sofreu um acidente de carroe o inf
 
 |     Versão       |     Descrição      |      Autor(es)      | Data           |  Revisor(es)          |Data de revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
-| 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221)   | 01/06 | 
-| 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)  | 01/06 | 
-| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221)  | 06/06 | 
+| 1.0 | Criação do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |   [Giovana](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)   | 01/06 | 
+| 1.1 | Atualização da página | [Lara Giuliana](https://github.com/gravelylara) | 01/06 |   [Giovana](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida),  [Renata Quadros](https://github.com/Renatinha28)  | 01/06 | 
+| 1.2 | Ultimos relatos | [Rayene Almeida](https://github.com/rayenealmeida) | 02/06 |  [Giovana](https://github.com/gio221),  [Renata Quadros](https://github.com/Renatinha28)  | 06/06 | 
+| 1.3 | Correção |  [Renata Quadros](https://github.com/Renatinha28) | 07/07 |  [Giovana](https://github.com/gio221)  | 07/07 | 
+|1.4|Correção de Carteira de Identidade|[Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07|[Giovana Barbosa](https://github.com/gio221)    |08/07

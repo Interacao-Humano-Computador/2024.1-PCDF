@@ -93,7 +93,7 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 
 ### 197- Denúncia Online
 
-Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 3.
+Nessa tarefa o usuário tem como objetivo fazer uma denúncia no site da PCDF, foi analisada pela integrante  [Giovana Barbosa](https://github.com/gio221), como monstrado na figura 3.
 O obejtivo dessa analise é que qualuqer pessoa possa entender como fazer uma denúncia online no site da PCDF
 
 ![tabela](../../assets/Analise_Requisitos/analise_197online.png)
@@ -201,4 +201,4 @@ Fonte: [Renata Quadros](https://github.com/Renatinha28)
 | 1.6 | Retrato falado online | [Renata Quadros](https://github.com/Renatinha28) | 09/05 | [Giovana Barbosa](https://github.com/gio221)   |10/05 |
 | 1.7 | Adição do Diagrama de Carteira de Identidade | [Raissa Andrade](https://github.com/RaissaAndradeS) | 11/05 |    [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221)   |11/05 |
 | 1.8 | Correção na seção "Procurados"| [Lara Giuliana](https://github.com/gravelylara) | 21/05 |   [Renata Quadros](https://github.com/Renatinha28), [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida)   |11/05 |
-| 1.9 | Correção HTA de retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 | |
+| 1.9 | Correção HTA de retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 |  [Giovana Barbosa](https://github.com/gio221)|07/07

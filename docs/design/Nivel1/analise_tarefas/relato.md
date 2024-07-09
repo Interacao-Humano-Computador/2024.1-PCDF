@@ -1,16 +1,19 @@
 ## Introdução
 Esse artefato tem como objetivo documentar os resultados que o grupo 4 de interação humano computador, obteve durante a avaliação das analise de tarefas, nesse artefato vai ser abordado todos os resultados obtidos nessa avaliação
 
-# Metodologia
+## Objetivo
+Esse artefato tem objetivo relatar os resultados da analise de tarefas
+
+## Metodologia
 A avaliação do projeto foi conduzida através de entrevistas, storyboards e análise GOMS, permitindo uma compreensão das necessidades dos usuários. Utilizou-se acompanhamento presencial, observação direta, gravação das interações, questionários e análise de feedback para obter uma visão completa dos resultados.
 
-# Participantes
+## Participantes
 Foi entrevistado 6 pessoas que aceitaram os termos de consentimento com 5 entrevistadores no total, pois um entrevistador entrevistou duas pessoas e duas funcionalidades diferentes, essas entrevista foram feitas presenciais. 
 
-# Aspéctos Éticos
+## Aspéctos Éticos
 Será feita a leitura dos do termo de consentimento e também será fornecido para o entrevistado ler, se ele preferir, no início da entrevista. Aspéctos Éticos disponível em: [Aspectos Éticos](../../../analise_requisitos1/aspectos_éticos.md).
 
-# Funcionalidades a serem tratadas
+## Funcionalidades a serem tratadas
 | Funcionalidade|      Responsáveis      |   
 |:------:|:-------------------------------:|
 |Pesquisar Procurados |  Lara         | 
@@ -23,7 +26,7 @@ Será feita a leitura dos do termo de consentimento e também será fornecido pa
  <center>  <p>Fonte: <a href="https://github.com/gio221">Giovana Barbosa</a></p></center>
  
 # Analise de Tarefas(GOMS)
-### Pesquisar procurados
+## Pesquisar procurados
 No site do PCDF escolhemos algumas funcionalidades, entre elas a de visualização, pesquisa e denúncia de _Procurados_ do Distrito Federal. A integrante  [Lara Giuliana](https://github.com/gravelylara) ficou responsável por essa funcionalidade. 
 * Goal 1: Listar todos os procurados pela PCDF
     * Method 1: Inserir dados- deixar os espaços sem preencher e nao opção "nome" selecionar "todos"
@@ -75,7 +78,7 @@ O usuário intrevistado não tem sugestões de melhoria
 ### Analise de Dados 
 
 ## Solicitar Antecedentes Criminais 
-Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). Primeiro na página inicial como mostra na Figura 1, em seguida pede-se o código de verificação como mostra na Figura 2 e o preenchimento do formulário como mostra na figura 3.
+Nessa tarefa o usuário tem como objetivo solicitar os seus antecedentes criminais pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28) por meio da entrevista feita com 1 participante, Luísa. Primeiro na página inicial como mostra na Figura 1, em seguida pede-se o código de verificação como mostra na Figura 2 e o preenchimento do formulário como mostra na figura 3.
 
 
 ![Página inicial para ocorrência](../../../assets/Analise_Requisitos/paginainicialsolicitarantecedentes.png)
@@ -171,12 +174,18 @@ Nessa tarefa o usuário pretende solicitar os seus antecedentes criminais pelo s
 - 10-Sugestões de melhorias?|não tenho sugestões
 
 ### Sugestão de Melhoria
-O usuário intrevistado não tem sugestões de melhoria
+O usuário intrevistado não tem sugestões de melhoria.
+
+### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
 
 ### Gravação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/OGm32woEJZA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/OGm32woEJZA" target="blanket">Vídeo da Gravação</a></p>
+
+### Análise de Dados
+De acordo com a entrevista, a analise de tarefas GOMS corresponde as expectativas do usuário.
 
 ## 197- Denúncia Online
 
@@ -213,12 +222,18 @@ Nessa tarefa o usuário pretende fazer uma denúncia no site da PCDF, foi analis
 ### Sugestão de Melhoria
 O usuário intrevistado sugere mais detalhamento
 
+## Reprojeto
+Como houve uma sugestão de melhoria, será feito um reprojeto
+
 ### Gravação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/T1LI6OhgQMg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/T1LI6OhgQMg" target="blanket">Vídeo da Gravação</a></p>
 
-### Solicitar carteira de identidade
+## Interpretação de dados
+Com base na entrevista a analise de tarefas GOMS, o usuário conseguiu realizar as atividades corretamente, porém ele sugeriu que tivesse mais detalhamento
+
+## Solicitar Carteira de Identidade
 Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de marcação de carteira de identidade é agendar um horário para emissão ou renovação do documento de identidade. Feita por [Raissa Andrade](https://github.com/RaissaAndradeS).
 
 
@@ -253,31 +268,40 @@ Essa atividade tem como objetivo os usuários ao acessar a funcionalidade de mar
         * OP 4.3: Colar na página da PCDF
         * OP 4.4: Finalizar 
 
+<center>Fonte:[Raissa Andrade](https://github.com/RaissaAndradeS), 2024  </center>
+
 
 ### Questionário
+    Tabela que descreve o questionário
 |Pergunta|Resposta|
 |--------|--------|
 - 1-Qual é seu nome? | Júlio
 - 2-Qual seu grau de experiência com tecnologias? |Alto
-- 3-Você já utilizou o site da PCDF?  | não
-- 4-Você acha essa funcionalidade importante? | sim
-- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Para descrever os fugitivos
-- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  sim
-- 7-Tem alguma parte que ficou confusa? | não
-- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| nada
-- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|não
-- 10-Sugestões de melhorias?|não
+- 3-Você já utilizou o site da PCDF?  | Não
+- 4-Você acha essa funcionalidade importante? | Sim
+- 5-Se a 4 for sim, por que você utilizaria essa funcionalidade?| Para solicitar a carteira de identidade
+- 6-O diagrama de tarefas corresponde de maneira precisa às suas expectativas sobre como o processo deve ser conduzido?  |  Sim
+- 7-Tem alguma parte que ficou confusa? | Não
+- 8-Se você pudesse mudar? O que mudaria no processo de tarefas?| Nada
+- 9-De acordo com o diagrama, você o considera demorado de realizar as ações?|Não
+- 10-Sugestões de melhorias?|Não
 
 ### Sugestão de Melhoria
-O usuário intrevistado não tem sugestões de melhoria
+O usuário entrevistado não tem sugestões de melhoria.
 
 ### Gravação
+    Video referente a gravação da entevista
 <div align="center">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/hKgmDzaR6K4" frameborder="0" allowfullscreen></iframe>
   <p>Video da Entrevista</p>
 </div>
 
-### Registro de Ocorrência
+<center>Fonte: [Raissa Andrade](https://github.com/RaissaAndradeS), 2024 </center>
+
+## Interpretação de dados
+Em relação a entrevista a analise de tarefas GOMS, o usuário conseguiu realizar todas as tarefas solicitadas, compreendeu com facilidade.
+
+## Registro de Ocorrência
 
 #### Modelo Goals, Operators, Methods, and Selection rules (GOMS)
 
@@ -359,7 +383,7 @@ O usuário intrevistado não tem sugestões de melhoria
 </div>
 
 ## Retrato Falado Online: Descreva e Identifique
-Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28). 
+Nessa tarefa o usuário tem como objetivo fazer um retrato falado de forma online pelo site do PCDF, foi analisada pela integrante [Renata Quadros](https://github.com/Renatinha28) por meio da entrevista com 1 participante, Heder. 
 
 * GOAL 0: Acessar a funcionalidade de Denúncia Online:
     * METHOD 0.A: Navegar até o site da Polícia Civil do Distrito Federal (PCDF).
@@ -419,10 +443,16 @@ Nessa tarefa o usuário pretende fazer um retrato falado de forma online pelo si
 ### Sugestão de Melhoria
 O usuário intrevistado não tem sugestões de melhoria
 
+### Reprojeto
+Coomo não houve nenhum problema encontrado, não há necessidade de reprojeto.
+
 ### Gravação
 
 <p style="text-align: center"><iframe width="560" height="315" src="https://www.youtube.com/embed/VHNANJqYZ9w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></p>
 <p style="text-align: center"><a href="https://youtu.be/VHNANJqYZ9w" target="blanket">Vídeo da Gravação</a></p>
+
+### Análise de Dados
+De acordo com a entrevista, a analise de tarefas GOMS corresponde as expectativas do usuário.
 
 ## Perguntas Finais
 |Perguntas|Respostas|
@@ -443,3 +473,4 @@ O usuário intrevistado não tem sugestões de melhoria
 | Versão |          Descrição              |     Autor(es)      |      Data      |   Revisor(es)     |    Data de revisão    |  
 |:------:|:-------------------------------:|:--------------:|:--------------:|:-------------:|:---------------------:|
 |  1.0   | Criação do documento               |  [Giovana Barbosa](https://github.com/gio221)      | 29/05  |     [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 01/06 |
+|1.1| Correções, adicão de fontes e chamadas de tabelas| [Raissa Andrade](https://github.com/RaissaAndradeS)| 08/07|[Giovana Barbosa](https://github.com/gio221)    |08/07

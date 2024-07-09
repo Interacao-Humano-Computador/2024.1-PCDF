@@ -156,7 +156,7 @@ Colocar o ID 4.
 
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Acrescentar detalhes da análise  | [Giovana Silva](https://github.com/gio221) ||
+|23/06| Acrescentar detalhes da análise  | [Giovana Silva](https://github.com/gio221) |feito|
 <center> fonte: [Raissa Andrade](https://github.com/RaissaAndradeS) </center>
 
 ## 4- Solicitar Carteira de Identidade <a id="carteira"></a>
@@ -279,7 +279,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Definir objetivo incluídos no diagrama| [Renata Quadros](https://github.com/Renatinha28) | |
+|23/06| Definir objetivo incluídos no diagrama| [Renata Quadros](https://github.com/Renatinha28) |feito |
 
 
 ## Bibliografia
@@ -297,5 +297,5 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
 | 1.2 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221) | 22/06 
 | 1.3 | Verificação pesquisar procurados e solicitar carteira de identidade | [Renata Quadros](https://github.com/Renatinha28) | 19/06 | [Giovana Barbosa](https://github.com/gio221), [Rayene Almeida](https://github.com/rayenealmeida) | 22/06 
 | 1.4 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |
-| 1.5| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  | |
+| 1.5| Verificação Antecedentes Criminais| [Rayene Almeida](https://github.com/rayenealmeida) | 23/06 |  [Giovana Barbosa](https://github.com/gio221)    |08/07
 | 1.6 | Verificação de Denúncia Online |  [Raissa Andrade](https://github.com/RaissaAndradeS)  | 23/06 |  [Giovana Barbosa](https://github.com/gio221),  [Rayene Almeida](https://github.com/rayenealmeida) | 24/06

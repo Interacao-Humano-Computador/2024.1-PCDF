@@ -1,20 +1,61 @@
 ## Introdução
 O planejamento do relato dos resultados da avaliação se apresenta como uma descrição do processo do relato dos resultados da avaliação do storyboard. No contexto de Interação Humano-Computador (IHC) e Experiência do Usuário (UX), a avaliação de storyboards é uma etapa importante para garantir que os conceitos e funcionalidades propostas atendam às necessidades e expectativas dos usuários. 
 
+## Objetivo
+O objetivo deste documento é  definir a estrutura e organização dos dados obtidos durante a avaliação do storyboard, tomando como base o planejamento inicial. Os resultados dessa avaliação serão apresentados em um relatório detalhado.
 
 ## Metodologia
 A avaliação foi conduzida utilizando o método de entrevistas, dessa forma foram obtidos os resultados com o auxílio da imagem dos storyboard e a avaliação GOMS da funcionalidade. Assim podemos identificar as necessidades do usuário acompanhando-o presencialmente. A coleta de dados incluiu a observação direta, gravação de interações para uma análise posterior, questionário e análise de feedback, permitindo assim uma análise completa dos resultados.
 
+    Tabela 1: framework DECIDE
+<div align="center">
+<table>
+  <tr>
+    <th>Letra</th>
+    <th>Descrição</th>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Determinar os objetivos da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Explorar perguntas a serem respondidas com a avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">C</td>
+    <td>Escolher os métodos de avaliação a serem utilizados.</td>
+  </tr>
+  <tr>
+    <td align="center">I</td>
+    <td>Identificar e administrar as questões práticas da avaliação.</td>
+  </tr>
+  <tr>
+    <td align="center">D</td>
+    <td>Decidir como lidar com as questões éticas.</td>
+  </tr>
+  <tr>
+    <td align="center">E</td>
+    <td>Avaliar, interpretar e apresentar os dados.</td>
+  </tr>
+</table>
+
+Fonte - BARBOSA e SILVA (2010).
+
+</div>
+
 ## Tópicos
 
 ### Objetivos da Avaliação
-Os objetivos da avaliação foram definidos no Planejamento da Avaliação do Storyboard. Eles são:
 
-1. Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema.
-2. Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto.
-3. Analisar a correspondência das tarefas representadas nos storyboards.
-4. Comparar os storyboards com a realidade do contexto de uso.
-5. Identificar e implementar as modificações necessárias nos storyboards.
+    Tabela 1: objetivos da avaliação
+| Número | Objetivos |
+| :-----: | ----------------------------------------------------------------------------------------------------------|
+| 1 | Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema. |
+| 2 | Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. |
+| 3 | Analisar a correspondência das tarefas representadas nos storyboards. |
+| 4 | Comparar os storyboards com a realidade do contexto de uso. | 
+| 5 | Identificar e implementar as modificações necessárias nos storyboards. |
 
 ### Método de Avaliação
 O método de avaliação segue o planejamento da avaliação do storyboard sendo assim serão no total seis entrevistadores que são os integrantes do grupo e sete entrevistados, porque um entrevistador possui duas funcionalidades e por esse motivo erá realizar duas entrevista, uma para cada funcionalidade.
@@ -88,46 +129,13 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 
 
 # Sugestões de melhoria
-#### Storyboard Pesquisar Procurados
+Nessa fase, o entrevistador deve anexar e explicar com detalhes todos os problemas e dificuldades que o usuário possa ter encontrado durante a entrevista. É de extrema importância que os registros sejam feitos de forma clara e objetiva para que possamos idetificar o problema, o que causou, o resultado esperado e o resultado que foi observado.
+
+#### Exemplos de sugestão de melhoria
 
 1. [Sugestão de Melhoria 1]
 2. [Sugestão de Melhoria 2]
 3. [Sugestão de Melhoria 3]
-
-#### Storyboard Solicitar Antecedentes Criminais
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard 197- Denúncia Online
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard Solicitar Carteira de Identidade
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
-
-#### Storyboard Registrar Ocorrência
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-
-
-#### Storyboard Retrato Falado Online
-
-1. [Sugestão de Melhoria 1]
-2. [Sugestão de Melhoria 2]
-3. [Sugestão de Melhoria 3]
-...
 
 ## Perguntas a serem respondidas com a avaliação.
 
@@ -149,5 +157,6 @@ Os integrantes também fizeram o uso do seguinte questionário que contém pergu
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 | Criação do Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 18/05 |     [Giovana Barbosa ](https://github.com/gio221) | 16/05 | 
 | 2.0 | Novo Planejamento do Relato | [Rayene Almeida](https://github.com/rayenealmeida) | 25/05 |       [Giovana Barbosa](https://github.com/gio221)  | 26/05 |
+| 3.0 | Padronização do planejamento do relato |   [Giovana Barbosa](https://github.com/gio221)  | 07/07 |[Rayene Almeida](https://github.com/rayenealmeida) | 07/07
 
 

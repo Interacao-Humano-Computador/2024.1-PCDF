@@ -1,15 +1,16 @@
-## Planejamento da Avaliação da Análise de Tarefas 
-
 ### Introdução 
 
 A avaliação é uma etapa crucial para entender e melhorar a interação entre os usuários e os sistemas computacionais. A ideia do planejamento é envolver uma série de etapas detalhadas visando que a avaliação seja ampla e absoluta.
 Primeiro, é essencial definir os objetivos da avaliação, identificar as tarefas críticas e as questões que são necessárias serem respondidas. Logo após, os métodos de avaliação apropriados, 
 
+## Objetivo
+O objetivo deste documento é relatar o planejamento da avaliação da análise de tarefas.
+
 ### Metodologia 
 
 O framework DECIDE orienta a estruturação do processo de avaliação. Ele ajuda a definir os objetivos, determinar perguntas específicas da pesquisa, selecionar métodos de coletas de dados, considerar questões éticas e arquitetar a análise de dados coletados.
 
-__Tabela 1__ - Significado do Framework DECIDE.
+   Tabela 1: Significado do Framework DECIDE.
 
 |__Letra__|<center> __Definição__|
 ----------|-------------|
@@ -20,17 +21,27 @@ __Tabela 1__ - Significado do Framework DECIDE.
 |__D__|Decidir como lidar com questões éticas, garantindo que os participantes sejam tratados com respeito.|
 |__E__|Avaliar, analisar e apresentar os dados coletados.|
 
-<center> Fonte - BARBOSA e SILVA (2011).
+<center> Fonte - BARBOSA e SILVA (2011).</center>
 
 ### __D__ - Determinar os objetivos
-Essa avaliação tem como objetivos principais assegurar que as funcionalidades criadas durante a Análise de Tarefas atendam aos padrões exigidos e explorar possíveis alternativas de design para a aplicação. 
+A tabela 2 descreve os objetivos desta avaliação.
+
+    Tabela 2: objetivos da avaliação
+| Número | Objetivos |
+| :-----: | ----------------------------------------------------------------------------------------------------------|
+| 1 | Verificar a adequação e fidelidade do alcance dos objetivos dos usuários em relação à realidade do contexto de uso do sistema. |
+| 2 | Elaborar e validar uma versão final que seja clara, coesa, atraente e alinhada com os objetivos do projeto. |
+| 3 | Analisar a correspondência das tarefas representadas nos storyboards. |
+| 4 | Comparar os storyboards com a realidade do contexto de uso. | 
+| 5 | Identificar e implementar as modificações necessárias nos storyboards. |
 
 ### __E__ - Explorar perguntas 
 
 De acordo com o objetivo da avaliação, as perguntas foram designadas de acordo com os seguintes itens, serão feitas após a coleta de dados.
-    - Os diagramas GOM'S estão utilizando as notações corretas, legendas adequadas e a representação em tabela?<br>
-    - Os diagramas representam de forma precisa as tarefas esperadas para as funcionalidades do site? <br>
-    - As entrevistas fornecem informações que possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
+
+- Os diagramas GOM'S estão utilizando as notações corretas, legendas adequadas e a representação em tabela?<br>
+- Os diagramas representam de forma precisa as tarefas esperadas para as funcionalidades do site? <br>
+- As entrevistas fornecem informações que possibilitam melhorias nas tarefas identificadas pelo artefato de Análise de Tarefas?
 
 <center> Fonte - BARBOSA e SILVA (2011).</center>
 
@@ -56,11 +67,9 @@ Na preparação, cada integrante da equipe tem um artefato a ser trabalhado, ent
 Visando em não gerar custos para a aquipe, vamos optar por fazer a entrevista de forma online em uma plataforma que seja gratuita, o teams. 
 
 #### 4. Prazos
+A seguir o cronograma de como será documentada.
 
-__Tabela 3__ - Cronograma.
-
-
-    A seguir o cronograma de como será documentada.
+    Tabela 3: Cronograma.
 
 | Funcionalidade                   | Integrante Responsável | Data da Entrevista | Local     | Horário | Entrevistado       | Relator           | Data do Relato  |
 |:--------------------------------:|------------------------|--------------------|-----------|---------|--------------------|-------------------|-----------------|
@@ -74,10 +83,10 @@ __Tabela 3__ - Cronograma.
 
 <center> Fonte - [Raissa Andrade](https://github.com/RaissaAndradeS) (2024).</center> <br>
 
+A seguir, na Tabela 4, o roteiro das perguntas.
 
-__Tabela 4__ - Roteiro de perguntas
+    Tabela 4: Roteiro de perguntas
 
-### <center> Roteiro de perguntas 
 |__Numero__|__Pergunta__|__Resposta__|
 |----------|------------|------------|
 |1.| Qual é seu nome? |Questão aberta |
@@ -109,12 +118,12 @@ Antes da entrevista principal com os usuários, dois avaliadores conduzirão um 
 
 O teste piloto foi realizado no dia 18/05/2024, pela parte da manhã.
 
-|__Data__|__Local__|__Horário__|__Entrevistadores__|__Participante__|
-|--------|---------|-----------|-------------------|--------|
-|18/05/2024|Microsoft Teams|11:30 am | [Raissa Andrade](https://github.com/RaissaAndradeS)| [Renata Quadros](https://github.com/Renatinha28)|
+|__Data__|__Local__|__Horário__|__Responsável__|
+|--------|---------|-----------|-------------------|
+|20/05/2024|Microsoft Teams|11:30 am |  [Renata Quadros](https://github.com/Renatinha28)|
 
 ### Resultado do Teste piloto 
-Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto, durou cerca de 8 minutos. O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante [Renata Quadros](https://github.com/Renatinha28)
+Aqui encontra se o video que foi realizado do teste piloto seguindo o cronograma proposto. O teste piloto nos ajudará a identificar quaisquer inconsistências no roteiro da entrevista, permitindo-nos corrigir quaisquer erros antes da condução das entrevistas reais. Segundo Barbosa e Silva (2010) o objetivo desse teste é avaliar o próprio planejamento. Ele foi realizado pela integrante [Renata Quadros](https://github.com/Renatinha28)
 
 Confira o resultado do teste piloto 
 
@@ -137,3 +146,4 @@ Confira o resultado do teste piloto
 | 1.0 | Planejamento de avaliação | [Raissa Andrade](https://github.com/RaissaAndradeS) | 16/05 | [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28)  | 16/05 |
 | 1.1 | Resultado do Teste piloto e Adição de fontes  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 18/05 | [Rayene Almeida](https://github.com/rayenealmeida), [Renata Quadros](https://github.com/Renatinha28) | 19/05 |
 | 1.2 | Correções  | [Raissa Andrade](https://github.com/RaissaAndradeS) | 24/05 |  [Giovana Barbosa](https://github.com/gio221), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)   | 26/05 |
+| 1.3 | Correções  |  [Renata Quadros](https://github.com/Renatinha28) | 07/07 |  [Giovana Barbosa](https://github.com/gio221) | 07/07 |

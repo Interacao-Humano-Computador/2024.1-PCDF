@@ -1,7 +1,7 @@
-# Introdução 
+## Introdução 
 Os cenários são uma narrativa, textual ou pictórica, concreta, rica em detalhes contextuais, de uma situação de uso da aplicação, envolvendo usuários, processos e dados reais ou potenciais (Rosson e Carrol, 2002).
 
-# Metodologia
+## Metodologia
 A metodologia ultilizada é que cada funcionalidade vai ser colocada em um cenário com base no Capítulo 6 do livro de Barbosa e Silva.
 
 ## Elementos Característicos de um Cenário
@@ -196,5 +196,5 @@ Em seguida, Ana apertou o botão de criação de avatar e selecionou a opção q
 | 1.6 | Atualização de figuras e índice | [Rayene Almeida](https://github.com/rayenealmeida) | 09/05 |  [Renata Quadros](https://github.com/Renatinha28) | 09/05 |
 | 1.7 | Cenário funcionalidade sugerida | [Renata Quadros](https://github.com/Renatinha28) | 09/05 |   [Giovana Barbosa ](https://github.com/gio221) | 10/05 |
 | 1.8 |  Bibliografia  | [Giovana Barbosa ](https://github.com/gio221) | 15/05 | [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida) | 15/05 |
-| 1.9 | Correção cenários Solicitar Antecedentes e Retrato falado | 27/06 | [Renata Quadros](https://github.com/Renatinha28) | 
+| 1.9 | Correção cenários Solicitar Antecedentes e Retrato falado | [Renata Quadros](https://github.com/Renatinha28) | 27/06 | [Giovana Barbosa ](https://github.com/gio221) | 07/07 
 

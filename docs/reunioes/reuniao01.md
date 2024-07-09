@@ -7,6 +7,8 @@ Ata da reunião que aconteceu no dia 03/04/2024 das 20:00 a 21:25 da noite, com 
 
 ## Quem esteve presente
 
+Na tabela 1 montra quem esteve presente nessa reunião
+
 Tabela 1: Informações sobre a reunião
 
 | Alunos Presentes       | Data | Horário de Inicio e Fim                                 | Local            |
@@ -28,6 +30,8 @@ Tabela 1: Informações sobre a reunião
 
 
 ## Sites que cada um avaliou individualmente
+
+Na tabela 2 mostra os sites que os membros da equipe avaliaram
 
 Tabela 2: Membros da equipe e sites avaliados individualmente.
 
@@ -54,3 +58,4 @@ Tabela 3: Histórico de versões da página da primeira reunião
 |                            Versão                             |              Data               |                    Descriação                     | autor(es)           |  Revisor(es)          | Data da Revisão|
 | :----------------------------------------------------------: | :-------------------------------: | :-------------------------------------------------: | :-------------------------------: |  :-------------------------------: | :-------------------------------: |
 | 1.0 |  03/04  | Criação da ATA no documento |[Giovana Barbosa ](https://github.com/gio221)|[Lara Giuliana](https://github.com/gravelylara), [Renata Quadros](https://github.com/Renatinha28), [Rayene Almeida](https://github.com/rayenealmeida)|03/04
+| 1.1 | 08/07  | chamada nos textos |[Giovana Barbosa ](https://github.com/gio221)| [Renata Quadros](https://github.com/Renatinha28)| 08/07
