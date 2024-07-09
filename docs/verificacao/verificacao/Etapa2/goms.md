@@ -279,7 +279,7 @@ A tabela 3 descreve o artefato a ser corrigido, o integrante responsável pela c
       Tabela 11: cronograma do reprojeto
 | Data da correção | Descrição | Responsável(eis) | Status |
 | :----------------------: | -------------------- | ---------------- | --------------- |
-|23/06| Definir objetivo incluídos no diagrama| [Renata Quadros](https://github.com/Renatinha28) | |
+|23/06| Definir objetivo incluídos no diagrama| [Renata Quadros](https://github.com/Renatinha28) |feito |
 
 
 ## Bibliografia
